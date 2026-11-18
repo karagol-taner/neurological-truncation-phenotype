@@ -1,6 +1,6 @@
 # Nonsense-mediated decay escape in neurological genes and reported phenotype of truncating variants
 
-**Taner Karagöl**<sup>1,\*,‡</sup> **& Alper Karagöl**<sup>2,\*,‡</sup>
+**Taner Karagöl**<sup>1,\*,‡</sup> **& Alper Karagöl**<sup>2,\*</sup>
 
 <sup>1</sup> McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States
 
