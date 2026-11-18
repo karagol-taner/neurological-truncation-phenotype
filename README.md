@@ -123,7 +123,7 @@ Karagöl T., Karagöl A. *Nonsense-mediated decay escape in neurological genes a
 
 Taner Karagöl, karagolt@mit.edu, ORCID 0009-0005-1011-7661
 
-Alper Karagöl, alper.karagol@gmail.com, ORCID 0009-0001-7864-0732
+Alper Karagöl, akaragol@mit.edu, ORCID 0009-0001-7864-0732
 
 ## License
 
