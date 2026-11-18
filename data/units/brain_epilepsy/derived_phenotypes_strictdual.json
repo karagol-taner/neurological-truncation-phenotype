@@ -1,0 +1,258 @@
+{
+ "dual_phenotype_genes": {
+  "AARS1": {
+   "n_conditions": 5,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Charcot-Marie-Tooth disease axonal type 2N",
+    "Trichothiodystrophy 8, nonphotosensitive"
+   ],
+   "positioned_ptv": 53
+  },
+  "ADGRV1": {
+   "n_conditions": 3,
+   "other": [
+    "Usher syndrome type 2",
+    "Usher syndrome type 2C"
+   ],
+   "positioned_ptv": 546
+  },
+  "ARX": {
+   "n_conditions": 5,
+   "other": [
+    "Partington syndrome"
+   ],
+   "positioned_ptv": 93
+  },
+  "ATP1A2": {
+   "n_conditions": 5,
+   "other": [
+    "Alternating hemiplegia of childhood 1"
+   ],
+   "positioned_ptv": 45
+  },
+  "ATP1A3": {
+   "n_conditions": 5,
+   "other": [
+    "Alternating hemiplegia of childhood 2"
+   ],
+   "positioned_ptv": 15
+  },
+  "ATP6V1A": {
+   "n_conditions": 2,
+   "other": [
+    "Autosomal recessive cutis laxa type 2D"
+   ],
+   "positioned_ptv": 0
+  },
+  "CACNA1H": {
+   "n_conditions": 2,
+   "other": [
+    "Hyperaldosteronism, familial, type IV"
+   ],
+   "positioned_ptv": 1
+  },
+  "CACNA2D1": {
+   "n_conditions": 2,
+   "other": [
+    "Brugada syndrome"
+   ],
+   "positioned_ptv": 2
+  },
+  "CASR": {
+   "n_conditions": 5,
+   "other": [
+    "Autosomal dominant hypocalcemia 1",
+    "Familial hypocalciuric hypercalcemia 1",
+    "Neonatal severe primary hyperparathyroidism",
+    "Pancreatitis"
+   ],
+   "positioned_ptv": 167
+  },
+  "CILK1": {
+   "n_conditions": 3,
+   "other": [
+    "Cranioectodermal dysplasia 6",
+    "Endocrine-cerebro-osteodysplasia syndrome"
+   ],
+   "positioned_ptv": 3
+  },
+  "CLCN2": {
+   "n_conditions": 3,
+   "other": [
+    "Familial hyperaldosteronism type II"
+   ],
+   "positioned_ptv": 27
+  },
+  "DMXL2": {
+   "n_conditions": 3,
+   "other": [
+    "Hearing loss, autosomal dominant 71",
+    "Polyendocrine-polyneuropathy syndrome"
+   ],
+   "positioned_ptv": 51
+  },
+  "EPM2A": {
+   "n_conditions": 2,
+   "other": [
+    "Lafora disease"
+   ],
+   "positioned_ptv": 31
+  },
+  "EXT2": {
+   "n_conditions": 3,
+   "other": [
+    "Exostoses, multiple, type 2",
+    "Multiple congenital exostosis"
+   ],
+   "positioned_ptv": 175
+  },
+  "FGF12": {
+   "n_conditions": 2,
+   "other": [
+    "Brugada syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "GABBR2": {
+   "n_conditions": 3,
+   "other": [
+    "Tobacco addiction, susceptibility to"
+   ],
+   "positioned_ptv": 0
+  },
+  "GABRA2": {
+   "n_conditions": 2,
+   "other": [
+    "Alcohol dependence"
+   ],
+   "positioned_ptv": 2
+  },
+  "HCN4": {
+   "n_conditions": 5,
+   "other": [
+    "Brugada syndrome",
+    "Brugada syndrome 8",
+    "Heritable Thoracic Aortic Disease",
+    "Sick sinus syndrome 2, autosomal dominant"
+   ],
+   "positioned_ptv": 3
+  },
+  "ITPA": {
+   "n_conditions": 2,
+   "other": [
+    "Inosine triphosphatase deficiency"
+   ],
+   "positioned_ptv": 21
+  },
+  "KCNMA1": {
+   "n_conditions": 4,
+   "other": [
+    "Liang-Wang syndrome"
+   ],
+   "positioned_ptv": 21
+  },
+  "LMNB2": {
+   "n_conditions": 3,
+   "other": [
+    "Lipodystrophy, partial, acquired, susceptibility to"
+   ],
+   "positioned_ptv": 1
+  },
+  "NHLRC1": {
+   "n_conditions": 2,
+   "other": [
+    "Lafora disease"
+   ],
+   "positioned_ptv": 32
+  },
+  "PIGB": {
+   "n_conditions": 2,
+   "other": [
+    "Acrofrontofacionasal dysostosis 1"
+   ],
+   "positioned_ptv": 18
+  },
+  "PRRT2": {
+   "n_conditions": 4,
+   "other": [
+    "Infantile convulsions and choreoathetosis"
+   ],
+   "positioned_ptv": 126
+  },
+  "RELN": {
+   "n_conditions": 3,
+   "other": [
+    "Norman-Roberts syndrome"
+   ],
+   "positioned_ptv": 88
+  },
+  "SCN1B": {
+   "n_conditions": 5,
+   "other": [
+    "Atrial fibrillation, familial, 13",
+    "Brugada syndrome",
+    "Brugada syndrome 5"
+   ],
+   "positioned_ptv": 15
+  },
+  "SLC2A1": {
+   "n_conditions": 6,
+   "other": [
+    "Childhood onset GLUT1 deficiency syndrome 2",
+    "GLUT1 deficiency syndrome",
+    "Hereditary cryohydrocytosis with reduced stomatin"
+   ],
+   "positioned_ptv": 160
+  },
+  "SMC1A": {
+   "n_conditions": 4,
+   "other": [
+    "De Lange syndrome"
+   ],
+   "positioned_ptv": 107
+  },
+  "SPTAN1": {
+   "n_conditions": 4,
+   "other": [
+    "Neuronopathy, distal hereditary motor, autosomal dominant 11"
+   ],
+   "positioned_ptv": 70
+  },
+  "TBC1D24": {
+   "n_conditions": 7,
+   "other": [
+    "Autosomal dominant nonsyndromic hearing loss 65",
+    "Autosomal recessive nonsyndromic hearing loss 86",
+    "DOORS syndrome"
+   ],
+   "positioned_ptv": 61
+  },
+  "UFSP2": {
+   "n_conditions": 3,
+   "other": [
+    "Hip dysplasia, Beukes type",
+    "Spondyloepimetaphyseal dysplasia, di rocco type"
+   ],
+   "positioned_ptv": 2
+  },
+  "WWOX": {
+   "n_conditions": 3,
+   "other": [
+    "Malignant tumor of esophagus"
+   ],
+   "positioned_ptv": 48
+  },
+  "ZFHX3": {
+   "n_conditions": 5,
+   "other": [
+    "Atrial fibrillation, familial, 8",
+    "Familial prostate cancer"
+   ],
+   "positioned_ptv": 50
+  }
+ },
+ "n_dual": 33,
+ "n_dual_ge10": 23,
+ "n_isolated": 164
+}

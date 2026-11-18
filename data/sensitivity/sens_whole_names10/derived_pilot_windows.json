@@ -1,0 +1,6767 @@
+{
+ "definitions": [
+  "nmd_50nt_rule",
+  "last_exon",
+  "last_10pct",
+  "last_25pct"
+ ],
+ "genes": {
+  "AARS1": {
+   "literature_symbol": null,
+   "n_area": 5,
+   "n_gnomad_hc_pass": 126,
+   "n_other": 45,
+   "protein_aa": 968,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 20,
+     "gnomad_out": 106,
+     "other_in": 1,
+     "other_out": 44,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 872,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 41,
+     "gnomad_out": 85,
+     "other_in": 4,
+     "other_out": 41,
+     "p_area_vs_gnomad": 0.324278913693566,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 727,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 10,
+     "gnomad_out": 116,
+     "other_in": 0,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 908,
+     "threshold_rel": 0.938
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 15,
+     "gnomad_out": 111,
+     "other_in": 0,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 891,
+     "threshold_rel": 0.92
+    }
+   }
+  },
+  "AARS2": {
+   "literature_symbol": null,
+   "n_area": 10,
+   "n_gnomad_hc_pass": 161,
+   "n_other": 12,
+   "protein_aa": 985,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 15,
+     "gnomad_out": 146,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 0.6031526388187488,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 887,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 9,
+     "gnomad_in": 44,
+     "gnomad_out": 117,
+     "other_in": 4,
+     "other_out": 8,
+     "p_area_vs_gnomad": 0.4581085727022677,
+     "p_area_vs_other": 0.3233082706766917,
+     "threshold_codon": 739,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 6,
+     "gnomad_out": 155,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 932,
+     "threshold_rel": 0.946
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 10,
+     "gnomad_out": 151,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 915,
+     "threshold_rel": 0.929
+    }
+   }
+  },
+  "ADCY5": {
+   "literature_symbol": null,
+   "n_area": 4,
+   "n_gnomad_hc_pass": 91,
+   "n_other": 4,
+   "protein_aa": 1261,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 3,
+     "gnomad_out": 88,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1135,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 3,
+     "gnomad_in": 13,
+     "gnomad_out": 78,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.47739391150431365,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 946,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 1,
+     "gnomad_out": 90,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1220,
+     "threshold_rel": 0.967
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 1,
+     "gnomad_out": 90,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1203,
+     "threshold_rel": 0.954
+    }
+   }
+  },
+  "ADGRV1": {
+   "literature_symbol": null,
+   "n_area": 22,
+   "n_gnomad_hc_pass": 669,
+   "n_other": 223,
+   "protein_aa": 6306,
+   "windows": {
+    "last_10pct": {
+     "area_in": 5,
+     "area_out": 17,
+     "gnomad_in": 67,
+     "gnomad_out": 602,
+     "other_in": 17,
+     "other_out": 206,
+     "p_area_vs_gnomad": 0.068571575851305,
+     "p_area_vs_other": 0.03445282400337054,
+     "threshold_codon": 5676,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 15,
+     "gnomad_in": 175,
+     "gnomad_out": 494,
+     "other_in": 48,
+     "other_out": 175,
+     "p_area_vs_gnomad": 0.6227276739557162,
+     "p_area_vs_other": 0.2869812993998884,
+     "threshold_codon": 4730,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 22,
+     "gnomad_in": 5,
+     "gnomad_out": 664,
+     "other_in": 0,
+     "other_out": 223,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 6268,
+     "threshold_rel": 0.994
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 22,
+     "gnomad_in": 6,
+     "gnomad_out": 663,
+     "other_in": 0,
+     "other_out": 223,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 6251,
+     "threshold_rel": 0.991
+    }
+   }
+  },
+  "AFG3L2": {
+   "literature_symbol": null,
+   "n_area": 9,
+   "n_gnomad_hc_pass": 91,
+   "n_other": 3,
+   "protein_aa": 797,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 9,
+     "gnomad_in": 8,
+     "gnomad_out": 83,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 718,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 9,
+     "gnomad_in": 24,
+     "gnomad_out": 67,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.10908446745748365,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 598,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 9,
+     "gnomad_in": 6,
+     "gnomad_out": 85,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 726,
+     "threshold_rel": 0.911
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 9,
+     "gnomad_in": 9,
+     "gnomad_out": 82,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 709,
+     "threshold_rel": 0.89
+    }
+   }
+  },
+  "ALDH18A1": {
+   "literature_symbol": null,
+   "n_area": 15,
+   "n_gnomad_hc_pass": 75,
+   "n_other": 8,
+   "protein_aa": 795,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 15,
+     "gnomad_in": 10,
+     "gnomad_out": 65,
+     "other_in": 1,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.20315066369335727,
+     "p_area_vs_other": 0.34782608695652173,
+     "threshold_codon": 716,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 13,
+     "gnomad_in": 19,
+     "gnomad_out": 56,
+     "other_in": 3,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.5056396249545377,
+     "p_area_vs_other": 0.29685874765966297,
+     "threshold_codon": 597,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 15,
+     "gnomad_in": 10,
+     "gnomad_out": 65,
+     "other_in": 1,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.20315066369335727,
+     "p_area_vs_other": 0.34782608695652173,
+     "threshold_codon": 736,
+     "threshold_rel": 0.926
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 15,
+     "gnomad_in": 10,
+     "gnomad_out": 65,
+     "other_in": 1,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.20315066369335727,
+     "p_area_vs_other": 0.34782608695652173,
+     "threshold_codon": 719,
+     "threshold_rel": 0.904
+    }
+   }
+  },
+  "ALS2": {
+   "literature_symbol": null,
+   "n_area": 12,
+   "n_gnomad_hc_pass": 178,
+   "n_other": 42,
+   "protein_aa": 1657,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 11,
+     "gnomad_in": 21,
+     "gnomad_out": 157,
+     "other_in": 5,
+     "other_out": 37,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1492,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 9,
+     "gnomad_in": 45,
+     "gnomad_out": 133,
+     "other_in": 8,
+     "other_out": 34,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.692561821591546,
+     "threshold_codon": 1243,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 0,
+     "gnomad_out": 178,
+     "other_in": 0,
+     "other_out": 42,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1646,
+     "threshold_rel": 0.993
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 3,
+     "gnomad_out": 175,
+     "other_in": 0,
+     "other_out": 42,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1629,
+     "threshold_rel": 0.983
+    }
+   }
+  },
+  "AP4E1": {
+   "literature_symbol": null,
+   "n_area": 18,
+   "n_gnomad_hc_pass": 103,
+   "n_other": 3,
+   "protein_aa": 1137,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 16,
+     "gnomad_in": 19,
+     "gnomad_out": 84,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.73607713663289,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1024,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 13,
+     "gnomad_in": 37,
+     "gnomad_out": 66,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5986109945719216,
+     "p_area_vs_other": 0.5488721804511277,
+     "threshold_codon": 853,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 17,
+     "gnomad_in": 11,
+     "gnomad_out": 92,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.691592045480573,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1085,
+     "threshold_rel": 0.954
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 17,
+     "gnomad_in": 13,
+     "gnomad_out": 90,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.6909394663286692,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1068,
+     "threshold_rel": 0.939
+    }
+   }
+  },
+  "ARX": {
+   "literature_symbol": null,
+   "n_area": 68,
+   "n_gnomad_hc_pass": 7,
+   "n_other": 10,
+   "protein_aa": 562,
+   "windows": {
+    "last_10pct": {
+     "area_in": 9,
+     "area_out": 59,
+     "gnomad_in": 0,
+     "gnomad_out": 7,
+     "other_in": 1,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.5880105732992679,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 506,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 22,
+     "area_out": 46,
+     "gnomad_in": 0,
+     "gnomad_out": 7,
+     "other_in": 4,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.09802168432724849,
+     "p_area_vs_other": 0.7235671596182172,
+     "threshold_codon": 422,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 12,
+     "area_out": 56,
+     "gnomad_in": 0,
+     "gnomad_out": 7,
+     "other_in": 3,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.5892110086917526,
+     "p_area_vs_other": 0.39469154627406117,
+     "threshold_codon": 483,
+     "threshold_rel": 0.859
+    },
+    "nmd_50nt_rule": {
+     "area_in": 16,
+     "area_out": 52,
+     "gnomad_in": 0,
+     "gnomad_out": 7,
+     "other_in": 3,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.3341061935359346,
+     "p_area_vs_other": 0.6986546939671285,
+     "threshold_codon": 467,
+     "threshold_rel": 0.831
+    }
+   }
+  },
+  "ATAD3A": {
+   "literature_symbol": null,
+   "n_area": 5,
+   "n_gnomad_hc_pass": 45,
+   "n_other": 5,
+   "protein_aa": 586,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 0,
+     "gnomad_out": 45,
+     "other_in": 1,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 528,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 5,
+     "gnomad_out": 40,
+     "other_in": 3,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.16666666666666666,
+     "threshold_codon": 440,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 0,
+     "gnomad_out": 45,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 539,
+     "threshold_rel": 0.92
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 0,
+     "gnomad_out": 45,
+     "other_in": 1,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 522,
+     "threshold_rel": 0.891
+    }
+   }
+  },
+  "ATL1": {
+   "literature_symbol": null,
+   "n_area": 13,
+   "n_gnomad_hc_pass": 67,
+   "n_other": 2,
+   "protein_aa": 558,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 12,
+     "gnomad_in": 35,
+     "gnomad_out": 32,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.004559698701095565,
+     "p_area_vs_other": 0.2571428571428571,
+     "threshold_codon": 503,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 4,
+     "area_out": 9,
+     "gnomad_in": 40,
+     "gnomad_out": 27,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.07112829024910595,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 419,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 30,
+     "gnomad_out": 37,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.001352504930913248,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 523,
+     "threshold_rel": 0.937
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 35,
+     "gnomad_out": 32,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.0003555061173032099,
+     "p_area_vs_other": 0.1333333333333333,
+     "threshold_codon": 506,
+     "threshold_rel": 0.907
+    }
+   }
+  },
+  "ATM": {
+   "literature_symbol": null,
+   "n_area": 679,
+   "n_gnomad_hc_pass": 561,
+   "n_other": 1027,
+   "protein_aa": 3056,
+   "windows": {
+    "last_10pct": {
+     "area_in": 60,
+     "area_out": 619,
+     "gnomad_in": 62,
+     "gnomad_out": 499,
+     "other_in": 87,
+     "other_out": 940,
+     "p_area_vs_gnomad": 0.21318244314061147,
+     "p_area_vs_other": 0.7921176820340081,
+     "threshold_codon": 2751,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 172,
+     "area_out": 507,
+     "gnomad_in": 131,
+     "gnomad_out": 430,
+     "other_in": 243,
+     "other_out": 784,
+     "p_area_vs_gnomad": 0.4264465696825847,
+     "p_area_vs_other": 0.4537271873005322,
+     "threshold_codon": 2293,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 9,
+     "area_out": 670,
+     "gnomad_in": 14,
+     "gnomad_out": 547,
+     "other_in": 15,
+     "other_out": 1012,
+     "p_area_vs_gnomad": 0.14266508572270825,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2996,
+     "threshold_rel": 0.98
+    },
+    "nmd_50nt_rule": {
+     "area_in": 13,
+     "area_out": 666,
+     "gnomad_in": 15,
+     "gnomad_out": 546,
+     "other_in": 19,
+     "other_out": 1008,
+     "p_area_vs_gnomad": 0.4435434044977066,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2980,
+     "threshold_rel": 0.975
+    }
+   }
+  },
+  "ATP1A2": {
+   "literature_symbol": null,
+   "n_area": 33,
+   "n_gnomad_hc_pass": 76,
+   "n_other": 3,
+   "protein_aa": 1020,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 30,
+     "gnomad_in": 10,
+     "gnomad_out": 66,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.7506697783370859,
+     "p_area_vs_other": 0.30532212885154053,
+     "threshold_codon": 919,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 6,
+     "area_out": 27,
+     "gnomad_in": 20,
+     "gnomad_out": 56,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.46577320695499147,
+     "p_area_vs_other": 0.4882352941176471,
+     "threshold_codon": 766,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 33,
+     "gnomad_in": 1,
+     "gnomad_out": 75,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1012,
+     "threshold_rel": 0.992
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 32,
+     "gnomad_in": 1,
+     "gnomad_out": 75,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.5158002038735984,
+     "p_area_vs_other": 0.1619047619047619,
+     "threshold_codon": 995,
+     "threshold_rel": 0.975
+    }
+   }
+  },
+  "ATP1A3": {
+   "literature_symbol": null,
+   "n_area": 12,
+   "n_gnomad_hc_pass": 20,
+   "n_other": 1,
+   "protein_aa": 1013,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 9,
+     "gnomad_in": 4,
+     "gnomad_out": 16,
+     "other_in": 1,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.30769230769230765,
+     "threshold_codon": 912,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 7,
+     "gnomad_in": 6,
+     "gnomad_out": 14,
+     "other_in": 1,
+     "other_out": 0,
+     "p_area_vs_gnomad": 0.7025959724852213,
+     "p_area_vs_other": 0.46153846153846156,
+     "threshold_codon": 760,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 0,
+     "gnomad_out": 20,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1005,
+     "threshold_rel": 0.992
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 11,
+     "gnomad_in": 1,
+     "gnomad_out": 19,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 988,
+     "threshold_rel": 0.975
+    }
+   }
+  },
+  "BSCL2": {
+   "literature_symbol": null,
+   "n_area": 5,
+   "n_gnomad_hc_pass": 63,
+   "n_other": 23,
+   "protein_aa": 462,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 2,
+     "gnomad_out": 61,
+     "other_in": 0,
+     "other_out": 23,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 416,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 3,
+     "gnomad_in": 10,
+     "gnomad_out": 53,
+     "other_in": 4,
+     "other_out": 19,
+     "p_area_vs_gnomad": 0.2107449179442156,
+     "p_area_vs_other": 0.2854700854700855,
+     "threshold_codon": 347,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 2,
+     "gnomad_out": 61,
+     "other_in": 0,
+     "other_out": 23,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 412,
+     "threshold_rel": 0.892
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 2,
+     "gnomad_out": 61,
+     "other_in": 0,
+     "other_out": 23,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 395,
+     "threshold_rel": 0.855
+    }
+   }
+  },
+  "CASR": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 49,
+   "n_other": 138,
+   "protein_aa": 1078,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 1,
+     "gnomad_out": 48,
+     "other_in": 1,
+     "other_out": 137,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 971,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 7,
+     "gnomad_out": 42,
+     "other_in": 11,
+     "other_out": 127,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 809,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 14,
+     "gnomad_out": 35,
+     "other_in": 57,
+     "other_out": 81,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.5137718396711203,
+     "threshold_codon": 578,
+     "threshold_rel": 0.536
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 15,
+     "gnomad_out": 34,
+     "other_in": 59,
+     "other_out": 79,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.5088386433710175,
+     "threshold_codon": 561,
+     "threshold_rel": 0.52
+    }
+   }
+  },
+  "CEP152": {
+   "literature_symbol": null,
+   "n_area": 25,
+   "n_gnomad_hc_pass": 198,
+   "n_other": 5,
+   "protein_aa": 1710,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 24,
+     "gnomad_in": 1,
+     "gnomad_out": 197,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.2120955035753242,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1540,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 22,
+     "gnomad_in": 12,
+     "gnomad_out": 186,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.2281491455177299,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1283,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 24,
+     "gnomad_in": 1,
+     "gnomad_out": 197,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.2120955035753242,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1365,
+     "threshold_rel": 0.798
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 24,
+     "gnomad_in": 1,
+     "gnomad_out": 197,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.2120955035753242,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1348,
+     "threshold_rel": 0.788
+    }
+   }
+  },
+  "CLCN2": {
+   "literature_symbol": null,
+   "n_area": 10,
+   "n_gnomad_hc_pass": 108,
+   "n_other": 3,
+   "protein_aa": 898,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 12,
+     "gnomad_out": 96,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5956451913146961,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 809,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 8,
+     "gnomad_in": 31,
+     "gnomad_out": 77,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.7236675205941194,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 674,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 9,
+     "gnomad_out": 99,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 835,
+     "threshold_rel": 0.93
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 12,
+     "gnomad_out": 96,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5956451913146961,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 818,
+     "threshold_rel": 0.911
+    }
+   }
+  },
+  "CLN3": {
+   "literature_symbol": null,
+   "n_area": 104,
+   "n_gnomad_hc_pass": 73,
+   "n_other": 4,
+   "protein_aa": 438,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 101,
+     "gnomad_in": 3,
+     "gnomad_out": 70,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.6917586174276298,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 395,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 16,
+     "area_out": 88,
+     "gnomad_in": 10,
+     "gnomad_out": 63,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.8313707066006637,
+     "p_area_vs_other": 0.5012833323536903,
+     "threshold_codon": 329,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 2,
+     "area_out": 102,
+     "gnomad_in": 2,
+     "gnomad_out": 71,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 400,
+     "threshold_rel": 0.913
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 101,
+     "gnomad_in": 4,
+     "gnomad_out": 69,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.44901101789695197,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 383,
+     "threshold_rel": 0.874
+    }
+   }
+  },
+  "COL3A1": {
+   "literature_symbol": null,
+   "n_area": 5,
+   "n_gnomad_hc_pass": 52,
+   "n_other": 114,
+   "protein_aa": 1466,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 10,
+     "gnomad_out": 42,
+     "other_in": 14,
+     "other_out": 100,
+     "p_area_vs_gnomad": 0.5740136504783974,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1320,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 4,
+     "gnomad_in": 14,
+     "gnomad_out": 38,
+     "other_in": 28,
+     "other_out": 86,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1100,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 2,
+     "gnomad_out": 50,
+     "other_in": 4,
+     "other_out": 110,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1419,
+     "threshold_rel": 0.968
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 3,
+     "gnomad_out": 49,
+     "other_in": 5,
+     "other_out": 109,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1402,
+     "threshold_rel": 0.956
+    }
+   }
+  },
+  "COL6A3": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 197,
+   "n_other": 91,
+   "protein_aa": 3177,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 18,
+     "gnomad_out": 179,
+     "other_in": 9,
+     "other_out": 82,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2860,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 35,
+     "gnomad_out": 162,
+     "other_in": 23,
+     "other_out": 68,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2383,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 0,
+     "gnomad_out": 197,
+     "other_in": 0,
+     "other_out": 91,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 3165,
+     "threshold_rel": 0.996
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 0,
+     "gnomad_out": 197,
+     "other_in": 0,
+     "other_out": 91,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 3148,
+     "threshold_rel": 0.991
+    }
+   }
+  },
+  "COQ4": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 47,
+   "n_other": 13,
+   "protein_aa": 265,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 8,
+     "gnomad_out": 39,
+     "other_in": 0,
+     "other_out": 13,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 239,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 19,
+     "gnomad_out": 28,
+     "other_in": 1,
+     "other_out": 12,
+     "p_area_vs_gnomad": 0.5153061224489796,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 199,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 17,
+     "gnomad_out": 30,
+     "other_in": 1,
+     "other_out": 12,
+     "p_area_vs_gnomad": 0.5374149659863946,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 209,
+     "threshold_rel": 0.789
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 19,
+     "gnomad_out": 28,
+     "other_in": 1,
+     "other_out": 12,
+     "p_area_vs_gnomad": 0.5153061224489796,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 193,
+     "threshold_rel": 0.728
+    }
+   }
+  },
+  "CPAP": {
+   "literature_symbol": null,
+   "n_area": 22,
+   "n_gnomad_hc_pass": 327,
+   "n_other": 19,
+   "protein_aa": 1338,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 19,
+     "gnomad_in": 31,
+     "gnomad_out": 296,
+     "other_in": 3,
+     "other_out": 16,
+     "p_area_vs_gnomad": 0.4615285486170764,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1205,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 15,
+     "gnomad_in": 92,
+     "gnomad_out": 235,
+     "other_in": 5,
+     "other_out": 14,
+     "p_area_vs_gnomad": 0.8072075367995986,
+     "p_area_vs_other": 0.7437032081406589,
+     "threshold_codon": 1004,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 22,
+     "gnomad_in": 13,
+     "gnomad_out": 314,
+     "other_in": 1,
+     "other_out": 18,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.46341463414634143,
+     "threshold_codon": 1275,
+     "threshold_rel": 0.953
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 22,
+     "gnomad_in": 15,
+     "gnomad_out": 312,
+     "other_in": 1,
+     "other_out": 18,
+     "p_area_vs_gnomad": 0.6111754032737583,
+     "p_area_vs_other": 0.46341463414634143,
+     "threshold_codon": 1259,
+     "threshold_rel": 0.941
+    }
+   }
+  },
+  "CSF1R": {
+   "literature_symbol": null,
+   "n_area": 13,
+   "n_gnomad_hc_pass": 71,
+   "n_other": 3,
+   "protein_aa": 972,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 12,
+     "gnomad_in": 9,
+     "gnomad_out": 62,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 875,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 10,
+     "gnomad_in": 19,
+     "gnomad_out": 52,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 730,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 7,
+     "gnomad_out": 64,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5889386993504763,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 922,
+     "threshold_rel": 0.949
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 7,
+     "gnomad_out": 64,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5889386993504763,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 905,
+     "threshold_rel": 0.931
+    }
+   }
+  },
+  "CUL3": {
+   "literature_symbol": null,
+   "n_area": 36,
+   "n_gnomad_hc_pass": 50,
+   "n_other": 20,
+   "protein_aa": 768,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 36,
+     "gnomad_in": 2,
+     "gnomad_out": 48,
+     "other_in": 0,
+     "other_out": 20,
+     "p_area_vs_gnomad": 0.5075239398084814,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 692,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 29,
+     "gnomad_in": 5,
+     "gnomad_out": 45,
+     "other_in": 2,
+     "other_out": 18,
+     "p_area_vs_gnomad": 0.2274736411355777,
+     "p_area_vs_other": 0.46580966203607704,
+     "threshold_codon": 577,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 36,
+     "gnomad_in": 1,
+     "gnomad_out": 49,
+     "other_in": 0,
+     "other_out": 20,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 726,
+     "threshold_rel": 0.945
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 36,
+     "gnomad_in": 1,
+     "gnomad_out": 49,
+     "other_in": 0,
+     "other_out": 20,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 709,
+     "threshold_rel": 0.923
+    }
+   }
+  },
+  "CYLD": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 30,
+   "n_other": 48,
+   "protein_aa": 956,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 4,
+     "gnomad_out": 26,
+     "other_in": 3,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 861,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 12,
+     "gnomad_out": 18,
+     "other_in": 20,
+     "other_out": 28,
+     "p_area_vs_gnomad": 0.5161290322580646,
+     "p_area_vs_other": 0.5102040816326532,
+     "threshold_codon": 718,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 3,
+     "gnomad_out": 27,
+     "other_in": 3,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 896,
+     "threshold_rel": 0.937
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 3,
+     "gnomad_out": 27,
+     "other_in": 3,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 879,
+     "threshold_rel": 0.919
+    }
+   }
+  },
+  "CYP7B1": {
+   "literature_symbol": null,
+   "n_area": 36,
+   "n_gnomad_hc_pass": 65,
+   "n_other": 1,
+   "protein_aa": 506,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 35,
+     "gnomad_in": 0,
+     "gnomad_out": 65,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.3564356435643564,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 456,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 9,
+     "area_out": 27,
+     "gnomad_in": 3,
+     "gnomad_out": 62,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.007305897727172374,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 380,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 7,
+     "area_out": 29,
+     "gnomad_in": 0,
+     "gnomad_out": 65,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.0004853411470904474,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 412,
+     "threshold_rel": 0.814
+    },
+    "nmd_50nt_rule": {
+     "area_in": 7,
+     "area_out": 29,
+     "gnomad_in": 0,
+     "gnomad_out": 65,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.0004853411470904474,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 395,
+     "threshold_rel": 0.781
+    }
+   }
+  },
+  "DARS2": {
+   "literature_symbol": null,
+   "n_area": 24,
+   "n_gnomad_hc_pass": 88,
+   "n_other": 2,
+   "protein_aa": 645,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 24,
+     "gnomad_in": 1,
+     "gnomad_out": 87,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 581,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 22,
+     "gnomad_in": 16,
+     "gnomad_out": 72,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.35265630007220733,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 484,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 24,
+     "gnomad_in": 1,
+     "gnomad_out": 87,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 584,
+     "threshold_rel": 0.905
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 24,
+     "gnomad_in": 5,
+     "gnomad_out": 83,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.582826601175225,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 567,
+     "threshold_rel": 0.879
+    }
+   }
+  },
+  "DCX": {
+   "literature_symbol": null,
+   "n_area": 13,
+   "n_gnomad_hc_pass": 4,
+   "n_other": 29,
+   "protein_aa": 366,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 1,
+     "gnomad_out": 3,
+     "other_in": 0,
+     "other_out": 29,
+     "p_area_vs_gnomad": 0.2352941176470588,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 330,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 12,
+     "gnomad_in": 1,
+     "gnomad_out": 3,
+     "other_in": 3,
+     "other_out": 26,
+     "p_area_vs_gnomad": 0.4264705882352941,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 275,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 1,
+     "gnomad_out": 3,
+     "other_in": 0,
+     "other_out": 29,
+     "p_area_vs_gnomad": 0.2352941176470588,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 349,
+     "threshold_rel": 0.954
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 1,
+     "gnomad_out": 3,
+     "other_in": 0,
+     "other_out": 29,
+     "p_area_vs_gnomad": 0.2352941176470588,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 332,
+     "threshold_rel": 0.907
+    }
+   }
+  },
+  "DLG4": {
+   "literature_symbol": null,
+   "n_area": 49,
+   "n_gnomad_hc_pass": 38,
+   "n_other": 5,
+   "protein_aa": 724,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 47,
+     "gnomad_in": 3,
+     "gnomad_out": 35,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.649468954643045,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 652,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 10,
+     "area_out": 39,
+     "gnomad_in": 12,
+     "gnomad_out": 26,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.32045658613239353,
+     "p_area_vs_other": 0.5707491834017917,
+     "threshold_codon": 544,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 2,
+     "area_out": 47,
+     "gnomad_in": 2,
+     "gnomad_out": 36,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 690,
+     "threshold_rel": 0.953
+    },
+    "nmd_50nt_rule": {
+     "area_in": 2,
+     "area_out": 47,
+     "gnomad_in": 2,
+     "gnomad_out": 36,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 673,
+     "threshold_rel": 0.93
+    }
+   }
+  },
+  "DMXL2": {
+   "literature_symbol": null,
+   "n_area": 6,
+   "n_gnomad_hc_pass": 171,
+   "n_other": 5,
+   "protein_aa": 3058,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 17,
+     "gnomad_out": 154,
+     "other_in": 1,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.4545454545454546,
+     "threshold_codon": 2753,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 54,
+     "gnomad_out": 117,
+     "other_in": 1,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.17950453620144347,
+     "p_area_vs_other": 0.4545454545454546,
+     "threshold_codon": 2294,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 4,
+     "gnomad_out": 167,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2990,
+     "threshold_rel": 0.978
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 6,
+     "gnomad_out": 165,
+     "other_in": 0,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2973,
+     "threshold_rel": 0.972
+    }
+   }
+  },
+  "DYNC1H1": {
+   "literature_symbol": null,
+   "n_area": 6,
+   "n_gnomad_hc_pass": 89,
+   "n_other": 9,
+   "protein_aa": 4646,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 16,
+     "gnomad_out": 73,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.5850914625048491,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 4182,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 5,
+     "gnomad_in": 30,
+     "gnomad_out": 59,
+     "other_in": 2,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.6600538562659404,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 3485,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 4,
+     "gnomad_out": 85,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 4605,
+     "threshold_rel": 0.991
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 5,
+     "gnomad_out": 84,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 4588,
+     "threshold_rel": 0.988
+    }
+   }
+  },
+  "ELOVL4": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 39,
+   "n_other": 3,
+   "protein_aa": 314,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 5,
+     "gnomad_out": 34,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 283,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 9,
+     "gnomad_out": 30,
+     "other_in": 3,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.10000000000000002,
+     "threshold_codon": 236,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 1,
+     "gnomad_in": 10,
+     "gnomad_out": 29,
+     "other_in": 3,
+     "other_out": 0,
+     "p_area_vs_gnomad": 0.4695121951219512,
+     "p_area_vs_other": 0.4000000000000001,
+     "threshold_codon": 224,
+     "threshold_rel": 0.713
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 1,
+     "gnomad_in": 14,
+     "gnomad_out": 25,
+     "other_in": 3,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.4000000000000001,
+     "threshold_codon": 207,
+     "threshold_rel": 0.659
+    }
+   }
+  },
+  "EPG5": {
+   "literature_symbol": null,
+   "n_area": 1,
+   "n_gnomad_hc_pass": 272,
+   "n_other": 159,
+   "protein_aa": 2579,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 32,
+     "gnomad_out": 240,
+     "other_in": 7,
+     "other_out": 152,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2322,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 74,
+     "gnomad_out": 198,
+     "other_in": 31,
+     "other_out": 128,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1935,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 8,
+     "gnomad_out": 264,
+     "other_in": 0,
+     "other_out": 159,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2520,
+     "threshold_rel": 0.977
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 10,
+     "gnomad_out": 262,
+     "other_in": 0,
+     "other_out": 159,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2503,
+     "threshold_rel": 0.971
+    }
+   }
+  },
+  "EXT2": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 89,
+   "n_other": 154,
+   "protein_aa": 718,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 12,
+     "gnomad_out": 77,
+     "other_in": 0,
+     "other_out": 154,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 647,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 31,
+     "gnomad_out": 58,
+     "other_in": 15,
+     "other_out": 139,
+     "p_area_vs_gnomad": 0.5457875457875458,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 539,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 6,
+     "gnomad_out": 83,
+     "other_in": 0,
+     "other_out": 154,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 673,
+     "threshold_rel": 0.937
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 10,
+     "gnomad_out": 79,
+     "other_in": 0,
+     "other_out": 154,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 657,
+     "threshold_rel": 0.915
+    }
+   }
+  },
+  "FARS2": {
+   "literature_symbol": null,
+   "n_area": 1,
+   "n_gnomad_hc_pass": 60,
+   "n_other": 24,
+   "protein_aa": 451,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 5,
+     "gnomad_out": 55,
+     "other_in": 1,
+     "other_out": 23,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 406,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 16,
+     "gnomad_out": 44,
+     "other_in": 4,
+     "other_out": 20,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 339,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 5,
+     "gnomad_out": 55,
+     "other_in": 1,
+     "other_out": 23,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 406,
+     "threshold_rel": 0.9
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 8,
+     "gnomad_out": 52,
+     "other_in": 1,
+     "other_out": 23,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 390,
+     "threshold_rel": 0.865
+    }
+   }
+  },
+  "FIG4": {
+   "literature_symbol": null,
+   "n_area": 4,
+   "n_gnomad_hc_pass": 166,
+   "n_other": 58,
+   "protein_aa": 907,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 24,
+     "gnomad_out": 142,
+     "other_in": 1,
+     "other_out": 57,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 817,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 2,
+     "gnomad_in": 52,
+     "gnomad_out": 114,
+     "other_in": 15,
+     "other_out": 43,
+     "p_area_vs_gnomad": 0.5924761287429615,
+     "p_area_vs_other": 0.3004777312694386,
+     "threshold_codon": 681,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 16,
+     "gnomad_out": 150,
+     "other_in": 0,
+     "other_out": 58,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 849,
+     "threshold_rel": 0.936
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 20,
+     "gnomad_out": 146,
+     "other_in": 0,
+     "other_out": 58,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 833,
+     "threshold_rel": 0.918
+    }
+   }
+  },
+  "GBA1": {
+   "literature_symbol": null,
+   "n_area": 1,
+   "n_gnomad_hc_pass": 45,
+   "n_other": 104,
+   "protein_aa": 536,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 44,
+     "other_in": 10,
+     "other_out": 94,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 483,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 8,
+     "gnomad_out": 37,
+     "other_in": 28,
+     "other_out": 76,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 403,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 44,
+     "other_in": 10,
+     "other_out": 94,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 502,
+     "threshold_rel": 0.937
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 44,
+     "other_in": 10,
+     "other_out": 94,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 486,
+     "threshold_rel": 0.907
+    }
+   }
+  },
+  "GCH1": {
+   "literature_symbol": null,
+   "n_area": 33,
+   "n_gnomad_hc_pass": 17,
+   "n_other": 7,
+   "protein_aa": 250,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 31,
+     "gnomad_in": 1,
+     "gnomad_out": 16,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 226,
+     "threshold_rel": 0.904
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 28,
+     "gnomad_in": 8,
+     "gnomad_out": 9,
+     "other_in": 1,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.02099534552165308,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 188,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 30,
+     "gnomad_in": 7,
+     "gnomad_out": 10,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.02066987307840788,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 209,
+     "threshold_rel": 0.836
+    },
+    "nmd_50nt_rule": {
+     "area_in": 5,
+     "area_out": 28,
+     "gnomad_in": 8,
+     "gnomad_out": 9,
+     "other_in": 1,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.02099534552165308,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 193,
+     "threshold_rel": 0.772
+    }
+   }
+  },
+  "GJC2": {
+   "literature_symbol": null,
+   "n_area": 42,
+   "n_gnomad_hc_pass": 0,
+   "n_other": 3,
+   "protein_aa": 439,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 42,
+     "gnomad_in": 0,
+     "gnomad_out": 0,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 396,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 39,
+     "gnomad_in": 0,
+     "gnomad_out": 0,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_other": 0.24876673713883019,
+     "threshold_codon": 330,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 42,
+     "area_out": 0,
+     "gnomad_in": 0,
+     "gnomad_out": 0,
+     "other_in": 3,
+     "other_out": 0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1,
+     "threshold_rel": 0.002
+    },
+    "nmd_50nt_rule": {
+     "area_in": 42,
+     "area_out": 0,
+     "gnomad_in": 0,
+     "gnomad_out": 0,
+     "other_in": 3,
+     "other_out": 0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1,
+     "threshold_rel": 0.002
+    }
+   }
+  },
+  "GLI2": {
+   "literature_symbol": null,
+   "n_area": 32,
+   "n_gnomad_hc_pass": 45,
+   "n_other": 36,
+   "protein_aa": 1569,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 31,
+     "gnomad_in": 9,
+     "gnomad_out": 36,
+     "other_in": 0,
+     "other_out": 36,
+     "p_area_vs_gnomad": 0.039459884326735875,
+     "p_area_vs_other": 0.47058823529411764,
+     "threshold_codon": 1413,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 30,
+     "gnomad_in": 9,
+     "gnomad_out": 36,
+     "other_in": 4,
+     "other_out": 32,
+     "p_area_vs_gnomad": 0.10952751264478741,
+     "p_area_vs_other": 0.6764429600250497,
+     "threshold_codon": 1177,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 8,
+     "area_out": 24,
+     "gnomad_in": 9,
+     "gnomad_out": 36,
+     "other_in": 18,
+     "other_out": 18,
+     "p_area_vs_gnomad": 0.781103390552551,
+     "p_area_vs_other": 0.04642667590213099,
+     "threshold_codon": 748,
+     "threshold_rel": 0.477
+    },
+    "nmd_50nt_rule": {
+     "area_in": 8,
+     "area_out": 24,
+     "gnomad_in": 9,
+     "gnomad_out": 36,
+     "other_in": 18,
+     "other_out": 18,
+     "p_area_vs_gnomad": 0.781103390552551,
+     "p_area_vs_other": 0.04642667590213099,
+     "threshold_codon": 731,
+     "threshold_rel": 0.466
+    }
+   }
+  },
+  "GNB1": {
+   "literature_symbol": null,
+   "n_area": 4,
+   "n_gnomad_hc_pass": 7,
+   "n_other": 3,
+   "protein_aa": 340,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 1,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 307,
+     "threshold_rel": 0.903
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 3,
+     "gnomad_in": 1,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 256,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 3,
+     "gnomad_in": 1,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 306,
+     "threshold_rel": 0.9
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 3,
+     "gnomad_in": 1,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 289,
+     "threshold_rel": 0.85
+    }
+   }
+  },
+  "HK1": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 63,
+   "n_other": 2,
+   "protein_aa": 917,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 63,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 826,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 16,
+     "gnomad_out": 47,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 688,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 63,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 870,
+     "threshold_rel": 0.949
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 63,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 854,
+     "threshold_rel": 0.931
+    }
+   }
+  },
+  "HMBS": {
+   "literature_symbol": null,
+   "n_area": 0,
+   "n_gnomad_hc_pass": 26,
+   "n_other": 23,
+   "protein_aa": 361,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 4,
+     "gnomad_out": 22,
+     "other_in": 2,
+     "other_out": 21,
+     "threshold_codon": 325,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 7,
+     "gnomad_out": 19,
+     "other_in": 10,
+     "other_out": 13,
+     "threshold_codon": 271,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 6,
+     "gnomad_out": 20,
+     "other_in": 4,
+     "other_out": 19,
+     "threshold_codon": 305,
+     "threshold_rel": 0.845
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 6,
+     "gnomad_out": 20,
+     "other_in": 7,
+     "other_out": 16,
+     "threshold_codon": 288,
+     "threshold_rel": 0.798
+    }
+   }
+  },
+  "HTRA2": {
+   "literature_symbol": null,
+   "n_area": 1,
+   "n_gnomad_hc_pass": 50,
+   "n_other": 4,
+   "protein_aa": 458,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 3,
+     "gnomad_out": 47,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 413,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 11,
+     "gnomad_out": 39,
+     "other_in": 2,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 344,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 4,
+     "gnomad_out": 46,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 404,
+     "threshold_rel": 0.882
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 1,
+     "gnomad_in": 5,
+     "gnomad_out": 45,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 388,
+     "threshold_rel": 0.847
+    }
+   }
+  },
+  "IBA57": {
+   "literature_symbol": null,
+   "n_area": 13,
+   "n_gnomad_hc_pass": 56,
+   "n_other": 10,
+   "protein_aa": 356,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 5,
+     "gnomad_out": 51,
+     "other_in": 0,
+     "other_out": 10,
+     "p_area_vs_gnomad": 0.5751421918540292,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 321,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 5,
+     "gnomad_out": 51,
+     "other_in": 1,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.5751421918540292,
+     "p_area_vs_other": 0.4347826086956521,
+     "threshold_codon": 268,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 5,
+     "gnomad_out": 51,
+     "other_in": 2,
+     "other_out": 8,
+     "p_area_vs_gnomad": 0.5751421918540292,
+     "p_area_vs_other": 0.1778656126482213,
+     "threshold_codon": 227,
+     "threshold_rel": 0.638
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 13,
+     "gnomad_in": 7,
+     "gnomad_out": 49,
+     "other_in": 2,
+     "other_out": 8,
+     "p_area_vs_gnomad": 0.33261919303737075,
+     "p_area_vs_other": 0.1778656126482213,
+     "threshold_codon": 210,
+     "threshold_rel": 0.59
+    }
+   }
+  },
+  "IL1RAPL1": {
+   "literature_symbol": null,
+   "n_area": 14,
+   "n_gnomad_hc_pass": 6,
+   "n_other": 2,
+   "protein_aa": 696,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 13,
+     "gnomad_in": 0,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 627,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 11,
+     "gnomad_in": 4,
+     "gnomad_out": 2,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.12192982456140351,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 523,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 5,
+     "area_out": 9,
+     "gnomad_in": 4,
+     "gnomad_out": 2,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.33591331269349844,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 458,
+     "threshold_rel": 0.658
+    },
+    "nmd_50nt_rule": {
+     "area_in": 5,
+     "area_out": 9,
+     "gnomad_in": 4,
+     "gnomad_out": 2,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.33591331269349844,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 441,
+     "threshold_rel": 0.634
+    }
+   }
+  },
+  "IRF2BPL": {
+   "literature_symbol": null,
+   "n_area": 58,
+   "n_gnomad_hc_pass": 152,
+   "n_other": 19,
+   "protein_aa": 796,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 56,
+     "gnomad_in": 9,
+     "gnomad_out": 143,
+     "other_in": 1,
+     "other_out": 18,
+     "p_area_vs_gnomad": 0.7310640745428525,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 717,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 10,
+     "area_out": 48,
+     "gnomad_in": 13,
+     "gnomad_out": 139,
+     "other_in": 5,
+     "other_out": 14,
+     "p_area_vs_gnomad": 0.08510779174457683,
+     "p_area_vs_other": 0.5048983218412196,
+     "threshold_codon": 598,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 58,
+     "area_out": 0,
+     "gnomad_in": 152,
+     "gnomad_out": 0,
+     "other_in": 19,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1,
+     "threshold_rel": 0.001
+    },
+    "nmd_50nt_rule": {
+     "area_in": 58,
+     "area_out": 0,
+     "gnomad_in": 152,
+     "gnomad_out": 0,
+     "other_in": 19,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1,
+     "threshold_rel": 0.001
+    }
+   }
+  },
+  "ITPA": {
+   "literature_symbol": null,
+   "n_area": 9,
+   "n_gnomad_hc_pass": 32,
+   "n_other": 8,
+   "protein_aa": 194,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 9,
+     "gnomad_in": 0,
+     "gnomad_out": 32,
+     "other_in": 0,
+     "other_out": 8,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 175,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 8,
+     "gnomad_in": 5,
+     "gnomad_out": 27,
+     "other_in": 0,
+     "other_out": 8,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 146,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 9,
+     "gnomad_in": 0,
+     "gnomad_out": 32,
+     "other_in": 0,
+     "other_out": 8,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 163,
+     "threshold_rel": 0.84
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 8,
+     "gnomad_in": 5,
+     "gnomad_out": 27,
+     "other_in": 0,
+     "other_out": 8,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 147,
+     "threshold_rel": 0.758
+    }
+   }
+  },
+  "ITPR1": {
+   "literature_symbol": null,
+   "n_area": 0,
+   "n_gnomad_hc_pass": 122,
+   "n_other": 6,
+   "protein_aa": 2758,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 11,
+     "gnomad_out": 111,
+     "other_in": 0,
+     "other_out": 6,
+     "threshold_codon": 2483,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 36,
+     "gnomad_out": 86,
+     "other_in": 1,
+     "other_out": 5,
+     "threshold_codon": 2069,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 4,
+     "gnomad_out": 118,
+     "other_in": 0,
+     "other_out": 6,
+     "threshold_codon": 2731,
+     "threshold_rel": 0.99
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 6,
+     "gnomad_out": 116,
+     "other_in": 0,
+     "other_out": 6,
+     "threshold_codon": 2714,
+     "threshold_rel": 0.984
+    }
+   }
+  },
+  "KCNMA1": {
+   "literature_symbol": null,
+   "n_area": 14,
+   "n_gnomad_hc_pass": 77,
+   "n_other": 4,
+   "protein_aa": 1236,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 14,
+     "gnomad_in": 17,
+     "gnomad_out": 60,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.06388721499347338,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1113,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 12,
+     "gnomad_in": 18,
+     "gnomad_out": 59,
+     "other_in": 2,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.7267344531458515,
+     "p_area_vs_other": 0.19705882352941176,
+     "threshold_codon": 928,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 14,
+     "gnomad_in": 12,
+     "gnomad_out": 65,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.2009837708403461,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1154,
+     "threshold_rel": 0.934
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 14,
+     "gnomad_in": 17,
+     "gnomad_out": 60,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.06388721499347338,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1138,
+     "threshold_rel": 0.921
+    }
+   }
+  },
+  "KCNQ2": {
+   "literature_symbol": null,
+   "n_area": 51,
+   "n_gnomad_hc_pass": 53,
+   "n_other": 164,
+   "protein_aa": 872,
+   "windows": {
+    "last_10pct": {
+     "area_in": 6,
+     "area_out": 45,
+     "gnomad_in": 2,
+     "gnomad_out": 51,
+     "other_in": 8,
+     "other_out": 156,
+     "p_area_vs_gnomad": 0.1566045504560465,
+     "p_area_vs_other": 0.10301918881804048,
+     "threshold_codon": 785,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 17,
+     "area_out": 34,
+     "gnomad_in": 4,
+     "gnomad_out": 49,
+     "other_in": 35,
+     "other_out": 129,
+     "p_area_vs_gnomad": 0.0012835860292875253,
+     "p_area_vs_other": 0.09311023878401198,
+     "threshold_codon": 655,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 21,
+     "area_out": 30,
+     "gnomad_in": 4,
+     "gnomad_out": 49,
+     "other_in": 42,
+     "other_out": 122,
+     "p_area_vs_gnomad": 6.457042287090672e-05,
+     "p_area_vs_other": 0.03636960851764583,
+     "threshold_codon": 630,
+     "threshold_rel": 0.722
+    },
+    "nmd_50nt_rule": {
+     "area_in": 21,
+     "area_out": 30,
+     "gnomad_in": 5,
+     "gnomad_out": 48,
+     "other_in": 44,
+     "other_out": 120,
+     "p_area_vs_gnomad": 0.00022558005534527415,
+     "p_area_vs_other": 0.05675235232451897,
+     "threshold_codon": 613,
+     "threshold_rel": 0.703
+    }
+   }
+  },
+  "KCNQ3": {
+   "literature_symbol": null,
+   "n_area": 12,
+   "n_gnomad_hc_pass": 63,
+   "n_other": 0,
+   "protein_aa": 872,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 6,
+     "gnomad_out": 57,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 0.5811166443309989,
+     "threshold_codon": 785,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 15,
+     "gnomad_out": 48,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 0.10902539165523664,
+     "threshold_codon": 655,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 15,
+     "gnomad_out": 48,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 0.10902539165523664,
+     "threshold_codon": 629,
+     "threshold_rel": 0.721
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 15,
+     "gnomad_out": 48,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 0.10902539165523664,
+     "threshold_codon": 612,
+     "threshold_rel": 0.702
+    }
+   }
+  },
+  "KIF14": {
+   "literature_symbol": null,
+   "n_area": 18,
+   "n_gnomad_hc_pass": 191,
+   "n_other": 4,
+   "protein_aa": 1648,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 17,
+     "gnomad_in": 6,
+     "gnomad_out": 185,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.47276328251473815,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1484,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 13,
+     "gnomad_in": 40,
+     "gnomad_out": 151,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.5490130464816336,
+     "p_area_vs_other": 0.5352016404647985,
+     "threshold_codon": 1237,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 18,
+     "gnomad_in": 0,
+     "gnomad_out": 191,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1523,
+     "threshold_rel": 0.924
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 18,
+     "gnomad_in": 0,
+     "gnomad_out": 191,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1506,
+     "threshold_rel": 0.914
+    }
+   }
+  },
+  "KIF1A": {
+   "literature_symbol": null,
+   "n_area": 27,
+   "n_gnomad_hc_pass": 81,
+   "n_other": 3,
+   "protein_aa": 1791,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 24,
+     "gnomad_in": 3,
+     "gnomad_out": 78,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.16370487021713753,
+     "p_area_vs_other": 0.35960591133004927,
+     "threshold_codon": 1612,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 10,
+     "area_out": 17,
+     "gnomad_in": 10,
+     "gnomad_out": 71,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.00837303122938779,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1344,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 27,
+     "gnomad_in": 0,
+     "gnomad_out": 81,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1778,
+     "threshold_rel": 0.993
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 27,
+     "gnomad_in": 0,
+     "gnomad_out": 81,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1762,
+     "threshold_rel": 0.984
+    }
+   }
+  },
+  "KMT2B": {
+   "literature_symbol": null,
+   "n_area": 49,
+   "n_gnomad_hc_pass": 156,
+   "n_other": 20,
+   "protein_aa": 2715,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 47,
+     "gnomad_in": 1,
+     "gnomad_out": 155,
+     "other_in": 3,
+     "other_out": 17,
+     "p_area_vs_gnomad": 0.1426804531737001,
+     "p_area_vs_other": 0.14179358069879885,
+     "threshold_codon": 2444,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 42,
+     "gnomad_in": 58,
+     "gnomad_out": 98,
+     "other_in": 6,
+     "other_out": 14,
+     "p_area_vs_gnomad": 0.0025856911080504273,
+     "p_area_vs_other": 0.17595539221094567,
+     "threshold_codon": 2037,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 49,
+     "gnomad_in": 0,
+     "gnomad_out": 156,
+     "other_in": 0,
+     "other_out": 20,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2625,
+     "threshold_rel": 0.967
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 49,
+     "gnomad_in": 0,
+     "gnomad_out": 156,
+     "other_in": 0,
+     "other_out": 20,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2608,
+     "threshold_rel": 0.961
+    }
+   }
+  },
+  "MAP1B": {
+   "literature_symbol": null,
+   "n_area": 26,
+   "n_gnomad_hc_pass": 37,
+   "n_other": 13,
+   "protein_aa": 2468,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 23,
+     "gnomad_in": 1,
+     "gnomad_out": 36,
+     "other_in": 0,
+     "other_out": 13,
+     "p_area_vs_gnomad": 0.297474251466848,
+     "p_area_vs_other": 0.5376955903271694,
+     "threshold_codon": 2222,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 19,
+     "gnomad_in": 8,
+     "gnomad_out": 29,
+     "other_in": 3,
+     "other_out": 10,
+     "p_area_vs_gnomad": 0.7654872781114679,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1852,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 26,
+     "gnomad_in": 0,
+     "gnomad_out": 37,
+     "other_in": 0,
+     "other_out": 13,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2418,
+     "threshold_rel": 0.98
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 26,
+     "gnomad_in": 0,
+     "gnomad_out": 37,
+     "other_in": 0,
+     "other_out": 13,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2401,
+     "threshold_rel": 0.973
+    }
+   }
+  },
+  "MECP2": {
+   "literature_symbol": null,
+   "n_area": 474,
+   "n_gnomad_hc_pass": 42,
+   "n_other": 27,
+   "protein_aa": 498,
+   "windows": {
+    "last_10pct": {
+     "area_in": 20,
+     "area_out": 454,
+     "gnomad_in": 1,
+     "gnomad_out": 41,
+     "other_in": 0,
+     "other_out": 27,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.6166859345920493,
+     "threshold_codon": 449,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 187,
+     "area_out": 287,
+     "gnomad_in": 34,
+     "gnomad_out": 8,
+     "other_in": 16,
+     "other_out": 11,
+     "p_area_vs_gnomad": 2.9685972629938124e-07,
+     "p_area_vs_other": 0.04577287264952099,
+     "threshold_codon": 374,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 397,
+     "area_out": 77,
+     "gnomad_in": 38,
+     "gnomad_out": 4,
+     "other_in": 26,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.37421327704193774,
+     "p_area_vs_other": 0.1006089690935411,
+     "threshold_codon": 138,
+     "threshold_rel": 0.277
+    },
+    "nmd_50nt_rule": {
+     "area_in": 403,
+     "area_out": 71,
+     "gnomad_in": 38,
+     "gnomad_out": 4,
+     "other_in": 26,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.49205863723905074,
+     "p_area_vs_other": 0.15464527830029753,
+     "threshold_codon": 122,
+     "threshold_rel": 0.245
+    }
+   }
+  },
+  "MED12": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 22,
+   "n_other": 22,
+   "protein_aa": 2177,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 1,
+     "gnomad_in": 6,
+     "gnomad_out": 16,
+     "other_in": 6,
+     "other_out": 16,
+     "p_area_vs_gnomad": 0.23130434782608694,
+     "p_area_vs_other": 0.23130434782608694,
+     "threshold_codon": 1960,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 1,
+     "gnomad_in": 8,
+     "gnomad_out": 14,
+     "other_in": 12,
+     "other_out": 10,
+     "p_area_vs_gnomad": 0.5434782608695652,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1633,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 0,
+     "gnomad_out": 22,
+     "other_in": 0,
+     "other_out": 22,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2164,
+     "threshold_rel": 0.994
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 22,
+     "other_in": 0,
+     "other_out": 22,
+     "p_area_vs_gnomad": 0.12000000000000001,
+     "p_area_vs_other": 0.12000000000000001,
+     "threshold_codon": 2147,
+     "threshold_rel": 0.986
+    }
+   }
+  },
+  "MEF2C": {
+   "literature_symbol": null,
+   "n_area": 32,
+   "n_gnomad_hc_pass": 24,
+   "n_other": 6,
+   "protein_aa": 473,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 31,
+     "gnomad_in": 4,
+     "gnomad_out": 20,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.15286390758088872,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 426,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 31,
+     "gnomad_in": 6,
+     "gnomad_out": 18,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.0345771037446953,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 355,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 31,
+     "gnomad_in": 6,
+     "gnomad_out": 18,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.0345771037446953,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 367,
+     "threshold_rel": 0.776
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 31,
+     "gnomad_in": 6,
+     "gnomad_out": 18,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.0345771037446953,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 351,
+     "threshold_rel": 0.742
+    }
+   }
+  },
+  "MFSD8": {
+   "literature_symbol": null,
+   "n_area": 73,
+   "n_gnomad_hc_pass": 84,
+   "n_other": 3,
+   "protein_aa": 518,
+   "windows": {
+    "last_10pct": {
+     "area_in": 4,
+     "area_out": 69,
+     "gnomad_in": 7,
+     "gnomad_out": 77,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5457225601544556,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 467,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 14,
+     "area_out": 59,
+     "gnomad_in": 15,
+     "gnomad_out": 69,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.8398278830148718,
+     "p_area_vs_other": 0.48805120910384076,
+     "threshold_codon": 389,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 6,
+     "area_out": 67,
+     "gnomad_in": 8,
+     "gnomad_out": 76,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 451,
+     "threshold_rel": 0.871
+    },
+    "nmd_50nt_rule": {
+     "area_in": 9,
+     "area_out": 64,
+     "gnomad_in": 11,
+     "gnomad_out": 73,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 434,
+     "threshold_rel": 0.838
+    }
+   }
+  },
+  "MINPP1": {
+   "literature_symbol": null,
+   "n_area": 11,
+   "n_gnomad_hc_pass": 59,
+   "n_other": 1,
+   "protein_aa": 487,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 10,
+     "gnomad_in": 7,
+     "gnomad_out": 52,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 439,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 8,
+     "gnomad_in": 16,
+     "gnomad_out": 43,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 366,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 8,
+     "gnomad_in": 16,
+     "gnomad_out": 43,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 356,
+     "threshold_rel": 0.731
+    },
+    "nmd_50nt_rule": {
+     "area_in": 4,
+     "area_out": 7,
+     "gnomad_in": 17,
+     "gnomad_out": 42,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.7228075850399769,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 340,
+     "threshold_rel": 0.698
+    }
+   }
+  },
+  "MME": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 117,
+   "n_other": 27,
+   "protein_aa": 750,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 9,
+     "gnomad_out": 108,
+     "other_in": 3,
+     "other_out": 24,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 676,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 1,
+     "gnomad_in": 29,
+     "gnomad_out": 88,
+     "other_in": 9,
+     "other_out": 18,
+     "p_area_vs_gnomad": 0.163367041731947,
+     "p_area_vs_other": 0.5366995073891624,
+     "threshold_codon": 563,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 6,
+     "gnomad_out": 111,
+     "other_in": 0,
+     "other_out": 27,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 718,
+     "threshold_rel": 0.957
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 7,
+     "gnomad_out": 110,
+     "other_in": 1,
+     "other_out": 26,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 702,
+     "threshold_rel": 0.936
+    }
+   }
+  },
+  "MPO": {
+   "literature_symbol": null,
+   "n_area": 0,
+   "n_gnomad_hc_pass": 116,
+   "n_other": 11,
+   "protein_aa": 745,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 13,
+     "gnomad_out": 103,
+     "other_in": 0,
+     "other_out": 11,
+     "threshold_codon": 671,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 24,
+     "gnomad_out": 92,
+     "other_in": 2,
+     "other_out": 9,
+     "threshold_codon": 559,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 11,
+     "gnomad_out": 105,
+     "other_in": 0,
+     "other_out": 11,
+     "threshold_codon": 677,
+     "threshold_rel": 0.909
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 14,
+     "gnomad_out": 102,
+     "other_in": 0,
+     "other_out": 11,
+     "threshold_codon": 661,
+     "threshold_rel": 0.887
+    }
+   }
+  },
+  "MTHFD1": {
+   "literature_symbol": null,
+   "n_area": 6,
+   "n_gnomad_hc_pass": 56,
+   "n_other": 7,
+   "protein_aa": 935,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 6,
+     "gnomad_out": 50,
+     "other_in": 2,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.4615384615384615,
+     "threshold_codon": 842,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 13,
+     "gnomad_out": 43,
+     "other_in": 2,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.32791958892756845,
+     "p_area_vs_other": 0.4615384615384615,
+     "threshold_codon": 702,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 2,
+     "gnomad_out": 54,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 907,
+     "threshold_rel": 0.97
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 3,
+     "gnomad_out": 53,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 890,
+     "threshold_rel": 0.952
+    }
+   }
+  },
+  "MTHFR": {
+   "literature_symbol": null,
+   "n_area": 23,
+   "n_gnomad_hc_pass": 98,
+   "n_other": 58,
+   "protein_aa": 656,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 20,
+     "gnomad_in": 9,
+     "gnomad_out": 89,
+     "other_in": 1,
+     "other_out": 57,
+     "p_area_vs_gnomad": 0.6972352007863722,
+     "p_area_vs_other": 0.0670615600995348,
+     "threshold_codon": 591,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 10,
+     "area_out": 13,
+     "gnomad_in": 24,
+     "gnomad_out": 74,
+     "other_in": 15,
+     "other_out": 43,
+     "p_area_vs_gnomad": 0.07699242484125368,
+     "p_area_vs_other": 0.18139069567943475,
+     "threshold_codon": 493,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 20,
+     "gnomad_in": 10,
+     "gnomad_out": 88,
+     "other_in": 1,
+     "other_out": 57,
+     "p_area_vs_gnomad": 0.7111234943282817,
+     "p_area_vs_other": 0.0670615600995348,
+     "threshold_codon": 585,
+     "threshold_rel": 0.892
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 20,
+     "gnomad_in": 12,
+     "gnomad_out": 86,
+     "other_in": 4,
+     "other_out": 54,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.39888456128962463,
+     "threshold_codon": 568,
+     "threshold_rel": 0.866
+    }
+   }
+  },
+  "MTR": {
+   "literature_symbol": null,
+   "n_area": 4,
+   "n_gnomad_hc_pass": 135,
+   "n_other": 45,
+   "protein_aa": 1265,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 18,
+     "gnomad_out": 117,
+     "other_in": 7,
+     "other_out": 38,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1139,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 37,
+     "gnomad_out": 98,
+     "other_in": 12,
+     "other_out": 33,
+     "p_area_vs_gnomad": 0.5733911125621876,
+     "p_area_vs_other": 0.5599312805603277,
+     "threshold_codon": 949,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 4,
+     "gnomad_out": 131,
+     "other_in": 0,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1238,
+     "threshold_rel": 0.979
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 4,
+     "gnomad_in": 4,
+     "gnomad_out": 131,
+     "other_in": 0,
+     "other_out": 45,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1221,
+     "threshold_rel": 0.965
+    }
+   }
+  },
+  "MTRFR": {
+   "literature_symbol": null,
+   "n_area": 10,
+   "n_gnomad_hc_pass": 29,
+   "n_other": 3,
+   "protein_aa": 166,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 0,
+     "gnomad_out": 29,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 150,
+     "threshold_rel": 0.904
+    },
+    "last_25pct": {
+     "area_in": 4,
+     "area_out": 6,
+     "gnomad_in": 0,
+     "gnomad_out": 29,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.00255316044789729,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 125,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 5,
+     "area_out": 5,
+     "gnomad_in": 9,
+     "gnomad_out": 20,
+     "other_in": 1,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.4459230027990639,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 95,
+     "threshold_rel": 0.572
+    },
+    "nmd_50nt_rule": {
+     "area_in": 6,
+     "area_out": 4,
+     "gnomad_in": 14,
+     "gnomad_out": 15,
+     "other_in": 2,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.7164265551362324,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 78,
+     "threshold_rel": 0.47
+    }
+   }
+  },
+  "MTRR": {
+   "literature_symbol": null,
+   "n_area": 26,
+   "n_gnomad_hc_pass": 118,
+   "n_other": 65,
+   "protein_aa": 698,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 26,
+     "gnomad_in": 2,
+     "gnomad_out": 116,
+     "other_in": 0,
+     "other_out": 65,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 629,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 21,
+     "gnomad_in": 17,
+     "gnomad_out": 101,
+     "other_in": 10,
+     "other_out": 55,
+     "p_area_vs_gnomad": 0.5510522040026943,
+     "p_area_vs_other": 0.7559687457221251,
+     "threshold_codon": 524,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 26,
+     "gnomad_in": 2,
+     "gnomad_out": 116,
+     "other_in": 0,
+     "other_out": 65,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 651,
+     "threshold_rel": 0.933
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 26,
+     "gnomad_in": 2,
+     "gnomad_out": 116,
+     "other_in": 0,
+     "other_out": 65,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 635,
+     "threshold_rel": 0.91
+    }
+   }
+  },
+  "NARS1": {
+   "literature_symbol": null,
+   "n_area": 5,
+   "n_gnomad_hc_pass": 91,
+   "n_other": 2,
+   "protein_aa": 548,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 4,
+     "gnomad_out": 87,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 494,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 4,
+     "gnomad_in": 20,
+     "gnomad_out": 71,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 412,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 2,
+     "gnomad_out": 89,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 506,
+     "threshold_rel": 0.923
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 6,
+     "gnomad_out": 85,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 489,
+     "threshold_rel": 0.892
+    }
+   }
+  },
+  "NEK1": {
+   "literature_symbol": null,
+   "n_area": 7,
+   "n_gnomad_hc_pass": 209,
+   "n_other": 63,
+   "protein_aa": 1286,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 16,
+     "gnomad_out": 193,
+     "other_in": 3,
+     "other_out": 60,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1158,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 36,
+     "gnomad_out": 173,
+     "other_in": 7,
+     "other_out": 56,
+     "p_area_vs_gnomad": 0.6037704481707854,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 965,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 0,
+     "gnomad_out": 209,
+     "other_in": 0,
+     "other_out": 63,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1283,
+     "threshold_rel": 0.998
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 1,
+     "gnomad_out": 208,
+     "other_in": 0,
+     "other_out": 63,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1266,
+     "threshold_rel": 0.984
+    }
+   }
+  },
+  "NKX6-2": {
+   "literature_symbol": null,
+   "n_area": 14,
+   "n_gnomad_hc_pass": 59,
+   "n_other": 1,
+   "protein_aa": 277,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 14,
+     "gnomad_in": 2,
+     "gnomad_out": 57,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 250,
+     "threshold_rel": 0.903
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 14,
+     "gnomad_in": 5,
+     "gnomad_out": 54,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.5757907913365975,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 208,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 11,
+     "gnomad_in": 7,
+     "gnomad_out": 52,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.39209055963832007,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 194,
+     "threshold_rel": 0.7
+    },
+    "nmd_50nt_rule": {
+     "area_in": 5,
+     "area_out": 9,
+     "gnomad_in": 13,
+     "gnomad_out": 46,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.3123019541537199,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 177,
+     "threshold_rel": 0.639
+    }
+   }
+  },
+  "NRXN1": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 78,
+   "n_other": 40,
+   "protein_aa": 1507,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 9,
+     "gnomad_out": 69,
+     "other_in": 0,
+     "other_out": 40,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1357,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 17,
+     "gnomad_out": 61,
+     "other_in": 11,
+     "other_out": 29,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.557896442751803,
+     "threshold_codon": 1131,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 7,
+     "gnomad_out": 71,
+     "other_in": 0,
+     "other_out": 40,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1406,
+     "threshold_rel": 0.933
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 8,
+     "gnomad_out": 70,
+     "other_in": 0,
+     "other_out": 40,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1389,
+     "threshold_rel": 0.922
+    }
+   }
+  },
+  "NUS1": {
+   "literature_symbol": null,
+   "n_area": 26,
+   "n_gnomad_hc_pass": 2,
+   "n_other": 35,
+   "protein_aa": 293,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 25,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 1,
+     "other_out": 34,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 264,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 21,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 4,
+     "other_out": 31,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.47678536860545195,
+     "threshold_codon": 220,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 25,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 1,
+     "other_out": 34,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 264,
+     "threshold_rel": 0.901
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 23,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 3,
+     "other_out": 32,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 248,
+     "threshold_rel": 0.846
+    }
+   }
+  },
+  "OPTN": {
+   "literature_symbol": null,
+   "n_area": 30,
+   "n_gnomad_hc_pass": 85,
+   "n_other": 4,
+   "protein_aa": 577,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 30,
+     "gnomad_in": 13,
+     "gnomad_out": 72,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.019708678036507662,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 520,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 27,
+     "gnomad_in": 21,
+     "gnomad_out": 64,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.11805962738262049,
+     "p_area_vs_other": 0.4090693462135588,
+     "threshold_codon": 433,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 30,
+     "gnomad_in": 8,
+     "gnomad_out": 77,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.1090448285719319,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 538,
+     "threshold_rel": 0.932
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 30,
+     "gnomad_in": 12,
+     "gnomad_out": 73,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.03433383768575746,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 521,
+     "threshold_rel": 0.903
+    }
+   }
+  },
+  "PI4KA": {
+   "literature_symbol": null,
+   "n_area": 17,
+   "n_gnomad_hc_pass": 188,
+   "n_other": 9,
+   "protein_aa": 2102,
+   "windows": {
+    "last_10pct": {
+     "area_in": 4,
+     "area_out": 13,
+     "gnomad_in": 6,
+     "gnomad_out": 182,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.005078140328239327,
+     "p_area_vs_other": 0.26314381270903014,
+     "threshold_codon": 1892,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 5,
+     "area_out": 12,
+     "gnomad_in": 27,
+     "gnomad_out": 161,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.15256292860617005,
+     "p_area_vs_other": 0.1285497111584068,
+     "threshold_codon": 1577,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 17,
+     "gnomad_in": 1,
+     "gnomad_out": 187,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2086,
+     "threshold_rel": 0.992
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 17,
+     "gnomad_in": 2,
+     "gnomad_out": 186,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2070,
+     "threshold_rel": 0.985
+    }
+   }
+  },
+  "PIGA": {
+   "literature_symbol": null,
+   "n_area": 4,
+   "n_gnomad_hc_pass": 4,
+   "n_other": 12,
+   "protein_aa": 484,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 3,
+     "gnomad_in": 0,
+     "gnomad_out": 4,
+     "other_in": 1,
+     "other_out": 11,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.44999999999999996,
+     "threshold_codon": 436,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 4,
+     "other_in": 4,
+     "other_out": 8,
+     "p_area_vs_gnomad": 0.4285714285714286,
+     "p_area_vs_other": 0.6043956043956045,
+     "threshold_codon": 364,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 2,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 4,
+     "other_in": 2,
+     "other_out": 10,
+     "p_area_vs_gnomad": 0.4285714285714286,
+     "p_area_vs_other": 0.24450549450549444,
+     "threshold_codon": 397,
+     "threshold_rel": 0.82
+    },
+    "nmd_50nt_rule": {
+     "area_in": 2,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 4,
+     "other_in": 3,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.4285714285714286,
+     "p_area_vs_other": 0.5467032967032968,
+     "threshold_codon": 380,
+     "threshold_rel": 0.785
+    }
+   }
+  },
+  "PIGB": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 83,
+   "n_other": 0,
+   "protein_aa": 554,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 4,
+     "gnomad_out": 79,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 499,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 14,
+     "gnomad_out": 69,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 416,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 2,
+     "gnomad_out": 81,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 507,
+     "threshold_rel": 0.915
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 4,
+     "gnomad_out": 79,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 490,
+     "threshold_rel": 0.884
+    }
+   }
+  },
+  "PIGG": {
+   "literature_symbol": null,
+   "n_area": 52,
+   "n_gnomad_hc_pass": 146,
+   "n_other": 3,
+   "protein_aa": 983,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 49,
+     "gnomad_in": 0,
+     "gnomad_out": 146,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.017344270426213858,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 885,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 13,
+     "area_out": 39,
+     "gnomad_in": 21,
+     "gnomad_out": 125,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.08992885759507445,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 738,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 49,
+     "gnomad_in": 0,
+     "gnomad_out": 146,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.017344270426213858,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 912,
+     "threshold_rel": 0.928
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 49,
+     "gnomad_in": 0,
+     "gnomad_out": 146,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.017344270426213858,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 896,
+     "threshold_rel": 0.911
+    }
+   }
+  },
+  "PLA2G6": {
+   "literature_symbol": null,
+   "n_area": 17,
+   "n_gnomad_hc_pass": 119,
+   "n_other": 34,
+   "protein_aa": 806,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 15,
+     "gnomad_in": 13,
+     "gnomad_out": 106,
+     "other_in": 2,
+     "other_out": 32,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.5929251700680271,
+     "threshold_codon": 726,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 6,
+     "area_out": 11,
+     "gnomad_in": 36,
+     "gnomad_out": 83,
+     "other_in": 9,
+     "other_out": 25,
+     "p_area_vs_gnomad": 0.7798665869454653,
+     "p_area_vs_other": 0.5319894655889981,
+     "threshold_codon": 605,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 16,
+     "gnomad_in": 10,
+     "gnomad_out": 109,
+     "other_in": 0,
+     "other_out": 34,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.3333333333333333,
+     "threshold_codon": 759,
+     "threshold_rel": 0.942
+    },
+    "nmd_50nt_rule": {
+     "area_in": 2,
+     "area_out": 15,
+     "gnomad_in": 12,
+     "gnomad_out": 107,
+     "other_in": 1,
+     "other_out": 33,
+     "p_area_vs_gnomad": 0.6876293806839064,
+     "p_area_vs_other": 0.25469387755102046,
+     "threshold_codon": 743,
+     "threshold_rel": 0.922
+    }
+   }
+  },
+  "PLP1": {
+   "literature_symbol": null,
+   "n_area": 20,
+   "n_gnomad_hc_pass": 2,
+   "n_other": 29,
+   "protein_aa": 277,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 19,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 1,
+     "other_out": 28,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 250,
+     "threshold_rel": 0.903
+    },
+    "last_25pct": {
+     "area_in": 2,
+     "area_out": 18,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 4,
+     "other_out": 25,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 208,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 19,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 0,
+     "other_out": 29,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.40816326530612246,
+     "threshold_codon": 255,
+     "threshold_rel": 0.921
+    },
+    "nmd_50nt_rule": {
+     "area_in": 2,
+     "area_out": 18,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 2,
+     "other_out": 27,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 238,
+     "threshold_rel": 0.859
+    }
+   }
+  },
+  "PNKP": {
+   "literature_symbol": null,
+   "n_area": 61,
+   "n_gnomad_hc_pass": 205,
+   "n_other": 7,
+   "protein_aa": 521,
+   "windows": {
+    "last_10pct": {
+     "area_in": 8,
+     "area_out": 53,
+     "gnomad_in": 13,
+     "gnomad_out": 192,
+     "other_in": 3,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.10389259950053345,
+     "p_area_vs_other": 0.0779792061078348,
+     "threshold_codon": 469,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 31,
+     "area_out": 30,
+     "gnomad_in": 98,
+     "gnomad_out": 107,
+     "other_in": 5,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.7706477557617473,
+     "p_area_vs_other": 0.43377518004383686,
+     "threshold_codon": 391,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 5,
+     "area_out": 56,
+     "gnomad_in": 13,
+     "gnomad_out": 192,
+     "other_in": 2,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.571248826944661,
+     "p_area_vs_other": 0.1490499031494245,
+     "threshold_codon": 483,
+     "threshold_rel": 0.927
+    },
+    "nmd_50nt_rule": {
+     "area_in": 8,
+     "area_out": 53,
+     "gnomad_in": 13,
+     "gnomad_out": 192,
+     "other_in": 3,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.10389259950053345,
+     "p_area_vs_other": 0.0779792061078348,
+     "threshold_codon": 467,
+     "threshold_rel": 0.896
+    }
+   }
+  },
+  "PNPLA6": {
+   "literature_symbol": null,
+   "n_area": 45,
+   "n_gnomad_hc_pass": 186,
+   "n_other": 14,
+   "protein_aa": 1365,
+   "windows": {
+    "last_10pct": {
+     "area_in": 6,
+     "area_out": 39,
+     "gnomad_in": 13,
+     "gnomad_out": 173,
+     "other_in": 1,
+     "other_out": 13,
+     "p_area_vs_gnomad": 0.22121011042644984,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1229,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 12,
+     "area_out": 33,
+     "gnomad_in": 32,
+     "gnomad_out": 154,
+     "other_in": 3,
+     "other_out": 11,
+     "p_area_vs_gnomad": 0.2025914059250814,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1024,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 45,
+     "gnomad_in": 2,
+     "gnomad_out": 184,
+     "other_in": 0,
+     "other_out": 14,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1342,
+     "threshold_rel": 0.983
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 42,
+     "gnomad_in": 2,
+     "gnomad_out": 184,
+     "other_in": 0,
+     "other_out": 14,
+     "p_area_vs_gnomad": 0.0520385568503526,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1325,
+     "threshold_rel": 0.971
+    }
+   }
+  },
+  "PNPT1": {
+   "literature_symbol": null,
+   "n_area": 6,
+   "n_gnomad_hc_pass": 61,
+   "n_other": 12,
+   "protein_aa": 783,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 5,
+     "gnomad_in": 5,
+     "gnomad_out": 56,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 0.4436095520592392,
+     "p_area_vs_other": 0.33333333333333326,
+     "threshold_codon": 705,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 3,
+     "gnomad_in": 18,
+     "gnomad_out": 43,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 0.36816229028554504,
+     "p_area_vs_other": 0.024509803921568627,
+     "threshold_codon": 588,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 3,
+     "gnomad_out": 58,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 733,
+     "threshold_rel": 0.936
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 3,
+     "gnomad_out": 58,
+     "other_in": 0,
+     "other_out": 12,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 716,
+     "threshold_rel": 0.914
+    }
+   }
+  },
+  "POLR1C": {
+   "literature_symbol": null,
+   "n_area": 16,
+   "n_gnomad_hc_pass": 83,
+   "n_other": 6,
+   "protein_aa": 346,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 15,
+     "gnomad_in": 8,
+     "gnomad_out": 75,
+     "other_in": 1,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.48051948051948057,
+     "threshold_codon": 312,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 13,
+     "gnomad_in": 23,
+     "gnomad_out": 60,
+     "other_in": 2,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.549816981414202,
+     "p_area_vs_other": 0.5853269537480065,
+     "threshold_codon": 260,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 15,
+     "gnomad_in": 10,
+     "gnomad_out": 73,
+     "other_in": 1,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.6870839957903587,
+     "p_area_vs_other": 0.48051948051948057,
+     "threshold_codon": 308,
+     "threshold_rel": 0.89
+    },
+    "nmd_50nt_rule": {
+     "area_in": 1,
+     "area_out": 15,
+     "gnomad_in": 17,
+     "gnomad_out": 66,
+     "other_in": 2,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.2908661877099057,
+     "p_area_vs_other": 0.16883116883116883,
+     "threshold_codon": 291,
+     "threshold_rel": 0.841
+    }
+   }
+  },
+  "PRKN": {
+   "literature_symbol": null,
+   "n_area": 13,
+   "n_gnomad_hc_pass": 80,
+   "n_other": 2,
+   "protein_aa": 465,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 10,
+     "gnomad_in": 10,
+     "gnomad_out": 70,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.38339604168495206,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 419,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 10,
+     "gnomad_in": 15,
+     "gnomad_out": 65,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.711270858074412,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 349,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 1,
+     "area_out": 12,
+     "gnomad_in": 10,
+     "gnomad_out": 70,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 429,
+     "threshold_rel": 0.923
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 10,
+     "gnomad_in": 10,
+     "gnomad_out": 70,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.38339604168495206,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 412,
+     "threshold_rel": 0.886
+    }
+   }
+  },
+  "PRODH": {
+   "literature_symbol": null,
+   "n_area": 2,
+   "n_gnomad_hc_pass": 2,
+   "n_other": 11,
+   "protein_aa": 600,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 0,
+     "other_out": 11,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 541,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 1,
+     "gnomad_out": 1,
+     "other_in": 0,
+     "other_out": 11,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 451,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 0,
+     "other_out": 11,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 539,
+     "threshold_rel": 0.898
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 2,
+     "gnomad_in": 0,
+     "gnomad_out": 2,
+     "other_in": 0,
+     "other_out": 11,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 522,
+     "threshold_rel": 0.87
+    }
+   }
+  },
+  "PRRT2": {
+   "literature_symbol": null,
+   "n_area": 88,
+   "n_gnomad_hc_pass": 55,
+   "n_other": 11,
+   "protein_aa": 340,
+   "windows": {
+    "last_10pct": {
+     "area_in": 8,
+     "area_out": 80,
+     "gnomad_in": 14,
+     "gnomad_out": 41,
+     "other_in": 1,
+     "other_out": 10,
+     "p_area_vs_gnomad": 0.01557264828142836,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 307,
+     "threshold_rel": 0.903
+    },
+    "last_25pct": {
+     "area_in": 21,
+     "area_out": 67,
+     "gnomad_in": 20,
+     "gnomad_out": 35,
+     "other_in": 2,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.12958694394296205,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 256,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 88,
+     "gnomad_in": 12,
+     "gnomad_out": 43,
+     "other_in": 0,
+     "other_out": 11,
+     "p_area_vs_gnomad": 4.618968589089895e-06,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 338,
+     "threshold_rel": 0.994
+    },
+    "nmd_50nt_rule": {
+     "area_in": 6,
+     "area_out": 82,
+     "gnomad_in": 14,
+     "gnomad_out": 41,
+     "other_in": 1,
+     "other_out": 10,
+     "p_area_vs_gnomad": 0.00262493541858915,
+     "p_area_vs_other": 0.5735659377601974,
+     "threshold_codon": 321,
+     "threshold_rel": 0.944
+    }
+   }
+  },
+  "PSAP": {
+   "literature_symbol": null,
+   "n_area": 10,
+   "n_gnomad_hc_pass": 38,
+   "n_other": 27,
+   "protein_aa": 524,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 9,
+     "gnomad_in": 8,
+     "gnomad_out": 30,
+     "other_in": 1,
+     "other_out": 26,
+     "p_area_vs_gnomad": 0.661374234377845,
+     "p_area_vs_other": 0.472972972972973,
+     "threshold_codon": 472,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 7,
+     "gnomad_in": 13,
+     "gnomad_out": 25,
+     "other_in": 10,
+     "other_out": 17,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 394,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 3,
+     "gnomad_out": 35,
+     "other_in": 0,
+     "other_out": 27,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 514,
+     "threshold_rel": 0.981
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 10,
+     "gnomad_in": 5,
+     "gnomad_out": 33,
+     "other_in": 0,
+     "other_out": 27,
+     "p_area_vs_gnomad": 0.5689141647744793,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 497,
+     "threshold_rel": 0.948
+    }
+   }
+  },
+  "PTCH1": {
+   "literature_symbol": null,
+   "n_area": 8,
+   "n_gnomad_hc_pass": 47,
+   "n_other": 502,
+   "protein_aa": 1447,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 8,
+     "gnomad_in": 16,
+     "gnomad_out": 31,
+     "other_in": 2,
+     "other_out": 500,
+     "p_area_vs_gnomad": 0.0885667199984625,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1303,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 7,
+     "gnomad_in": 22,
+     "gnomad_out": 25,
+     "other_in": 35,
+     "other_out": 467,
+     "p_area_vs_gnomad": 0.1201889638293634,
+     "p_area_vs_other": 0.44558397347261086,
+     "threshold_codon": 1086,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 8,
+     "gnomad_in": 19,
+     "gnomad_out": 28,
+     "other_in": 2,
+     "other_out": 500,
+     "p_area_vs_gnomad": 0.04044383289666309,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1269,
+     "threshold_rel": 0.877
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 8,
+     "gnomad_in": 19,
+     "gnomad_out": 28,
+     "other_in": 2,
+     "other_out": 500,
+     "p_area_vs_gnomad": 0.04044383289666309,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1252,
+     "threshold_rel": 0.865
+    }
+   }
+  },
+  "REEP1": {
+   "literature_symbol": null,
+   "n_area": 33,
+   "n_gnomad_hc_pass": 40,
+   "n_other": 6,
+   "protein_aa": 284,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 33,
+     "gnomad_in": 8,
+     "gnomad_out": 32,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.006754053686823898,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 256,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 33,
+     "gnomad_in": 13,
+     "gnomad_out": 27,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.00014612588015019585,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 214,
+     "threshold_rel": 0.754
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 33,
+     "gnomad_in": 7,
+     "gnomad_out": 33,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.014064275644407032,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 262,
+     "threshold_rel": 0.923
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 33,
+     "gnomad_in": 10,
+     "gnomad_out": 30,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.0015132525856289861,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 245,
+     "threshold_rel": 0.863
+    }
+   }
+  },
+  "RELN": {
+   "literature_symbol": null,
+   "n_area": 54,
+   "n_gnomad_hc_pass": 138,
+   "n_other": 17,
+   "protein_aa": 3460,
+   "windows": {
+    "last_10pct": {
+     "area_in": 4,
+     "area_out": 50,
+     "gnomad_in": 20,
+     "gnomad_out": 118,
+     "other_in": 4,
+     "other_out": 13,
+     "p_area_vs_gnomad": 0.22945251909709113,
+     "p_area_vs_other": 0.0869384497653136,
+     "threshold_codon": 3115,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 12,
+     "area_out": 42,
+     "gnomad_in": 45,
+     "gnomad_out": 93,
+     "other_in": 4,
+     "other_out": 13,
+     "p_area_vs_gnomad": 0.2183893818417305,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2596,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 54,
+     "gnomad_in": 13,
+     "gnomad_out": 125,
+     "other_in": 1,
+     "other_out": 16,
+     "p_area_vs_gnomad": 0.02117291227042121,
+     "p_area_vs_other": 0.23943661971830987,
+     "threshold_codon": 3429,
+     "threshold_rel": 0.991
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 54,
+     "gnomad_in": 13,
+     "gnomad_out": 125,
+     "other_in": 1,
+     "other_out": 16,
+     "p_area_vs_gnomad": 0.02117291227042121,
+     "p_area_vs_other": 0.23943661971830987,
+     "threshold_codon": 3413,
+     "threshold_rel": 0.986
+    }
+   }
+  },
+  "RPS6KA3": {
+   "literature_symbol": null,
+   "n_area": 17,
+   "n_gnomad_hc_pass": 15,
+   "n_other": 38,
+   "protein_aa": 740,
+   "windows": {
+    "last_10pct": {
+     "area_in": 5,
+     "area_out": 12,
+     "gnomad_in": 0,
+     "gnomad_out": 15,
+     "other_in": 7,
+     "other_out": 31,
+     "p_area_vs_gnomad": 0.045640989988876536,
+     "p_area_vs_other": 0.4820542017302528,
+     "threshold_codon": 667,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 6,
+     "area_out": 11,
+     "gnomad_in": 0,
+     "gnomad_out": 15,
+     "other_in": 13,
+     "other_out": 25,
+     "p_area_vs_gnomad": 0.01918026201952787,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 556,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 2,
+     "area_out": 15,
+     "gnomad_in": 0,
+     "gnomad_out": 15,
+     "other_in": 3,
+     "other_out": 35,
+     "p_area_vs_gnomad": 0.4858870967741936,
+     "p_area_vs_other": 0.639281054375394,
+     "threshold_codon": 701,
+     "threshold_rel": 0.947
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 14,
+     "gnomad_in": 0,
+     "gnomad_out": 15,
+     "other_in": 6,
+     "other_out": 32,
+     "p_area_vs_gnomad": 0.22883064516129034,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 684,
+     "threshold_rel": 0.924
+    }
+   }
+  },
+  "RTN2": {
+   "literature_symbol": null,
+   "n_area": 6,
+   "n_gnomad_hc_pass": 58,
+   "n_other": 3,
+   "protein_aa": 545,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 1,
+     "gnomad_out": 57,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 491,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 6,
+     "gnomad_out": 52,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 409,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 1,
+     "gnomad_out": 57,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 519,
+     "threshold_rel": 0.952
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 1,
+     "gnomad_out": 57,
+     "other_in": 0,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 503,
+     "threshold_rel": 0.923
+    }
+   }
+  },
+  "SCN1B": {
+   "literature_symbol": null,
+   "n_area": 0,
+   "n_gnomad_hc_pass": 22,
+   "n_other": 15,
+   "protein_aa": 218,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 3,
+     "gnomad_out": 19,
+     "other_in": 0,
+     "other_out": 15,
+     "threshold_codon": 197,
+     "threshold_rel": 0.904
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 5,
+     "gnomad_out": 17,
+     "other_in": 1,
+     "other_out": 14,
+     "threshold_codon": 164,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 3,
+     "gnomad_out": 19,
+     "other_in": 0,
+     "other_out": 15,
+     "threshold_codon": 197,
+     "threshold_rel": 0.904
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 5,
+     "gnomad_out": 17,
+     "other_in": 0,
+     "other_out": 15,
+     "threshold_codon": 181,
+     "threshold_rel": 0.83
+    }
+   }
+  },
+  "SETBP1": {
+   "literature_symbol": null,
+   "n_area": 45,
+   "n_gnomad_hc_pass": 24,
+   "n_other": 9,
+   "protein_aa": 1596,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 43,
+     "gnomad_in": 19,
+     "gnomad_out": 5,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.5773885732340526e-10,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1437,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 9,
+     "area_out": 36,
+     "gnomad_in": 19,
+     "gnomad_out": 5,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 2.4528203208598922e-06,
+     "p_area_vs_other": 0.32800152159025675,
+     "threshold_codon": 1198,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 42,
+     "gnomad_in": 19,
+     "gnomad_out": 5,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0425901017227652e-09,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1391,
+     "threshold_rel": 0.872
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 42,
+     "gnomad_in": 19,
+     "gnomad_out": 5,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0425901017227652e-09,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1374,
+     "threshold_rel": 0.861
+    }
+   }
+  },
+  "SETD2": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 66,
+   "n_other": 42,
+   "protein_aa": 2564,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 6,
+     "gnomad_out": 60,
+     "other_in": 1,
+     "other_out": 41,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2308,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 9,
+     "gnomad_out": 57,
+     "other_in": 13,
+     "other_out": 29,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.5455954897815364,
+     "threshold_codon": 1924,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 2,
+     "gnomad_out": 64,
+     "other_in": 0,
+     "other_out": 42,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2512,
+     "threshold_rel": 0.98
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 2,
+     "gnomad_out": 64,
+     "other_in": 0,
+     "other_out": 42,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2495,
+     "threshold_rel": 0.973
+    }
+   }
+  },
+  "SHANK3": {
+   "literature_symbol": null,
+   "n_area": 15,
+   "n_gnomad_hc_pass": 128,
+   "n_other": 106,
+   "protein_aa": 1607,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 13,
+     "gnomad_in": 10,
+     "gnomad_out": 118,
+     "other_in": 30,
+     "other_out": 76,
+     "p_area_vs_gnomad": 0.6157092466455587,
+     "p_area_vs_other": 0.34913265344747385,
+     "threshold_codon": 1447,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 6,
+     "area_out": 9,
+     "gnomad_in": 14,
+     "gnomad_out": 114,
+     "other_in": 58,
+     "other_out": 48,
+     "p_area_vs_gnomad": 0.007844547859281613,
+     "p_area_vs_other": 0.40811902469437633,
+     "threshold_codon": 1206,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 4,
+     "area_out": 11,
+     "gnomad_in": 11,
+     "gnomad_out": 117,
+     "other_in": 37,
+     "other_out": 69,
+     "p_area_vs_gnomad": 0.05374627182855073,
+     "p_area_vs_other": 0.7715014198212041,
+     "threshold_codon": 1411,
+     "threshold_rel": 0.878
+    },
+    "nmd_50nt_rule": {
+     "area_in": 5,
+     "area_out": 10,
+     "gnomad_in": 13,
+     "gnomad_out": 115,
+     "other_in": 38,
+     "other_out": 68,
+     "p_area_vs_gnomad": 0.024133994028337203,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1395,
+     "threshold_rel": 0.868
+    }
+   }
+  },
+  "SHH": {
+   "literature_symbol": null,
+   "n_area": 34,
+   "n_gnomad_hc_pass": 5,
+   "n_other": 11,
+   "protein_aa": 462,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 32,
+     "gnomad_in": 0,
+     "gnomad_out": 5,
+     "other_in": 1,
+     "other_out": 10,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 416,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 4,
+     "area_out": 30,
+     "gnomad_in": 0,
+     "gnomad_out": 5,
+     "other_in": 2,
+     "other_out": 9,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.6242119763390326,
+     "threshold_codon": 347,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 14,
+     "area_out": 20,
+     "gnomad_in": 0,
+     "gnomad_out": 5,
+     "other_in": 6,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.1392201918517708,
+     "p_area_vs_other": 0.5000539923965902,
+     "threshold_codon": 188,
+     "threshold_rel": 0.407
+    },
+    "nmd_50nt_rule": {
+     "area_in": 14,
+     "area_out": 20,
+     "gnomad_in": 0,
+     "gnomad_out": 5,
+     "other_in": 6,
+     "other_out": 5,
+     "p_area_vs_gnomad": 0.1392201918517708,
+     "p_area_vs_other": 0.5000539923965902,
+     "threshold_codon": 171,
+     "threshold_rel": 0.37
+    }
+   }
+  },
+  "SIGMAR1": {
+   "literature_symbol": null,
+   "n_area": 12,
+   "n_gnomad_hc_pass": 34,
+   "n_other": 1,
+   "protein_aa": 223,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 4,
+     "gnomad_out": 30,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.5599595551061679,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 201,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 11,
+     "gnomad_in": 7,
+     "gnomad_out": 27,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.6598217667639847,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 168,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 9,
+     "gnomad_in": 11,
+     "gnomad_out": 23,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.7294101472931245,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 149,
+     "threshold_rel": 0.668
+    },
+    "nmd_50nt_rule": {
+     "area_in": 4,
+     "area_out": 8,
+     "gnomad_in": 12,
+     "gnomad_out": 22,
+     "other_in": 0,
+     "other_out": 1,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 132,
+     "threshold_rel": 0.592
+    }
+   }
+  },
+  "SLC25A46": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 60,
+   "n_other": 10,
+   "protein_aa": 418,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 6,
+     "gnomad_out": 54,
+     "other_in": 0,
+     "other_out": 10,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 377,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 13,
+     "gnomad_out": 47,
+     "other_in": 3,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.5279720279720279,
+     "threshold_codon": 314,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 2,
+     "area_out": 1,
+     "gnomad_in": 25,
+     "gnomad_out": 35,
+     "other_in": 4,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.5716552088841883,
+     "p_area_vs_other": 0.5594405594405595,
+     "threshold_codon": 227,
+     "threshold_rel": 0.543
+    },
+    "nmd_50nt_rule": {
+     "area_in": 2,
+     "area_out": 1,
+     "gnomad_in": 30,
+     "gnomad_out": 30,
+     "other_in": 4,
+     "other_out": 6,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.5594405594405595,
+     "threshold_codon": 210,
+     "threshold_rel": 0.502
+    }
+   }
+  },
+  "SLC2A1": {
+   "literature_symbol": null,
+   "n_area": 40,
+   "n_gnomad_hc_pass": 10,
+   "n_other": 70,
+   "protein_aa": 492,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 38,
+     "gnomad_in": 5,
+     "gnomad_out": 5,
+     "other_in": 6,
+     "other_out": 64,
+     "p_area_vs_gnomad": 0.00205317346852962,
+     "p_area_vs_other": 0.7081373246707097,
+     "threshold_codon": 443,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 33,
+     "gnomad_in": 5,
+     "gnomad_out": 5,
+     "other_in": 18,
+     "other_out": 52,
+     "p_area_vs_gnomad": 0.046024926425838796,
+     "p_area_vs_other": 0.35556297406496895,
+     "threshold_codon": 370,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 37,
+     "gnomad_in": 5,
+     "gnomad_out": 5,
+     "other_in": 7,
+     "other_out": 63,
+     "p_area_vs_gnomad": 0.004951593809886089,
+     "p_area_vs_other": 0.7444926710225162,
+     "threshold_codon": 427,
+     "threshold_rel": 0.868
+    },
+    "nmd_50nt_rule": {
+     "area_in": 3,
+     "area_out": 37,
+     "gnomad_in": 5,
+     "gnomad_out": 5,
+     "other_in": 10,
+     "other_out": 60,
+     "p_area_vs_gnomad": 0.004951593809886089,
+     "p_area_vs_other": 0.3680382537486433,
+     "threshold_codon": 410,
+     "threshold_rel": 0.833
+    }
+   }
+  },
+  "SMARCA4": {
+   "literature_symbol": null,
+   "n_area": 3,
+   "n_gnomad_hc_pass": 62,
+   "n_other": 191,
+   "protein_aa": 1647,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 9,
+     "gnomad_out": 53,
+     "other_in": 16,
+     "other_out": 175,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1483,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 16,
+     "gnomad_out": 46,
+     "other_in": 36,
+     "other_out": 155,
+     "p_area_vs_gnomad": 0.5692307692307692,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1236,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 1,
+     "gnomad_out": 61,
+     "other_in": 0,
+     "other_out": 191,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1638,
+     "threshold_rel": 0.995
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 3,
+     "gnomad_in": 4,
+     "gnomad_out": 58,
+     "other_in": 0,
+     "other_out": 191,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1621,
+     "threshold_rel": 0.984
+    }
+   }
+  },
+  "SMARCB1": {
+   "literature_symbol": null,
+   "n_area": 0,
+   "n_gnomad_hc_pass": 13,
+   "n_other": 42,
+   "protein_aa": 385,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 2,
+     "gnomad_out": 11,
+     "other_in": 3,
+     "other_out": 39,
+     "threshold_codon": 347,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 3,
+     "gnomad_out": 10,
+     "other_in": 8,
+     "other_out": 34,
+     "threshold_codon": 289,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 1,
+     "gnomad_out": 12,
+     "other_in": 1,
+     "other_out": 41,
+     "threshold_codon": 373,
+     "threshold_rel": 0.969
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 0,
+     "gnomad_in": 1,
+     "gnomad_out": 12,
+     "other_in": 1,
+     "other_out": 41,
+     "threshold_codon": 357,
+     "threshold_rel": 0.927
+    }
+   }
+  },
+  "SMC1A": {
+   "literature_symbol": null,
+   "n_area": 83,
+   "n_gnomad_hc_pass": 9,
+   "n_other": 6,
+   "protein_aa": 1233,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 82,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.18705207835642615,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1110,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 22,
+     "area_out": 61,
+     "gnomad_in": 4,
+     "gnomad_out": 5,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.26484189577122424,
+     "p_area_vs_other": 0.3296843024713376,
+     "threshold_codon": 925,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 83,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.09782608695652174,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1207,
+     "threshold_rel": 0.979
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 83,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "other_in": 0,
+     "other_out": 6,
+     "p_area_vs_gnomad": 0.09782608695652174,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1190,
+     "threshold_rel": 0.965
+    }
+   }
+  },
+  "SPG11": {
+   "literature_symbol": null,
+   "n_area": 348,
+   "n_gnomad_hc_pass": 475,
+   "n_other": 25,
+   "protein_aa": 2443,
+   "windows": {
+    "last_10pct": {
+     "area_in": 36,
+     "area_out": 312,
+     "gnomad_in": 82,
+     "gnomad_out": 393,
+     "other_in": 2,
+     "other_out": 23,
+     "p_area_vs_gnomad": 0.006377857093405277,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2199,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 96,
+     "area_out": 252,
+     "gnomad_in": 152,
+     "gnomad_out": 323,
+     "other_in": 8,
+     "other_out": 17,
+     "p_area_vs_gnomad": 0.1912176168639793,
+     "p_area_vs_other": 0.6471326736459762,
+     "threshold_codon": 1833,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 5,
+     "area_out": 343,
+     "gnomad_in": 24,
+     "gnomad_out": 451,
+     "other_in": 0,
+     "other_out": 25,
+     "p_area_vs_gnomad": 0.006418319424981086,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2384,
+     "threshold_rel": 0.976
+    },
+    "nmd_50nt_rule": {
+     "area_in": 7,
+     "area_out": 341,
+     "gnomad_in": 34,
+     "gnomad_out": 441,
+     "other_in": 1,
+     "other_out": 24,
+     "p_area_vs_gnomad": 0.0005783328893282218,
+     "p_area_vs_other": 0.42906295830412106,
+     "threshold_codon": 2368,
+     "threshold_rel": 0.969
+    }
+   }
+  },
+  "SPTAN1": {
+   "literature_symbol": null,
+   "n_area": 15,
+   "n_gnomad_hc_pass": 80,
+   "n_other": 42,
+   "protein_aa": 2477,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 15,
+     "gnomad_in": 16,
+     "gnomad_out": 64,
+     "other_in": 5,
+     "other_out": 37,
+     "p_area_vs_gnomad": 0.06685290445017865,
+     "p_area_vs_other": 0.3111351850180053,
+     "threshold_codon": 2230,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 12,
+     "gnomad_in": 27,
+     "gnomad_out": 53,
+     "other_in": 9,
+     "other_out": 33,
+     "p_area_vs_gnomad": 0.3746704778104607,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1858,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 15,
+     "gnomad_in": 2,
+     "gnomad_out": 78,
+     "other_in": 0,
+     "other_out": 42,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2437,
+     "threshold_rel": 0.984
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 15,
+     "gnomad_in": 3,
+     "gnomad_out": 77,
+     "other_in": 0,
+     "other_out": 42,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2420,
+     "threshold_rel": 0.977
+    }
+   }
+  },
+  "SQSTM1": {
+   "literature_symbol": null,
+   "n_area": 35,
+   "n_gnomad_hc_pass": 80,
+   "n_other": 5,
+   "protein_aa": 440,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 35,
+     "gnomad_in": 13,
+     "gnomad_out": 67,
+     "other_in": 1,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.009072795302392607,
+     "p_area_vs_other": 0.125,
+     "threshold_codon": 397,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 8,
+     "area_out": 27,
+     "gnomad_in": 29,
+     "gnomad_out": 51,
+     "other_in": 4,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.19552948304713075,
+     "p_area_vs_other": 0.022267206477732795,
+     "threshold_codon": 331,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 4,
+     "area_out": 31,
+     "gnomad_in": 15,
+     "gnomad_out": 65,
+     "other_in": 1,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.42005714967520036,
+     "p_area_vs_other": 0.5066442961179805,
+     "threshold_codon": 389,
+     "threshold_rel": 0.884
+    },
+    "nmd_50nt_rule": {
+     "area_in": 6,
+     "area_out": 29,
+     "gnomad_in": 21,
+     "gnomad_out": 59,
+     "other_in": 3,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.34566457450471855,
+     "p_area_vs_other": 0.06548856548856549,
+     "threshold_codon": 372,
+     "threshold_rel": 0.845
+    }
+   }
+  },
+  "STAG2": {
+   "literature_symbol": null,
+   "n_area": 6,
+   "n_gnomad_hc_pass": 15,
+   "n_other": 16,
+   "protein_aa": 1268,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 3,
+     "gnomad_out": 12,
+     "other_in": 1,
+     "other_out": 15,
+     "p_area_vs_gnomad": 0.5263157894736843,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1142,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 3,
+     "gnomad_in": 4,
+     "gnomad_out": 11,
+     "other_in": 3,
+     "other_out": 13,
+     "p_area_vs_gnomad": 0.35436016511867907,
+     "p_area_vs_other": 0.28285955530537576,
+     "threshold_codon": 952,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 0,
+     "gnomad_out": 15,
+     "other_in": 0,
+     "other_out": 16,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1262,
+     "threshold_rel": 0.995
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 6,
+     "gnomad_in": 0,
+     "gnomad_out": 15,
+     "other_in": 0,
+     "other_out": 16,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1245,
+     "threshold_rel": 0.982
+    }
+   }
+  },
+  "SYNE1": {
+   "literature_symbol": null,
+   "n_area": 168,
+   "n_gnomad_hc_pass": 864,
+   "n_other": 41,
+   "protein_aa": 8797,
+   "windows": {
+    "last_10pct": {
+     "area_in": 14,
+     "area_out": 154,
+     "gnomad_in": 79,
+     "gnomad_out": 785,
+     "other_in": 7,
+     "other_out": 34,
+     "p_area_vs_gnomad": 0.8829073503475299,
+     "p_area_vs_other": 0.14187567182994762,
+     "threshold_codon": 7918,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 44,
+     "area_out": 124,
+     "gnomad_in": 211,
+     "gnomad_out": 653,
+     "other_in": 13,
+     "other_out": 28,
+     "p_area_vs_gnomad": 0.6258511735095671,
+     "p_area_vs_other": 0.5576075047208393,
+     "threshold_codon": 6598,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 168,
+     "gnomad_in": 3,
+     "gnomad_out": 861,
+     "other_in": 1,
+     "other_out": 40,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.19617224880382775,
+     "threshold_codon": 8718,
+     "threshold_rel": 0.991
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 168,
+     "gnomad_in": 3,
+     "gnomad_out": 861,
+     "other_in": 1,
+     "other_out": 40,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.19617224880382775,
+     "threshold_codon": 8702,
+     "threshold_rel": 0.989
+    }
+   }
+  },
+  "TBC1D24": {
+   "literature_symbol": null,
+   "n_area": 34,
+   "n_gnomad_hc_pass": 86,
+   "n_other": 9,
+   "protein_aa": 559,
+   "windows": {
+    "last_10pct": {
+     "area_in": 3,
+     "area_out": 31,
+     "gnomad_in": 13,
+     "gnomad_out": 73,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.5523023714493847,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 504,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 10,
+     "area_out": 24,
+     "gnomad_in": 28,
+     "gnomad_out": 58,
+     "other_in": 2,
+     "other_out": 7,
+     "p_area_vs_gnomad": 0.8294064397028973,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 420,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 3,
+     "area_out": 31,
+     "gnomad_in": 13,
+     "gnomad_out": 73,
+     "other_in": 0,
+     "other_out": 9,
+     "p_area_vs_gnomad": 0.5523023714493847,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 509,
+     "threshold_rel": 0.911
+    },
+    "nmd_50nt_rule": {
+     "area_in": 5,
+     "area_out": 29,
+     "gnomad_in": 15,
+     "gnomad_out": 71,
+     "other_in": 1,
+     "other_out": 8,
+     "p_area_vs_gnomad": 0.7928319272499771,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 492,
+     "threshold_rel": 0.88
+    }
+   }
+  },
+  "TBK1": {
+   "literature_symbol": null,
+   "n_area": 47,
+   "n_gnomad_hc_pass": 58,
+   "n_other": 4,
+   "protein_aa": 729,
+   "windows": {
+    "last_10pct": {
+     "area_in": 2,
+     "area_out": 45,
+     "gnomad_in": 6,
+     "gnomad_out": 52,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.2923536538891837,
+     "p_area_vs_other": 0.2213685474189676,
+     "threshold_codon": 657,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 12,
+     "area_out": 35,
+     "gnomad_in": 14,
+     "gnomad_out": 44,
+     "other_in": 2,
+     "other_out": 2,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.30042016806722693,
+     "threshold_codon": 547,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 47,
+     "gnomad_in": 4,
+     "gnomad_out": 54,
+     "other_in": 0,
+     "other_out": 4,
+     "p_area_vs_gnomad": 0.12606820173924685,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 713,
+     "threshold_rel": 0.978
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 47,
+     "gnomad_in": 4,
+     "gnomad_out": 54,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.12606820173924685,
+     "p_area_vs_other": 0.07843137254901962,
+     "threshold_codon": 697,
+     "threshold_rel": 0.956
+    }
+   }
+  },
+  "TBL1XR1": {
+   "literature_symbol": null,
+   "n_area": 12,
+   "n_gnomad_hc_pass": 6,
+   "n_other": 15,
+   "protein_aa": 514,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 0,
+     "gnomad_out": 6,
+     "other_in": 1,
+     "other_out": 14,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 463,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 9,
+     "gnomad_in": 0,
+     "gnomad_out": 6,
+     "other_in": 4,
+     "other_out": 11,
+     "p_area_vs_gnomad": 0.5147058823529411,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 386,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 0,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 15,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 507,
+     "threshold_rel": 0.986
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 0,
+     "gnomad_out": 6,
+     "other_in": 0,
+     "other_out": 15,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 490,
+     "threshold_rel": 0.953
+    }
+   }
+  },
+  "TREM2": {
+   "literature_symbol": null,
+   "n_area": 7,
+   "n_gnomad_hc_pass": 38,
+   "n_other": 0,
+   "protein_aa": 230,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 1,
+     "gnomad_out": 37,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 208,
+     "threshold_rel": 0.904
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 6,
+     "gnomad_in": 7,
+     "gnomad_out": 31,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 173,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 0,
+     "gnomad_out": 38,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 226,
+     "threshold_rel": 0.983
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 7,
+     "gnomad_in": 1,
+     "gnomad_out": 37,
+     "other_in": 0,
+     "other_out": 0,
+     "p_area_vs_gnomad": 1.0,
+     "threshold_codon": 209,
+     "threshold_rel": 0.909
+    }
+   }
+  },
+  "VRK1": {
+   "literature_symbol": null,
+   "n_area": 76,
+   "n_gnomad_hc_pass": 77,
+   "n_other": 2,
+   "protein_aa": 396,
+   "windows": {
+    "last_10pct": {
+     "area_in": 11,
+     "area_out": 65,
+     "gnomad_in": 32,
+     "gnomad_out": 45,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.00027076542406039375,
+     "p_area_vs_other": 0.28571428571428564,
+     "threshold_codon": 357,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "area_in": 20,
+     "area_out": 56,
+     "gnomad_in": 43,
+     "gnomad_out": 34,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.00027977969228564864,
+     "p_area_vs_other": 0.46853146853146854,
+     "threshold_codon": 298,
+     "threshold_rel": 0.753
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 76,
+     "gnomad_in": 13,
+     "gnomad_out": 64,
+     "other_in": 0,
+     "other_out": 2,
+     "p_area_vs_gnomad": 0.00014058278525205028,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 387,
+     "threshold_rel": 0.977
+    },
+    "nmd_50nt_rule": {
+     "area_in": 8,
+     "area_out": 68,
+     "gnomad_in": 19,
+     "gnomad_out": 58,
+     "other_in": 1,
+     "other_out": 1,
+     "p_area_vs_gnomad": 0.03272412753404706,
+     "p_area_vs_other": 0.21878121878121884,
+     "threshold_codon": 370,
+     "threshold_rel": 0.934
+    }
+   }
+  },
+  "WASHC5": {
+   "literature_symbol": null,
+   "n_area": 11,
+   "n_gnomad_hc_pass": 163,
+   "n_other": 8,
+   "protein_aa": 1159,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 10,
+     "gnomad_in": 18,
+     "gnomad_out": 145,
+     "other_in": 1,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1044,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 3,
+     "area_out": 8,
+     "gnomad_in": 44,
+     "gnomad_out": 119,
+     "other_in": 2,
+     "other_out": 6,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 870,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 11,
+     "gnomad_in": 4,
+     "gnomad_out": 159,
+     "other_in": 0,
+     "other_out": 8,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1142,
+     "threshold_rel": 0.985
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 11,
+     "gnomad_in": 6,
+     "gnomad_out": 157,
+     "other_in": 0,
+     "other_out": 8,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1125,
+     "threshold_rel": 0.971
+    }
+   }
+  },
+  "WDR11": {
+   "literature_symbol": null,
+   "n_area": 5,
+   "n_gnomad_hc_pass": 129,
+   "n_other": 7,
+   "protein_aa": 1224,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 14,
+     "gnomad_out": 115,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1102,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 1,
+     "area_out": 4,
+     "gnomad_in": 34,
+     "gnomad_out": 95,
+     "other_in": 2,
+     "other_out": 5,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 919,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 1,
+     "gnomad_out": 128,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1173,
+     "threshold_rel": 0.958
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 5,
+     "gnomad_in": 2,
+     "gnomad_out": 127,
+     "other_in": 0,
+     "other_out": 7,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 1156,
+     "threshold_rel": 0.944
+    }
+   }
+  },
+  "WWOX": {
+   "literature_symbol": null,
+   "n_area": 35,
+   "n_gnomad_hc_pass": 108,
+   "n_other": 4,
+   "protein_aa": 414,
+   "windows": {
+    "last_10pct": {
+     "area_in": 1,
+     "area_out": 34,
+     "gnomad_in": 5,
+     "gnomad_out": 103,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 1.0,
+     "p_area_vs_other": 0.1970310391363023,
+     "threshold_codon": 373,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "area_in": 7,
+     "area_out": 28,
+     "gnomad_in": 28,
+     "gnomad_out": 80,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.651354838599097,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 311,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "area_in": 4,
+     "area_out": 31,
+     "gnomad_in": 19,
+     "gnomad_out": 89,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.5965544273984082,
+     "p_area_vs_other": 0.43616490984912054,
+     "threshold_codon": 353,
+     "threshold_rel": 0.853
+    },
+    "nmd_50nt_rule": {
+     "area_in": 5,
+     "area_out": 30,
+     "gnomad_in": 23,
+     "gnomad_out": 85,
+     "other_in": 1,
+     "other_out": 3,
+     "p_area_vs_gnomad": 0.46606156662353027,
+     "p_area_vs_other": 0.5024984498668709,
+     "threshold_codon": 336,
+     "threshold_rel": 0.812
+    }
+   }
+  },
+  "ZFHX3": {
+   "literature_symbol": null,
+   "n_area": 12,
+   "n_gnomad_hc_pass": 182,
+   "n_other": 13,
+   "protein_aa": 3703,
+   "windows": {
+    "last_10pct": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 89,
+     "gnomad_out": 93,
+     "other_in": 0,
+     "other_out": 13,
+     "p_area_vs_gnomad": 0.0005220650001464761,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 3333,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 123,
+     "gnomad_out": 59,
+     "other_in": 1,
+     "other_out": 12,
+     "p_area_vs_gnomad": 3.05335783681607e-06,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 2778,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 112,
+     "gnomad_out": 70,
+     "other_in": 1,
+     "other_out": 12,
+     "p_area_vs_gnomad": 1.9758750482489467e-05,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 3143,
+     "threshold_rel": 0.849
+    },
+    "nmd_50nt_rule": {
+     "area_in": 0,
+     "area_out": 12,
+     "gnomad_in": 113,
+     "gnomad_out": 69,
+     "other_in": 1,
+     "other_out": 12,
+     "p_area_vs_gnomad": 1.6867226021637353e-05,
+     "p_area_vs_other": 1.0,
+     "threshold_codon": 3126,
+     "threshold_rel": 0.844
+    }
+   }
+  }
+ },
+ "pooled": {
+  "last_10pct": {
+   "area_in": 273,
+   "area_out": 3660,
+   "other_in": 302,
+   "other_out": 4211,
+   "p": 0.6650972342474551
+  },
+  "last_25pct": {
+   "area_in": 986,
+   "area_out": 2947,
+   "other_in": 952,
+   "other_out": 3561,
+   "p": 1.6485484027645576e-05
+  },
+  "last_exon": {
+   "area_in": 653,
+   "area_out": 3280,
+   "other_in": 283,
+   "other_out": 4230,
+   "p": 4.260321619409353e-52
+  },
+  "nmd_50nt_rule": {
+   "area_in": 717,
+   "area_out": 3216,
+   "other_in": 323,
+   "other_out": 4190,
+   "p": 2.0157768624221447e-54
+  }
+ }
+}

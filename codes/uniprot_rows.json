@@ -1,0 +1,8538 @@
+{
+"queried_utc": "2026-11-11T09:05:12Z",
+"symbols": {
+"AARS1": {
+"error": null,
+"rows": [
+"P49588\t968\tAARS1"
+]
+},
+"AARS2": {
+"error": null,
+"rows": [
+"Q5JTZ9\t985\tAARS2"
+]
+},
+"ABCA2": {
+"error": null,
+"rows": [
+"Q9BZC7\t2435\tABCA2"
+]
+},
+"ABCA7": {
+"error": null,
+"rows": [
+"Q8IZY2\t2146\tABCA7"
+]
+},
+"ABCB1": {
+"error": null,
+"rows": [
+"P08183\t1280\tABCB1"
+]
+},
+"ABCB7": {
+"error": null,
+"rows": [
+"O75027\t752\tABCB7"
+]
+},
+"ABCC9": {
+"error": null,
+"rows": [
+"O60706\t1549\tABCC9"
+]
+},
+"ABCD1": {
+"error": null,
+"rows": [
+"P33897\t745\tABCD1"
+]
+},
+"ABHD16A": {
+"error": null,
+"rows": [
+"O95870\t558\tABHD16A"
+]
+},
+"ACBD5": {
+"error": null,
+"rows": [
+"Q5T8D3\t534\tACBD5"
+]
+},
+"ACBD6": {
+"error": null,
+"rows": [
+"Q9BR61\t282\tACBD6"
+]
+},
+"ACO2": {
+"error": null,
+"rows": [
+"Q99798\t780\tACO2"
+]
+},
+"ACSL4": {
+"error": null,
+"rows": [
+"O60488\t711\tACSL4"
+]
+},
+"ACTA2": {
+"error": null,
+"rows": [
+"P62736\t377\tACTA2"
+]
+},
+"ACTB": {
+"error": null,
+"rows": [
+"P60709\t375\tACTB"
+]
+},
+"ACTL6B": {
+"error": null,
+"rows": [
+"O94805\t426\tACTL6B"
+]
+},
+"ADAM10": {
+"error": null,
+"rows": [
+"O14672\t748\tADAM10"
+]
+},
+"ADAM22": {
+"error": null,
+"rows": [
+"Q9P0K1\t906\tADAM22"
+]
+},
+"ADAR": {
+"error": null,
+"rows": [
+"P55265\t1226\tADAR"
+]
+},
+"ADARB1": {
+"error": null,
+"rows": [
+"P78563\t741\tADARB1"
+]
+},
+"ADAT3": {
+"error": null,
+"rows": [
+"Q96EY9\t367\tADAT3"
+]
+},
+"ADCY5": {
+"error": null,
+"rows": [
+"O95622\t1261\tADCY5"
+]
+},
+"ADD3": {
+"error": null,
+"rows": [
+"Q9UEY8\t706\tADD3"
+]
+},
+"ADGRG1": {
+"error": null,
+"rows": [
+"Q9Y653\t693\tADGRG1"
+]
+},
+"ADGRL1": {
+"error": null,
+"rows": [
+"O94910\t1474\tADGRL1"
+]
+},
+"ADGRV1": {
+"error": null,
+"rows": [
+"Q8WXG9\t6306\tADGRV1"
+]
+},
+"ADH1C": {
+"error": null,
+"rows": [
+"P00326\t375\tADH1C"
+]
+},
+"ADNP": {
+"error": null,
+"rows": [
+"Q9H2P0\t1102\tADNP"
+]
+},
+"ADPRS": {
+"error": null,
+"rows": [
+"Q9NX46\t363\tADPRS"
+]
+},
+"AFG2A": {
+"error": null,
+"rows": [
+"Q8NB90\t893\tAFG2A"
+]
+},
+"AFG2B": {
+"error": null,
+"rows": [
+"Q9BVQ7\t753\tAFG2B"
+]
+},
+"AFG3L2": {
+"error": null,
+"rows": [
+"Q9Y4W6\t797\tAFG3L2"
+]
+},
+"AGO1": {
+"error": null,
+"rows": [
+"Q9UL18\t857\tAGO1"
+]
+},
+"AGTPBP1": {
+"error": null,
+"rows": [
+"Q9UPW5\t1226\tAGTPBP1"
+]
+},
+"AHDC1": {
+"error": null,
+"rows": [
+"Q5TGY3\t1603\tAHDC1"
+]
+},
+"AHI1": {
+"error": null,
+"rows": [
+"Q8N157\t1196\tAHI1",
+"P0C7V0\t271\tAHI1-DT"
+]
+},
+"AHSG": {
+"error": null,
+"rows": [
+"P02765\t367\tAHSG"
+]
+},
+"AIMP1": {
+"error": null,
+"rows": [
+"Q12904\t312\tAIMP1"
+]
+},
+"AIMP2": {
+"error": null,
+"rows": [
+"Q13155\t320\tAIMP2"
+]
+},
+"AKT3": {
+"error": null,
+"rows": [
+"Q9Y243\t479\tAKT3"
+]
+},
+"ALDH18A1": {
+"error": null,
+"rows": [
+"P54886\t795\tALDH18A1"
+]
+},
+"ALDH7A1": {
+"error": null,
+"rows": [
+"P49419\t539\tALDH7A1"
+]
+},
+"ALG13": {
+"error": null,
+"rows": [
+"Q9NP73\t1137\tALG13"
+]
+},
+"ALG14": {
+"error": null,
+"rows": [
+"Q96F25\t216\tALG14"
+]
+},
+"ALKBH8": {
+"error": null,
+"rows": [
+"Q96BT7\t664\tALKBH8"
+]
+},
+"ALPK1": {
+"error": null,
+"rows": [
+"Q96QP1\t1244\tALPK1"
+]
+},
+"ALS2": {
+"error": null,
+"rows": [
+"Q96Q42\t1657\tALS2"
+]
+},
+"AMFR": {
+"error": null,
+"rows": [
+"Q9UKV5\t643\tAMFR"
+]
+},
+"AMPD2": {
+"error": null,
+"rows": [
+"Q01433\t825\tAMPD2"
+]
+},
+"AMT": {
+"error": null,
+"rows": [
+"P48728\t403\tAMT"
+]
+},
+"ANAPC7": {
+"error": null,
+"rows": [
+"Q9UJX3\t565\tANAPC7"
+]
+},
+"ANG": {
+"error": null,
+"rows": [
+"P03950\t147\tANG"
+]
+},
+"ANGPTL3": {
+"error": null,
+"rows": [
+"Q9Y5C1\t460\tANGPTL3"
+]
+},
+"ANK3": {
+"error": null,
+"rows": [
+"Q12955\t4377\tANK3"
+]
+},
+"ANKLE2": {
+"error": null,
+"rows": [
+"Q86XL3\t938\tANKLE2"
+]
+},
+"ANO1": {
+"error": null,
+"rows": [
+"Q5XXA6\t986\tANO1"
+]
+},
+"ANO10": {
+"error": null,
+"rows": [
+"Q9NW15\t660\tANO10"
+]
+},
+"ANO3": {
+"error": null,
+"rows": [
+"Q9BYT9\t981\tANO3"
+]
+},
+"ANXA11": {
+"error": null,
+"rows": [
+"P50995\t505\tANXA11"
+]
+},
+"AOPEP": {
+"error": null,
+"rows": [
+"Q8N6M6\t819\tAOPEP"
+]
+},
+"AP2M1": {
+"error": null,
+"rows": [
+"Q96CW1\t435\tAP2M1"
+]
+},
+"AP3B2": {
+"error": null,
+"rows": [
+"Q13367\t1082\tAP3B2"
+]
+},
+"AP4B1": {
+"error": null,
+"rows": [
+"Q9Y6B7\t739\tAP4B1"
+]
+},
+"AP4E1": {
+"error": null,
+"rows": [
+"Q9UPM8\t1137\tAP4E1"
+]
+},
+"AP4M1": {
+"error": null,
+"rows": [
+"O00189\t453\tAP4M1"
+]
+},
+"AP4S1": {
+"error": null,
+"rows": [
+"Q9Y587\t144\tAP4S1"
+]
+},
+"AP5Z1": {
+"error": null,
+"rows": [
+"O43299\t807\tAP5Z1"
+]
+},
+"APC2": {
+"error": null,
+"rows": [
+"P02655\t101\tAPOC2",
+"O95996\t2303\tAPC2",
+"Q9UJX6\t822\tANAPC2",
+"Q9BV35\t468\tSLC25A23"
+]
+},
+"APOB": {
+"error": null,
+"rows": [
+"P04114\t4563\tAPOB"
+]
+},
+"APOE": {
+"error": null,
+"rows": [
+"P02649\t317\tAPOE"
+]
+},
+"APOL2": {
+"error": null,
+"rows": [
+"Q9BQE5\t337\tAPOL2"
+]
+},
+"APP": {
+"error": null,
+"rows": [
+"P05067\t770\tAPP"
+]
+},
+"APTX": {
+"error": null,
+"rows": [
+"Q7Z2E3\t356\tAPTX"
+]
+},
+"AQP4": {
+"error": null,
+"rows": [
+"P55087\t323\tAQP4"
+]
+},
+"ARCN1": {
+"error": null,
+"rows": [
+"P48444\t511\tARCN1"
+]
+},
+"ARF1": {
+"error": null,
+"rows": [
+"P84077\t181\tARF1"
+]
+},
+"ARFGEF1": {
+"error": null,
+"rows": [
+"Q9Y6D6\t1849\tARFGEF1"
+]
+},
+"ARFGEF2": {
+"error": null,
+"rows": [
+"Q9Y6D5\t1785\tARFGEF2"
+]
+},
+"ARHGEF15": {
+"error": null,
+"rows": [
+"O94989\t841\tARHGEF15"
+]
+},
+"ARHGEF2": {
+"error": null,
+"rows": [
+"Q92974\t986\tARHGEF2"
+]
+},
+"ARHGEF9": {
+"error": null,
+"rows": [
+"O43307\t516\tARHGEF9"
+]
+},
+"ARID1A": {
+"error": null,
+"rows": [
+"O14497\t2285\tARID1A"
+]
+},
+"ARL13B": {
+"error": null,
+"rows": [
+"Q3SXY8\t428\tARL13B"
+]
+},
+"ARL3": {
+"error": null,
+"rows": [
+"P36405\t182\tARL3"
+]
+},
+"ARL6IP1": {
+"error": null,
+"rows": [
+"Q15041\t203\tARL6IP1"
+]
+},
+"ARMC9": {
+"error": null,
+"rows": [
+"Q7Z3E5\t818\tARMC9"
+]
+},
+"ARPC4": {
+"error": null,
+"rows": [
+"P59998\t168\tARPC4"
+]
+},
+"ARSA": {
+"error": null,
+"rows": [
+"P15289\t507\tARSA",
+"O43681\t348\tGET3"
+]
+},
+"ARV1": {
+"error": null,
+"rows": [
+"Q9H2C2\t271\tARV1"
+]
+},
+"ARX": {
+"error": null,
+"rows": [
+"Q96QS3\t562\tARX"
+]
+},
+"ASAH1": {
+"error": null,
+"rows": [
+"Q13510\t395\tASAH1"
+]
+},
+"ASCC3": {
+"error": null,
+"rows": [
+"Q8N3C0\t2202\tASCC3"
+]
+},
+"ASH1L": {
+"error": null,
+"rows": [
+"Q9NR48\t2969\tASH1L"
+]
+},
+"ASNS": {
+"error": null,
+"rows": [
+"P08243\t561\tASNS"
+]
+},
+"ASPM": {
+"error": null,
+"rows": [
+"Q8IZT6\t3477\tASPM"
+]
+},
+"ASXL3": {
+"error": null,
+"rows": [
+"Q9C0F0\t2248\tASXL3"
+]
+},
+"ATAD3A": {
+"error": null,
+"rows": [
+"Q9NVI7\t586\tATAD3A"
+]
+},
+"ATCAY": {
+"error": null,
+"rows": [
+"Q86WG3\t371\tATCAY"
+]
+},
+"ATG12": {
+"error": null,
+"rows": [
+"O94817\t140\tATG12"
+]
+},
+"ATG5": {
+"error": null,
+"rows": [
+"Q9H1Y0\t275\tATG5"
+]
+},
+"ATG7": {
+"error": null,
+"rows": [
+"O95352\t703\tATG7"
+]
+},
+"ATL1": {
+"error": null,
+"rows": [
+"Q8WXF7\t558\tATL1"
+]
+},
+"ATM": {
+"error": null,
+"rows": [
+"Q13315\t3056\tATM"
+]
+},
+"ATN1": {
+"error": null,
+"rows": [
+"P54259\t1190\tATN1"
+]
+},
+"ATP11A": {
+"error": null,
+"rows": [
+"P98196\t1134\tATP11A"
+]
+},
+"ATP13A2": {
+"error": null,
+"rows": [
+"Q9NQ11\t1180\tATP13A2"
+]
+},
+"ATP1A1": {
+"error": null,
+"rows": [
+"P05023\t1023\tATP1A1",
+"Q5TC04\t95\tATP1A1-AS1"
+]
+},
+"ATP1A2": {
+"error": null,
+"rows": [
+"P50993\t1020\tATP1A2"
+]
+},
+"ATP1A3": {
+"error": null,
+"rows": [
+"P13637\t1013\tATP1A3"
+]
+},
+"ATP2B1": {
+"error": null,
+"rows": [
+"P20020\t1220\tATP2B1"
+]
+},
+"ATP2B3": {
+"error": null,
+"rows": [
+"Q16720\t1220\tATP2B3"
+]
+},
+"ATP2B4": {
+"error": null,
+"rows": [
+"P23634\t1241\tATP2B4"
+]
+},
+"ATP5F1B": {
+"error": null,
+"rows": [
+"P06576\t529\tATP5F1B"
+]
+},
+"ATP5MC3": {
+"error": null,
+"rows": [
+"P48201\t142\tATP5MC3"
+]
+},
+"ATP6AP2": {
+"error": null,
+"rows": [
+"O75787\t350\tATP6AP2"
+]
+},
+"ATP6V0A1": {
+"error": null,
+"rows": [
+"Q93050\t837\tATP6V0A1"
+]
+},
+"ATP6V0C": {
+"error": null,
+"rows": [
+"P27449\t155\tATP6V0C"
+]
+},
+"ATP6V1A": {
+"error": null,
+"rows": [
+"P38606\t617\tATP6V1A"
+]
+},
+"ATP8A2": {
+"error": null,
+"rows": [
+"Q9NTI2\t1188\tATP8A2"
+]
+},
+"ATP9A": {
+"error": null,
+"rows": [
+"O75110\t1047\tATP9A"
+]
+},
+"ATRX": {
+"error": null,
+"rows": [
+"P46100\t2492\tATRX"
+]
+},
+"ATXN1": {
+"error": null,
+"rows": [
+"P54253\t815\tATXN1"
+]
+},
+"ATXN10": {
+"error": null,
+"rows": [
+"Q9UBB4\t475\tATXN10"
+]
+},
+"ATXN2": {
+"error": null,
+"rows": [
+"Q99700\t1313\tATXN2"
+]
+},
+"ATXN3": {
+"error": null,
+"rows": [
+"P54252\t361\tATXN3"
+]
+},
+"ATXN7": {
+"error": null,
+"rows": [
+"O15265\t892\tATXN7"
+]
+},
+"ATXN7L3": {
+"error": null,
+"rows": [
+"Q14CW9\t347\tATXN7L3"
+]
+},
+"ATXN8": {
+"error": null,
+"rows": [
+"Q156A1\t80\tATXN8"
+]
+},
+"ATXN8OS": {
+"error": null,
+"rows": [
+"P0DMR3\t200\tATXN8OS"
+]
+},
+"AUTS2": {
+"error": null,
+"rows": [
+"Q8WXX7\t1259\tAUTS2"
+]
+},
+"B3GALNT2": {
+"error": null,
+"rows": [
+"Q8NCR0\t500\tB3GALNT2"
+]
+},
+"B4GALNT1": {
+"error": null,
+"rows": [
+"Q00973\t533\tB4GALNT1"
+]
+},
+"B4GAT1": {
+"error": null,
+"rows": [
+"O43505\t415\tB4GAT1"
+]
+},
+"B9D1": {
+"error": null,
+"rows": [
+"Q9UPM9\t204\tB9D1"
+]
+},
+"B9D2": {
+"error": null,
+"rows": [
+"Q9BPU9\t175\tB9D2"
+]
+},
+"BAIAP2": {
+"error": null,
+"rows": [
+"Q9UQB8\t552\tBAIAP2"
+]
+},
+"BCAP31": {
+"error": null,
+"rows": [
+"P51572\t246\tBCAP31"
+]
+},
+"BCL11A": {
+"error": null,
+"rows": [
+"Q9H165\t835\tBCL11A"
+]
+},
+"BCL11B": {
+"error": null,
+"rows": [
+"Q9C0K0\t894\tBCL11B"
+]
+},
+"BEAN1": {
+"error": null,
+"rows": [
+"Q3B7T3\t259\tBEAN1"
+]
+},
+"BMP4": {
+"error": null,
+"rows": [
+"P12644\t408\tBMP4"
+]
+},
+"BORCS5": {
+"error": null,
+"rows": [
+"Q969J3\t196\tBORCS5"
+]
+},
+"BORCS8": {
+"error": null,
+"rows": [
+"Q96FH0\t119\tBORCS8"
+]
+},
+"BPTF": {
+"error": null,
+"rows": [
+"Q12830\t3046\tBPTF"
+]
+},
+"BRAT1": {
+"error": null,
+"rows": [
+"Q6PJG6\t821\tBRAT1"
+]
+},
+"BRF1": {
+"error": null,
+"rows": [
+"Q92994\t677\tBRF1",
+"Q07352\t338\tZFP36L1"
+]
+},
+"BRWD3": {
+"error": null,
+"rows": [
+"Q6RI45\t1802\tBRWD3"
+]
+},
+"BSCL2": {
+"error": null,
+"rows": [
+"Q96G97\t398\tBSCL2"
+]
+},
+"BUB1": {
+"error": null,
+"rows": [
+"O43683\t1085\tBUB1"
+]
+},
+"C19orf12": {
+"error": null,
+"rows": [
+"Q9NSK7\t141\tC19orf12"
+]
+},
+"C2CD3": {
+"error": null,
+"rows": [
+"Q4AC94\t2353\tC2CD3"
+]
+},
+"C9orf72": {
+"error": null,
+"rows": [
+"Q96LT7\t481\tC9orf72"
+]
+},
+"CA5A": {
+"error": null,
+"rows": [
+"P35218\t305\tCA5A"
+]
+},
+"CA8": {
+"error": null,
+"rows": [
+"P35219\t290\tCA8"
+]
+},
+"CABP4": {
+"error": null,
+"rows": [
+"P57796\t275\tCABP4"
+]
+},
+"CACNA1A": {
+"error": null,
+"rows": [
+"O00555\t2506\tCACNA1A"
+]
+},
+"CACNA1B": {
+"error": null,
+"rows": [
+"Q00975\t2339\tCACNA1B"
+]
+},
+"CACNA1C": {
+"error": null,
+"rows": [
+"Q13936\t2221\tCACNA1C"
+]
+},
+"CACNA1D": {
+"error": null,
+"rows": [
+"Q01668\t2161\tCACNA1D"
+]
+},
+"CACNA1E": {
+"error": null,
+"rows": [
+"Q15878\t2313\tCACNA1E"
+]
+},
+"CACNA1G": {
+"error": null,
+"rows": [
+"O43497\t2377\tCACNA1G"
+]
+},
+"CACNA1H": {
+"error": null,
+"rows": [
+"O95180\t2353\tCACNA1H"
+]
+},
+"CACNA1I": {
+"error": null,
+"rows": [
+"Q9P0X4\t2223\tCACNA1I"
+]
+},
+"CACNA2D1": {
+"error": null,
+"rows": [
+"P54289\t1103\tCACNA2D1"
+]
+},
+"CACNA2D2": {
+"error": null,
+"rows": [
+"Q9NY47\t1150\tCACNA2D2"
+]
+},
+"CACNB4": {
+"error": null,
+"rows": [
+"O00305\t520\tCACNB4"
+]
+},
+"CACNG2": {
+"error": null,
+"rows": [
+"Q9Y698\t323\tCACNG2"
+]
+},
+"CAD": {
+"error": null,
+"rows": [
+"P27708\t2225\tCAD",
+"Q05682\t793\tCALD1",
+"O76075\t338\tDFFB"
+]
+},
+"CAMK2A": {
+"error": null,
+"rows": [
+"Q9UQM7\t478\tCAMK2A"
+]
+},
+"CAMK2B": {
+"error": null,
+"rows": [
+"Q13554\t666\tCAMK2B"
+]
+},
+"CAMK2G": {
+"error": null,
+"rows": [
+"Q13555\t558\tCAMK2G"
+]
+},
+"CAMSAP1": {
+"error": null,
+"rows": [
+"Q5T5Y3\t1602\tCAMSAP1"
+]
+},
+"CAMTA1": {
+"error": null,
+"rows": [
+"Q9Y6Y1\t1673\tCAMTA1"
+]
+},
+"CAPN1": {
+"error": null,
+"rows": [
+"P07384\t714\tCAPN1"
+]
+},
+"CAPN15": {
+"error": null,
+"rows": [
+"O75808\t1086\tCAPN15"
+]
+},
+"CAPRIN1": {
+"error": null,
+"rows": [
+"Q14444\t709\tCAPRIN1"
+]
+},
+"CARS1": {
+"error": null,
+"rows": [
+"P49589\t748\tCARS1"
+]
+},
+"CASK": {
+"error": null,
+"rows": [
+"O14936\t926\tCASK",
+"P07498\t182\tCSN3"
+]
+},
+"CASP2": {
+"error": null,
+"rows": [
+"P42575\t452\tCASP2"
+]
+},
+"CASR": {
+"error": null,
+"rows": [
+"P41180\t1078\tCASR"
+]
+},
+"CAV1": {
+"error": null,
+"rows": [
+"Q03135\t178\tCAV1"
+]
+},
+"CC2D1A": {
+"error": null,
+"rows": [
+"Q6P1N0\t951\tCC2D1A"
+]
+},
+"CC2D2A": {
+"error": null,
+"rows": [
+"Q9P2K1\t1620\tCC2D2A"
+]
+},
+"CCDC174": {
+"error": null,
+"rows": [
+"Q6PII3\t467\tCCDC174"
+]
+},
+"CCDC32": {
+"error": null,
+"rows": [
+"Q9BV29\t185\tCCDC32"
+]
+},
+"CCDC47": {
+"error": null,
+"rows": [
+"Q96A33\t483\tCCDC47"
+]
+},
+"CCDC88C": {
+"error": null,
+"rows": [
+"Q9P219\t2028\tCCDC88C"
+]
+},
+"CCM2": {
+"error": null,
+"rows": [
+"Q9BSQ5\t444\tCCM2"
+]
+},
+"CCND2": {
+"error": null,
+"rows": [
+"P30279\t289\tCCND2"
+]
+},
+"CCNF": {
+"error": null,
+"rows": [
+"P41002\t786\tCCNF"
+]
+},
+"CCNK": {
+"error": null,
+"rows": [
+"O75909\t580\tCCNK"
+]
+},
+"CCT3": {
+"error": null,
+"rows": [
+"P49368\t545\tCCT3"
+]
+},
+"CCT5": {
+"error": null,
+"rows": [
+"P48643\t541\tCCT5"
+]
+},
+"CDC40": {
+"error": null,
+"rows": [
+"O60508\t579\tCDC40"
+]
+},
+"CDC42BPB": {
+"error": null,
+"rows": [
+"Q9Y5S2\t1711\tCDC42BPB"
+]
+},
+"CDH15": {
+"error": null,
+"rows": [
+"P55291\t814\tCDH15"
+]
+},
+"CDH2": {
+"error": null,
+"rows": [
+"P19022\t906\tCDH2"
+]
+},
+"CDK13": {
+"error": null,
+"rows": [
+"Q14004\t1512\tCDK13"
+]
+},
+"CDK19": {
+"error": null,
+"rows": [
+"Q9BWU1\t502\tCDK19"
+]
+},
+"CDK4": {
+"error": null,
+"rows": [
+"P11802\t303\tCDK4"
+]
+},
+"CDK5": {
+"error": null,
+"rows": [
+"Q00535\t292\tCDK5"
+]
+},
+"CDK5RAP2": {
+"error": null,
+"rows": [
+"Q96SN8\t1893\tCDK5RAP2"
+]
+},
+"CDK6": {
+"error": null,
+"rows": [
+"Q00534\t326\tCDK6"
+]
+},
+"CDK8": {
+"error": null,
+"rows": [
+"P49336\t464\tCDK8"
+]
+},
+"CDKL5": {
+"error": null,
+"rows": [
+"O76039\t960\tCDKL5"
+]
+},
+"CDON": {
+"error": null,
+"rows": [
+"Q4KMG0\t1287\tCDON"
+]
+},
+"CELF2": {
+"error": null,
+"rows": [
+"O95319\t508\tCELF2",
+"Q8N7Q2\t184\tCELF2-AS1"
+]
+},
+"CENPE": {
+"error": null,
+"rows": [
+"Q02224\t2701\tCENPE"
+]
+},
+"CENPT": {
+"error": null,
+"rows": [
+"Q96BT3\t561\tCENPT"
+]
+},
+"CEP104": {
+"error": null,
+"rows": [
+"O60308\t925\tCEP104"
+]
+},
+"CEP120": {
+"error": null,
+"rows": [
+"Q8N960\t986\tCEP120"
+]
+},
+"CEP135": {
+"error": null,
+"rows": [
+"Q66GS9\t1140\tCEP135"
+]
+},
+"CEP152": {
+"error": null,
+"rows": [
+"O94986\t1710\tCEP152"
+]
+},
+"CEP290": {
+"error": null,
+"rows": [
+"O15078\t2479\tCEP290"
+]
+},
+"CEP41": {
+"error": null,
+"rows": [
+"Q9BYV8\t373\tCEP41"
+]
+},
+"CEP55": {
+"error": null,
+"rows": [
+"Q53EZ4\t464\tCEP55"
+]
+},
+"CEP85L": {
+"error": null,
+"rows": [
+"Q5SZL2\t805\tCEP85L"
+]
+},
+"CERS1": {
+"error": null,
+"rows": [
+"P27544\t350\tCERS1"
+]
+},
+"CERT1": {
+"error": null,
+"rows": [
+"Q9Y5P4\t624\tCERT1"
+]
+},
+"CFAP410": {
+"error": null,
+"rows": [
+"O43822\t256\tCFAP410"
+]
+},
+"CFAP43": {
+"error": null,
+"rows": [
+"Q8NDM7\t1665\tCFAP43"
+]
+},
+"CHAMP1": {
+"error": null,
+"rows": [
+"Q96JM3\t812\tCHAMP1"
+]
+},
+"CHASERR": {
+"error": null,
+"rows": []
+},
+"CHCHD10": {
+"error": null,
+"rows": [
+"Q8WYQ3\t142\tCHCHD10"
+]
+},
+"CHCHD2": {
+"error": null,
+"rows": [
+"Q9Y6H1\t151\tCHCHD2"
+]
+},
+"CHD2": {
+"error": null,
+"rows": [
+"O14647\t1828\tCHD2"
+]
+},
+"CHD5": {
+"error": null,
+"rows": [
+"Q8TDI0\t1954\tCHD5",
+"O00258\t174\tGET1",
+"Q8TD26\t2715\tCHD6"
+]
+},
+"CHD8": {
+"error": null,
+"rows": [
+"Q9HCK8\t2581\tCHD8"
+]
+},
+"CHI3L1": {
+"error": null,
+"rows": [
+"P36222\t383\tCHI3L1"
+]
+},
+"CHKA": {
+"error": null,
+"rows": [
+"P35790\t457\tCHKA"
+]
+},
+"CHMP1A": {
+"error": null,
+"rows": [
+"Q9HD42\t196\tCHMP1A"
+]
+},
+"CHMP2B": {
+"error": null,
+"rows": [
+"Q9UQN3\t213\tCHMP2B"
+]
+},
+"CHP1": {
+"error": null,
+"rows": [
+"Q99653\t195\tCHP1",
+"Q9UHD1\t332\tCHORDC1"
+]
+},
+"CHRNA2": {
+"error": null,
+"rows": [
+"Q15822\t529\tCHRNA2"
+]
+},
+"CHRNA4": {
+"error": null,
+"rows": [
+"P43681\t627\tCHRNA4"
+]
+},
+"CHRNB2": {
+"error": null,
+"rows": [
+"P17787\t502\tCHRNB2"
+]
+},
+"CIC": {
+"error": null,
+"rows": [
+"Q96RK0\t2517\tCIC"
+]
+},
+"CILK1": {
+"error": null,
+"rows": [
+"Q9UPZ9\t632\tCILK1"
+]
+},
+"CIT": {
+"error": null,
+"rows": [
+"O14578\t2027\tCIT"
+]
+},
+"CLCN2": {
+"error": null,
+"rows": [
+"P51788\t898\tCLCN2"
+]
+},
+"CLCN3": {
+"error": null,
+"rows": [
+"P51790\t818\tCLCN3"
+]
+},
+"CLCN4": {
+"error": null,
+"rows": [
+"P51793\t760\tCLCN4"
+]
+},
+"CLCN6": {
+"error": null,
+"rows": [
+"P51797\t869\tCLCN6"
+]
+},
+"CLDN11": {
+"error": null,
+"rows": [
+"O75508\t207\tCLDN11"
+]
+},
+"CLN3": {
+"error": null,
+"rows": [
+"Q13286\t438\tCLN3"
+]
+},
+"CLN5": {
+"error": null,
+"rows": [
+"O75503\t358\tCLN5"
+]
+},
+"CLN6": {
+"error": null,
+"rows": [
+"Q9NWW5\t311\tCLN6"
+]
+},
+"CLN8": {
+"error": null,
+"rows": [
+"Q9UBY8\t286\tCLN8"
+]
+},
+"CLP1": {
+"error": null,
+"rows": [
+"Q92989\t425\tCLP1",
+"O94992\t359\tHEXIM1",
+"Q5KU26\t742\tCOLEC12"
+]
+},
+"CLTC": {
+"error": null,
+"rows": [
+"Q00610\t1675\tCLTC"
+]
+},
+"CNKSR2": {
+"error": null,
+"rows": [
+"Q8WXI2\t1034\tCNKSR2"
+]
+},
+"CNNM2": {
+"error": null,
+"rows": [
+"Q9H8M5\t875\tCNNM2"
+]
+},
+"CNOT1": {
+"error": null,
+"rows": [
+"A5YKK6\t2376\tCNOT1"
+]
+},
+"CNOT2": {
+"error": null,
+"rows": [
+"Q9NZN8\t540\tCNOT2"
+]
+},
+"CNOT3": {
+"error": null,
+"rows": [
+"O75175\t753\tCNOT3"
+]
+},
+"CNTN2": {
+"error": null,
+"rows": [
+"Q02246\t1040\tCNTN2"
+]
+},
+"CNTNAP1": {
+"error": null,
+"rows": [
+"P78357\t1384\tCNTNAP1"
+]
+},
+"CNTNAP2": {
+"error": null,
+"rows": [
+"Q9UHC6\t1331\tCNTNAP2"
+]
+},
+"COA7": {
+"error": null,
+"rows": [
+"Q96BR5\t231\tCOA7"
+]
+},
+"COASY": {
+"error": null,
+"rows": [
+"Q13057\t564\tCOASY"
+]
+},
+"COG6": {
+"error": null,
+"rows": [
+"Q9Y2V7\t657\tCOG6"
+]
+},
+"COL3A1": {
+"error": null,
+"rows": [
+"P02461\t1466\tCOL3A1"
+]
+},
+"COL4A1": {
+"error": null,
+"rows": [
+"P02462\t1669\tCOL4A1"
+]
+},
+"COL4A2": {
+"error": null,
+"rows": [
+"P08572\t1712\tCOL4A2"
+]
+},
+"COL6A3": {
+"error": null,
+"rows": [
+"P12111\t3177\tCOL6A3"
+]
+},
+"COLGALT1": {
+"error": null,
+"rows": [
+"Q8NBJ5\t622\tCOLGALT1"
+]
+},
+"COPB2": {
+"error": null,
+"rows": [
+"P35606\t906\tCOPB2"
+]
+},
+"COQ2": {
+"error": null,
+"rows": [
+"Q96H96\t371\tCOQ2"
+]
+},
+"COQ4": {
+"error": null,
+"rows": [
+"Q9Y3A0\t265\tCOQ4"
+]
+},
+"COQ8A": {
+"error": null,
+"rows": [
+"Q8NI60\t647\tCOQ8A"
+]
+},
+"COQ9": {
+"error": null,
+"rows": [
+"O75208\t318\tCOQ9"
+]
+},
+"CP": {
+"error": null,
+"rows": [
+"P00450\t1065\tCP"
+]
+},
+"CPA6": {
+"error": null,
+"rows": [
+"Q8N4T0\t437\tCPA6"
+]
+},
+"CPAP": {
+"error": null,
+"rows": [
+"Q9HC77\t1338\tCPAP"
+]
+},
+"CPLANE1": {
+"error": null,
+"rows": [
+"Q9H799\t3197\tCPLANE1"
+]
+},
+"CPLX1": {
+"error": null,
+"rows": [
+"O14810\t134\tCPLX1"
+]
+},
+"CPSF3": {
+"error": null,
+"rows": [
+"Q9UKF6\t684\tCPSF3"
+]
+},
+"CPT1C": {
+"error": null,
+"rows": [
+"Q8TCG5\t803\tCPT1C"
+]
+},
+"CPT2": {
+"error": null,
+"rows": [
+"P23786\t658\tCPT2"
+]
+},
+"CRADD": {
+"error": null,
+"rows": [
+"P78560\t199\tCRADD"
+]
+},
+"CRAT": {
+"error": null,
+"rows": [
+"P43155\t626\tCRAT"
+]
+},
+"CRBN": {
+"error": null,
+"rows": [
+"Q96SW2\t442\tCRBN"
+]
+},
+"CRELD1": {
+"error": null,
+"rows": [
+"Q96HD1\t420\tCRELD1"
+]
+},
+"CRH": {
+"error": null,
+"rows": [
+"P06850\t196\tCRH"
+]
+},
+"CRNKL1": {
+"error": null,
+"rows": [
+"Q9BZJ0\t848\tCRNKL1"
+]
+},
+"CRPPA": {
+"error": null,
+"rows": [
+"A4D126\t451\tCRPPA"
+]
+},
+"CSF1R": {
+"error": null,
+"rows": [
+"P07333\t972\tCSF1R"
+]
+},
+"CSNK2A1": {
+"error": null,
+"rows": [
+"P68400\t391\tCSNK2A1"
+]
+},
+"CSNK2B": {
+"error": null,
+"rows": [
+"P67870\t215\tCSNK2B"
+]
+},
+"CSPP1": {
+"error": null,
+"rows": [
+"Q1MSJ5\t1256\tCSPP1"
+]
+},
+"CST3": {
+"error": null,
+"rows": [
+"P01034\t146\tCST3"
+]
+},
+"CSTF2": {
+"error": null,
+"rows": [
+"P33240\t577\tCSTF2"
+]
+},
+"CTBP1": {
+"error": null,
+"rows": [
+"Q13363\t440\tCTBP1",
+"C0HM98\t186\tCTBP1-DT"
+]
+},
+"CTCF": {
+"error": null,
+"rows": [
+"P49711\t727\tCTCF"
+]
+},
+"CTNNA2": {
+"error": null,
+"rows": [
+"P26232\t953\tCTNNA2"
+]
+},
+"CTNNB1": {
+"error": null,
+"rows": [
+"P35222\t781\tCTNNB1"
+]
+},
+"CTSA": {
+"error": null,
+"rows": [
+"P10619\t480\tCTSA"
+]
+},
+"CTSD": {
+"error": null,
+"rows": [
+"P07339\t412\tCTSD"
+]
+},
+"CTSF": {
+"error": null,
+"rows": [
+"Q9UBX1\t484\tCTSF"
+]
+},
+"CTU2": {
+"error": null,
+"rows": [
+"Q2VPK5\t515\tCTU2"
+]
+},
+"CUL3": {
+"error": null,
+"rows": [
+"Q13618\t768\tCUL3"
+]
+},
+"CUL4B": {
+"error": null,
+"rows": [
+"Q13620\t913\tCUL4B"
+]
+},
+"CUX1": {
+"error": null,
+"rows": [
+"P39880\t1505\tCUX1",
+"Q13948\t678\tCUX1"
+]
+},
+"CUX2": {
+"error": null,
+"rows": [
+"O14529\t1486\tCUX2"
+]
+},
+"CWF19L1": {
+"error": null,
+"rows": [
+"Q69YN2\t538\tCWF19L1"
+]
+},
+"CYFIP2": {
+"error": null,
+"rows": [
+"Q96F07\t1278\tCYFIP2"
+]
+},
+"CYLD": {
+"error": null,
+"rows": [
+"Q9NQC7\t956\tCYLD"
+]
+},
+"CYP26B1": {
+"error": null,
+"rows": [
+"Q9NR63\t512\tCYP26B1"
+]
+},
+"CYP2U1": {
+"error": null,
+"rows": [
+"Q7Z449\t544\tCYP2U1"
+]
+},
+"CYP7B1": {
+"error": null,
+"rows": [
+"O75881\t506\tCYP7B1"
+]
+},
+"DAB1": {
+"error": null,
+"rows": [
+"O75553\t588\tDAB1"
+]
+},
+"DAG1": {
+"error": null,
+"rows": [
+"Q14118\t895\tDAG1"
+]
+},
+"DAGLA": {
+"error": null,
+"rows": [
+"Q9Y4D2\t1042\tDAGLA"
+]
+},
+"DALRD3": {
+"error": null,
+"rows": [
+"Q5D0E6\t543\tDALRD3"
+]
+},
+"DAO": {
+"error": null,
+"rows": [
+"P14920\t347\tDAO",
+"P19801\t751\tAOC1"
+]
+},
+"DAOA": {
+"error": null,
+"rows": [
+"P59103\t153\tDAOA"
+]
+},
+"DARS1": {
+"error": null,
+"rows": [
+"P14868\t501\tDARS1"
+]
+},
+"DARS2": {
+"error": null,
+"rows": [
+"Q6PI48\t645\tDARS2"
+]
+},
+"DCAF17": {
+"error": null,
+"rows": [
+"Q5H9S7\t520\tDCAF17"
+]
+},
+"DCTN1": {
+"error": null,
+"rows": [
+"Q14203\t1278\tDCTN1"
+]
+},
+"DCX": {
+"error": null,
+"rows": [
+"O43602\t365\tDCX"
+]
+},
+"DDHD1": {
+"error": null,
+"rows": [
+"Q8NEL9\t900\tDDHD1"
+]
+},
+"DDHD2": {
+"error": null,
+"rows": [
+"O94830\t711\tDDHD2"
+]
+},
+"DDX3X": {
+"error": null,
+"rows": [
+"O00571\t662\tDDX3X"
+]
+},
+"DDX6": {
+"error": null,
+"rows": [
+"P26196\t483\tDDX6"
+]
+},
+"DEAF1": {
+"error": null,
+"rows": [
+"O75398\t565\tDEAF1"
+]
+},
+"DEGS1": {
+"error": null,
+"rows": [
+"O15121\t323\tDEGS1"
+]
+},
+"DENND5A": {
+"error": null,
+"rows": [
+"Q6IQ26\t1287\tDENND5A"
+]
+},
+"DEPDC5": {
+"error": null,
+"rows": [
+"O75140\t1603\tDEPDC5"
+]
+},
+"DGUOK": {
+"error": null,
+"rows": [
+"Q16854\t277\tDGUOK"
+]
+},
+"DHDDS": {
+"error": null,
+"rows": [
+"Q86SQ9\t333\tDHDDS"
+]
+},
+"DHPS": {
+"error": null,
+"rows": [
+"P49366\t369\tDHPS"
+]
+},
+"DHX16": {
+"error": null,
+"rows": [
+"O60231\t1041\tDHX16"
+]
+},
+"DHX30": {
+"error": null,
+"rows": [
+"Q7L2E3\t1194\tDHX30"
+]
+},
+"DHX37": {
+"error": null,
+"rows": [
+"Q8IY37\t1157\tDHX37"
+]
+},
+"DHX9": {
+"error": null,
+"rows": [
+"Q08211\t1270\tDHX9"
+]
+},
+"DIAPH1": {
+"error": null,
+"rows": [
+"O60610\t1272\tDIAPH1"
+]
+},
+"DICER1": {
+"error": null,
+"rows": [
+"Q9UPY3\t1922\tDICER1"
+]
+},
+"DIP2B": {
+"error": null,
+"rows": [
+"Q9P265\t1576\tDIP2B"
+]
+},
+"DISC1": {
+"error": null,
+"rows": [
+"Q9NRI5\t854\tDISC1"
+]
+},
+"DISC2": {
+"error": null,
+"rows": []
+},
+"DISP1": {
+"error": null,
+"rows": [
+"Q96F81\t1524\tDISP1"
+]
+},
+"DLG3": {
+"error": null,
+"rows": [
+"Q13368\t585\tMPP3",
+"Q92796\t817\tDLG3"
+]
+},
+"DLG4": {
+"error": null,
+"rows": [
+"P78352\t724\tDLG4",
+"Q15334\t1064\tLLGL1"
+]
+},
+"DLK1": {
+"error": null,
+"rows": [
+"P80370\t383\tDLK1"
+]
+},
+"DLL1": {
+"error": null,
+"rows": [
+"O00548\t723\tDLL1"
+]
+},
+"DMAP1": {
+"error": null,
+"rows": [
+"Q9NPF5\t467\tDMAP1"
+]
+},
+"DMRTA2": {
+"error": null,
+"rows": [
+"Q96SC8\t542\tDMRTA2"
+]
+},
+"DMXL2": {
+"error": null,
+"rows": [
+"Q8TDJ6\t3036\tDMXL2"
+]
+},
+"DNAJC3": {
+"error": null,
+"rows": [
+"Q13217\t504\tDNAJC3"
+]
+},
+"DNAJC5": {
+"error": null,
+"rows": [
+"Q9H3Z4\t198\tDNAJC5"
+]
+},
+"DNAJC6": {
+"error": null,
+"rows": [
+"O75061\t913\tDNAJC6"
+]
+},
+"DNM1": {
+"error": null,
+"rows": [
+"Q05193\t864\tDNM1"
+]
+},
+"DNM1L": {
+"error": null,
+"rows": [
+"O00429\t736\tDNM1L"
+]
+},
+"DNM2": {
+"error": null,
+"rows": [
+"P50570\t870\tDNM2"
+]
+},
+"DNMT1": {
+"error": null,
+"rows": [
+"P26358\t1616\tDNMT1"
+]
+},
+"DOCK3": {
+"error": null,
+"rows": [
+"Q8IZD9\t2030\tDOCK3"
+]
+},
+"DOCK7": {
+"error": null,
+"rows": [
+"Q96N67\t2140\tDOCK7"
+]
+},
+"DOHH": {
+"error": null,
+"rows": [
+"Q9BU89\t302\tDOHH"
+]
+},
+"DONSON": {
+"error": null,
+"rows": [
+"Q9NYP3\t566\tDONSON"
+]
+},
+"DOT1L": {
+"error": null,
+"rows": [
+"Q8TEK3\t1537\tDOT1L"
+]
+},
+"DPH1": {
+"error": null,
+"rows": [
+"Q9BZG8\t438\tDPH1"
+]
+},
+"DPH2": {
+"error": null,
+"rows": [
+"Q9BQC3\t489\tDPH2"
+]
+},
+"DPH5": {
+"error": null,
+"rows": [
+"Q9H2P9\t285\tDPH5"
+]
+},
+"DPM2": {
+"error": null,
+"rows": [
+"O94777\t84\tDPM2"
+]
+},
+"DPM3": {
+"error": null,
+"rows": [
+"Q9P2X0\t92\tDPM3"
+]
+},
+"DPP6": {
+"error": null,
+"rows": [
+"P42658\t865\tDPP6"
+]
+},
+"DRD3": {
+"error": null,
+"rows": [
+"P35462\t400\tDRD3"
+]
+},
+"DSTYK": {
+"error": null,
+"rows": [
+"Q6XUX3\t929\tDSTYK"
+]
+},
+"DTYMK": {
+"error": null,
+"rows": [
+"P23919\t212\tDTYMK"
+]
+},
+"DYNC1H1": {
+"error": null,
+"rows": [
+"Q14204\t4646\tDYNC1H1"
+]
+},
+"DYNC1I2": {
+"error": null,
+"rows": [
+"Q13409\t638\tDYNC1I2"
+]
+},
+"DYRK1A": {
+"error": null,
+"rows": [
+"Q13627\t763\tDYRK1A"
+]
+},
+"EARS2": {
+"error": null,
+"rows": [
+"Q5JPH6\t523\tEARS2"
+]
+},
+"EBF3": {
+"error": null,
+"rows": [
+"Q9H4W6\t596\tEBF3"
+]
+},
+"EDC3": {
+"error": null,
+"rows": [
+"Q96F86\t508\tEDC3"
+]
+},
+"EDNRA": {
+"error": null,
+"rows": [
+"P25101\t427\tEDNRA"
+]
+},
+"EEF1A2": {
+"error": null,
+"rows": [
+"Q05639\t463\tEEF1A2"
+]
+},
+"EEF2": {
+"error": null,
+"rows": [
+"P13639\t858\tEEF2"
+]
+},
+"EEFSEC": {
+"error": null,
+"rows": [
+"P57772\t596\tEEFSEC"
+]
+},
+"EFHC1": {
+"error": null,
+"rows": [
+"Q5JVL4\t640\tEFHC1"
+]
+},
+"EFTUD2": {
+"error": null,
+"rows": [
+"Q15029\t972\tEFTUD2"
+]
+},
+"EIF2AK1": {
+"error": null,
+"rows": [
+"Q9BQI3\t630\tEIF2AK1"
+]
+},
+"EIF2AK2": {
+"error": null,
+"rows": [
+"P19525\t551\tEIF2AK2"
+]
+},
+"EIF2B1": {
+"error": null,
+"rows": [
+"Q14232\t305\tEIF2B1"
+]
+},
+"EIF2B2": {
+"error": null,
+"rows": [
+"P49770\t351\tEIF2B2"
+]
+},
+"EIF2B3": {
+"error": null,
+"rows": [
+"Q9NR50\t452\tEIF2B3"
+]
+},
+"EIF2B4": {
+"error": null,
+"rows": [
+"Q9UI10\t523\tEIF2B4"
+]
+},
+"EIF2B5": {
+"error": null,
+"rows": [
+"Q13144\t721\tEIF2B5"
+]
+},
+"EIF3F": {
+"error": null,
+"rows": [
+"O00303\t357\tEIF3F"
+]
+},
+"EIF4A2": {
+"error": null,
+"rows": [
+"Q14240\t407\tEIF4A2"
+]
+},
+"EIF4E": {
+"error": null,
+"rows": [
+"P06730\t217\tEIF4E"
+]
+},
+"EIF4G1": {
+"error": null,
+"rows": [
+"Q04637\t1599\tEIF4G1"
+]
+},
+"EIPR1": {
+"error": null,
+"rows": [
+"Q53HC9\t387\tEIPR1"
+]
+},
+"ELFN1": {
+"error": null,
+"rows": [
+"P0C7U0\t828\tELFN1"
+]
+},
+"ELOVL1": {
+"error": null,
+"rows": [
+"Q9BW60\t279\tELOVL1"
+]
+},
+"ELOVL4": {
+"error": null,
+"rows": [
+"Q9GZR5\t314\tELOVL4"
+]
+},
+"ELOVL5": {
+"error": null,
+"rows": [
+"Q9NYP7\t299\tELOVL5"
+]
+},
+"ELP2": {
+"error": null,
+"rows": [
+"Q6IA86\t826\tELP2"
+]
+},
+"EMC1": {
+"error": null,
+"rows": [
+"Q8N766\t993\tEMC1"
+]
+},
+"EMC10": {
+"error": null,
+"rows": [
+"Q5UCC4\t262\tEMC10"
+]
+},
+"EML1": {
+"error": null,
+"rows": [
+"O00423\t815\tEML1"
+]
+},
+"EMX2": {
+"error": null,
+"rows": [
+"Q04743\t252\tEMX2"
+]
+},
+"EN1": {
+"error": null,
+"rows": [
+"Q05925\t392\tEN1"
+]
+},
+"ENTPD1": {
+"error": null,
+"rows": [
+"P49961\t510\tENTPD1"
+]
+},
+"EPB41L1": {
+"error": null,
+"rows": [
+"Q9H4G0\t881\tEPB41L1"
+]
+},
+"EPG5": {
+"error": null,
+"rows": [
+"Q9HCE0\t2579\tEPG5"
+]
+},
+"EPHB2": {
+"error": null,
+"rows": [
+"P29323\t1055\tEPHB2"
+]
+},
+"EPM2A": {
+"error": null,
+"rows": [
+"O95278\t331\tEPM2A",
+"B3EWF7\t344\tEPM2A"
+]
+},
+"EPRS1": {
+"error": null,
+"rows": [
+"P07814\t1512\tEPRS1"
+]
+},
+"ERBB4": {
+"error": null,
+"rows": [
+"Q15303\t1308\tERBB4"
+]
+},
+"ERCC6L2": {
+"error": null,
+"rows": [
+"Q5T890\t1561\tERCC6L2",
+"Q8WZB0\t136\tERCC6L2-AS1"
+]
+},
+"ERLIN1": {
+"error": null,
+"rows": [
+"O75477\t348\tERLIN1"
+]
+},
+"ERLIN2": {
+"error": null,
+"rows": [
+"O94905\t339\tERLIN2"
+]
+},
+"ERMARD": {
+"error": null,
+"rows": [
+"Q5T6L9\t678\tERMARD"
+]
+},
+"ESAM": {
+"error": null,
+"rows": [
+"Q96AP7\t390\tESAM"
+]
+},
+"ESR1": {
+"error": null,
+"rows": [
+"P03372\t595\tESR1"
+]
+},
+"ESRRG": {
+"error": null,
+"rows": [
+"P62508\t458\tESRRG"
+]
+},
+"ETHE1": {
+"error": null,
+"rows": [
+"O95571\t254\tETHE1"
+]
+},
+"EXOC2": {
+"error": null,
+"rows": [
+"Q96KP1\t924\tEXOC2"
+]
+},
+"EXOC3L2": {
+"error": null,
+"rows": [
+"Q2M3D2\t802\tEXOC3L2"
+]
+},
+"EXOC7": {
+"error": null,
+"rows": [
+"Q9UPT5\t735\tEXOC7"
+]
+},
+"EXOC8": {
+"error": null,
+"rows": [
+"Q8IYI6\t725\tEXOC8"
+]
+},
+"EXOSC1": {
+"error": null,
+"rows": [
+"Q9Y3B2\t195\tEXOSC1"
+]
+},
+"EXOSC3": {
+"error": null,
+"rows": [
+"Q9NQT5\t275\tEXOSC3"
+]
+},
+"EXOSC5": {
+"error": null,
+"rows": [
+"Q9NQT4\t235\tEXOSC5"
+]
+},
+"EXOSC8": {
+"error": null,
+"rows": [
+"Q96B26\t276\tEXOSC8"
+]
+},
+"EXOSC9": {
+"error": null,
+"rows": [
+"Q06265\t439\tEXOSC9"
+]
+},
+"EXT2": {
+"error": null,
+"rows": [
+"Q93063\t718\tEXT2"
+]
+},
+"EXTL3": {
+"error": null,
+"rows": [
+"O43909\t919\tEXTL3"
+]
+},
+"FA2H": {
+"error": null,
+"rows": [
+"Q7L5A8\t372\tFA2H"
+]
+},
+"FAM149B1": {
+"error": null,
+"rows": [
+"Q96BN6\t582\tFAM149B1"
+]
+},
+"FAM177A1": {
+"error": null,
+"rows": [
+"Q8N128\t213\tFAM177A1"
+]
+},
+"FARS2": {
+"error": null,
+"rows": [
+"O95363\t451\tFARS2"
+]
+},
+"FARSA": {
+"error": null,
+"rows": [
+"Q9Y285\t508\tFARSA"
+]
+},
+"FARSB": {
+"error": null,
+"rows": [
+"Q9NSD9\t589\tFARSB"
+]
+},
+"FAT2": {
+"error": null,
+"rows": [
+"Q9NYQ8\t4349\tFAT2"
+]
+},
+"FBP2": {
+"error": null,
+"rows": [
+"O00757\t339\tFBP2",
+"Q63HM2\t1172\tPCNX4"
+]
+},
+"FBRSL1": {
+"error": null,
+"rows": [
+"Q9HCM7\t1045\tFBRSL1"
+]
+},
+"FBXL3": {
+"error": null,
+"rows": [
+"Q9UKT7\t428\tFBXL3"
+]
+},
+"FBXO11": {
+"error": null,
+"rows": [
+"Q86XK2\t927\tFBXO11"
+]
+},
+"FBXO28": {
+"error": null,
+"rows": [
+"Q9NVF7\t368\tFBXO28"
+]
+},
+"FBXO31": {
+"error": null,
+"rows": [
+"Q5XUX0\t539\tFBXO31"
+]
+},
+"FBXO7": {
+"error": null,
+"rows": [
+"Q9Y3I1\t522\tFBXO7"
+]
+},
+"FBXW11": {
+"error": null,
+"rows": [
+"Q9UKB1\t542\tFBXW11"
+]
+},
+"FBXW7": {
+"error": null,
+"rows": [
+"B0L3A2\t85\tFBXW7-AS1",
+"Q969H0\t707\tFBXW7"
+]
+},
+"FDX2": {
+"error": null,
+"rows": [
+"Q6P4F2\t183\tFDX2"
+]
+},
+"FEM1B": {
+"error": null,
+"rows": [
+"Q9UK73\t627\tFEM1B"
+]
+},
+"FERRY3": {
+"error": null,
+"rows": [
+"Q9NQ89\t552\tFERRY3"
+]
+},
+"FGF12": {
+"error": null,
+"rows": [
+"P61328\t243\tFGF12"
+]
+},
+"FGF13": {
+"error": null,
+"rows": [
+"Q92913\t245\tFGF13"
+]
+},
+"FGF14": {
+"error": null,
+"rows": [
+"Q92915\t247\tFGF14"
+]
+},
+"FGF8": {
+"error": null,
+"rows": [
+"P55075\t233\tFGF8"
+]
+},
+"FGFR1": {
+"error": null,
+"rows": [
+"P11362\t822\tFGFR1"
+]
+},
+"FGFR3": {
+"error": null,
+"rows": [
+"P22607\t806\tFGFR3"
+]
+},
+"FIBP": {
+"error": null,
+"rows": [
+"O43427\t364\tFIBP"
+]
+},
+"FIG4": {
+"error": null,
+"rows": [
+"Q92562\t907\tFIG4"
+]
+},
+"FKRP": {
+"error": null,
+"rows": [
+"Q9H9S5\t495\tFKRP"
+]
+},
+"FKTN": {
+"error": null,
+"rows": [
+"O75072\t461\tFKTN"
+]
+},
+"FLNA": {
+"error": null,
+"rows": [
+"P21333\t2647\tFLNA"
+]
+},
+"FLVCR1": {
+"error": null,
+"rows": [
+"Q9Y5Y0\t555\tFLVCR1",
+"Q8TAF5\t88\tFLVCR1-DT"
+]
+},
+"FMN2": {
+"error": null,
+"rows": [
+"Q9NZ56\t1722\tFMN2"
+]
+},
+"FMR1": {
+"error": null,
+"rows": [
+"Q06787\t632\tFMR1"
+]
+},
+"FOLR1": {
+"error": null,
+"rows": [
+"P15328\t257\tFOLR1"
+]
+},
+"FOXH1": {
+"error": null,
+"rows": [
+"O75593\t365\tFOXH1"
+]
+},
+"FOXP1": {
+"error": null,
+"rows": [
+"Q9H334\t677\tFOXP1"
+]
+},
+"FRA10AC1": {
+"error": null,
+"rows": [
+"Q70Z53\t315\tFRA10AC1"
+]
+},
+"FRMD4A": {
+"error": null,
+"rows": [
+"Q9P2Q2\t1039\tFRMD4A"
+]
+},
+"FRMD5": {
+"error": null,
+"rows": [
+"Q7Z6J6\t570\tFRMD5"
+]
+},
+"FRMPD4": {
+"error": null,
+"rows": [
+"Q14CM0\t1322\tFRMPD4"
+]
+},
+"FRRS1L": {
+"error": null,
+"rows": [
+"Q9P0K9\t293\tFRRS1L"
+]
+},
+"FSD1L": {
+"error": null,
+"rows": [
+"Q9BXM9\t530\tFSD1L"
+]
+},
+"FTH1": {
+"error": null,
+"rows": [
+"P02794\t183\tFTH1"
+]
+},
+"FTL": {
+"error": null,
+"rows": [
+"P02792\t175\tFTL"
+]
+},
+"FTSJ1": {
+"error": null,
+"rows": [
+"Q9UET6\t329\tFTSJ1"
+]
+},
+"FUS": {
+"error": null,
+"rows": [
+"P35637\t526\tFUS"
+]
+},
+"FUZ": {
+"error": null,
+"rows": [
+"Q9BT04\t418\tFUZ"
+]
+},
+"FXN": {
+"error": null,
+"rows": [
+"Q16595\t210\tFXN"
+]
+},
+"FZR1": {
+"error": null,
+"rows": [
+"Q9UM11\t496\tFZR1"
+]
+},
+"GABBR1": {
+"error": null,
+"rows": [
+"Q9UBS5\t961\tGABBR1"
+]
+},
+"GABBR2": {
+"error": null,
+"rows": [
+"O75899\t941\tGABBR2"
+]
+},
+"GABRA1": {
+"error": null,
+"rows": [
+"P14867\t456\tGABRA1"
+]
+},
+"GABRA2": {
+"error": null,
+"rows": [
+"P47869\t451\tGABRA2"
+]
+},
+"GABRA3": {
+"error": null,
+"rows": [
+"P34903\t492\tGABRA3"
+]
+},
+"GABRA5": {
+"error": null,
+"rows": [
+"P31644\t462\tGABRA5"
+]
+},
+"GABRB1": {
+"error": null,
+"rows": [
+"P18505\t474\tGABRB1"
+]
+},
+"GABRB2": {
+"error": null,
+"rows": [
+"P47870\t512\tGABRB2"
+]
+},
+"GABRB3": {
+"error": null,
+"rows": [
+"P28472\t473\tGABRB3"
+]
+},
+"GABRD": {
+"error": null,
+"rows": [
+"O14764\t452\tGABRD"
+]
+},
+"GABRG2": {
+"error": null,
+"rows": [
+"P18507\t475\tGABRG2"
+]
+},
+"GAD1": {
+"error": null,
+"rows": [
+"Q99259\t594\tGAD1"
+]
+},
+"GAL": {
+"error": null,
+"rows": [
+"Q8N6F7\t178\tGCSAM",
+"P22466\t123\tGAL"
+]
+},
+"GATAD2B": {
+"error": null,
+"rows": [
+"Q8WXI9\t593\tGATAD2B"
+]
+},
+"GBA1": {
+"error": null,
+"rows": [
+"P04062\t536\tGBA1"
+]
+},
+"GBA2": {
+"error": null,
+"rows": [
+"Q9HCG7\t927\tGBA2"
+]
+},
+"GCH1": {
+"error": null,
+"rows": [
+"P30793\t250\tGCH1"
+]
+},
+"GDAP2": {
+"error": null,
+"rows": [
+"Q9NXN4\t497\tGDAP2"
+]
+},
+"GDI1": {
+"error": null,
+"rows": [
+"P31150\t447\tGDI1"
+]
+},
+"GEMIN4": {
+"error": null,
+"rows": [
+"P57678\t1058\tGEMIN4"
+]
+},
+"GEMIN5": {
+"error": null,
+"rows": [
+"Q8TEQ6\t1508\tGEMIN5"
+]
+},
+"GFER": {
+"error": null,
+"rows": [
+"P55789\t205\tGFER"
+]
+},
+"GFM1": {
+"error": null,
+"rows": [
+"Q96RP9\t751\tGFM1"
+]
+},
+"GIGYF2": {
+"error": null,
+"rows": [
+"Q6Y7W6\t1299\tGIGYF2"
+]
+},
+"GJC2": {
+"error": null,
+"rows": [
+"Q5T442\t439\tGJC2"
+]
+},
+"GLDC": {
+"error": null,
+"rows": [
+"P23378\t1020\tGLDC"
+]
+},
+"GLI2": {
+"error": null,
+"rows": [
+"P10070\t1586\tGLI2"
+]
+},
+"GLRA2": {
+"error": null,
+"rows": [
+"P23416\t452\tGLRA2"
+]
+},
+"GLRX5": {
+"error": null,
+"rows": [
+"Q86SX6\t157\tGLRX5"
+]
+},
+"GLS": {
+"error": null,
+"rows": [
+"O94925\t669\tGLS"
+]
+},
+"GLUL": {
+"error": null,
+"rows": [
+"P15104\t373\tGLUL"
+]
+},
+"GMPPA": {
+"error": null,
+"rows": [
+"Q96IJ6\t420\tGMPPA"
+]
+},
+"GMPPB": {
+"error": null,
+"rows": [
+"Q9Y5P6\t360\tGMPPB"
+]
+},
+"GNAI1": {
+"error": null,
+"rows": [
+"P63096\t354\tGNAI1"
+]
+},
+"GNAL": {
+"error": null,
+"rows": [
+"P38405\t381\tGNAL"
+]
+},
+"GNAO1": {
+"error": null,
+"rows": [
+"P09471\t354\tGNAO1"
+]
+},
+"GNB1": {
+"error": null,
+"rows": [
+"P62873\t340\tGNB1"
+]
+},
+"GNB2": {
+"error": null,
+"rows": [
+"P62879\t340\tGNB2"
+]
+},
+"GNB5": {
+"error": null,
+"rows": [
+"O14775\t395\tGNB5"
+]
+},
+"GOLGA2": {
+"error": null,
+"rows": [
+"Q08379\t1002\tGOLGA2"
+]
+},
+"GOSR2": {
+"error": null,
+"rows": [
+"O14653\t212\tGOSR2"
+]
+},
+"GOT2": {
+"error": null,
+"rows": [
+"P00505\t430\tGOT2"
+]
+},
+"GPR88": {
+"error": null,
+"rows": [
+"Q9GZN0\t384\tGPR88"
+]
+},
+"GPRC5B": {
+"error": null,
+"rows": [
+"Q9NZH0\t403\tGPRC5B"
+]
+},
+"GRIA1": {
+"error": null,
+"rows": [
+"P42261\t906\tGRIA1"
+]
+},
+"GRIA2": {
+"error": null,
+"rows": [
+"P42262\t883\tGRIA2"
+]
+},
+"GRIA3": {
+"error": null,
+"rows": [
+"P42263\t894\tGRIA3"
+]
+},
+"GRIA4": {
+"error": null,
+"rows": [
+"P48058\t902\tGRIA4"
+]
+},
+"GRID2": {
+"error": null,
+"rows": [
+"O43424\t1007\tGRID2"
+]
+},
+"GRIK2": {
+"error": null,
+"rows": [
+"Q13002\t908\tGRIK2",
+"Q16478\t980\tGRIK5"
+]
+},
+"GRIN1": {
+"error": null,
+"rows": [
+"Q05586\t938\tGRIN1"
+]
+},
+"GRIN2B": {
+"error": null,
+"rows": [
+"Q13224\t1484\tGRIN2B"
+]
+},
+"GRIN2D": {
+"error": null,
+"rows": [
+"O15399\t1336\tGRIN2D"
+]
+},
+"GRM1": {
+"error": null,
+"rows": [
+"Q13255\t1194\tGRM1"
+]
+},
+"GRM7": {
+"error": null,
+"rows": [
+"Q14831\t915\tGRM7"
+]
+},
+"GRN": {
+"error": null,
+"rows": [
+"P28799\t593\tGRN"
+]
+},
+"GTF3C3": {
+"error": null,
+"rows": [
+"Q9Y5Q9\t886\tGTF3C3"
+]
+},
+"GTPBP1": {
+"error": null,
+"rows": [
+"O00178\t669\tGTPBP1"
+]
+},
+"GUCY1A1": {
+"error": null,
+"rows": [
+"Q02108\t690\tGUCY1A1"
+]
+},
+"GUF1": {
+"error": null,
+"rows": [
+"Q8N442\t669\tGUF1"
+]
+},
+"H3-3A": {
+"error": null,
+"rows": [
+"P84243\t136\tH3-3A; H3-3B"
+]
+},
+"H3-3B": {
+"error": null,
+"rows": [
+"P84243\t136\tH3-3A; H3-3B"
+]
+},
+"H4C11": {
+"error": null,
+"rows": [
+"P62805\t103\tH4C1; H4C2; H4C3; H4C4; H4C5; H4C6; H4C8; H4C9; H4C11; H4C12; H4C13; H4C14; H4C15; H4C16"
+]
+},
+"H4C3": {
+"error": null,
+"rows": [
+"P62805\t103\tH4C1; H4C2; H4C3; H4C4; H4C5; H4C6; H4C8; H4C9; H4C11; H4C12; H4C13; H4C14; H4C15; H4C16"
+]
+},
+"H4C5": {
+"error": null,
+"rows": [
+"P62805\t103\tH4C1; H4C2; H4C3; H4C4; H4C5; H4C6; H4C8; H4C9; H4C11; H4C12; H4C13; H4C14; H4C15; H4C16"
+]
+},
+"H4C9": {
+"error": null,
+"rows": [
+"P62805\t103\tH4C1; H4C2; H4C3; H4C4; H4C5; H4C6; H4C8; H4C9; H4C11; H4C12; H4C13; H4C14; H4C15; H4C16"
+]
+},
+"HACE1": {
+"error": null,
+"rows": [
+"Q8IYU2\t909\tHACE1"
+]
+},
+"HCN1": {
+"error": null,
+"rows": [
+"O60741\t890\tHCN1"
+]
+},
+"HCN2": {
+"error": null,
+"rows": [
+"Q9UL51\t889\tHCN2"
+]
+},
+"HCN4": {
+"error": null,
+"rows": [
+"Q9Y3Q4\t1203\tHCN4"
+]
+},
+"HCRT": {
+"error": null,
+"rows": [
+"O43612\t131\tHCRT"
+]
+},
+"HDAC4": {
+"error": null,
+"rows": [
+"P56524\t1084\tHDAC4"
+]
+},
+"HECTD4": {
+"error": null,
+"rows": [
+"Q9Y4D8\t3996\tHECTD4"
+]
+},
+"HECW2": {
+"error": null,
+"rows": [
+"Q9P2P5\t1572\tHECW2"
+]
+},
+"HEPACAM": {
+"error": null,
+"rows": [
+"Q14CZ8\t416\tHEPACAM"
+]
+},
+"HEPHL1": {
+"error": null,
+"rows": [
+"Q6MZM0\t1159\tHEPHL1"
+]
+},
+"HERC2": {
+"error": null,
+"rows": [
+"O95714\t4834\tHERC2"
+]
+},
+"HID1": {
+"error": null,
+"rows": [
+"Q8IV36\t788\tHID1"
+]
+},
+"HIKESHI": {
+"error": null,
+"rows": [
+"Q53FT3\t197\tHIKESHI"
+]
+},
+"HIVEP2": {
+"error": null,
+"rows": [
+"P31629\t2446\tHIVEP2"
+]
+},
+"HK1": {
+"error": null,
+"rows": [
+"P19367\t917\tHK1"
+]
+},
+"HLA-DQB1": {
+"error": null,
+"rows": [
+"P01920\t261\tHLA-DQB1"
+]
+},
+"HMBS": {
+"error": null,
+"rows": [
+"P08397\t361\tHMBS"
+]
+},
+"HMGB3": {
+"error": null,
+"rows": [
+"O15347\t200\tHMGB3"
+]
+},
+"HNMT": {
+"error": null,
+"rows": [
+"P50135\t292\tHNMT"
+]
+},
+"HNRNPA1": {
+"error": null,
+"rows": [
+"P09651\t372\tHNRNPA1"
+]
+},
+"HNRNPA2B1": {
+"error": null,
+"rows": [
+"P22626\t353\tHNRNPA2B1"
+]
+},
+"HNRNPC": {
+"error": null,
+"rows": [
+"P07910\t306\tHNRNPC"
+]
+},
+"HNRNPH1": {
+"error": null,
+"rows": [
+"P31943\t449\tHNRNPH1"
+]
+},
+"HNRNPH2": {
+"error": null,
+"rows": [
+"P55795\t449\tHNRNPH2"
+]
+},
+"HNRNPR": {
+"error": null,
+"rows": [
+"O43390\t633\tHNRNPR"
+]
+},
+"HNRNPU": {
+"error": null,
+"rows": [
+"Q00839\t825\tHNRNPU"
+]
+},
+"HOXA1": {
+"error": null,
+"rows": [
+"P49639\t335\tHOXA1"
+]
+},
+"HPCA": {
+"error": null,
+"rows": [
+"P84074\t193\tHPCA"
+]
+},
+"HPDL": {
+"error": null,
+"rows": [
+"Q96IR7\t371\tHPDL"
+]
+},
+"HSPD1": {
+"error": null,
+"rows": [
+"P10809\t573\tHSPD1"
+]
+},
+"HTR2A": {
+"error": null,
+"rows": [
+"P28223\t471\tHTR2A"
+]
+},
+"HTRA1": {
+"error": null,
+"rows": [
+"Q92743\t480\tHTRA1"
+]
+},
+"HTRA2": {
+"error": null,
+"rows": [
+"O43464\t458\tHTRA2"
+]
+},
+"HTT": {
+"error": null,
+"rows": [
+"P31645\t630\tSLC6A4",
+"P42858\t3142\tHTT"
+]
+},
+"HUWE1": {
+"error": null,
+"rows": [
+"Q7Z6Z7\t4374\tHUWE1"
+]
+},
+"HYCC1": {
+"error": null,
+"rows": [
+"Q9BYI3\t521\tHYCC1"
+]
+},
+"IARS1": {
+"error": null,
+"rows": [
+"P41252\t1262\tIARS1"
+]
+},
+"IBA57": {
+"error": null,
+"rows": [
+"Q5T440\t356\tIBA57",
+"B1ANH7\t110\tIBA57-DT"
+]
+},
+"IER3IP1": {
+"error": null,
+"rows": [
+"Q9Y5U9\t82\tIER3IP1"
+]
+},
+"IFT172": {
+"error": null,
+"rows": [
+"Q9UG01\t1749\tIFT172"
+]
+},
+"IFT74": {
+"error": null,
+"rows": [
+"Q96LB3\t600\tIFT74"
+]
+},
+"IGBP1": {
+"error": null,
+"rows": [
+"P78318\t339\tIGBP1"
+]
+},
+"IL1RAPL1": {
+"error": null,
+"rows": [
+"Q9NZN1\t696\tIL1RAPL1"
+]
+},
+"IL6": {
+"error": null,
+"rows": [
+"P05231\t212\tIL6"
+]
+},
+"IMPA1": {
+"error": null,
+"rows": [
+"P29218\t277\tIMPA1"
+]
+},
+"INPP4A": {
+"error": null,
+"rows": [
+"Q96PE3\t977\tINPP4A"
+]
+},
+"INPP5E": {
+"error": null,
+"rows": [
+"Q9NRR6\t644\tINPP5E",
+"Q10713\t525\tPMPCA"
+]
+},
+"INPP5K": {
+"error": null,
+"rows": [
+"Q9BT40\t448\tINPP5K"
+]
+},
+"INTS1": {
+"error": null,
+"rows": [
+"Q8N201\t2190\tINTS1"
+]
+},
+"INTS11": {
+"error": null,
+"rows": [
+"Q5TA45\t600\tINTS11"
+]
+},
+"INTS6": {
+"error": null,
+"rows": [
+"Q9UL03\t887\tINTS6"
+]
+},
+"INTS8": {
+"error": null,
+"rows": [
+"Q75QN2\t995\tINTS8"
+]
+},
+"IQSEC1": {
+"error": null,
+"rows": [
+"Q6DN90\t963\tIQSEC1"
+]
+},
+"IQSEC2": {
+"error": null,
+"rows": [
+"Q5JU85\t1488\tIQSEC2"
+]
+},
+"IREB2": {
+"error": null,
+"rows": [
+"P48200\t963\tIREB2"
+]
+},
+"IRF2BPL": {
+"error": null,
+"rows": [
+"Q9H1B7\t796\tIRF2BPL"
+]
+},
+"IRF3": {
+"error": null,
+"rows": [
+"Q14653\t427\tIRF3"
+]
+},
+"ITGAV": {
+"error": null,
+"rows": [
+"P06756\t1048\tITGAV"
+]
+},
+"ITPA": {
+"error": null,
+"rows": [
+"Q9BY32\t194\tITPA"
+]
+},
+"ITPR1": {
+"error": null,
+"rows": [
+"Q14643\t2758\tITPR1"
+]
+},
+"JAM3": {
+"error": null,
+"rows": [
+"Q9BX67\t310\tJAM3"
+]
+},
+"JARID2": {
+"error": null,
+"rows": [
+"Q92833\t1246\tJARID2"
+]
+},
+"JKAMP": {
+"error": null,
+"rows": [
+"Q9P055\t311\tJKAMP"
+]
+},
+"JPH3": {
+"error": null,
+"rows": [
+"Q8WXH2\t748\tJPH3"
+]
+},
+"KANK1": {
+"error": null,
+"rows": [
+"Q14678\t1352\tKANK1"
+]
+},
+"KARS1": {
+"error": null,
+"rows": [
+"Q15046\t597\tKARS1"
+]
+},
+"KAT5": {
+"error": null,
+"rows": [
+"Q92993\t513\tKAT5"
+]
+},
+"KAT6A": {
+"error": null,
+"rows": [
+"Q92794\t2004\tKAT6A"
+]
+},
+"KAT6B": {
+"error": null,
+"rows": [
+"Q8WYB5\t2073\tKAT6B"
+]
+},
+"KATNB1": {
+"error": null,
+"rows": [
+"Q9BVA0\t655\tKATNB1"
+]
+},
+"KATNIP": {
+"error": null,
+"rows": [
+"O60303\t1618\tKATNIP"
+]
+},
+"KCNA1": {
+"error": null,
+"rows": [
+"Q09470\t495\tKCNA1"
+]
+},
+"KCNA2": {
+"error": null,
+"rows": [
+"P16389\t499\tKCNA2"
+]
+},
+"KCNA4": {
+"error": null,
+"rows": [
+"P22459\t653\tKCNA4"
+]
+},
+"KCNB1": {
+"error": null,
+"rows": [
+"Q14721\t858\tKCNB1"
+]
+},
+"KCNC1": {
+"error": null,
+"rows": [
+"P48547\t511\tKCNC1"
+]
+},
+"KCNC2": {
+"error": null,
+"rows": [
+"Q96PR1\t638\tKCNC2"
+]
+},
+"KCNC3": {
+"error": null,
+"rows": [
+"Q14003\t757\tKCNC3"
+]
+},
+"KCND3": {
+"error": null,
+"rows": [
+"Q9UK17\t655\tKCND3"
+]
+},
+"KCNH5": {
+"error": null,
+"rows": [
+"Q8NCM2\t988\tKCNH5"
+]
+},
+"KCNK18": {
+"error": null,
+"rows": [
+"Q7Z418\t384\tKCNK18"
+]
+},
+"KCNK3": {
+"error": null,
+"rows": [
+"O14649\t394\tKCNK3"
+]
+},
+"KCNK4": {
+"error": null,
+"rows": [
+"Q9NYG8\t393\tKCNK4"
+]
+},
+"KCNMA1": {
+"error": null,
+"rows": [
+"Q12791\t1236\tKCNMA1"
+]
+},
+"KCNN2": {
+"error": null,
+"rows": [
+"Q9H2S1\t579\tKCNN2"
+]
+},
+"KCNQ2": {
+"error": null,
+"rows": [
+"O43526\t872\tKCNQ2"
+]
+},
+"KCNQ3": {
+"error": null,
+"rows": [
+"O43525\t872\tKCNQ3"
+]
+},
+"KCNQ5": {
+"error": null,
+"rows": [
+"Q9NR82\t932\tKCNQ5"
+]
+},
+"KCNT1": {
+"error": null,
+"rows": [
+"Q5JUK3\t1230\tKCNT1"
+]
+},
+"KCNT2": {
+"error": null,
+"rows": [
+"Q6UVM3\t1135\tKCNT2"
+]
+},
+"KCTD17": {
+"error": null,
+"rows": [
+"Q8N5Z5\t314\tKCTD17"
+]
+},
+"KCTD7": {
+"error": null,
+"rows": [
+"Q96MP8\t289\tKCTD7"
+]
+},
+"KDM1A": {
+"error": null,
+"rows": [
+"O60341\t852\tKDM1A"
+]
+},
+"KDM2B": {
+"error": null,
+"rows": [
+"Q8NHM5\t1336\tKDM2B"
+]
+},
+"KDM4B": {
+"error": null,
+"rows": [
+"O94953\t1096\tKDM4B"
+]
+},
+"KDM5A": {
+"error": null,
+"rows": [
+"P29375\t1690\tKDM5A"
+]
+},
+"KDM5B": {
+"error": null,
+"rows": [
+"Q9UGL1\t1544\tKDM5B"
+]
+},
+"KDM5C": {
+"error": null,
+"rows": [
+"P41229\t1560\tKDM5C"
+]
+},
+"KDM6B": {
+"error": null,
+"rows": [
+"O15054\t1643\tKDM6B"
+]
+},
+"KIAA0586": {
+"error": null,
+"rows": [
+"Q9BVV6\t1533\tKIAA0586"
+]
+},
+"KIAA0753": {
+"error": null,
+"rows": [
+"Q2KHM9\t967\tKIAA0753"
+]
+},
+"KICS2": {
+"error": null,
+"rows": [
+"Q96MD2\t445\tKICS2"
+]
+},
+"KIDINS220": {
+"error": null,
+"rows": [
+"Q9ULH0\t1771\tKIDINS220"
+]
+},
+"KIF11": {
+"error": null,
+"rows": [
+"P52732\t1056\tKIF11"
+]
+},
+"KIF14": {
+"error": null,
+"rows": [
+"Q15058\t1648\tKIF14"
+]
+},
+"KIF1A": {
+"error": null,
+"rows": [
+"Q12756\t1690\tKIF1A"
+]
+},
+"KIF1C": {
+"error": null,
+"rows": [
+"O43896\t1103\tKIF1C"
+]
+},
+"KIF26A": {
+"error": null,
+"rows": [
+"Q9ULI4\t1882\tKIF26A"
+]
+},
+"KIF2A": {
+"error": null,
+"rows": [
+"O00139\t706\tKIF2A"
+]
+},
+"KIF4A": {
+"error": null,
+"rows": [
+"O95239\t1232\tKIF4A"
+]
+},
+"KIF5A": {
+"error": null,
+"rows": [
+"Q12840\t1032\tKIF5A"
+]
+},
+"KIF5C": {
+"error": null,
+"rows": [
+"O60282\t957\tKIF5C"
+]
+},
+"KIF7": {
+"error": null,
+"rows": [
+"Q2M1P5\t1343\tKIF7"
+]
+},
+"KLC2": {
+"error": null,
+"rows": [
+"Q9H0B6\t622\tKLC2",
+"Q6P597\t504\tKLC3"
+]
+},
+"KLC4": {
+"error": null,
+"rows": [
+"Q9NSK0\t619\tKLC4"
+]
+},
+"KLHL15": {
+"error": null,
+"rows": [
+"Q96M94\t604\tKLHL15"
+]
+},
+"KLHL20": {
+"error": null,
+"rows": [
+"Q9Y2M5\t609\tKLHL20"
+]
+},
+"KMT2B": {
+"error": null,
+"rows": [
+"Q9UMN6\t2715\tKMT2B"
+]
+},
+"KMT2D": {
+"error": null,
+"rows": [
+"O14686\t5537\tKMT2D"
+]
+},
+"KMT5B": {
+"error": null,
+"rows": [
+"Q4FZB7\t885\tKMT5B"
+]
+},
+"KNL1": {
+"error": null,
+"rows": [
+"Q8NG31\t2342\tKNL1"
+]
+},
+"KPNA3": {
+"error": null,
+"rows": [
+"O00505\t521\tKPNA3"
+]
+},
+"KPTN": {
+"error": null,
+"rows": [
+"Q9Y664\t436\tKPTN"
+]
+},
+"KRAS": {
+"error": null,
+"rows": [
+"P01116\t189\tKRAS"
+]
+},
+"KRIT1": {
+"error": null,
+"rows": [
+"O00522\t736\tKRIT1"
+]
+},
+"L1CAM": {
+"error": null,
+"rows": [
+"P32004\t1257\tL1CAM"
+]
+},
+"LAMA1": {
+"error": null,
+"rows": [
+"P25391\t3075\tLAMA1"
+]
+},
+"LAMB1": {
+"error": null,
+"rows": [
+"P07942\t1786\tLAMB1"
+]
+},
+"LAMC3": {
+"error": null,
+"rows": [
+"Q9Y6N6\t1575\tLAMC3"
+]
+},
+"LARGE1": {
+"error": null,
+"rows": [
+"O95461\t756\tLARGE1"
+]
+},
+"LETM1": {
+"error": null,
+"rows": [
+"O95202\t739\tLETM1"
+]
+},
+"LGI1": {
+"error": null,
+"rows": [
+"O95970\t557\tLGI1"
+]
+},
+"LGI3": {
+"error": null,
+"rows": [
+"Q8N145\t548\tLGI3"
+]
+},
+"LHX4": {
+"error": null,
+"rows": [
+"Q969G2\t390\tLHX4"
+]
+},
+"LINGO1": {
+"error": null,
+"rows": [
+"Q96FE5\t620\tLINGO1"
+]
+},
+"LINS1": {
+"error": null,
+"rows": [
+"Q8NG48\t757\tLINS1"
+]
+},
+"LIPT2": {
+"error": null,
+"rows": [
+"A6NK58\t231\tLIPT2"
+]
+},
+"LMAN2L": {
+"error": null,
+"rows": [
+"Q9H0V9\t348\tLMAN2L"
+]
+},
+"LMBRD2": {
+"error": null,
+"rows": [
+"Q68DH5\t695\tLMBRD2"
+]
+},
+"LMNB1": {
+"error": null,
+"rows": [
+"P20700\t586\tLMNB1"
+]
+},
+"LMNB2": {
+"error": null,
+"rows": [
+"Q03252\t620\tLMNB2"
+]
+},
+"LNPK": {
+"error": null,
+"rows": [
+"Q9C0E8\t428\tLNPK"
+]
+},
+"LRP12": {
+"error": null,
+"rows": [
+"Q9Y561\t859\tLRP12"
+]
+},
+"LRRC32": {
+"error": null,
+"rows": [
+"Q14392\t662\tLRRC32"
+]
+},
+"LRRC7": {
+"error": null,
+"rows": [
+"Q96NW7\t1575\tLRRC7"
+]
+},
+"LRRC8C": {
+"error": null,
+"rows": [
+"Q8TDW0\t803\tLRRC8C"
+]
+},
+"LRRK2": {
+"error": null,
+"rows": [
+"Q5S007\t2527\tLRRK2"
+]
+},
+"LSM7": {
+"error": null,
+"rows": [
+"Q9UK45\t103\tLSM7"
+]
+},
+"LSS": {
+"error": null,
+"rows": [
+"P48449\t732\tLSS"
+]
+},
+"LTC4S": {
+"error": null,
+"rows": [
+"Q16873\t150\tLTC4S"
+]
+},
+"MAB21L1": {
+"error": null,
+"rows": [
+"Q13394\t359\tMAB21L1"
+]
+},
+"MACF1": {
+"error": null,
+"rows": [
+"Q9UPN3\t7388\tMACF1",
+"O94854\t3515\tMACF1"
+]
+},
+"MADD": {
+"error": null,
+"rows": [
+"Q8WXG6\t1647\tMADD"
+]
+},
+"MAG": {
+"error": null,
+"rows": [
+"P20916\t626\tMAG"
+]
+},
+"MAL": {
+"error": null,
+"rows": [
+"P21145\t153\tMAL",
+"P01732\t235\tCD8A",
+"P58753\t221\tTIRAP",
+"Q969V6\t931\tMRTFA"
+]
+},
+"MANF": {
+"error": null,
+"rows": [
+"P55145\t182\tMANF"
+]
+},
+"MAP1B": {
+"error": null,
+"rows": [
+"P46821\t2468\tMAP1B"
+]
+},
+"MAP3K3": {
+"error": null,
+"rows": [
+"Q99759\t626\tMAP3K3"
+]
+},
+"MAPT": {
+"error": null,
+"rows": [
+"P10636\t758\tMAPT"
+]
+},
+"MARCHF6": {
+"error": null,
+"rows": [
+"P0DW81\t44\tMARCHF6-DT",
+"O60337\t910\tMARCHF6"
+]
+},
+"MARK2": {
+"error": null,
+"rows": [
+"Q7KZI7\t788\tMARK2"
+]
+},
+"MARS1": {
+"error": null,
+"rows": [
+"P56192\t900\tMARS1"
+]
+},
+"MARS2": {
+"error": null,
+"rows": [
+"Q96GW9\t593\tMARS2"
+]
+},
+"MAST1": {
+"error": null,
+"rows": [
+"Q9Y2H9\t1570\tMAST1",
+"Q7Z460\t1538\tCLASP1"
+]
+},
+"MAST3": {
+"error": null,
+"rows": [
+"O60307\t1309\tMAST3"
+]
+},
+"MATR3": {
+"error": null,
+"rows": [
+"P43243\t847\tMATR3"
+]
+},
+"MBD5": {
+"error": null,
+"rows": [
+"Q9P267\t1494\tMBD5"
+]
+},
+"MBOAT7": {
+"error": null,
+"rows": [
+"Q96N66\t472\tMBOAT7"
+]
+},
+"MCM3AP": {
+"error": null,
+"rows": [
+"O60318\t1980\tMCM3AP"
+]
+},
+"MCPH1": {
+"error": null,
+"rows": [
+"Q8NEM0\t835\tMCPH1"
+]
+},
+"MDGA2": {
+"error": null,
+"rows": [
+"Q7Z553\t956\tMDGA2"
+]
+},
+"MDH1": {
+"error": null,
+"rows": [
+"P40925\t334\tMDH1"
+]
+},
+"MDH2": {
+"error": null,
+"rows": [
+"P40926\t338\tMDH2"
+]
+},
+"MECP2": {
+"error": null,
+"rows": [
+"P51608\t486\tMECP2"
+]
+},
+"MECR": {
+"error": null,
+"rows": [
+"Q9BV79\t373\tMECR"
+]
+},
+"MED11": {
+"error": null,
+"rows": [
+"Q9P086\t117\tMED11"
+]
+},
+"MED12": {
+"error": null,
+"rows": [
+"Q93074\t2177\tMED12"
+]
+},
+"MED13": {
+"error": null,
+"rows": [
+"Q9UHV7\t2174\tMED13"
+]
+},
+"MED13L": {
+"error": null,
+"rows": [
+"Q71F56\t2210\tMED13L"
+]
+},
+"MED17": {
+"error": null,
+"rows": [
+"Q9NVC6\t651\tMED17"
+]
+},
+"MED23": {
+"error": null,
+"rows": [
+"Q9ULK4\t1368\tMED23"
+]
+},
+"MED25": {
+"error": null,
+"rows": [
+"Q71SY5\t747\tMED25",
+"Q9NWA0\t146\tMED9"
+]
+},
+"MED27": {
+"error": null,
+"rows": [
+"Q6P2C8\t311\tMED27"
+]
+},
+"MEF2C": {
+"error": null,
+"rows": [
+"Q06413\t473\tMEF2C"
+]
+},
+"MEG3": {
+"error": null,
+"rows": []
+},
+"MEIS2": {
+"error": null,
+"rows": [
+"O14770\t477\tMEIS2"
+]
+},
+"METTL23": {
+"error": null,
+"rows": [
+"Q86XA0\t190\tMETTL23"
+]
+},
+"MFF": {
+"error": null,
+"rows": [
+"Q9GZY8\t342\tMFF"
+]
+},
+"MFSD2A": {
+"error": null,
+"rows": [
+"Q8NA29\t543\tMFSD2A"
+]
+},
+"MFSD8": {
+"error": null,
+"rows": [
+"Q8NHS3\t518\tMFSD8"
+]
+},
+"MICAL1": {
+"error": null,
+"rows": [
+"Q8TDZ2\t1067\tMICAL1"
+]
+},
+"MID2": {
+"error": null,
+"rows": [
+"Q9UJV3\t735\tMID2"
+]
+},
+"MINPP1": {
+"error": null,
+"rows": [
+"Q9UNW1\t487\tMINPP1"
+]
+},
+"MIPEP": {
+"error": null,
+"rows": [
+"Q99797\t713\tMIPEP"
+]
+},
+"MKS1": {
+"error": null,
+"rows": [
+"Q9NXB0\t559\tMKS1"
+]
+},
+"MLC1": {
+"error": null,
+"rows": [
+"Q15049\t377\tMLC1",
+"P12829\t197\tMYL4"
+]
+},
+"MME": {
+"error": null,
+"rows": [
+"P08473\t750\tMME"
+]
+},
+"MOBP": {
+"error": null,
+"rows": [
+"Q13875\t183\tMOBP"
+]
+},
+"MOG": {
+"error": null,
+"rows": [
+"Q16653\t247\tMOG"
+]
+},
+"MORC2": {
+"error": null,
+"rows": [
+"Q9Y6X9\t1032\tMORC2"
+]
+},
+"MPDZ": {
+"error": null,
+"rows": [
+"O75970\t2070\tMPDZ"
+]
+},
+"MPO": {
+"error": null,
+"rows": [
+"P05164\t745\tMPO"
+]
+},
+"MPV17": {
+"error": null,
+"rows": [
+"P39210\t176\tMPV17"
+]
+},
+"MPZ": {
+"error": null,
+"rows": [
+"P25189\t248\tMPZ"
+]
+},
+"MRE11": {
+"error": null,
+"rows": [
+"P49959\t708\tMRE11"
+]
+},
+"MSL2": {
+"error": null,
+"rows": [
+"Q9HCI7\t577\tMSL2"
+]
+},
+"MSMO1": {
+"error": null,
+"rows": [
+"Q15800\t293\tMSMO1"
+]
+},
+"MSTO1": {
+"error": null,
+"rows": [
+"Q9BUK6\t570\tMSTO1"
+]
+},
+"MTHFD1": {
+"error": null,
+"rows": [
+"P11586\t935\tMTHFD1"
+]
+},
+"MTHFR": {
+"error": null,
+"rows": [
+"P42898\t656\tMTHFR"
+]
+},
+"MTHFS": {
+"error": null,
+"rows": [
+"P49914\t203\tMTHFS"
+]
+},
+"MTOR": {
+"error": null,
+"rows": [
+"P42345\t2549\tMTOR"
+]
+},
+"MTPAP": {
+"error": null,
+"rows": [
+"Q9NVV4\t582\tMTPAP"
+]
+},
+"MTR": {
+"error": null,
+"rows": [
+"Q99707\t1265\tMTR"
+]
+},
+"MTRFR": {
+"error": null,
+"rows": [
+"Q9H3J6\t166\tMTRFR"
+]
+},
+"MTRR": {
+"error": null,
+"rows": [
+"Q9UBK8\t698\tMTRR"
+]
+},
+"MTSS2": {
+"error": null,
+"rows": [
+"Q765P7\t747\tMTSS2"
+]
+},
+"MTTP": {
+"error": null,
+"rows": [
+"P55157\t894\tMTTP"
+]
+},
+"MYBPC1": {
+"error": null,
+"rows": [
+"Q00872\t1141\tMYBPC1"
+]
+},
+"MYCN": {
+"error": null,
+"rows": [
+"P04198\t464\tMYCN"
+]
+},
+"MYRF": {
+"error": null,
+"rows": [
+"Q9Y2G1\t1151\tMYRF"
+]
+},
+"MYT1L": {
+"error": null,
+"rows": [
+"Q9UL68\t1186\tMYT1L"
+]
+},
+"NAA15": {
+"error": null,
+"rows": [
+"Q9BXJ9\t866\tNAA15"
+]
+},
+"NAA20": {
+"error": null,
+"rows": [
+"P61599\t178\tNAA20"
+]
+},
+"NACC1": {
+"error": null,
+"rows": [
+"Q96RE7\t527\tNACC1"
+]
+},
+"NADK2": {
+"error": null,
+"rows": [
+"Q4G0N4\t442\tNADK2"
+]
+},
+"NAE1": {
+"error": null,
+"rows": [
+"Q13564\t534\tNAE1"
+]
+},
+"NALCN": {
+"error": null,
+"rows": [
+"Q8IZF0\t1738\tNALCN"
+]
+},
+"NAPB": {
+"error": null,
+"rows": [
+"Q9H115\t298\tNAPB"
+]
+},
+"NARS1": {
+"error": null,
+"rows": [
+"O43776\t548\tNARS1"
+]
+},
+"NAV3": {
+"error": null,
+"rows": [
+"Q8IVL0\t2385\tNAV3"
+]
+},
+"NAXE": {
+"error": null,
+"rows": [
+"Q8NCW5\t288\tNAXE"
+]
+},
+"NBEA": {
+"error": null,
+"rows": [
+"Q8NFP9\t2946\tNBEA"
+]
+},
+"NBN": {
+"error": null,
+"rows": [
+"O60934\t754\tNBN"
+]
+},
+"NCAPD2": {
+"error": null,
+"rows": [
+"Q15021\t1401\tNCAPD2"
+]
+},
+"NCAPD3": {
+"error": null,
+"rows": [
+"P42695\t1498\tNCAPD3"
+]
+},
+"NCAPH": {
+"error": null,
+"rows": [
+"Q15003\t741\tNCAPH"
+]
+},
+"NCDN": {
+"error": null,
+"rows": [
+"Q9UBB6\t729\tNCDN"
+]
+},
+"NDC1": {
+"error": null,
+"rows": [
+"Q9BTX1\t674\tNDC1"
+]
+},
+"NDE1": {
+"error": null,
+"rows": [
+"Q9NXR1\t335\tNDE1"
+]
+},
+"NDST1": {
+"error": null,
+"rows": [
+"P52848\t882\tNDST1"
+]
+},
+"NECAP1": {
+"error": null,
+"rows": [
+"Q8NC96\t275\tNECAP1"
+]
+},
+"NEDD4L": {
+"error": null,
+"rows": [
+"Q96PU5\t975\tNEDD4L"
+]
+},
+"NEFH": {
+"error": null,
+"rows": [
+"P12036\t1020\tNEFH"
+]
+},
+"NEK1": {
+"error": null,
+"rows": [
+"Q96PY6\t1258\tNEK1"
+]
+},
+"NEMF": {
+"error": null,
+"rows": [
+"O60524\t1076\tNEMF"
+]
+},
+"NEUROD2": {
+"error": null,
+"rows": [
+"Q15784\t382\tNEUROD2"
+]
+},
+"NEUROG1": {
+"error": null,
+"rows": [
+"Q92886\t237\tNEUROG1"
+]
+},
+"NEXMIF": {
+"error": null,
+"rows": [
+"Q5QGS0\t1516\tNEXMIF"
+]
+},
+"NFASC": {
+"error": null,
+"rows": [
+"O94856\t1347\tNFASC"
+]
+},
+"NFE2L2": {
+"error": null,
+"rows": [
+"Q16236\t605\tNFE2L2"
+]
+},
+"NFIA": {
+"error": null,
+"rows": [
+"Q12857\t509\tNFIA"
+]
+},
+"NFIB": {
+"error": null,
+"rows": [
+"O00712\t420\tNFIB"
+]
+},
+"NFU1": {
+"error": null,
+"rows": [
+"Q9UMS0\t254\tNFU1"
+]
+},
+"NHLRC1": {
+"error": null,
+"rows": [
+"Q6VVB1\t395\tNHLRC1"
+]
+},
+"NIPA1": {
+"error": null,
+"rows": [
+"Q7RTP0\t329\tNIPA1"
+]
+},
+"NIT1": {
+"error": null,
+"rows": [
+"Q86X76\t327\tNIT1"
+]
+},
+"NKAP": {
+"error": null,
+"rows": [
+"Q8N5F7\t415\tNKAP"
+]
+},
+"NKX2-1": {
+"error": null,
+"rows": [
+"P43699\t371\tNKX2-1"
+]
+},
+"NKX6-2": {
+"error": null,
+"rows": [
+"Q9C056\t277\tNKX6-2"
+]
+},
+"NLGN1": {
+"error": null,
+"rows": [
+"Q8N2Q7\t863\tNLGN1"
+]
+},
+"NLGN3": {
+"error": null,
+"rows": [
+"Q9NZ94\t848\tNLGN3"
+]
+},
+"NLGN4X": {
+"error": null,
+"rows": [
+"Q8N0W4\t816\tNLGN4X"
+]
+},
+"NMNAT1": {
+"error": null,
+"rows": [
+"Q9HAN9\t279\tNMNAT1"
+]
+},
+"NOL3": {
+"error": null,
+"rows": [
+"O60936\t208\tNOL3"
+]
+},
+"NONO": {
+"error": null,
+"rows": [
+"Q15233\t471\tNONO"
+]
+},
+"NOP56": {
+"error": null,
+"rows": [
+"O00567\t594\tNOP56"
+]
+},
+"NOS3": {
+"error": null,
+"rows": [
+"P29474\t1203\tNOS3",
+"P60323\t173\tNANOS3"
+]
+},
+"NOTCH2NLC": {
+"error": null,
+"rows": [
+"P0DPK4\t293\tNOTCH2NLC"
+]
+},
+"NOTCH3": {
+"error": null,
+"rows": [
+"Q9UM47\t2321\tNOTCH3"
+]
+},
+"NOVA2": {
+"error": null,
+"rows": [
+"Q9UNW9\t492\tNOVA2"
+]
+},
+"NPHP1": {
+"error": null,
+"rows": [
+"O15259\t732\tNPHP1"
+]
+},
+"NPRL2": {
+"error": null,
+"rows": [
+"Q8WTW4\t380\tNPRL2"
+]
+},
+"NPRL3": {
+"error": null,
+"rows": [
+"Q12980\t569\tNPRL3"
+]
+},
+"NPTX1": {
+"error": null,
+"rows": [
+"Q15818\t432\tNPTX1"
+]
+},
+"NR4A2": {
+"error": null,
+"rows": [
+"P43354\t598\tNR4A2"
+]
+},
+"NRCAM": {
+"error": null,
+"rows": [
+"Q92823\t1304\tNRCAM"
+]
+},
+"NRROS": {
+"error": null,
+"rows": [
+"Q86YC3\t692\tNRROS"
+]
+},
+"NRXN1": {
+"error": null,
+"rows": [
+"P58400\t472\tNRXN1",
+"Q9ULB1\t1477\tNRXN1"
+]
+},
+"NSF": {
+"error": null,
+"rows": [
+"P46459\t744\tNSF"
+]
+},
+"NSRP1": {
+"error": null,
+"rows": [
+"Q9H0G5\t558\tNSRP1"
+]
+},
+"NSUN2": {
+"error": null,
+"rows": [
+"Q08J23\t767\tNSUN2"
+]
+},
+"NSUN6": {
+"error": null,
+"rows": [
+"Q8TEA1\t469\tNSUN6"
+]
+},
+"NT5C2": {
+"error": null,
+"rows": [
+"P49902\t561\tNT5C2"
+]
+},
+"NTNG2": {
+"error": null,
+"rows": [
+"Q96CW9\t530\tNTNG2"
+]
+},
+"NTRK2": {
+"error": null,
+"rows": [
+"Q16620\t822\tNTRK2"
+]
+},
+"NUAK2": {
+"error": null,
+"rows": [
+"Q9H093\t628\tNUAK2"
+]
+},
+"NUDT2": {
+"error": null,
+"rows": [
+"P50583\t147\tNUDT2"
+]
+},
+"NUP214": {
+"error": null,
+"rows": [
+"P35658\t2090\tNUP214"
+]
+},
+"NUP37": {
+"error": null,
+"rows": [
+"Q8NFH4\t326\tNUP37"
+]
+},
+"NUP54": {
+"error": null,
+"rows": [
+"Q7Z3B4\t507\tNUP54"
+]
+},
+"NUS1": {
+"error": null,
+"rows": [
+"Q96E22\t293\tNUS1"
+]
+},
+"NUTM2B-AS1": {
+"error": null,
+"rows": []
+},
+"ODC1": {
+"error": null,
+"rows": [
+"P11926\t461\tODC1"
+]
+},
+"OFD1": {
+"error": null,
+"rows": [
+"O75665\t1012\tOFD1"
+]
+},
+"OGT": {
+"error": null,
+"rows": [
+"O15294\t1046\tOGT"
+]
+},
+"OPA1": {
+"error": null,
+"rows": [
+"O60313\t960\tOPA1"
+]
+},
+"OPHN1": {
+"error": null,
+"rows": [
+"O60890\t802\tOPHN1"
+]
+},
+"OPTN": {
+"error": null,
+"rows": [
+"Q96CV9\t577\tOPTN"
+]
+},
+"OTUD5": {
+"error": null,
+"rows": [
+"Q96G74\t571\tOTUD5"
+]
+},
+"OTUD6B": {
+"error": null,
+"rows": [
+"Q8N6M0\t293\tOTUD6B"
+]
+},
+"OTUD7A": {
+"error": null,
+"rows": [
+"Q8TE49\t926\tOTUD7A"
+]
+},
+"OXR1": {
+"error": null,
+"rows": [
+"Q8N573\t874\tOXR1",
+"O43613\t425\tHCRTR1"
+]
+},
+"PACS2": {
+"error": null,
+"rows": [
+"Q86VP3\t889\tPACS2"
+]
+},
+"PAFAH1B1": {
+"error": null,
+"rows": [
+"P43034\t410\tPAFAH1B1"
+]
+},
+"PAK1": {
+"error": null,
+"rows": [
+"Q13153\t545\tPAK1",
+"Q16512\t942\tPKN1"
+]
+},
+"PAK3": {
+"error": null,
+"rows": [
+"O75914\t559\tPAK3"
+]
+},
+"PAN2": {
+"error": null,
+"rows": [
+"Q504Q3\t1202\tPAN2",
+"Q9HBH5\t336\tRDH14",
+"Q96MN2\t994\tNLRP4"
+]
+},
+"PANK2": {
+"error": null,
+"rows": [
+"Q9BZ23\t570\tPANK2"
+]
+},
+"PARK7": {
+"error": null,
+"rows": [
+"Q99497\t189\tPARK7"
+]
+},
+"PARS2": {
+"error": null,
+"rows": [
+"Q7L3T8\t475\tPARS2"
+]
+},
+"PBX1": {
+"error": null,
+"rows": [
+"P40424\t430\tPBX1"
+]
+},
+"PCDH19": {
+"error": null,
+"rows": [
+"Q8TAB3\t1148\tPCDH19"
+]
+},
+"PCDHGC4": {
+"error": null,
+"rows": [
+"Q9Y5F7\t938\tPCDHGC4"
+]
+},
+"PCLO": {
+"error": null,
+"rows": [
+"Q9Y6V0\t5142\tPCLO"
+]
+},
+"PCNA": {
+"error": null,
+"rows": [
+"P12004\t261\tPCNA"
+]
+},
+"PCYT2": {
+"error": null,
+"rows": [
+"Q99447\t389\tPCYT2"
+]
+},
+"PDCD10": {
+"error": null,
+"rows": [
+"Q9BUL8\t212\tPDCD10"
+]
+},
+"PDCD6IP": {
+"error": null,
+"rows": [
+"Q8WUM4\t868\tPDCD6IP"
+]
+},
+"PDE10A": {
+"error": null,
+"rows": [
+"Q9Y233\t1055\tPDE10A"
+]
+},
+"PDE2A": {
+"error": null,
+"rows": [
+"O00408\t941\tPDE2A"
+]
+},
+"PDE6D": {
+"error": null,
+"rows": [
+"O43924\t150\tPDE6D"
+]
+},
+"PDE8B": {
+"error": null,
+"rows": [
+"O95263\t885\tPDE8B"
+]
+},
+"PDYN": {
+"error": null,
+"rows": [
+"P01213\t254\tPDYN"
+]
+},
+"PDZD8": {
+"error": null,
+"rows": [
+"Q8NEN9\t1154\tPDZD8"
+]
+},
+"PFN1": {
+"error": null,
+"rows": [
+"P07737\t140\tPFN1"
+]
+},
+"PGAP1": {
+"error": null,
+"rows": [
+"Q75T13\t922\tPGAP1"
+]
+},
+"PGAP2": {
+"error": null,
+"rows": [
+"Q9UHJ9\t254\tPGAP2"
+]
+},
+"PGAP3": {
+"error": null,
+"rows": [
+"Q96FM1\t320\tPGAP3"
+]
+},
+"PGBD5": {
+"error": null,
+"rows": [
+"Q8N414\t524\tPGBD5"
+]
+},
+"PGM2L1": {
+"error": null,
+"rows": [
+"Q6PCE3\t622\tPGM2L1"
+]
+},
+"PHACTR1": {
+"error": null,
+"rows": [
+"Q9C0D0\t580\tPHACTR1"
+]
+},
+"PHC1": {
+"error": null,
+"rows": [
+"P78364\t1004\tPHC1"
+]
+},
+"PHF21A": {
+"error": null,
+"rows": [
+"Q96BD5\t680\tPHF21A"
+]
+},
+"PHF8": {
+"error": null,
+"rows": [
+"Q9UPP1\t1060\tPHF8"
+]
+},
+"PHIP": {
+"error": null,
+"rows": [
+"Q8WWQ0\t1821\tPHIP"
+]
+},
+"PI4K2A": {
+"error": null,
+"rows": [
+"Q9BTU6\t479\tPI4K2A"
+]
+},
+"PI4KA": {
+"error": null,
+"rows": [
+"P42356\t2102\tPI4KA"
+]
+},
+"PIBF1": {
+"error": null,
+"rows": [
+"Q8WXW3\t757\tPIBF1"
+]
+},
+"PIDD1": {
+"error": null,
+"rows": [
+"Q9HB75\t910\tPIDD1",
+"C0HMD6\t171\tPIDD1"
+]
+},
+"PIGA": {
+"error": null,
+"rows": [
+"P37287\t484\tPIGA"
+]
+},
+"PIGB": {
+"error": null,
+"rows": [
+"Q92521\t554\tPIGB"
+]
+},
+"PIGF": {
+"error": null,
+"rows": [
+"Q07326\t219\tPIGF"
+]
+},
+"PIGG": {
+"error": null,
+"rows": [
+"Q5H8A4\t983\tPIGG"
+]
+},
+"PIGK": {
+"error": null,
+"rows": [
+"Q92643\t395\tPIGK"
+]
+},
+"PIGN": {
+"error": null,
+"rows": [
+"O95427\t931\tPIGN"
+]
+},
+"PIGO": {
+"error": null,
+"rows": [
+"Q8TEQ8\t1089\tPIGO"
+]
+},
+"PIGP": {
+"error": null,
+"rows": [
+"P57054\t158\tPIGP"
+]
+},
+"PIGQ": {
+"error": null,
+"rows": [
+"Q9BRB3\t760\tPIGQ"
+]
+},
+"PIGT": {
+"error": null,
+"rows": [
+"Q969N2\t578\tPIGT"
+]
+},
+"PIGV": {
+"error": null,
+"rows": [
+"Q9NUD9\t493\tPIGV"
+]
+},
+"PIGW": {
+"error": null,
+"rows": [
+"Q7Z7B1\t504\tPIGW"
+]
+},
+"PIGY": {
+"error": null,
+"rows": [
+"Q3MUY2\t71\tPIGY"
+]
+},
+"PIK3CA": {
+"error": null,
+"rows": [
+"P42336\t1068\tPIK3CA"
+]
+},
+"PIK3R2": {
+"error": null,
+"rows": [
+"O00459\t728\tPIK3R2"
+]
+},
+"PIK3R5": {
+"error": null,
+"rows": [
+"Q8WYR1\t880\tPIK3R5"
+]
+},
+"PINK1": {
+"error": null,
+"rows": [
+"Q9BXM7\t581\tPINK1"
+]
+},
+"PIP5K1C": {
+"error": null,
+"rows": [
+"O60331\t668\tPIP5K1C"
+]
+},
+"PITRM1": {
+"error": null,
+"rows": [
+"Q5JRX3\t1037\tPITRM1"
+]
+},
+"PLA2G6": {
+"error": null,
+"rows": [
+"O60733\t806\tPLA2G6"
+]
+},
+"PLAA": {
+"error": null,
+"rows": [
+"Q9Y263\t795\tPLAA"
+]
+},
+"PLAU": {
+"error": null,
+"rows": [
+"P00749\t431\tPLAU"
+]
+},
+"PLCB1": {
+"error": null,
+"rows": [
+"Q9NQ66\t1216\tPLCB1"
+]
+},
+"PLCH1": {
+"error": null,
+"rows": [
+"Q4KWH8\t1693\tPLCH1"
+]
+},
+"PLD3": {
+"error": null,
+"rows": [
+"Q8IV08\t490\tPLD3"
+]
+},
+"PLEKHG2": {
+"error": null,
+"rows": [
+"Q9H7P9\t1386\tPLEKHG2"
+]
+},
+"PLK4": {
+"error": null,
+"rows": [
+"O00444\t970\tPLK4"
+]
+},
+"PLP1": {
+"error": null,
+"rows": [
+"P60201\t277\tPLP1"
+]
+},
+"PLPBP": {
+"error": null,
+"rows": [
+"O94903\t275\tPLPBP"
+]
+},
+"PLXNA1": {
+"error": null,
+"rows": [
+"Q9UIW2\t1896\tPLXNA1"
+]
+},
+"PMPCA": {
+"error": null,
+"rows": [
+"Q10713\t525\tPMPCA"
+]
+},
+"PNKD": {
+"error": null,
+"rows": [
+"Q8N490\t385\tPNKD"
+]
+},
+"PNKP": {
+"error": null,
+"rows": [
+"Q96T60\t521\tPNKP"
+]
+},
+"PNPLA6": {
+"error": null,
+"rows": [
+"Q8IY17\t1375\tPNPLA6"
+]
+},
+"PNPO": {
+"error": null,
+"rows": [
+"Q9NVS9\t261\tPNPO"
+]
+},
+"PNPT1": {
+"error": null,
+"rows": [
+"Q8TCS8\t783\tPNPT1"
+]
+},
+"POC1B": {
+"error": null,
+"rows": [
+"Q8TC44\t478\tPOC1B"
+]
+},
+"POGZ": {
+"error": null,
+"rows": [
+"Q7Z3K3\t1410\tPOGZ"
+]
+},
+"POLA1": {
+"error": null,
+"rows": [
+"P09884\t1462\tPOLA1"
+]
+},
+"POLR1A": {
+"error": null,
+"rows": [
+"O95602\t1720\tPOLR1A"
+]
+},
+"POLR1C": {
+"error": null,
+"rows": [
+"O15160\t346\tPOLR1C"
+]
+},
+"POLR2A": {
+"error": null,
+"rows": [
+"P24928\t1970\tPOLR2A"
+]
+},
+"POLR3A": {
+"error": null,
+"rows": [
+"O14802\t1390\tPOLR3A"
+]
+},
+"POLR3B": {
+"error": null,
+"rows": [
+"Q9NW08\t1133\tPOLR3B"
+]
+},
+"POLR3K": {
+"error": null,
+"rows": [
+"Q9Y2Y1\t108\tPOLR3K"
+]
+},
+"POMGNT1": {
+"error": null,
+"rows": [
+"Q8WZA1\t660\tPOMGNT1"
+]
+},
+"POMGNT2": {
+"error": null,
+"rows": [
+"Q8NAT1\t580\tPOMGNT2"
+]
+},
+"POMK": {
+"error": null,
+"rows": [
+"Q9H5K3\t350\tPOMK"
+]
+},
+"POMT1": {
+"error": null,
+"rows": [
+"Q9Y6A1\t747\tPOMT1"
+]
+},
+"POMT2": {
+"error": null,
+"rows": [
+"Q9UKY4\t750\tPOMT2"
+]
+},
+"POU4F1": {
+"error": null,
+"rows": [
+"Q01851\t419\tPOU4F1"
+]
+},
+"PPFIA3": {
+"error": null,
+"rows": [
+"O75145\t1194\tPPFIA3"
+]
+},
+"PPFIBP1": {
+"error": null,
+"rows": [
+"Q86W92\t1011\tPPFIBP1"
+]
+},
+"PPIL1": {
+"error": null,
+"rows": [
+"Q9Y3C6\t166\tPPIL1"
+]
+},
+"PPM1D": {
+"error": null,
+"rows": [
+"O15297\t605\tPPM1D"
+]
+},
+"PPP1R12A": {
+"error": null,
+"rows": [
+"O14974\t1030\tPPP1R12A"
+]
+},
+"PPP1R15B": {
+"error": null,
+"rows": [
+"Q5SWA1\t713\tPPP1R15B"
+]
+},
+"PPP1R21": {
+"error": null,
+"rows": [
+"Q6ZMI0\t780\tPPP1R21"
+]
+},
+"PPP2R2B": {
+"error": null,
+"rows": [
+"Q00005\t443\tPPP2R2B"
+]
+},
+"PPP3CA": {
+"error": null,
+"rows": [
+"Q08209\t521\tPPP3CA"
+]
+},
+"PPT1": {
+"error": null,
+"rows": [
+"P50897\t306\tPPT1"
+]
+},
+"PRDM13": {
+"error": null,
+"rows": [
+"Q9H4Q3\t707\tPRDM13"
+]
+},
+"PRDX3": {
+"error": null,
+"rows": [
+"P30048\t256\tPRDX3"
+]
+},
+"PRICKLE1": {
+"error": null,
+"rows": [
+"Q96MT3\t831\tPRICKLE1"
+]
+},
+"PRKAG2": {
+"error": null,
+"rows": [
+"Q9UGJ0\t569\tPRKAG2"
+]
+},
+"PRKAR1B": {
+"error": null,
+"rows": [
+"P31321\t381\tPRKAR1B"
+]
+},
+"PRKCG": {
+"error": null,
+"rows": [
+"P05129\t697\tPRKCG"
+]
+},
+"PRKN": {
+"error": null,
+"rows": [
+"O60260\t465\tPRKN"
+]
+},
+"PRKRA": {
+"error": null,
+"rows": [
+"O75569\t313\tPRKRA"
+]
+},
+"PRMT7": {
+"error": null,
+"rows": [
+"Q9NVM4\t692\tPRMT7"
+]
+},
+"PRMT9": {
+"error": null,
+"rows": [
+"Q6P2P2\t845\tPRMT9",
+"Q86XK2\t927\tFBXO11"
+]
+},
+"PRNP": {
+"error": null,
+"rows": [
+"P04156\t253\tPRNP",
+"F7VJQ1\t73\tPRNP"
+]
+},
+"PRODH": {
+"error": null,
+"rows": [
+"O43272\t600\tPRODH"
+]
+},
+"PRPH": {
+"error": null,
+"rows": [
+"P41219\t470\tPRPH",
+"P23942\t346\tPRPH2"
+]
+},
+"PRRT2": {
+"error": null,
+"rows": [
+"Q7Z6L0\t340\tPRRT2"
+]
+},
+"PRSS12": {
+"error": null,
+"rows": [
+"P56730\t875\tPRSS12"
+]
+},
+"PRUNE1": {
+"error": null,
+"rows": [
+"Q86TP1\t453\tPRUNE1"
+]
+},
+"PSAP": {
+"error": null,
+"rows": [
+"P07602\t524\tPSAP",
+"Q9NZJ7\t389\tMTCH1",
+"Q8IWL1\t248\tSFTPA2",
+"Q8IWL2\t248\tSFTPA1"
+]
+},
+"PSEN1": {
+"error": null,
+"rows": [
+"P49768\t467\tPSEN1"
+]
+},
+"PSEN2": {
+"error": null,
+"rows": [
+"P49810\t448\tPSEN2"
+]
+},
+"PSMB1": {
+"error": null,
+"rows": [
+"P20618\t241\tPSMB1"
+]
+},
+"PSMC1": {
+"error": null,
+"rows": [
+"P62191\t440\tPSMC1"
+]
+},
+"PSMC3": {
+"error": null,
+"rows": [
+"P17980\t439\tPSMC3"
+]
+},
+"PSMC5": {
+"error": null,
+"rows": [
+"P62195\t406\tPSMC5"
+]
+},
+"PSMF1": {
+"error": null,
+"rows": [
+"Q92530\t271\tPSMF1"
+]
+},
+"PTCH1": {
+"error": null,
+"rows": [
+"Q13635\t1447\tPTCH1"
+]
+},
+"PTCHD1": {
+"error": null,
+"rows": [
+"Q96NR3\t888\tPTCHD1"
+]
+},
+"PTEN": {
+"error": null,
+"rows": [
+"P60484\t403\tPTEN"
+]
+},
+"PTF1A": {
+"error": null,
+"rows": [
+"Q7RTS3\t328\tPTF1A"
+]
+},
+"PTPA": {
+"error": null,
+"rows": [
+"Q15257\t358\tPTPA",
+"P18433\t802\tPTPRA"
+]
+},
+"PTPMT1": {
+"error": null,
+"rows": [
+"Q8WUK0\t201\tPTPMT1"
+]
+},
+"PTPN23": {
+"error": null,
+"rows": [
+"Q9H3S7\t1636\tPTPN23"
+]
+},
+"PTRHD1": {
+"error": null,
+"rows": [
+"Q6GMV3\t140\tPTRHD1"
+]
+},
+"PUM1": {
+"error": null,
+"rows": [
+"Q14671\t1186\tPUM1"
+]
+},
+"PURA": {
+"error": null,
+"rows": [
+"Q00577\t322\tPURA"
+]
+},
+"PUS3": {
+"error": null,
+"rows": [
+"Q9BZE2\t481\tPUS3"
+]
+},
+"PUS7": {
+"error": null,
+"rows": [
+"Q96PZ0\t661\tPUS7"
+]
+},
+"PYCR2": {
+"error": null,
+"rows": [
+"Q96C36\t320\tPYCR2"
+]
+},
+"QARS1": {
+"error": null,
+"rows": [
+"P47897\t775\tQARS1"
+]
+},
+"RAB11B": {
+"error": null,
+"rows": [
+"Q15907\t218\tRAB11B"
+]
+},
+"RAB32": {
+"error": null,
+"rows": [
+"Q13637\t225\tRAB32"
+]
+},
+"RAB39B": {
+"error": null,
+"rows": [
+"Q96DA2\t213\tRAB39B"
+]
+},
+"RAB3A": {
+"error": null,
+"rows": [
+"P20336\t220\tRAB3A"
+]
+},
+"RAB5IF": {
+"error": null,
+"rows": [
+"Q9BUV8\t137\tRAB5IF"
+]
+},
+"RAC1": {
+"error": null,
+"rows": [
+"P63000\t192\tRAC1"
+]
+},
+"RAC3": {
+"error": null,
+"rows": [
+"P60763\t192\tRAC3",
+"Q9Y6Q9\t1424\tNCOA3"
+]
+},
+"RAD21": {
+"error": null,
+"rows": [
+"O60216\t631\tRAD21"
+]
+},
+"RALA": {
+"error": null,
+"rows": [
+"P11233\t206\tRALA"
+]
+},
+"RALGAPA1": {
+"error": null,
+"rows": [
+"Q6GYQ0\t2036\tRALGAPA1"
+]
+},
+"RANBP2": {
+"error": null,
+"rows": [
+"P49792\t3224\tRANBP2"
+]
+},
+"RAPGEF2": {
+"error": null,
+"rows": [
+"Q9Y4G8\t1499\tRAPGEF2"
+]
+},
+"RARS1": {
+"error": null,
+"rows": [
+"P54136\t660\tRARS1"
+]
+},
+"RARS2": {
+"error": null,
+"rows": [
+"Q5T160\t578\tRARS2"
+]
+},
+"RBL2": {
+"error": null,
+"rows": [
+"Q08999\t1139\tRBL2"
+]
+},
+"RBM12": {
+"error": null,
+"rows": [
+"Q9NTZ6\t932\tRBM12"
+]
+},
+"RBMX": {
+"error": null,
+"rows": [
+"P38159\t391\tRBMX"
+]
+},
+"RBSN": {
+"error": null,
+"rows": [
+"Q9H1K0\t784\tRBSN"
+]
+},
+"RDH11": {
+"error": null,
+"rows": [
+"Q8TC12\t318\tRDH11"
+]
+},
+"REEP1": {
+"error": null,
+"rows": [
+"Q9H902\t201\tREEP1"
+]
+},
+"REEP2": {
+"error": null,
+"rows": [
+"Q9BRK0\t252\tREEP2"
+]
+},
+"RELN": {
+"error": null,
+"rows": [
+"P78509\t3460\tRELN"
+]
+},
+"REPS1": {
+"error": null,
+"rows": [
+"Q96D71\t796\tREPS1"
+]
+},
+"RERE": {
+"error": null,
+"rows": [
+"Q9P2R6\t1566\tRERE"
+]
+},
+"RFC1": {
+"error": null,
+"rows": [
+"P35251\t1148\tRFC1",
+"P41440\t591\tSLC19A1"
+]
+},
+"RFX7": {
+"error": null,
+"rows": [
+"Q2KHR2\t1460\tRFX7"
+]
+},
+"RHOA": {
+"error": null,
+"rows": [
+"P61586\t193\tRHOA"
+]
+},
+"RHOBTB2": {
+"error": null,
+"rows": [
+"Q9BYZ6\t727\tRHOBTB2"
+]
+},
+"RLIM": {
+"error": null,
+"rows": [
+"Q9NVW2\t624\tRLIM"
+]
+},
+"RNASET2": {
+"error": null,
+"rows": [
+"O00584\t256\tRNASET2"
+]
+},
+"RNF13": {
+"error": null,
+"rows": [
+"O43567\t381\tRNF13"
+]
+},
+"RNF170": {
+"error": null,
+"rows": [
+"Q96K19\t258\tRNF170"
+]
+},
+"RNF213": {
+"error": null,
+"rows": [
+"Q63HN8\t5207\tRNF213"
+]
+},
+"RNF216": {
+"error": null,
+"rows": [
+"Q9NWF9\t866\tRNF216"
+]
+},
+"RNF220": {
+"error": null,
+"rows": [
+"Q5VTB9\t566\tRNF220"
+]
+},
+"RNU12": {
+"error": null,
+"rows": []
+},
+"RNU2-2": {
+"error": null,
+"rows": []
+},
+"RNU4-2": {
+"error": null,
+"rows": []
+},
+"RNU5B-1": {
+"error": null,
+"rows": []
+},
+"RORA": {
+"error": null,
+"rows": [
+"P35398\t523\tRORA"
+]
+},
+"RORB": {
+"error": null,
+"rows": [
+"Q92753\t470\tRORB"
+]
+},
+"RPGRIP1L": {
+"error": null,
+"rows": [
+"Q68CZ1\t1315\tRPGRIP1L"
+]
+},
+"RPL10": {
+"error": null,
+"rows": [
+"P27635\t214\tRPL10"
+]
+},
+"RPS23": {
+"error": null,
+"rows": [
+"P62266\t143\tRPS23"
+]
+},
+"RPS6KA3": {
+"error": null,
+"rows": [
+"P51812\t740\tRPS6KA3"
+]
+},
+"RPS6KC1": {
+"error": null,
+"rows": [
+"Q96S38\t1066\tRPS6KC1"
+]
+},
+"RRP7A": {
+"error": null,
+"rows": [
+"Q9Y3A4\t280\tRRP7A"
+]
+},
+"RSPRY1": {
+"error": null,
+"rows": [
+"Q96DX4\t576\tRSPRY1"
+]
+},
+"RSRC1": {
+"error": null,
+"rows": [
+"Q96IZ7\t334\tRSRC1"
+]
+},
+"RTL1": {
+"error": null,
+"rows": [
+"A6NKG5\t1358\tRTL1"
+]
+},
+"RTN2": {
+"error": null,
+"rows": [
+"O75298\t545\tRTN2"
+]
+},
+"RTN4IP1": {
+"error": null,
+"rows": [
+"Q8WWV3\t396\tRTN4IP1"
+]
+},
+"RTN4R": {
+"error": null,
+"rows": [
+"Q9BZR6\t473\tRTN4R"
+]
+},
+"RUBCN": {
+"error": null,
+"rows": [
+"Q92622\t972\tRUBCN"
+]
+},
+"RUSC2": {
+"error": null,
+"rows": [
+"Q8N2Y8\t1516\tRUSC2"
+]
+},
+"RXYLT1": {
+"error": null,
+"rows": [
+"Q9Y2B1\t443\tRXYLT1"
+]
+},
+"SACS": {
+"error": null,
+"rows": [
+"Q9NZJ4\t4579\tSACS"
+]
+},
+"SAMD12": {
+"error": null,
+"rows": [
+"Q8N8I0\t201\tSAMD12"
+]
+},
+"SAMD9L": {
+"error": null,
+"rows": [
+"Q8IVG5\t1584\tSAMD9L"
+]
+},
+"SARS1": {
+"error": null,
+"rows": [
+"P49591\t514\tSARS1"
+]
+},
+"SASS6": {
+"error": null,
+"rows": [
+"Q6UVJ0\t657\tSASS6"
+]
+},
+"SATB1": {
+"error": null,
+"rows": [
+"Q01826\t763\tSATB1"
+]
+},
+"SCAPER": {
+"error": null,
+"rows": [
+"Q9BY12\t1400\tSCAPER"
+]
+},
+"SCARB2": {
+"error": null,
+"rows": [
+"Q14108\t478\tSCARB2"
+]
+},
+"SCFD1": {
+"error": null,
+"rows": [
+"Q8WVM8\t642\tSCFD1"
+]
+},
+"SCN1A": {
+"error": null,
+"rows": [
+"P35498\t2009\tSCN1A"
+]
+},
+"SCN1B": {
+"error": null,
+"rows": [
+"Q07699\t218\tSCN1B"
+]
+},
+"SCN2A": {
+"error": null,
+"rows": [
+"Q99250\t2005\tSCN2A"
+]
+},
+"SCN3A": {
+"error": null,
+"rows": [
+"Q9NY46\t2000\tSCN3A"
+]
+},
+"SCN8A": {
+"error": null,
+"rows": [
+"Q9UQD0\t1980\tSCN8A"
+]
+},
+"SCYL1": {
+"error": null,
+"rows": [
+"Q96KG9\t808\tSCYL1"
+]
+},
+"SCYL2": {
+"error": null,
+"rows": [
+"Q6P3W7\t929\tSCYL2"
+]
+},
+"SDHA": {
+"error": null,
+"rows": [
+"P31040\t664\tSDHA"
+]
+},
+"SEC31A": {
+"error": null,
+"rows": [
+"O94979\t1220\tSEC31A"
+]
+},
+"SEL1L": {
+"error": null,
+"rows": [
+"Q9UBV2\t794\tSEL1L"
+]
+},
+"SELENOI": {
+"error": null,
+"rows": [
+"Q9C0D9\t397\tSELENOI"
+]
+},
+"SEMA6B": {
+"error": null,
+"rows": [
+"Q9H3T3\t888\tSEMA6B"
+]
+},
+"SEPSECS": {
+"error": null,
+"rows": [
+"Q9HD40\t501\tSEPSECS"
+]
+},
+"SERAC1": {
+"error": null,
+"rows": [
+"Q96JX3\t654\tSERAC1"
+]
+},
+"SERPINI1": {
+"error": null,
+"rows": [
+"Q99574\t410\tSERPINI1"
+]
+},
+"SET": {
+"error": null,
+"rows": [
+"Q01105\t290\tSET"
+]
+},
+"SETBP1": {
+"error": null,
+"rows": [
+"Q9Y6X0\t1596\tSETBP1"
+]
+},
+"SETD1A": {
+"error": null,
+"rows": [
+"O15047\t1707\tSETD1A"
+]
+},
+"SETD1B": {
+"error": null,
+"rows": [
+"Q9UPS6\t1966\tSETD1B"
+]
+},
+"SETD2": {
+"error": null,
+"rows": [
+"Q9BYW2\t2564\tSETD2"
+]
+},
+"SETD5": {
+"error": null,
+"rows": [
+"Q9C0A6\t1442\tSETD5"
+]
+},
+"SETX": {
+"error": null,
+"rows": [
+"Q7Z333\t2677\tSETX"
+]
+},
+"SFXN4": {
+"error": null,
+"rows": [
+"Q6P4A7\t337\tSFXN4"
+]
+},
+"SGCE": {
+"error": null,
+"rows": [
+"O43556\t437\tSGCE"
+]
+},
+"SGSM3": {
+"error": null,
+"rows": [
+"Q96HU1\t749\tSGSM3"
+]
+},
+"SHANK2": {
+"error": null,
+"rows": [
+"Q9UPX8\t1849\tSHANK2",
+"Q9BTD1\t123\tSHANK2-AS3"
+]
+},
+"SHANK3": {
+"error": null,
+"rows": [
+"Q9BYB0\t1806\tSHANK3"
+]
+},
+"SHH": {
+"error": null,
+"rows": [
+"Q15465\t462\tSHH"
+]
+},
+"SHMT2": {
+"error": null,
+"rows": [
+"P34897\t504\tSHMT2"
+]
+},
+"SHQ1": {
+"error": null,
+"rows": [
+"Q6PI26\t577\tSHQ1"
+]
+},
+"SIGMAR1": {
+"error": null,
+"rows": [
+"Q99720\t223\tSIGMAR1"
+]
+},
+"SIK1": {
+"error": null,
+"rows": [
+"P57059\t783\tSIK1"
+]
+},
+"SIN3A": {
+"error": null,
+"rows": [
+"Q96ST3\t1273\tSIN3A"
+]
+},
+"SIX3": {
+"error": null,
+"rows": [
+"O95343\t332\tSIX3"
+]
+},
+"SKOR2": {
+"error": null,
+"rows": [
+"Q2VWA4\t1015\tSKOR2"
+]
+},
+"SLC12A5": {
+"error": null,
+"rows": [
+"Q9H2X9\t1139\tSLC12A5"
+]
+},
+"SLC12A6": {
+"error": null,
+"rows": [
+"Q9UHW9\t1150\tSLC12A6"
+]
+},
+"SLC13A3": {
+"error": null,
+"rows": [
+"Q8WWT9\t602\tSLC13A3"
+]
+},
+"SLC13A5": {
+"error": null,
+"rows": [
+"Q86YT5\t568\tSLC13A5"
+]
+},
+"SLC18A2": {
+"error": null,
+"rows": [
+"Q05940\t514\tSLC18A2"
+]
+},
+"SLC1A1": {
+"error": null,
+"rows": [
+"P43005\t524\tSLC1A1"
+]
+},
+"SLC1A2": {
+"error": null,
+"rows": [
+"P43004\t574\tSLC1A2"
+]
+},
+"SLC1A3": {
+"error": null,
+"rows": [
+"P43003\t542\tSLC1A3"
+]
+},
+"SLC1A4": {
+"error": null,
+"rows": [
+"P43007\t532\tSLC1A4"
+]
+},
+"SLC25A12": {
+"error": null,
+"rows": [
+"O75746\t678\tSLC25A12"
+]
+},
+"SLC25A19": {
+"error": null,
+"rows": [
+"Q9HC21\t320\tSLC25A19"
+]
+},
+"SLC25A22": {
+"error": null,
+"rows": [
+"Q9H936\t323\tSLC25A22"
+]
+},
+"SLC25A46": {
+"error": null,
+"rows": [
+"Q96AG3\t418\tSLC25A46"
+]
+},
+"SLC2A1": {
+"error": null,
+"rows": [
+"P11166\t492\tSLC2A1"
+]
+},
+"SLC30A10": {
+"error": null,
+"rows": [
+"Q6XR72\t485\tSLC30A10"
+]
+},
+"SLC31A1": {
+"error": null,
+"rows": [
+"O15431\t190\tSLC31A1"
+]
+},
+"SLC32A1": {
+"error": null,
+"rows": [
+"Q9H598\t525\tSLC32A1"
+]
+},
+"SLC33A1": {
+"error": null,
+"rows": [
+"O00400\t549\tSLC33A1"
+]
+},
+"SLC35A3": {
+"error": null,
+"rows": [
+"Q9Y2D2\t325\tSLC35A3"
+]
+},
+"SLC35B2": {
+"error": null,
+"rows": [
+"Q8TB61\t432\tSLC35B2"
+]
+},
+"SLC38A3": {
+"error": null,
+"rows": [
+"Q99624\t504\tSLC38A3"
+]
+},
+"SLC39A14": {
+"error": null,
+"rows": [
+"Q15043\t492\tSLC39A14"
+]
+},
+"SLC44A1": {
+"error": null,
+"rows": [
+"Q8WWI5\t657\tSLC44A1"
+]
+},
+"SLC45A1": {
+"error": null,
+"rows": [
+"Q9Y2W3\t748\tSLC45A1"
+]
+},
+"SLC4A10": {
+"error": null,
+"rows": [
+"Q6U841\t1118\tSLC4A10"
+]
+},
+"SLC4A4": {
+"error": null,
+"rows": [
+"Q9Y6R1\t1079\tSLC4A4"
+]
+},
+"SLC5A6": {
+"error": null,
+"rows": [
+"Q9Y289\t635\tSLC5A6"
+]
+},
+"SLC6A1": {
+"error": null,
+"rows": [
+"P30531\t599\tSLC6A1"
+]
+},
+"SLC6A17": {
+"error": null,
+"rows": [
+"Q9H1V8\t727\tSLC6A17"
+]
+},
+"SLC6A9": {
+"error": null,
+"rows": [
+"P48067\t706\tSLC6A9"
+]
+},
+"SLC7A6OS": {
+"error": null,
+"rows": [
+"Q96CW6\t309\tSLC7A6OS"
+]
+},
+"SLC9A6": {
+"error": null,
+"rows": [
+"Q92581\t701\tSLC9A6"
+]
+},
+"SLC9A7": {
+"error": null,
+"rows": [
+"Q96T83\t725\tSLC9A7"
+]
+},
+"SLC9A9": {
+"error": null,
+"rows": [
+"Q8IVB4\t645\tSLC9A9"
+]
+},
+"SLITRK2": {
+"error": null,
+"rows": [
+"Q9H156\t845\tSLITRK2"
+]
+},
+"SMARCA1": {
+"error": null,
+"rows": [
+"P28370\t1042\tSMARCA1"
+]
+},
+"SMARCA2": {
+"error": null,
+"rows": [
+"P51531\t1590\tSMARCA2"
+]
+},
+"SMARCA4": {
+"error": null,
+"rows": [
+"P51532\t1647\tSMARCA4"
+]
+},
+"SMARCB1": {
+"error": null,
+"rows": [
+"Q12824\t385\tSMARCB1"
+]
+},
+"SMARCC1": {
+"error": null,
+"rows": [
+"Q92922\t1105\tSMARCC1"
+]
+},
+"SMC1A": {
+"error": null,
+"rows": [
+"Q14683\t1233\tSMC1A"
+]
+},
+"SMC3": {
+"error": null,
+"rows": [
+"Q9UQE7\t1217\tSMC3"
+]
+},
+"SMG9": {
+"error": null,
+"rows": [
+"Q9H0W8\t520\tSMG9"
+]
+},
+"SMPD4": {
+"error": null,
+"rows": [
+"Q9NXE4\t866\tSMPD4"
+]
+},
+"SMS": {
+"error": null,
+"rows": [
+"P52788\t366\tSMS"
+]
+},
+"SNAPC4": {
+"error": null,
+"rows": [
+"Q5SXM2\t1469\tSNAPC4"
+]
+},
+"SNAPIN": {
+"error": null,
+"rows": [
+"O95295\t136\tSNAPIN"
+]
+},
+"SNCA": {
+"error": null,
+"rows": [
+"P37840\t140\tSNCA"
+]
+},
+"SNCB": {
+"error": null,
+"rows": [
+"Q16143\t134\tSNCB"
+]
+},
+"SNF8": {
+"error": null,
+"rows": [
+"Q96H20\t258\tSNF8"
+]
+},
+"SNIP1": {
+"error": null,
+"rows": [
+"Q8TAD8\t396\tSNIP1"
+]
+},
+"SNORA31": {
+"error": null,
+"rows": []
+},
+"SNORD118": {
+"error": null,
+"rows": []
+},
+"SNX14": {
+"error": null,
+"rows": [
+"Q9Y5W7\t946\tSNX14"
+]
+},
+"SNX27": {
+"error": null,
+"rows": [
+"Q96L92\t541\tSNX27"
+]
+},
+"SOBP": {
+"error": null,
+"rows": [
+"A7XYQ1\t873\tSOBP"
+]
+},
+"SOD1": {
+"error": null,
+"rows": [
+"P00441\t154\tSOD1"
+]
+},
+"SOX11": {
+"error": null,
+"rows": [
+"P35716\t441\tSOX11"
+]
+},
+"SOX3": {
+"error": null,
+"rows": [
+"P41225\t446\tSOX3"
+]
+},
+"SPAST": {
+"error": null,
+"rows": [
+"Q9UBP0\t616\tSPAST"
+]
+},
+"SPG11": {
+"error": null,
+"rows": [
+"Q96JI7\t2443\tSPG11"
+]
+},
+"SPG7": {
+"error": null,
+"rows": [
+"Q9UQ90\t795\tSPG7"
+]
+},
+"SPOP": {
+"error": null,
+"rows": [
+"O43791\t374\tSPOP"
+]
+},
+"SPOUT1": {
+"error": null,
+"rows": [
+"Q5T280\t376\tSPOUT1"
+]
+},
+"SPR": {
+"error": null,
+"rows": [
+"P35270\t261\tSPR"
+]
+},
+"SPTAN1": {
+"error": null,
+"rows": [
+"Q13813\t2472\tSPTAN1"
+]
+},
+"SPTBN1": {
+"error": null,
+"rows": [
+"Q01082\t2364\tSPTBN1"
+]
+},
+"SPTBN2": {
+"error": null,
+"rows": [
+"O15020\t2390\tSPTBN2"
+]
+},
+"SPTBN4": {
+"error": null,
+"rows": [
+"Q9H254\t2564\tSPTBN4"
+]
+},
+"SPTLC1": {
+"error": null,
+"rows": [
+"O15269\t473\tSPTLC1"
+]
+},
+"SPTSSA": {
+"error": null,
+"rows": [
+"Q969W0\t71\tSPTSSA"
+]
+},
+"SQSTM1": {
+"error": null,
+"rows": [
+"Q13501\t440\tSQSTM1"
+]
+},
+"SRCAP": {
+"error": null,
+"rows": [
+"Q6ZRS2\t3230\tSRCAP"
+]
+},
+"SRPK3": {
+"error": null,
+"rows": [
+"Q9UPE1\t567\tSRPK3"
+]
+},
+"SRPX2": {
+"error": null,
+"rows": [
+"O60687\t465\tSRPX2"
+]
+},
+"SRRM2": {
+"error": null,
+"rows": [
+"Q9UQ35\t2752\tSRRM2"
+]
+},
+"SRSF1": {
+"error": null,
+"rows": [
+"Q07955\t248\tSRSF1"
+]
+},
+"ST3GAL3": {
+"error": null,
+"rows": [
+"Q11203\t375\tST3GAL3"
+]
+},
+"STAG1": {
+"error": null,
+"rows": [
+"Q969W9\t287\tPMEPA1",
+"Q8WVM7\t1258\tSTAG1"
+]
+},
+"STAG2": {
+"error": null,
+"rows": [
+"Q8N3U4\t1231\tSTAG2"
+]
+},
+"STAMBP": {
+"error": null,
+"rows": [
+"O95630\t424\tSTAMBP"
+]
+},
+"STARD7": {
+"error": null,
+"rows": [
+"Q9NQZ5\t370\tSTARD7"
+]
+},
+"STEEP1": {
+"error": null,
+"rows": [
+"Q9H5V9\t222\tSTEEP1"
+]
+},
+"STIL": {
+"error": null,
+"rows": [
+"Q15468\t1287\tSTIL"
+]
+},
+"STRADA": {
+"error": null,
+"rows": [
+"Q7RTN6\t431\tSTRADA"
+]
+},
+"STUB1": {
+"error": null,
+"rows": [
+"Q9UNE7\t303\tSTUB1"
+]
+},
+"STX1B": {
+"error": null,
+"rows": [
+"P61266\t288\tSTX1B"
+]
+},
+"STXBP1": {
+"error": null,
+"rows": [
+"P61764\t594\tSTXBP1"
+]
+},
+"SUFU": {
+"error": null,
+"rows": [
+"Q9UMX1\t484\tSUFU"
+]
+},
+"SUPT16H": {
+"error": null,
+"rows": [
+"Q9Y5B9\t1047\tSUPT16H"
+]
+},
+"SV2A": {
+"error": null,
+"rows": [
+"Q7L0J3\t742\tSV2A"
+]
+},
+"SVBP": {
+"error": null,
+"rows": [
+"Q8N300\t66\tSVBP"
+]
+},
+"SYN1": {
+"error": null,
+"rows": [
+"P17600\t705\tSYN1"
+]
+},
+"SYN2": {
+"error": null,
+"rows": [
+"Q92777\t582\tSYN2"
+]
+},
+"SYNCRIP": {
+"error": null,
+"rows": [
+"O60506\t623\tSYNCRIP"
+]
+},
+"SYNE1": {
+"error": null,
+"rows": [
+"Q8NF91\t8797\tSYNE1"
+]
+},
+"SYNGAP1": {
+"error": null,
+"rows": [
+"Q96PV0\t1343\tSYNGAP1"
+]
+},
+"SYNJ1": {
+"error": null,
+"rows": [
+"O43426\t1573\tSYNJ1"
+]
+},
+"SYP": {
+"error": null,
+"rows": [
+"P08247\t313\tSYP"
+]
+},
+"SYT1": {
+"error": null,
+"rows": [
+"P21579\t422\tSYT1"
+]
+},
+"SYT14": {
+"error": null,
+"rows": [
+"Q8NB59\t555\tSYT14"
+]
+},
+"SZT2": {
+"error": null,
+"rows": [
+"Q5T011\t3432\tSZT2"
+]
+},
+"TAF1": {
+"error": null,
+"rows": [
+"P21675\t1893\tTAF1"
+]
+},
+"TAF13": {
+"error": null,
+"rows": [
+"Q15543\t124\tTAF13"
+]
+},
+"TAF15": {
+"error": null,
+"rows": [
+"Q92804\t592\tTAF15",
+"Q16514\t161\tTAF12"
+]
+},
+"TAF2": {
+"error": null,
+"rows": [
+"Q6P1X5\t1199\tTAF2"
+]
+},
+"TAF4": {
+"error": null,
+"rows": [
+"O00268\t1085\tTAF4"
+]
+},
+"TAF8": {
+"error": null,
+"rows": [
+"Q7Z7C8\t310\tTAF8"
+]
+},
+"TANC2": {
+"error": null,
+"rows": [
+"Q9HCD6\t1990\tTANC2"
+]
+},
+"TANGO2": {
+"error": null,
+"rows": [
+"Q6ICL3\t276\tTANGO2"
+]
+},
+"TAOK1": {
+"error": null,
+"rows": [
+"Q7L7X3\t1001\tTAOK1"
+]
+},
+"TARDBP": {
+"error": null,
+"rows": [
+"Q13148\t414\tTARDBP"
+]
+},
+"TBC1D23": {
+"error": null,
+"rows": [
+"Q9NUY8\t699\tTBC1D23"
+]
+},
+"TBC1D24": {
+"error": null,
+"rows": [
+"Q9ULP9\t559\tTBC1D24"
+]
+},
+"TBC1D2B": {
+"error": null,
+"rows": [
+"Q9UPU7\t963\tTBC1D2B"
+]
+},
+"TBC1D7": {
+"error": null,
+"rows": [
+"Q9P0N9\t293\tTBC1D7"
+]
+},
+"TBCB": {
+"error": null,
+"rows": [
+"Q99426\t244\tTBCB"
+]
+},
+"TBCD": {
+"error": null,
+"rows": [
+"Q9BTW9\t1192\tTBCD"
+]
+},
+"TBCE": {
+"error": null,
+"rows": [
+"Q15813\t527\tTBCE"
+]
+},
+"TBK1": {
+"error": null,
+"rows": [
+"Q9UHD2\t729\tTBK1"
+]
+},
+"TBL1XR1": {
+"error": null,
+"rows": [
+"Q9BZK7\t514\tTBL1XR1"
+]
+},
+"TBP": {
+"error": null,
+"rows": [
+"P20226\t339\tTBP"
+]
+},
+"TBR1": {
+"error": null,
+"rows": [
+"Q16650\t682\tTBR1"
+]
+},
+"TBXT": {
+"error": null,
+"rows": [
+"O15178\t435\tTBXT"
+]
+},
+"TCEAL1": {
+"error": null,
+"rows": [
+"Q15170\t159\tTCEAL1"
+]
+},
+"TCF20": {
+"error": null,
+"rows": [
+"Q9UGU0\t1960\tTCF20"
+]
+},
+"TCP1": {
+"error": null,
+"rows": [
+"P17987\t556\tTCP1"
+]
+},
+"TCTN1": {
+"error": null,
+"rows": [
+"Q2MV58\t587\tTCTN1"
+]
+},
+"TCTN2": {
+"error": null,
+"rows": [
+"Q96GX1\t697\tTCTN2"
+]
+},
+"TCTN3": {
+"error": null,
+"rows": [
+"Q6NUS6\t607\tTCTN3"
+]
+},
+"TDP1": {
+"error": null,
+"rows": [
+"Q9NUW8\t608\tTDP1"
+]
+},
+"TDP2": {
+"error": null,
+"rows": [
+"O95551\t362\tTDP2"
+]
+},
+"TECPR2": {
+"error": null,
+"rows": [
+"O15040\t1411\tTECPR2"
+]
+},
+"TECR": {
+"error": null,
+"rows": [
+"Q9NZ01\t308\tTECR"
+]
+},
+"TELO2": {
+"error": null,
+"rows": [
+"Q9Y4R8\t837\tTELO2"
+]
+},
+"TENM4": {
+"error": null,
+"rows": [
+"Q6N022\t2769\tTENM4"
+]
+},
+"TFAM": {
+"error": null,
+"rows": [
+"Q00059\t246\tTFAM"
+]
+},
+"TFE3": {
+"error": null,
+"rows": [
+"P19532\t575\tTFE3"
+]
+},
+"TFG": {
+"error": null,
+"rows": [
+"Q92734\t400\tTFG"
+]
+},
+"TGFB1": {
+"error": null,
+"rows": [
+"P01137\t390\tTGFB1"
+]
+},
+"TGIF1": {
+"error": null,
+"rows": [
+"Q15583\t401\tTGIF1"
+]
+},
+"TGM6": {
+"error": null,
+"rows": [
+"O95932\t706\tTGM6"
+]
+},
+"TH": {
+"error": null,
+"rows": [
+"P07101\t528\tTH"
+]
+},
+"THAP1": {
+"error": null,
+"rows": [
+"Q9NVV9\t213\tTHAP1"
+]
+},
+"THAP11": {
+"error": null,
+"rows": [
+"Q96EK4\t314\tTHAP11"
+]
+},
+"THG1L": {
+"error": null,
+"rows": [
+"Q9NWX6\t298\tTHG1L"
+]
+},
+"THOC2": {
+"error": null,
+"rows": [
+"Q8NI27\t1593\tTHOC2"
+]
+},
+"THOC6": {
+"error": null,
+"rows": [
+"Q86W42\t341\tTHOC6"
+]
+},
+"THUMPD1": {
+"error": null,
+"rows": [
+"Q9NXG2\t353\tTHUMPD1"
+]
+},
+"TIA1": {
+"error": null,
+"rows": [
+"P31483\t386\tTIA1"
+]
+},
+"TIAM1": {
+"error": null,
+"rows": [
+"Q13009\t1591\tTIAM1"
+]
+},
+"TIMM8A": {
+"error": null,
+"rows": [
+"O60220\t97\tTIMM8A"
+]
+},
+"TLK2": {
+"error": null,
+"rows": [
+"Q86UE8\t772\tTLK2"
+]
+},
+"TMCO1": {
+"error": null,
+"rows": [
+"Q9UM00\t239\tTMCO1"
+]
+},
+"TMEM106B": {
+"error": null,
+"rows": [
+"Q9NUM4\t274\tTMEM106B"
+]
+},
+"TMEM107": {
+"error": null,
+"rows": [
+"Q6UX40\t140\tTMEM107"
+]
+},
+"TMEM138": {
+"error": null,
+"rows": [
+"Q9NPI0\t162\tTMEM138"
+]
+},
+"TMEM147": {
+"error": null,
+"rows": [
+"Q9BVK8\t224\tTMEM147"
+]
+},
+"TMEM151A": {
+"error": null,
+"rows": [
+"Q8N4L1\t468\tTMEM151A"
+]
+},
+"TMEM163": {
+"error": null,
+"rows": [
+"Q8TC26\t289\tTMEM163"
+]
+},
+"TMEM216": {
+"error": null,
+"rows": [
+"Q9P0N5\t145\tTMEM216"
+]
+},
+"TMEM218": {
+"error": null,
+"rows": [
+"A2RU14\t115\tTMEM218"
+]
+},
+"TMEM222": {
+"error": null,
+"rows": [
+"Q9H0R3\t208\tTMEM222"
+]
+},
+"TMEM231": {
+"error": null,
+"rows": [
+"Q9H6L2\t316\tTMEM231"
+]
+},
+"TMEM237": {
+"error": null,
+"rows": [
+"Q96Q45\t408\tTMEM237"
+]
+},
+"TMEM240": {
+"error": null,
+"rows": [
+"Q5SV17\t173\tTMEM240"
+]
+},
+"TMEM63A": {
+"error": null,
+"rows": [
+"O94886\t807\tTMEM63A"
+]
+},
+"TMEM63B": {
+"error": null,
+"rows": [
+"Q5T3F8\t832\tTMEM63B"
+]
+},
+"TMEM63C": {
+"error": null,
+"rows": [
+"Q9P1W3\t806\tTMEM63C"
+]
+},
+"TMEM67": {
+"error": null,
+"rows": [
+"Q5HYA8\t995\tTMEM67"
+]
+},
+"TMEM94": {
+"error": null,
+"rows": [
+"Q12767\t1356\tTMEM94"
+]
+},
+"TMTC3": {
+"error": null,
+"rows": [
+"Q6ZXV5\t915\tTMTC3"
+]
+},
+"TMX2": {
+"error": null,
+"rows": [
+"Q9Y320\t296\tTMX2"
+]
+},
+"TNF": {
+"error": null,
+"rows": [
+"P01375\t233\tTNF"
+]
+},
+"TNIK": {
+"error": null,
+"rows": [
+"Q9UKE5\t1360\tTNIK"
+]
+},
+"TNPO2": {
+"error": null,
+"rows": [
+"O14787\t897\tTNPO2"
+]
+},
+"TNR": {
+"error": null,
+"rows": [
+"Q92752\t1358\tTNR"
+]
+},
+"TNRC6A": {
+"error": null,
+"rows": [
+"Q8NDV7\t1962\tTNRC6A"
+]
+},
+"TNRC6B": {
+"error": null,
+"rows": [
+"Q9UPQ9\t1833\tTNRC6B"
+]
+},
+"TOE1": {
+"error": null,
+"rows": [
+"Q96GM8\t510\tTOE1"
+]
+},
+"TOGARAM1": {
+"error": null,
+"rows": [
+"Q9Y4F4\t1720\tTOGARAM1"
+]
+},
+"TOP3A": {
+"error": null,
+"rows": [
+"Q13472\t1001\tTOP3A"
+]
+},
+"TOR1A": {
+"error": null,
+"rows": [
+"O14656\t332\tTOR1A"
+]
+},
+"TPK1": {
+"error": null,
+"rows": [
+"Q9H3S4\t243\tTPK1"
+]
+},
+"TPP1": {
+"error": null,
+"rows": [
+"P49638\t278\tTTPA",
+"O14773\t563\tTPP1",
+"Q96AP0\t458\tACD"
+]
+},
+"TPP2": {
+"error": null,
+"rows": [
+"P29144\t1249\tTPP2"
+]
+},
+"TPR": {
+"error": null,
+"rows": [
+"P12270\t2363\tTPR"
+]
+},
+"TRA2B": {
+"error": null,
+"rows": [
+"P62995\t288\tTRA2B"
+]
+},
+"TRAF7": {
+"error": null,
+"rows": [
+"Q6Q0C0\t670\tTRAF7"
+]
+},
+"TRAK1": {
+"error": null,
+"rows": [
+"Q9UPV9\t953\tTRAK1"
+]
+},
+"TRAPPC10": {
+"error": null,
+"rows": [
+"P48553\t1259\tTRAPPC10"
+]
+},
+"TRAPPC12": {
+"error": null,
+"rows": [
+"Q8WVT3\t735\tTRAPPC12"
+]
+},
+"TRAPPC14": {
+"error": null,
+"rows": [
+"Q8WVR3\t580\tTRAPPC14"
+]
+},
+"TRAPPC2L": {
+"error": null,
+"rows": [
+"Q9UL33\t140\tTRAPPC2L"
+]
+},
+"TRAPPC4": {
+"error": null,
+"rows": [
+"Q9Y296\t219\tTRAPPC4"
+]
+},
+"TRAPPC6B": {
+"error": null,
+"rows": [
+"Q86SZ2\t158\tTRAPPC6B"
+]
+},
+"TRAPPC9": {
+"error": null,
+"rows": [
+"Q96Q05\t1148\tTRAPPC9"
+]
+},
+"TREM2": {
+"error": null,
+"rows": [
+"Q9NZC2\t230\tTREM2"
+]
+},
+"TREX1": {
+"error": null,
+"rows": [
+"Q9NSU2\t314\tTREX1"
+]
+},
+"TRIM36": {
+"error": null,
+"rows": [
+"Q9NQ86\t728\tTRIM36"
+]
+},
+"TRIM71": {
+"error": null,
+"rows": [
+"Q2Q1W2\t868\tTRIM71"
+]
+},
+"TRIM8": {
+"error": null,
+"rows": [
+"Q9BZR9\t551\tTRIM8"
+]
+},
+"TRIO": {
+"error": null,
+"rows": [
+"O75962\t3097\tTRIO"
+]
+},
+"TRMT1": {
+"error": null,
+"rows": [
+"Q9NXH9\t659\tTRMT1",
+"O75648\t421\tTRMU"
+]
+},
+"TRMT10A": {
+"error": null,
+"rows": [
+"Q8TBZ6\t339\tTRMT10A"
+]
+},
+"TRNT1": {
+"error": null,
+"rows": [
+"Q96Q11\t434\tTRNT1"
+]
+},
+"TRPC3": {
+"error": null,
+"rows": [
+"Q13507\t921\tTRPC3"
+]
+},
+"TRPM3": {
+"error": null,
+"rows": [
+"Q9HCF6\t1732\tTRPM3"
+]
+},
+"TRPM7": {
+"error": null,
+"rows": [
+"Q96QT4\t1865\tTRPM7"
+]
+},
+"TRRAP": {
+"error": null,
+"rows": [
+"Q9Y4A5\t3859\tTRRAP"
+]
+},
+"TSC1": {
+"error": null,
+"rows": [
+"Q92574\t1164\tTSC1"
+]
+},
+"TSC2": {
+"error": null,
+"rows": [
+"P49815\t1807\tTSC2"
+]
+},
+"TSEN15": {
+"error": null,
+"rows": [
+"Q8WW01\t171\tTSEN15"
+]
+},
+"TSEN2": {
+"error": null,
+"rows": [
+"Q8NCE0\t465\tTSEN2"
+]
+},
+"TSEN34": {
+"error": null,
+"rows": [
+"Q9BSV6\t310\tTSEN34"
+]
+},
+"TSEN54": {
+"error": null,
+"rows": [
+"Q7Z6J9\t526\tTSEN54"
+]
+},
+"TSPAN7": {
+"error": null,
+"rows": [
+"P41732\t249\tTSPAN7"
+]
+},
+"TSPOAP1": {
+"error": null,
+"rows": [
+"O95153\t1857\tTSPOAP1"
+]
+},
+"TTBK2": {
+"error": null,
+"rows": [
+"Q6IQ55\t1244\tTTBK2"
+]
+},
+"TTC21B": {
+"error": null,
+"rows": [
+"Q7Z4L5\t1316\tTTC21B"
+]
+},
+"TTC5": {
+"error": null,
+"rows": [
+"Q8N0Z6\t440\tTTC5"
+]
+},
+"TTI1": {
+"error": null,
+"rows": [
+"O43156\t1089\tTTI1"
+]
+},
+"TTI2": {
+"error": null,
+"rows": [
+"Q6NXR4\t508\tTTI2"
+]
+},
+"TTPA": {
+"error": null,
+"rows": [
+"P49638\t278\tTTPA"
+]
+},
+"TUBA1A": {
+"error": null,
+"rows": [
+"Q71U36\t451\tTUBA1A"
+]
+},
+"TUBA4A": {
+"error": null,
+"rows": [
+"P68366\t448\tTUBA4A"
+]
+},
+"TUBB": {
+"error": null,
+"rows": [
+"P07437\t444\tTUBB"
+]
+},
+"TUBB2A": {
+"error": null,
+"rows": [
+"Q13885\t445\tTUBB2A"
+]
+},
+"TUBB2B": {
+"error": null,
+"rows": [
+"Q9BVA1\t445\tTUBB2B"
+]
+},
+"TUBB3": {
+"error": null,
+"rows": [
+"Q13509\t450\tTUBB3"
+]
+},
+"TUBB4A": {
+"error": null,
+"rows": [
+"P04350\t444\tTUBB4A"
+]
+},
+"TUBG1": {
+"error": null,
+"rows": [
+"P23258\t451\tTUBG1"
+]
+},
+"TUBGCP2": {
+"error": null,
+"rows": [
+"Q9BSJ2\t902\tTUBGCP2"
+]
+},
+"TUBGCP4": {
+"error": null,
+"rows": [
+"Q9UGJ1\t667\tTUBGCP4"
+]
+},
+"TUBGCP6": {
+"error": null,
+"rows": [
+"Q96RT7\t1819\tTUBGCP6"
+]
+},
+"TUSC3": {
+"error": null,
+"rows": [
+"Q13454\t348\tTUSC3"
+]
+},
+"TWNK": {
+"error": null,
+"rows": [
+"Q96RR1\t684\tTWNK"
+]
+},
+"TYROBP": {
+"error": null,
+"rows": [
+"O43914\t113\tTYROBP"
+]
+},
+"UBA5": {
+"error": null,
+"rows": [
+"Q9GZZ9\t404\tUBA5"
+]
+},
+"UBAP1": {
+"error": null,
+"rows": [
+"Q9NZ09\t502\tUBAP1"
+]
+},
+"UBAP2L": {
+"error": null,
+"rows": [
+"Q14157\t1087\tUBAP2L"
+]
+},
+"UBE2A": {
+"error": null,
+"rows": [
+"P49459\t152\tUBE2A"
+]
+},
+"UBE3A": {
+"error": null,
+"rows": [
+"Q05086\t875\tUBE3A"
+]
+},
+"UBE3C": {
+"error": null,
+"rows": [
+"Q15386\t1083\tUBE3C"
+]
+},
+"UBE4A": {
+"error": null,
+"rows": [
+"Q14139\t1066\tUBE4A"
+]
+},
+"UBQLN2": {
+"error": null,
+"rows": [
+"Q9UHD9\t624\tUBQLN2"
+]
+},
+"UBR5": {
+"error": null,
+"rows": [
+"O95071\t2799\tUBR5"
+]
+},
+"UCHL1": {
+"error": null,
+"rows": [
+"P09936\t223\tUCHL1"
+]
+},
+"UFC1": {
+"error": null,
+"rows": [
+"Q9Y3C8\t167\tUFC1"
+]
+},
+"UFM1": {
+"error": null,
+"rows": [
+"P61960\t85\tUFM1"
+]
+},
+"UFSP2": {
+"error": null,
+"rows": [
+"Q9NUQ7\t469\tUFSP2"
+]
+},
+"UGDH": {
+"error": null,
+"rows": [
+"O60701\t494\tUGDH"
+]
+},
+"UGP2": {
+"error": null,
+"rows": [
+"Q16851\t508\tUGP2"
+]
+},
+"UNC13A": {
+"error": null,
+"rows": [
+"Q9UPW8\t1703\tUNC13A"
+]
+},
+"UPF3B": {
+"error": null,
+"rows": [
+"Q9BZI7\t483\tUPF3B"
+]
+},
+"UQCRC1": {
+"error": null,
+"rows": [
+"P31930\t480\tUQCRC1"
+]
+},
+"USP25": {
+"error": null,
+"rows": [
+"Q9UHP3\t1055\tUSP25"
+]
+},
+"USP27X": {
+"error": null,
+"rows": [
+"A6NNY8\t438\tUSP27X"
+]
+},
+"USP8": {
+"error": null,
+"rows": [
+"P40818\t1118\tUSP8"
+]
+},
+"USP9X": {
+"error": null,
+"rows": [
+"Q93008\t2554\tUSP9X"
+]
+},
+"VAMP1": {
+"error": null,
+"rows": [
+"P23763\t118\tVAMP1"
+]
+},
+"VAMP2": {
+"error": null,
+"rows": [
+"P63027\t116\tVAMP2"
+]
+},
+"VANGL1": {
+"error": null,
+"rows": [
+"Q8TAA9\t524\tVANGL1"
+]
+},
+"VANGL2": {
+"error": null,
+"rows": [
+"Q9ULK5\t521\tVANGL2"
+]
+},
+"VAPB": {
+"error": null,
+"rows": [
+"O95292\t243\tVAPB"
+]
+},
+"VARS1": {
+"error": null,
+"rows": [
+"P26640\t1264\tVARS1"
+]
+},
+"VCP": {
+"error": null,
+"rows": [
+"P55072\t806\tVCP"
+]
+},
+"VLDLR": {
+"error": null,
+"rows": [
+"P98155\t873\tVLDLR"
+]
+},
+"VPS11": {
+"error": null,
+"rows": [
+"Q9H270\t941\tVPS11"
+]
+},
+"VPS13A": {
+"error": null,
+"rows": [
+"Q96RL7\t3174\tVPS13A"
+]
+},
+"VPS13C": {
+"error": null,
+"rows": [
+"Q709C8\t3753\tVPS13C"
+]
+},
+"VPS13D": {
+"error": null,
+"rows": [
+"Q5THJ4\t4388\tVPS13D"
+]
+},
+"VPS16": {
+"error": null,
+"rows": [
+"Q9H269\t839\tVPS16"
+]
+},
+"VPS35": {
+"error": null,
+"rows": [
+"Q96QK1\t796\tVPS35"
+]
+},
+"VPS37A": {
+"error": null,
+"rows": [
+"Q8NEZ2\t397\tVPS37A"
+]
+},
+"VPS41": {
+"error": null,
+"rows": [
+"P49754\t854\tVPS41"
+]
+},
+"VPS4A": {
+"error": null,
+"rows": [
+"Q9UN37\t437\tVPS4A"
+]
+},
+"VPS50": {
+"error": null,
+"rows": [
+"Q96JG6\t964\tVPS50"
+]
+},
+"VPS51": {
+"error": null,
+"rows": [
+"Q9UID3\t782\tVPS51"
+]
+},
+"VPS53": {
+"error": null,
+"rows": [
+"Q5VIR6\t832\tVPS53"
+]
+},
+"VRK1": {
+"error": null,
+"rows": [
+"Q99986\t396\tVRK1"
+]
+},
+"VWA3B": {
+"error": null,
+"rows": [
+"Q502W6\t1294\tVWA3B"
+]
+},
+"WARS1": {
+"error": null,
+"rows": [
+"P23381\t471\tWARS1"
+]
+},
+"WARS2": {
+"error": null,
+"rows": [
+"Q9UGM6\t360\tWARS2"
+]
+},
+"WASF1": {
+"error": null,
+"rows": [
+"Q92558\t559\tWASF1"
+]
+},
+"WASHC4": {
+"error": null,
+"rows": [
+"Q2M389\t1173\tWASHC4"
+]
+},
+"WASHC5": {
+"error": null,
+"rows": [
+"Q12768\t1159\tWASHC5"
+]
+},
+"WBP4": {
+"error": null,
+"rows": [
+"O75554\t376\tWBP4"
+]
+},
+"WDFY3": {
+"error": null,
+"rows": [
+"Q8IZQ1\t3526\tWDFY3"
+]
+},
+"WDR11": {
+"error": null,
+"rows": [
+"Q8WWQ0\t1821\tPHIP",
+"Q9BZH6\t1224\tWDR11"
+]
+},
+"WDR4": {
+"error": null,
+"rows": [
+"P57081\t412\tWDR4"
+]
+},
+"WDR45": {
+"error": null,
+"rows": [
+"Q9Y484\t360\tWDR45"
+]
+},
+"WDR45B": {
+"error": null,
+"rows": [
+"Q5MNZ6\t344\tWDR45B"
+]
+},
+"WDR62": {
+"error": null,
+"rows": [
+"O43379\t1518\tWDR62"
+]
+},
+"WDR81": {
+"error": null,
+"rows": [
+"Q562E7\t1941\tWDR81"
+]
+},
+"WDR83OS": {
+"error": null,
+"rows": [
+"Q9Y284\t106\tWDR83OS"
+]
+},
+"WIPI2": {
+"error": null,
+"rows": [
+"Q9Y4P8\t454\tWIPI2"
+]
+},
+"WSB2": {
+"error": null,
+"rows": [
+"Q9NYS7\t404\tWSB2"
+]
+},
+"WWOX": {
+"error": null,
+"rows": [
+"Q9NZC7\t414\tWWOX"
+]
+},
+"XK": {
+"error": null,
+"rows": [
+"P51811\t444\tXK"
+]
+},
+"XRCC1": {
+"error": null,
+"rows": [
+"P18887\t633\tXRCC1"
+]
+},
+"XRCC4": {
+"error": null,
+"rows": [
+"Q13426\t336\tXRCC4"
+]
+},
+"YAP1": {
+"error": null,
+"rows": [
+"P46937\t504\tYAP1"
+]
+},
+"YEATS2": {
+"error": null,
+"rows": [
+"Q9ULM3\t1422\tYEATS2"
+]
+},
+"YIPF5": {
+"error": null,
+"rows": [
+"Q969M3\t257\tYIPF5"
+]
+},
+"YWHAG": {
+"error": null,
+"rows": [
+"P61981\t247\tYWHAG"
+]
+},
+"ZBTB11": {
+"error": null,
+"rows": [
+"O95625\t1053\tZBTB11"
+]
+},
+"ZBTB18": {
+"error": null,
+"rows": [
+"Q99592\t522\tZBTB18"
+]
+},
+"ZBTB7A": {
+"error": null,
+"rows": [
+"O95365\t584\tZBTB7A"
+]
+},
+"ZC3H14": {
+"error": null,
+"rows": [
+"Q6PJT7\t736\tZC3H14"
+]
+},
+"ZDHHC9": {
+"error": null,
+"rows": [
+"Q9Y397\t364\tZDHHC9"
+]
+},
+"ZFHX3": {
+"error": null,
+"rows": [
+"Q15911\t3703\tZFHX3"
+]
+},
+"ZFX": {
+"error": null,
+"rows": [
+"P17010\t805\tZFX"
+]
+},
+"ZFYVE26": {
+"error": null,
+"rows": [
+"Q68DK2\t2539\tZFYVE26"
+]
+},
+"ZIC1": {
+"error": null,
+"rows": [
+"Q15915\t447\tZIC1"
+]
+},
+"ZIC2": {
+"error": null,
+"rows": [
+"O95409\t532\tZIC2"
+]
+},
+"ZIC3": {
+"error": null,
+"rows": [
+"O60481\t467\tZIC3"
+]
+},
+"ZMIZ1": {
+"error": null,
+"rows": [
+"Q9ULJ6\t1067\tZMIZ1"
+]
+},
+"ZMYM2": {
+"error": null,
+"rows": [
+"Q9UBW7\t1377\tZMYM2"
+]
+},
+"ZMYM3": {
+"error": null,
+"rows": [
+"Q14202\t1370\tZMYM3"
+]
+},
+"ZMYND11": {
+"error": null,
+"rows": [
+"Q15326\t602\tZMYND11"
+]
+},
+"ZNF142": {
+"error": null,
+"rows": [
+"P52746\t1687\tZNF142"
+]
+},
+"ZNF148": {
+"error": null,
+"rows": [
+"Q9UQR1\t794\tZNF148"
+]
+},
+"ZNF292": {
+"error": null,
+"rows": [
+"O60281\t2723\tZNF292"
+]
+},
+"ZNF407": {
+"error": null,
+"rows": [
+"Q9C0G0\t2248\tZNF407"
+]
+},
+"ZNF423": {
+"error": null,
+"rows": [
+"Q2M1K9\t1284\tZNF423"
+]
+},
+"ZNF526": {
+"error": null,
+"rows": [
+"Q8TF50\t670\tZNF526"
+]
+},
+"ZNF668": {
+"error": null,
+"rows": [
+"Q96K58\t619\tZNF668"
+]
+},
+"ZNF711": {
+"error": null,
+"rows": [
+"Q9Y462\t761\tZNF711"
+]
+},
+"ZSCAN10": {
+"error": null,
+"rows": [
+"Q96SZ4\t780\tZSCAN10"
+]
+},
+"ZSWIM6": {
+"error": null,
+"rows": [
+"Q9HCJ5\t1215\tZSWIM6"
+]
+}
+}
+}

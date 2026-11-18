@@ -1,0 +1,125 @@
+{
+ "gene_condition_source_id": "gene_condition_source_id",
+ "grouping_names": 57,
+ "grouping_names_in_area": [
+  "Amyotrophic lateral sclerosis",
+  "Familial sleep-related hypermotor epilepsy",
+  "Hereditary ataxia",
+  "Holoprosencephaly sequence",
+  "Joubert syndrome",
+  "Monogenic Isolated Dystonia",
+  "Monogenic Parkinson Disease",
+  "Neurodegeneration with Brain Iron Accumulation Disorders",
+  "Neuronal ceroid lipofuscinosis",
+  "Pure hereditary spastic paraplegia"
+ ],
+ "grouping_scope": "routes",
+ "grouping_threshold": 10,
+ "map_rows_kept": 14215,
+ "map_rows_removed": 57,
+ "map_used": "codes/gene_condition_source_id.grouping_routes_lt10",
+ "resolution": "strict",
+ "resolution_failures": [
+  [
+   "CHASERR",
+   0
+  ],
+  [
+   "CUX1",
+   2
+  ],
+  [
+   "DISC2",
+   0
+  ],
+  [
+   "EPM2A",
+   2
+  ],
+  [
+   "MACF1",
+   2
+  ],
+  [
+   "MEG3",
+   0
+  ],
+  [
+   "NRXN1",
+   2
+  ],
+  [
+   "NUTM2B-AS1",
+   0
+  ],
+  [
+   "PIDD1",
+   2
+  ],
+  [
+   "PRNP",
+   2
+  ],
+  [
+   "RNU12",
+   0
+  ],
+  [
+   "RNU2-2",
+   0
+  ],
+  [
+   "RNU4-2",
+   0
+  ],
+  [
+   "RNU5B-1",
+   0
+  ],
+  [
+   "SNORA31",
+   0
+  ],
+  [
+   "SNORD118",
+   0
+  ]
+ ],
+ "symbols_whose_only_route_is_a_grouping_name": [
+  "ADAR",
+  "ANGPTL3",
+  "APOB",
+  "ATP2B4",
+  "B9D2",
+  "C2CD3",
+  "CABP4",
+  "CFAP410",
+  "CNOT1",
+  "COQ2",
+  "CP",
+  "CRH",
+  "DAO",
+  "DCAF17",
+  "FGF8",
+  "FGFR1",
+  "FOXH1",
+  "FTL",
+  "IFT172",
+  "KIF7",
+  "KMT2D",
+  "MOBP",
+  "MTTP",
+  "PANK2",
+  "POC1B",
+  "RAD21",
+  "SCFD1",
+  "SMC3",
+  "TAF15",
+  "TMEM107",
+  "TTC21B",
+  "TTPA",
+  "USP8",
+  "ZNF423"
+ ],
+ "variant_summary": "variant_summary.txt.gz"
+}

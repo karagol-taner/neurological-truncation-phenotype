@@ -1,0 +1,430 @@
+gene,tier,clinvar_symbols,uniprot,protein_length,plp_total,plp_ptv,plp_nonsense,plp_frameshift,plp_fs_fraction,plp_missense,plp_ptv_positioned,plp_ptv_rel_min,plp_ptv_rel_median,plp_ptv_rel_max,plp_ptv_frac_last_10pct,plp_ptv_frac_last_25pct,vus_total,vus_missense,benign_total,conflicting_total,isolated,syndromic
+SACS,isolated,SACS,Q9NZJ4,4579,1054,943,319,624,0.662,56,943,0.002,0.482,0.992,0.099,0.236,1163,1041,2260,563,Hereditary ataxia,Charlevoix-Saguenay spastic ataxia
+VPS13A,syndromic_only,VPS13A,Q96RL7,3174,737,555,161,394,0.71,12,555,0.001,0.469,0.993,0.09,0.229,939,810,2413,103,,VPS13A-related neurodegenerative disease
+SPG11,isolated,SPG11,Q96JI7,2443,591,456,162,294,0.645,13,456,0.002,0.552,0.977,0.099,0.276,1492,1372,1477,177,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 5; Hereditary spastic paraplegia 11,
+ZFYVE26,isolated,ZFYVE26,Q68DK2,2539,500,405,166,239,0.59,7,405,0.003,0.479,0.966,0.042,0.215,915,824,1614,123,Hereditary spastic paraplegia 15,
+SYNE1,isolated,SYNE1,Q8NF91,8797,417,328,187,141,0.43,5,328,0.004,0.514,0.994,0.095,0.238,3619,3272,2581,608,"Autosomal recessive ataxia, Beauce type; Hereditary ataxia",
+CACNA1A,isolated,CACNA1A,O00555,2506,604,313,118,195,0.623,174,313,0.006,0.407,0.964,0.003,0.128,1929,1681,1676,414,Episodic ataxia type 2; Hereditary ataxia; Spinocerebellar ataxia type 6,
+SPAST,isolated,SPAST,Q9UBP0,616,705,294,81,213,0.724,193,294,0.006,0.523,0.997,0.095,0.248,472,370,320,89,Hereditary spastic paraplegia 4,Pure hereditary spastic paraplegia
+ABCD1,syndromic_only,ABCD1,P33897,745,541,235,71,164,0.698,235,235,0.001,0.49,0.932,0.03,0.213,536,450,607,155,,Adrenoleukodystrophy
+OPA1,syndromic_only,OPA1,O60313,960,445,230,80,150,0.652,84,230,0.002,0.6,1.047,0.191,0.335,725,573,641,138,,"Abortive cerebellar ataxia; Optic atrophy with or without deafness, ophthalmoplegia, myopathy, ataxia, and neuropathy"
+SDHA,syndromic_only,SDHA,P31040,664,346,225,76,149,0.662,32,225,0.002,0.497,0.944,0.044,0.249,1656,1504,1163,223,,Neurodegeneration with ataxia and late-onset optic atrophy
+SCN2A,isolated,SCN2A,Q99250,2005,723,221,91,130,0.588,430,221,0.001,0.451,0.954,0.023,0.163,1326,1203,901,155,"Episodic ataxia, type 9",
+EPG5,syndromic_only,EPG5,Q9HCE0,2579,227,169,91,78,0.462,10,169,0.005,0.499,0.964,0.041,0.189,993,933,1438,50,,Neurodevelopmental disorder with parkinsonism or other movement abnormalities
+SLC2A1,isolated,SLC2A1,P11166,492,364,160,44,116,0.725,138,160,0.012,0.502,0.959,0.056,0.206,461,376,359,99,Dystonia 9,
+ARSA,syndromic_only,ARSA,P15289,507,377,146,33,113,0.774,184,146,0.01,0.446,0.982,0.082,0.205,421,302,482,91,,Metachromatic leukodystrophy
+CCDC88C,isolated,CCDC88C,Q9P219,2028,179,145,65,80,0.552,5,145,0.001,0.524,0.961,0.062,0.2,541,517,1180,65,Spinocerebellar ataxia type 40,
+TPP1,isolated,TPP1,O14773,563,251,144,46,98,0.681,49,144,0.007,0.451,0.995,0.111,0.215,452,390,547,68,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 2,Autosomal recessive spinocerebellar ataxia 7
+CLN3,isolated,CLN3,Q13286,438,240,128,44,84,0.656,27,128,0.014,0.475,0.97,0.031,0.164,367,303,583,53,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 3,
+PRRT2,syndromic_only,PRRT2,Q7Z6L0,340,167,126,33,93,0.738,21,126,0.029,0.538,0.988,0.103,0.23,333,304,207,56,,Episodic kinesigenic dyskinesia 1
+CLN5,isolated,CLN5,O75503,358,159,123,43,80,0.65,12,123,0.017,0.511,0.958,0.081,0.252,271,187,312,44,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 5,
+LAMA1,isolated,LAMA1,P25391,3075,157,121,50,71,0.587,2,121,0.001,0.421,0.997,0.099,0.215,881,826,749,81,Ataxia - intellectual disability - oculomotor apraxia - cerebellar cysts syndrome,
+KMT2B,isolated,KMT2B,Q9UMN6,2715,162,118,30,88,0.746,31,118,0.002,0.443,0.969,0.068,0.212,1087,1006,1330,182,"Dystonia 28, childhood-onset",Monogenic Isolated Dystonia
+TH,syndromic_only,TH,P07101,528,211,117,32,85,0.726,37,117,0.009,0.47,0.898,0.0,0.094,389,311,605,67,,Autosomal recessive DOPA responsive dystonia; TH-deficient dopa-responsive dystonia
+COL6A3,isolated,COL6A3,P12111,3177,221,116,59,57,0.491,37,116,0.008,0.507,0.985,0.095,0.259,1771,1622,1345,680,Dystonia 27,
+GBA1,isolated,GBA1,P04062,536,364,116,57,59,0.509,195,116,0.011,0.498,0.994,0.095,0.259,275,214,69,68,"Parkinson disease, late-onset",Lewy body dementia
+SGCE,syndromic_only,SGCE,O43556,437,170,110,33,77,0.7,14,110,0.03,0.558,0.991,0.027,0.118,361,307,227,23,,Myoclonic dystonia 11
+WDR45,isolated,WDR45,Q9Y484,360,216,110,30,80,0.727,31,110,0.003,0.556,0.972,0.118,0.291,157,127,206,31,Neurodegeneration with Brain Iron Accumulation Disorders; Neurodegeneration with brain iron accumulation 5,
+SPG7,isolated,SPG7,Q9UQ90,795,198,108,42,66,0.611,41,108,0.018,0.452,0.952,0.074,0.185,549,466,461,97,Hereditary ataxia; Hereditary spastic paraplegia 7,Pure hereditary spastic paraplegia
+TECPR2,isolated,TECPR2,O15040,1411,134,107,38,69,0.645,2,107,0.002,0.495,0.97,0.103,0.28,396,356,1013,26,Hereditary spastic paraplegia 49,
+NKX2-1,syndromic_only,NKX2-1,P43699,371,140,101,31,70,0.693,30,101,0.005,0.48,1.049,0.119,0.208,170,140,107,18,,Benign hereditary chorea
+GRN,isolated,GRN,P28799,593,137,95,32,63,0.663,9,95,0.003,0.438,0.877,0.0,0.137,345,308,279,44,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 11,GRN-related frontotemporal lobar degeneration with Tdp43 inclusions
+PNKP,isolated,PNKP,Q96T60,521,156,95,24,71,0.747,11,95,0.008,0.772,0.992,0.137,0.516,487,412,566,82,Ataxia - oculomotor apraxia type 4,
+COL4A1,syndromic_only,COL4A1,P02462,1669,422,86,29,57,0.663,273,86,0.013,0.482,0.986,0.093,0.256,1141,971,1276,167,,"Microangiopathy and leukoencephalopathy, pontine, autosomal dominant"
+MFSD8,isolated,MFSD8,Q8NHS3,518,167,86,36,50,0.581,25,86,0.006,0.541,0.931,0.058,0.198,393,319,450,46,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 7,
+NEK1,isolated,NEK1,Q96PY6,1258,121,85,37,48,0.565,7,85,0.038,0.429,0.997,0.059,0.118,469,398,397,78,"Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis, susceptibility to, 24",
+SETX,isolated,SETX,Q7Z333,2677,131,85,28,57,0.671,24,85,0.03,0.649,0.942,0.035,0.271,969,857,812,410,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 4; Hereditary ataxia,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2"
+PPT1,isolated,PPT1,P50897,306,176,84,31,53,0.631,47,84,0.01,0.435,0.951,0.024,0.179,227,175,343,33,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 1,
+ANO10,isolated,ANO10,Q9NW15,660,108,83,35,48,0.578,5,83,0.008,0.518,0.889,0.0,0.145,162,136,281,37,Hereditary ataxia,Autosomal recessive spinocerebellar ataxia 10
+FIG4,isolated,FIG4,Q92562,907,131,82,38,44,0.537,6,82,0.009,0.49,0.907,0.012,0.256,469,404,507,52,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 11,
+CLN6,isolated,CLN6,Q9NWW5,311,128,77,28,49,0.636,28,77,0.003,0.424,0.955,0.039,0.169,241,197,400,64,"Ceroid lipofuscinosis, neuronal, 6A; Ceroid lipofuscinosis, neuronal, 6B (Kufs type); Neuronal ceroid lipofuscinosis",
+PNPLA6,isolated,PNPLA6,Q8IY17,1375,133,75,27,48,0.64,32,75,0.007,0.578,0.983,0.133,0.253,583,489,753,106,Hereditary spastic paraplegia 39,Ataxia-hypogonadism-choroidal dystrophy syndrome
+ALS2,isolated,ALS2,Q96Q42,1657,124,74,39,35,0.473,13,74,0.023,0.509,0.957,0.095,0.216,494,420,489,60,"Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 2, juvenile",
+PLA2G6,isolated,PLA2G6,O60733,806,183,74,27,47,0.635,67,74,0.032,0.622,0.971,0.081,0.311,366,326,556,112,Neurodegeneration with Brain Iron Accumulation Disorders; Neurodegeneration with brain iron accumulation 2B,Autosomal recessive Parkinson disease 14; Monogenic Parkinson Disease; PLA2G6-associated neurodegeneration
+POLR3A,syndromic_only,POLR3A,O14802,1390,145,74,41,33,0.446,28,74,0.022,0.547,0.948,0.068,0.203,505,408,635,77,,"Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/or hypogonadotropic hypogonadism; POLR3-related leukodystrophy"
+VPS13C,syndromic_only,VPS13C,Q709C8,3753,98,74,42,32,0.432,1,74,0.017,0.572,0.973,0.068,0.311,399,374,629,20,,Autosomal recessive early-onset Parkinson disease 23; Monogenic Parkinson Disease
+CYLD,isolated,CYLD,Q9NQC7,956,97,73,32,41,0.562,4,73,0.159,0.647,0.979,0.068,0.37,233,160,146,9,Frontotemporal dementia and/or amyotrophic lateral sclerosis 8,
+MLC1,syndromic_only,MLC1,Q15049,377,148,71,20,51,0.718,32,71,0.04,0.398,0.862,0.0,0.155,214,132,414,26,,Megalencephalic leukoencephalopathy with subcortical cysts; Megalencephalic leukoencephalopathy with subcortical cysts 1
+SCN8A,isolated,SCN8A,Q9UQD0,1980,394,71,28,43,0.606,294,71,0.01,0.445,0.919,0.014,0.155,1169,1057,900,153,"Myoclonus, familial, 2",Cognitive impairment with or without cerebellar ataxia
+SPTAN1,isolated,SPTAN1,Q13813,2472,144,70,37,33,0.471,43,70,0.008,0.407,0.975,0.071,0.229,1372,1190,1600,221,"Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia",
+ATP13A2,isolated,ATP13A2,Q9NQ11,1180,102,69,27,42,0.609,8,69,0.014,0.453,0.966,0.043,0.145,492,427,564,112,Neurodegeneration with Brain Iron Accumulation Disorders,Autosomal recessive spastic paraplegia type 78; Monogenic Parkinson Disease
+MME,isolated,MME,P08473,750,112,69,34,35,0.507,7,69,0.005,0.44,0.969,0.058,0.246,347,302,337,17,Spinocerebellar ataxia 43,
+TREX1,syndromic_only,TREX1,Q9NSU2,314,85,69,12,57,0.826,11,69,0.006,0.395,1.0,0.072,0.203,365,323,166,34,,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations
+MPZ,syndromic_only,MPZ,P25189,248,200,67,23,44,0.657,100,67,0.02,0.464,0.94,0.03,0.224,328,259,121,68,,"Neuropathy, congenital hypomyelinating, 2"
+HMBS,isolated,HMBS,P08397,361,176,65,16,49,0.754,51,65,0.039,0.576,0.997,0.077,0.323,277,213,281,25,"Leukoencephalopathy, porphyria-related",
+TBC1D24,syndromic_only,TBC1D24,Q9ULP9,559,109,61,29,32,0.525,33,61,0.034,0.413,0.986,0.049,0.23,552,430,336,83,,Rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome
+KIDINS220,syndromic_only,KIDINS220,Q9ULH0,1771,70,59,26,33,0.559,1,59,0.041,0.745,0.851,0.0,0.492,728,657,489,53,,"Spastic paraplegia, intellectual disability, nystagmus, and obesity"
+PLP1,isolated,PLP1,P60201,277,186,59,24,35,0.593,88,59,0.004,0.491,0.949,0.051,0.169,156,127,127,19,Hereditary spastic paraplegia 2,
+TBK1,isolated,TBK1,Q9UHD2,729,90,59,24,35,0.593,8,59,0.003,0.593,0.964,0.051,0.271,279,250,235,17,Amyotrophic lateral sclerosis; Frontotemporal dementia and/or amyotrophic lateral sclerosis 4,
+VPS13D,isolated,VPS13D,Q5THJ4,4388,81,58,36,22,0.379,10,58,0.018,0.432,0.983,0.103,0.259,960,931,737,36,Autosomal recessive cerebellar ataxia-saccadic intrusion syndrome,
+COQ8A,isolated,COQ8A,Q8NI60,647,114,56,14,42,0.75,35,56,0.017,0.56,0.952,0.089,0.286,299,248,334,74,Autosomal recessive ataxia due to ubiquinone deficiency; Hereditary ataxia,
+CLN8,isolated,CLN8,Q9UBY8,286,92,55,29,26,0.473,29,55,0.003,0.364,0.92,0.018,0.109,246,231,237,33,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 8; Neuronal ceroid lipofuscinosis 8 northern epilepsy variant,
+GJC2,isolated,GJC2,Q5T442,439,77,55,16,39,0.709,18,55,0.014,0.369,0.875,0.0,0.091,249,225,98,25,"Hereditary spastic paraplegia 44; Leukodystrophy, hypomyelinating, 2",
+CYP7B1,isolated,CYP7B1,O75881,506,83,54,22,32,0.593,17,54,0.043,0.524,0.925,0.019,0.222,242,219,256,47,Hereditary spastic paraplegia 5A,Pure hereditary spastic paraplegia
+AARS1,isolated,AARS1,P49588,968,87,53,24,29,0.547,18,53,0.004,0.54,0.906,0.019,0.094,852,771,673,89,"Leukoencephalopathy, hereditary diffuse, with spheroids 2",
+AP4B1,isolated,AP4B1,Q9Y6B7,739,65,52,22,30,0.577,6,52,0.024,0.482,0.747,0.0,0.0,252,238,167,20,Hereditary spastic paraplegia 47,AP-4-Associated Hereditary Spastic Paraplegia
+GCH1,isolated,GCH1,P30793,250,127,51,20,31,0.608,42,51,0.008,0.336,0.976,0.059,0.216,251,191,223,39,Dystonia 5,
+REEP1,isolated,REEP1,Q9H902,201,97,50,19,31,0.62,14,50,0.07,0.438,0.896,0.0,0.16,200,132,159,26,Hereditary spastic paraplegia 31,Pure hereditary spastic paraplegia
+ZFHX3,isolated,ZFHX3,Q15911,3703,56,50,29,21,0.42,4,50,0.029,0.435,0.97,0.04,0.06,687,637,297,17,Hereditary ataxia; Spinocerebellar ataxia type 4,
+AP5Z1,isolated,AP5Z1,O43299,807,74,49,23,26,0.531,3,49,0.021,0.42,0.967,0.02,0.163,600,436,481,104,Hereditary spastic paraplegia 48,Pure hereditary spastic paraplegia
+CTSA,syndromic_only,CTSA,P10619,480,81,48,21,27,0.562,13,48,0.015,0.435,0.9,0.0,0.125,180,137,333,21,,Brain small vessel disease 6 with leukoencephalopathy
+WWOX,syndromic_only,WWOX,Q9NZC7,414,110,48,29,19,0.396,14,48,0.027,0.447,0.944,0.042,0.188,471,415,535,47,,Autosomal recessive spinocerebellar ataxia 12
+AP4M1,isolated,AP4M1,O00189,453,69,47,15,32,0.681,7,47,0.009,0.369,0.974,0.043,0.085,195,173,224,21,Hereditary spastic paraplegia 50,AP-4-Associated Hereditary Spastic Paraplegia
+OPTN,isolated,OPTN,Q96CV9,577,67,46,18,28,0.609,4,46,0.045,0.454,0.898,0.0,0.109,289,235,208,25,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 12,
+EIF2B5,isolated,EIF2B5,Q13144,721,117,45,25,20,0.444,55,45,0.093,0.523,0.949,0.044,0.2,249,221,460,34,Leukoencephalopathy with vanishing white matter 5,Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter
+AARS2,isolated,AARS2,Q5JTZ9,985,78,44,19,25,0.568,23,44,0.03,0.577,0.973,0.114,0.318,328,279,283,53,"Leukoencephalopathy, progressive, with ovarian failure",
+EBF3,syndromic_only,EBF3,Q9H4W6,596,119,44,17,27,0.614,53,44,0.049,0.294,0.95,0.023,0.114,186,146,94,7,,"Hypotonia, ataxia, and delayed development syndrome"
+PSAP,isolated,PSAP,P07602,524,97,44,17,27,0.614,20,44,0.042,0.527,0.929,0.045,0.318,304,260,545,51,"Parkinson disease 24, autosomal dominant, susceptibility to",
+SQSTM1,isolated,SQSTM1,Q13501,440,60,44,16,28,0.636,4,44,0.045,0.623,0.93,0.023,0.295,463,400,353,42,Amyotrophic lateral sclerosis; Frontotemporal dementia and/or amyotrophic lateral sclerosis 3,"Neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset"
+KIF5A,isolated,KIF5A,Q12840,1032,105,42,21,21,0.5,42,42,0.015,0.669,0.953,0.19,0.381,627,533,718,98,"Amyotrophic lateral sclerosis, susceptibility to, 25; Hereditary spastic paraplegia 10; Myoclonus, intractable, neonatal",Pure hereditary spastic paraplegia
+NOTCH3,syndromic_only,NOTCH3,Q9UM47,2321,333,42,16,26,0.619,275,42,0.004,0.626,0.967,0.381,0.405,912,788,728,224,,"Cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 1; Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 1"
+SYNJ1,isolated,SYNJ1,O43426,1573,57,40,18,22,0.55,3,40,0.002,0.387,0.819,0.0,0.05,748,518,749,27,Early-onset Parkinson disease 20,Monogenic Parkinson Disease
+FLVCR1,syndromic_only,FLVCR1,Q9Y5Y0,555,65,39,12,27,0.692,17,39,0.018,0.476,0.935,0.077,0.231,314,229,220,26,,Posterior column ataxia-retinitis pigmentosa syndrome
+SLC9A6,syndromic_only,SLC9A6,Q92581,701,71,38,13,25,0.658,11,38,0.013,0.544,0.957,0.026,0.132,277,203,284,16,,"Neurodegenerative disorder, X-linked, female-restricted, with parkinsonism and cognitive impairment"
+VLDLR,isolated,VLDLR,P98155,873,66,38,24,14,0.368,5,38,0.046,0.551,0.942,0.053,0.316,225,184,533,38,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 1",
+DARS2,isolated,DARS2,Q6PI48,645,79,37,14,23,0.622,19,37,0.003,0.426,0.837,0.0,0.054,194,169,209,39,Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome,
+GBA2,isolated,GBA2,Q9HCG7,927,53,37,22,15,0.405,7,37,0.053,0.49,0.939,0.027,0.243,183,171,149,35,Hereditary spastic paraplegia 46,
+BSCL2,isolated,BSCL2,Q96G97,398,61,36,15,21,0.583,8,36,0.191,0.709,1.141,0.139,0.417,339,296,225,60,Hereditary spastic paraplegia 17,Pure hereditary spastic paraplegia; Severe neurodegenerative syndrome with lipodystrophy
+FBXO7,isolated,FBXO7,Q9Y3I1,522,47,36,17,19,0.528,6,36,0.086,0.586,0.954,0.083,0.278,148,124,257,13,Parkinsonian-pyramidal syndrome,Monogenic Parkinson Disease
+WDR81,isolated,WDR81,Q562E7,1941,45,36,19,17,0.472,4,36,0.038,0.357,0.917,0.028,0.167,421,414,224,18,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 2",
+CYP2U1,isolated,CYP2U1,Q7Z449,544,53,35,9,26,0.743,15,35,0.002,0.524,0.857,0.0,0.057,174,166,115,23,Hereditary spastic paraplegia 56,
+FA2H,isolated,FA2H,Q7L5A8,372,71,35,12,23,0.657,25,35,0.022,0.452,0.882,0.0,0.171,169,137,169,40,Hereditary spastic paraplegia 35; Neurodegeneration with Brain Iron Accumulation Disorders,Fatty acid hydroxylase-associated neurodegeneration
+CTSD,isolated,CTSD,P07339,412,54,34,11,23,0.676,3,34,0.027,0.507,0.881,0.0,0.176,285,227,437,46,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 10,
+KIF1A,isolated,KIF1A,Q12756,1690,213,34,16,18,0.529,141,34,0.002,0.607,1.04,0.206,0.412,1303,1054,1625,385,"Spastic paraplegia 30A, autosomal dominant; Spastic paraplegia 30B, autosomal recessive",Pure hereditary spastic paraplegia
+PNPT1,isolated,PNPT1,Q8TCS8,783,73,34,14,20,0.588,14,34,0.008,0.503,0.913,0.059,0.265,377,336,516,35,Spinocerebellar ataxia type 25,
+CNTNAP1,syndromic_only,CNTNAP1,P78357,1384,49,33,21,12,0.364,6,33,0.017,0.447,0.908,0.061,0.152,301,282,284,11,,"Neuropathy, congenital hypomyelinating, 3"
+CSF1R,isolated,CSF1R,P07333,972,88,33,17,16,0.485,43,33,0.025,0.495,0.902,0.03,0.182,426,349,467,69,"Leukoencephalopathy, diffuse hereditary, with spheroids 1","Brain abnormalities, neurodegeneration, and dysosteosclerosis"
+PI4KA,isolated,PI4KA,P42356,2102,55,32,16,16,0.5,14,32,0.052,0.417,0.982,0.125,0.156,168,156,258,8,"Spastic paraplegia 84, autosomal recessive",
+PINK1,syndromic_only,PINK1,Q9BXM7,581,51,32,15,17,0.531,12,32,0.009,0.444,0.919,0.062,0.312,220,177,169,29,,Autosomal recessive early-onset Parkinson disease 6; Monogenic Parkinson Disease
+CAPN1,syndromic_only,CAPN1,P07384,714,51,31,19,12,0.387,6,31,0.069,0.43,0.943,0.065,0.129,166,158,155,6,,Autosomal recessive spastic paraplegia type 76
+CAPRIN1,syndromic_only,CAPRIN1,Q14444,709,36,31,17,14,0.452,1,31,0.044,0.468,0.821,0.0,0.258,128,109,26,1,,"Neurodegeneration, childhood-onset, with cerebellar ataxia and cognitive decline"
+LAMB1,isolated,LAMB1,P07942,1786,49,31,12,19,0.613,2,31,0.059,0.492,0.98,0.161,0.258,581,542,481,28,"Leukoencephalopathy without lacunae, adult-onset",
+POLR1C,isolated,POLR1C,O15160,346,55,31,11,20,0.645,17,31,0.052,0.572,0.945,0.065,0.226,133,121,102,28,"Leukodystrophy, hypomyelinating, 11",POLR3-related leukodystrophy
+POLR3B,syndromic_only,POLR3B,Q9NW08,1133,86,31,12,19,0.613,32,31,0.1,0.593,0.925,0.097,0.258,405,348,273,44,,"Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism; POLR3-related leukodystrophy"
+ALDH18A1,isolated,ALDH18A1,P54886,795,66,30,15,15,0.5,24,30,0.054,0.516,0.976,0.033,0.3,475,429,309,61,Hereditary spastic paraplegia 9A,Autosomal recessive complex spastic paraplegia type 9B; Pure hereditary spastic paraplegia
+TWNK,syndromic_only,TWNK,Q96RR1,684,80,30,14,16,0.533,46,30,0.009,0.363,0.863,0.0,0.067,365,318,185,65,,Infantile onset spinocerebellar ataxia
+ATP8A2,isolated,ATP8A2,Q9NTI2,1188,57,29,13,16,0.552,6,29,0.059,0.489,0.944,0.138,0.207,256,229,265,14,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 4",
+DDHD2,isolated,DDHD2,O94830,711,39,29,17,12,0.414,3,29,0.049,0.404,0.965,0.069,0.207,171,152,142,15,Hereditary spastic paraplegia 54,
+SNX14,syndromic_only,SNX14,Q9Y5W7,946,54,28,17,11,0.393,2,28,0.011,0.4,0.915,0.036,0.107,167,154,175,8,,Autosomal recessive spinocerebellar ataxia 20
+THAP1,syndromic_only,THAP1,Q9NVV9,213,51,28,9,19,0.679,20,28,0.005,0.455,0.793,0.0,0.071,98,71,56,13,,Monogenic Isolated Dystonia; Torsion dystonia 6
+AMPD2,isolated,AMPD2,Q01433,825,53,27,13,14,0.519,11,27,0.017,0.211,0.846,0.0,0.074,217,193,273,11,Hereditary spastic paraplegia 63,
+AP4E1,isolated,AP4E1,Q9UPM8,1137,38,27,9,18,0.667,0,27,0.042,0.457,0.972,0.148,0.296,340,316,264,26,Hereditary spastic paraplegia 51,AP-4-Associated Hereditary Spastic Paraplegia
+CLCN2,isolated,CLCN2,P51788,898,46,27,11,16,0.593,8,27,0.023,0.425,0.894,0.0,0.185,403,366,244,34,Leukoencephalopathy with mild cerebellar ataxia and white matter edema,
+IBA57,isolated,IBA57,Q5T440,356,42,27,11,16,0.593,10,27,0.022,0.27,0.882,0.0,0.037,169,156,125,10,Hereditary spastic paraplegia 74,
+PRKN,syndromic_only,PRKN,O60260,465,109,27,11,16,0.593,19,27,0.054,0.606,0.974,0.222,0.259,250,162,215,26,,Autosomal recessive juvenile Parkinson disease 2; Monogenic Parkinson Disease
+RORA,syndromic_only,RORA,P35398,523,48,27,17,10,0.37,10,27,0.119,0.514,0.956,0.037,0.222,180,138,81,12,,Intellectual developmental disorder with or without epilepsy or cerebellar ataxia
+B4GALNT1,isolated,B4GALNT1,Q00973,533,40,26,9,17,0.654,5,26,0.088,0.546,0.925,0.115,0.269,189,177,174,8,Hereditary spastic paraplegia 26,
+COASY,isolated,COASY,Q13057,564,35,26,11,15,0.577,3,26,0.067,0.434,0.934,0.115,0.269,204,189,161,14,Neurodegeneration with Brain Iron Accumulation Disorders; Neurodegeneration with brain iron accumulation 6,
+CTSF,isolated,CTSF,Q9UBX1,484,40,26,8,18,0.692,4,26,0.07,0.448,0.907,0.038,0.154,138,126,133,17,Neuronal ceroid lipofuscinosis; Neuronal ceroid lipofuscinosis 13,
+FARS2,isolated,FARS2,O95363,451,65,26,15,11,0.423,25,26,0.009,0.592,0.945,0.038,0.154,259,230,230,26,Hereditary spastic paraplegia 77,
+ADCY5,syndromic_only,ADCY5,O95622,1261,58,25,8,17,0.68,24,25,0.009,0.122,0.81,0.0,0.08,435,398,453,57,,"Dyskinesia with orofacial involvement, autosomal dominant; Dyskinesia with orofacial involvement, autosomal recessive; Neurodevelopmental disorder with hyperkinetic movements and dyskinesia"
+DDHD1,isolated,DDHD1,Q8NEL9,900,31,25,9,16,0.64,2,25,0.002,0.382,0.74,0.0,0.0,285,266,251,12,Hereditary spastic paraplegia 28,Pure hereditary spastic paraplegia
+EARS2,isolated,EARS2,Q5JPH6,523,43,25,15,10,0.4,13,25,0.073,0.436,0.901,0.04,0.24,200,163,138,30,Leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome,
+FUS,isolated,FUS,P35637,526,54,25,6,19,0.76,23,25,0.139,0.951,0.987,0.8,0.88,291,166,278,41,"Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 6; Tremor, hereditary essential, 4",
+HACE1,isolated,HACE1,Q8IYU2,909,40,25,15,10,0.4,4,25,0.056,0.45,0.904,0.04,0.16,135,118,176,5,Spastic paraplegia-severe developmental delay-epilepsy syndrome,
+SCARB2,syndromic_only,SCARB2,Q14108,478,40,25,7,18,0.72,0,25,0.063,0.603,0.962,0.12,0.28,223,199,257,21,,Action myoclonus-renal failure syndrome
+APTX,isolated,APTX,Q7Z2E3,356,40,24,10,14,0.583,9,24,0.045,0.559,0.789,0.0,0.083,114,89,158,21,"Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia; Hereditary ataxia",
+EIF2B1,isolated,EIF2B1,Q14232,305,38,24,8,16,0.667,7,24,0.03,0.502,0.892,0.0,0.25,104,77,174,8,Leukoencephalopathy with vanishing white matter 1,Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter
+HPDL,isolated,HPDL,Q96IR7,371,48,24,7,17,0.708,24,24,0.024,0.631,0.922,0.042,0.208,62,60,19,5,"Spastic paraplegia 83, autosomal recessive",
+NR4A2,syndromic_only,NR4A2,P43354,598,55,24,5,19,0.792,25,24,0.002,0.298,0.844,0.0,0.208,170,135,48,6,,Intellectual developmental disorder with language impairment and early-onset DOPA-responsive dystonia-parkinsonism
+SCYL1,syndromic_only,SCYL1,Q96KG9,808,37,24,11,13,0.542,5,24,0.027,0.556,0.983,0.083,0.25,148,146,115,6,,Acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome
+STUB1,isolated,STUB1,Q9UNE7,303,54,24,10,14,0.583,21,24,0.073,0.743,0.977,0.208,0.458,146,121,93,11,Spinocerebellar ataxia 48,Autosomal recessive spinocerebellar ataxia 16
+PUM1,isolated,PUM1,Q14671,1186,30,23,14,9,0.391,5,23,0.012,0.499,0.945,0.087,0.217,295,273,122,7,Spinocerebellar ataxia 47,
+RARS1,isolated,RARS1,P54136,660,40,23,10,13,0.565,11,23,0.026,0.427,0.936,0.174,0.348,185,169,276,15,"Leukodystrophy, hypomyelinating, 9",
+WASHC5,isolated,WASHC5,Q12768,1159,45,22,7,15,0.682,12,22,0.01,0.46,0.923,0.091,0.227,342,273,366,44,Hereditary spastic paraplegia 8,Pure hereditary spastic paraplegia
+AFG3L2,isolated,AFG3L2,Q9Y4W6,797,70,21,11,10,0.476,39,21,0.025,0.247,0.902,0.048,0.095,315,272,230,37,Hereditary ataxia; Spastic ataxia 5; Spinocerebellar ataxia type 28,
+ITPR1,isolated,ITPR1,Q14643,2758,98,21,14,7,0.333,58,21,0.062,0.568,0.955,0.095,0.286,1077,927,1099,98,Hereditary ataxia; Spinocerebellar ataxia type 15/16; Spinocerebellar ataxia type 29,
+KCNMA1,syndromic_only,KCNMA1,Q12791,1236,53,21,5,16,0.762,21,21,0.009,0.518,0.871,0.0,0.19,744,553,713,91,,Generalized epilepsy-paroxysmal dyskinesia syndrome
+KIF1C,isolated,KIF1C,O43896,1103,40,21,8,13,0.619,8,21,0.02,0.317,0.964,0.048,0.19,353,321,370,40,Spastic ataxia 2,
+SPR,syndromic_only,SPR,P35270,261,36,21,12,9,0.429,10,21,0.008,0.579,0.962,0.095,0.381,110,92,123,15,,Dopa-responsive dystonia due to sepiapterin reductase deficiency
+SPTBN2,isolated,SPTBN2,O15020,2390,63,21,13,8,0.381,30,21,0.202,0.67,0.879,0.0,0.381,725,661,522,159,Hereditary ataxia; Spinocerebellar ataxia type 5,Autosomal recessive spinocerebellar ataxia 14
+UBA5,isolated,UBA5,Q9GZZ9,404,40,21,7,14,0.667,14,21,0.032,0.584,0.802,0.0,0.048,115,107,127,9,"Spinocerebellar ataxia, autosomal recessive 24",
+UBAP1,isolated,UBAP1,Q9NZ09,502,24,21,8,13,0.619,1,21,0.014,0.283,0.512,0.0,0.0,76,57,26,6,"Spastic paraplegia 80, autosomal dominant",
+ACTB,syndromic_only,ACTB,P60709,375,147,20,4,16,0.8,118,20,0.128,0.883,0.995,0.35,0.8,178,145,353,28,,Developmental malformations-deafness-dystonia syndrome
+AIMP1,isolated,AIMP1,Q12904,312,23,20,6,14,0.7,1,20,0.083,0.359,0.756,0.0,0.05,83,78,51,4,"Leukodystrophy, hypomyelinating, 3",
+RTN4IP1,syndromic_only,RTN4IP1,Q8WWV3,396,40,20,10,10,0.5,8,20,0.045,0.508,0.896,0.0,0.25,158,144,149,14,,"Optic atrophy 10 with or without ataxia, intellectual disability, and seizures"
+UCHL1,isolated,UCHL1,P09936,223,29,20,7,13,0.65,3,20,0.04,0.52,0.874,0.0,0.15,95,65,119,6,"Parkinson disease 5, autosomal dominant, susceptibility to; Spastic paraplegia 79A, autosomal dominant, with ataxia",Early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome
+C19orf12,isolated,C19orf12,Q9NSK7,141,34,19,5,14,0.737,9,19,0.092,0.553,0.957,0.053,0.105,169,77,118,14,Hereditary spastic paraplegia 43; Neurodegeneration with Brain Iron Accumulation Disorders; Neurodegeneration with brain iron accumulation 4,
+CWF19L1,syndromic_only,CWF19L1,Q69YN2,538,32,19,12,7,0.368,4,19,0.217,0.586,0.857,0.0,0.158,89,83,36,3,,Autosomal recessive spinocerebellar ataxia 17
+EIF2B2,isolated,EIF2B2,P49770,351,40,19,7,12,0.632,14,19,0.043,0.541,0.895,0.0,0.263,110,97,177,12,Leukoencephalopathy with vanishing white matter 2,Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter
+ELOVL4,isolated,ELOVL4,Q9GZR5,314,29,19,6,13,0.684,6,19,0.054,0.465,0.86,0.0,0.211,195,147,145,13,Spinocerebellar ataxia type 34,
+MTRFR,isolated,MTRFR,Q9H3J6,166,24,19,4,15,0.789,1,19,0.036,0.5,0.892,0.0,0.316,86,60,51,10,Hereditary spastic paraplegia 55,
+PYCR2,isolated,PYCR2,Q96C36,320,38,19,7,12,0.632,14,19,0.031,0.459,0.831,0.0,0.211,70,66,63,11,"Leukodystrophy, hypomyelinating, 10",
+COQ4,isolated,COQ4,Q9Y3A0,265,41,18,8,10,0.556,14,18,0.026,0.283,0.834,0.0,0.111,121,109,170,20,"Hereditary ataxia; Spastic ataxia 10, autosomal recessive",
+HTRA1,syndromic_only,HTRA1,Q92743,480,43,18,10,8,0.444,19,18,0.062,0.315,0.804,0.0,0.111,196,172,135,27,,"Cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 2; Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 2"
+NKX6-2,isolated,NKX6-2,Q9C056,277,24,18,7,11,0.611,5,18,0.144,0.35,0.733,0.0,0.0,105,102,72,1,"Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy",
+NT5C2,isolated,NT5C2,P49902,561,34,18,8,10,0.556,4,18,0.052,0.374,0.966,0.056,0.111,93,74,161,3,Hereditary spastic paraplegia 45,
+RNF216,syndromic_only,RNF216,Q9NWF9,866,27,18,9,9,0.5,5,18,0.081,0.382,0.94,0.056,0.111,232,227,172,7,,Cerebellar ataxia-hypogonadism syndrome
+EPRS1,isolated,EPRS1,P07814,1512,24,17,11,6,0.353,5,17,0.206,0.696,0.919,0.118,0.471,290,275,220,13,"Leukodystrophy, hypomyelinating, 15",
+TIMM8A,syndromic_only,TIMM8A,O60220,97,27,17,7,10,0.588,4,17,0.103,0.443,6.619,0.059,0.294,17,14,39,5,,Deafness dystonia syndrome
+VPS16,isolated,VPS16,Q9H269,839,23,17,8,9,0.529,0,17,0.098,0.53,0.863,0.0,0.294,225,202,47,5,Dystonia 30,Monogenic Isolated Dystonia
+ACBD5,syndromic_only,ACBD5,Q5T8D3,534,25,16,9,7,0.438,0,16,0.007,0.418,0.946,0.062,0.25,183,165,229,8,,Retinal dystrophy with leukodystrophy
+ATL1,isolated,ATL1,Q8WXF7,558,94,16,10,6,0.375,72,16,0.201,0.658,0.909,0.125,0.312,309,264,238,57,Hereditary spastic paraplegia 3A,Pure hereditary spastic paraplegia
+MECR,syndromic_only,MECR,Q9BV79,373,32,16,7,9,0.562,5,16,0.005,0.488,0.796,0.0,0.188,104,95,210,11,,"Dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities"
+NAXE,syndromic_only,NAXE,Q8NCW5,288,23,16,8,8,0.5,5,16,0.035,0.465,0.861,0.0,0.125,68,57,68,4,,"Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy, 1"
+ADPRS,syndromic_only,ADPRS,Q9NX46,363,23,15,8,7,0.467,7,15,0.135,0.383,0.92,0.067,0.067,72,67,25,4,,"Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures"
+ATP1A3,isolated,ATP1A3,P13637,1013,177,15,6,9,0.6,139,15,0.078,0.782,0.976,0.333,0.533,544,440,644,79,Dystonia 12,Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome
+SIGMAR1,isolated,SIGMAR1,Q99720,223,29,15,5,10,0.667,6,15,0.022,0.327,0.843,0.0,0.067,96,88,99,3,Amyotrophic lateral sclerosis type 16,
+SMG9,syndromic_only,SMG9,Q9H0W8,520,20,15,7,8,0.533,3,15,0.015,0.454,0.915,0.067,0.2,84,78,37,1,,"Neurodevelopmental disorder with intention tremor, pyramidal signs, dyspraxia, and ocular anomalies"
+ABCA2,syndromic_only,ABCA2,Q9BZC7,2435,17,14,6,8,0.571,0,14,0.09,0.563,0.878,0.0,0.143,468,454,344,11,,Intellectual developmental disorder with poor growth and with or without seizures or ataxia
+DOCK3,syndromic_only,DOCK3,Q8IZD9,2030,17,14,4,10,0.714,0,14,0.027,0.297,0.986,0.071,0.071,246,236,74,3,,"Neurodevelopmental disorder with impaired intellectual development, hypotonia, and ataxia"
+ERLIN2,isolated,ERLIN2,O94905,339,36,14,4,10,0.714,13,14,0.018,0.652,0.973,0.143,0.357,94,81,82,9,"Spastic paraplegia 18a, autosomal dominant; Spastic paraplegia 18b, autosomal recessive",Pure hereditary spastic paraplegia
+HYCC1,syndromic_only,HYCC1,Q9BYI3,521,23,14,7,7,0.5,1,14,0.065,0.409,0.754,0.0,0.071,195,123,166,16,,Hypomyelination and Congenital Cataract
+KARS1,syndromic_only,KARS1,Q15046,597,35,14,10,4,0.286,17,14,0.013,0.625,0.926,0.071,0.286,264,228,232,34,,"Deafness, congenital, and adult-onset progressive leukoencephalopathy; Leukoencephalopathy, progressive, infantile-onset, with or without deafness"
+XK,syndromic_only,XK,P51811,444,18,14,9,5,0.357,1,14,0.207,0.644,0.782,0.0,0.214,68,65,45,4,,XK-related neurodegenerative disease
+ABCA7,isolated,ABCA7,Q8IZY2,2146,18,13,5,8,0.615,1,13,0.043,0.362,0.782,0.0,0.077,396,362,175,12,Alzheimer disease 9,
+EIF2B4,isolated,EIF2B4,Q9UI10,523,37,13,5,8,0.615,14,13,0.055,0.4,0.849,0.0,0.077,157,139,301,17,Leukoencephalopathy with vanishing white matter 4,Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter
+ENTPD1,isolated,ENTPD1,P49961,510,19,13,8,5,0.385,1,13,0.122,0.504,0.769,0.0,0.077,111,98,115,11,Hereditary spastic paraplegia 64,
+GNAL,isolated,GNAL,P38405,381,25,13,7,6,0.462,10,13,0.055,0.622,1.113,0.154,0.231,95,80,168,4,Dystonia 25,Monogenic Isolated Dystonia
+RTN2,isolated,RTN2,O75298,545,16,13,7,6,0.462,0,13,0.024,0.163,0.714,0.0,0.0,183,159,138,22,Hereditary spastic paraplegia 12,Pure hereditary spastic paraplegia
+TREM2,isolated,TREM2,Q9NZC2,230,24,13,7,6,0.462,4,13,0.061,0.374,0.861,0.0,0.077,78,58,73,13,Alzheimer disease 17,Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy 2
+AGTPBP1,syndromic_only,AGTPBP1,Q9UPW5,1226,25,12,10,2,0.167,5,12,0.223,0.675,0.911,0.083,0.333,133,115,45,5,,"Neurodegeneration, childhood-onset, with cerebellar atrophy"
+AP4S1,isolated,AP4S1,Q9Y587,144,26,12,5,7,0.583,2,12,0.028,0.34,0.847,0.0,0.083,53,31,81,4,Hereditary spastic paraplegia 52,AP-4-Associated Hereditary Spastic Paraplegia
+CAV1,syndromic_only,CAV1,Q03135,178,13,12,3,9,0.75,0,12,0.213,0.798,0.893,0.0,0.667,80,74,100,7,,"Partial lipodystrophy, congenital cataracts, and neurodegeneration syndrome"
+GRM1,isolated,GRM1,Q13255,1194,17,12,3,9,0.75,4,12,0.009,0.551,0.884,0.0,0.167,242,218,201,10,Spinocerebellar ataxia 44,Autosomal recessive spinocerebellar ataxia 13
+MPO,isolated,MPO,P05164,745,19,12,6,6,0.5,4,12,0.18,0.366,0.808,0.0,0.167,112,107,45,7,Alzheimer disease type 1,
+AOPEP,isolated,AOPEP,Q8N6M6,819,12,11,6,5,0.455,0,11,0.089,0.316,0.899,0.0,0.091,18,18,14,1,Dystonia 31,Monogenic Isolated Dystonia
+BCAP31,syndromic_only,BCAP31,P51572,246,19,11,6,5,0.455,3,11,0.126,0.496,0.715,0.0,0.0,85,66,119,13,,Severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome
+CPT1C,isolated,CPT1C,Q8TCG5,803,17,11,8,3,0.273,3,11,0.232,0.45,0.854,0.0,0.091,226,203,180,13,Hereditary spastic paraplegia 73,Pure hereditary spastic paraplegia
+FGF14,isolated,FGF14,Q92915,247,20,11,3,8,0.727,2,11,0.219,0.595,0.769,0.0,0.091,103,68,89,4,"Hereditary ataxia; Spinocerebellar ataxia 27A; Spinocerebellar ataxia 27B, late-onset",
+HEPACAM,syndromic_only,HEPACAM,Q14CZ8,416,26,11,5,6,0.545,11,11,0.01,0.24,0.786,0.0,0.091,198,151,120,22,,"Megalencephalic leukoencephalopathy with subcortical cysts; Megalencephalic leukoencephalopathy with subcortical cysts 2A; Megalencephalic leukoencephalopathy with subcortical cysts 2B, remitting, with or without intellectual disability"
+TDP2,isolated,TDP2,O95551,362,14,11,6,5,0.455,0,11,0.006,0.381,0.876,0.0,0.091,58,56,31,0,"Spinocerebellar ataxia, autosomal recessive 23",
+TTBK2,isolated,TTBK2,Q6IQ55,1244,12,11,3,8,0.727,1,11,0.33,0.357,0.929,0.091,0.273,314,271,170,39,Spinocerebellar ataxia type 11,
+DNAJC6,syndromic_only,DNAJC6,O75061,913,14,10,5,5,0.5,1,10,0.019,0.541,0.939,0.2,0.4,181,170,188,3,,Juvenile onset Parkinson disease 19A; Monogenic Parkinson Disease
+HTRA2,isolated,HTRA2,O43464,458,17,10,2,8,0.8,3,10,0.103,0.308,0.959,0.1,0.2,157,135,175,8,"Parkinson disease 13, autosomal dominant, susceptibility to",
+NRROS,syndromic_only,NRROS,Q86YC3,692,12,10,5,5,0.5,2,10,0.092,0.793,0.955,0.1,0.5,99,98,26,2,,"Seizures, early-onset, with neurodegeneration and brain calcifications"
+FMR1,isolated,FMR1,Q06787,632,28,9,4,5,0.556,5,9,0.043,0.562,0.745,0.0,0.0,105,93,125,8,Hereditary ataxia,Fragile X-associated tremor/ataxia syndrome
+FXN,isolated,FXN,Q16595,210,29,9,4,5,0.556,7,9,0.005,0.338,0.79,0.0,0.111,59,51,76,13,Hereditary ataxia,Friedreich ataxia; Friedreich ataxia 1
+MSTO1,syndromic_only,MSTO1,Q9BUK6,570,24,9,5,4,0.444,10,9,0.047,0.349,0.737,0.0,0.0,138,129,82,14,,Mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome
+PDE8B,syndromic_only,PDE8B,O95263,885,11,9,4,5,0.556,2,9,0.031,0.124,0.879,0.0,0.111,176,137,171,9,,Autosomal dominant striatal neurodegeneration type 1
+TOR1A,syndromic_only,TOR1A,O14656,332,15,9,7,2,0.222,3,9,0.217,0.488,0.867,0.0,0.444,147,111,99,11,,Early-onset generalized limb-onset dystonia; Monogenic Isolated Dystonia
+VAMP1,isolated,VAMP1,P23763,118,15,9,4,5,0.556,0,9,0.153,0.364,0.966,0.111,0.111,50,40,68,6,Spastic ataxia 1,
+DAGLA,syndromic_only,DAGLA,Q9Y4D2,1042,8,8,4,4,0.5,0,8,0.758,0.781,0.817,0.0,1.0,113,103,49,1,,Benign paroxysmal tonic upgaze of childhood with ataxia
+DEGS1,isolated,DEGS1,O15121,323,21,8,4,4,0.5,8,8,0.025,0.353,0.777,0.0,0.125,54,52,36,5,"Leukodystrophy, hypomyelinating, 18",
+GDAP2,isolated,GDAP2,Q9NXN4,497,10,8,5,3,0.375,0,8,0.091,0.636,0.877,0.0,0.25,58,56,16,0,"Spinocerebellar ataxia, autosomal recessive 27",
+GLS,syndromic_only,GLS,O94925,669,21,8,4,4,0.5,9,8,0.121,0.347,0.821,0.0,0.125,115,108,65,1,,"Global developmental delay, progressive ataxia, and elevated glutamine"
+NEFH,isolated,NEFH,P12036,1020,10,8,1,7,0.875,1,8,0.212,0.984,1.0,0.625,0.75,675,583,401,59,Amyotrophic lateral sclerosis type 1,
+POLR1A,isolated,POLR1A,O95602,1720,11,8,3,5,0.625,3,8,0.002,0.46,0.833,0.0,0.125,641,577,519,28,"Leukodystrophy, hypomyelinating, 27",
+POU4F1,isolated,POU4F1,Q01851,419,10,8,0,8,1.0,1,8,0.086,0.217,0.265,0.0,0.0,89,71,43,1,"Ataxia, intention tremor, and hypotonia syndrome, childhood-onset",
+SLC5A6,syndromic_only,SLC5A6,Q9Y289,635,15,8,5,3,0.375,3,8,0.148,0.502,0.98,0.125,0.125,71,68,48,7,,"Neurodegeneration, infantile-onset, biotin-responsive"
+MAG,isolated,MAG,P20916,626,16,7,5,2,0.286,4,7,0.176,0.385,0.812,0.0,0.143,178,171,172,7,Hereditary spastic paraplegia 75,
+SLC30A10,syndromic_only,SLC30A10,Q6XR72,485,12,7,3,4,0.571,2,7,0.095,0.353,0.849,0.0,0.143,147,124,139,10,,"Hypermanganesemia with dystonia, polycythemia, and cirrhosis"
+SOD1,isolated,SOD1,P00441,154,138,7,3,4,0.571,124,7,0.442,0.838,0.955,0.429,0.714,85,59,81,23,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 1,
+TGM6,isolated,TGM6,O95932,706,14,7,5,2,0.286,3,7,0.052,0.475,0.744,0.0,0.0,288,238,232,54,Spinocerebellar ataxia type 35,
+TSPOAP1,isolated,TSPOAP1,O95153,1857,7,7,3,4,0.571,0,7,0.097,0.409,0.924,0.143,0.143,37,35,38,1,"Dystonia 22, adult-onset; Dystonia 22, juvenile-onset",
+VWA3B,isolated,VWA3B,Q502W6,1294,10,7,2,5,0.714,1,7,0.066,0.307,0.951,0.143,0.286,199,186,87,5,"Spinocerebellar ataxia, autosomal recessive 22",
+ABHD16A,isolated,ABHD16A,O95870,558,8,6,5,1,0.167,1,6,0.204,0.839,0.919,0.167,0.5,69,66,21,2,"Spastic paraplegia 86, autosomal recessive",
+ARL6IP1,isolated,ARL6IP1,Q15041,203,9,6,2,4,0.667,1,6,0.187,0.571,0.951,0.167,0.333,38,34,59,1,Hereditary spastic paraplegia 61,
+DNAJC3,syndromic_only,DNAJC3,Q13217,504,9,6,2,4,0.667,1,6,0.29,0.859,0.905,0.167,0.667,58,57,23,3,,Juvenile-onset diabetes mellitus-central and peripheral neurodegeneration syndrome
+GRIK2,syndromic_only,GRIK2,Q13002,908,16,6,6,0,0.0,6,6,0.047,0.297,0.576,0.0,0.0,235,215,86,8,,Neurodevelopmental disorder with impaired language and ataxia and with or without seizures
+HTT,syndromic_only,HTT,P42858,3142,12,6,1,5,0.833,1,6,0.011,0.222,0.618,0.0,0.0,278,245,509,13,,Huntington disease
+KCNN2,isolated,KCNN2,Q9H2S1,579,20,6,2,4,0.667,9,6,0.316,0.798,1.14,0.333,0.5,176,152,41,5,"Dystonia 34, myoclonic",
+SLC44A1,syndromic_only,SLC44A1,Q8WWI5,657,8,6,3,3,0.5,0,6,0.192,0.513,0.787,0.0,0.167,91,90,20,1,,"Neurodegeneration, childhood-onset, with ataxia, tremor, optic atrophy, and cognitive decline"
+TMEM151A,syndromic_only,TMEM151A,Q8N4L1,468,11,6,2,4,0.667,5,6,0.218,0.641,0.91,0.167,0.167,74,74,6,1,,Episodic kinesigenic dyskinesia 3
+TUBA4A,isolated,TUBA4A,P68366,448,30,6,1,5,0.833,24,6,0.143,0.741,0.908,0.167,0.333,42,35,101,2,"Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 22; Spastic ataxia 11, autosomal dominant",
+TYROBP,syndromic_only,TYROBP,O43914,113,9,6,3,3,0.5,2,6,0.248,0.531,0.779,0.0,0.167,48,36,54,9,,Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy 1
+AMFR,isolated,AMFR,Q9UKV5,643,7,5,3,2,0.4,0,5,0.008,0.191,0.566,0.0,0.0,78,76,7,0,"Spastic paraplegia 89, autosomal recessive",
+BORCS5,syndromic_only,BORCS5,Q969J3,196,8,5,2,3,0.6,2,5,0.485,0.653,0.719,0.0,0.0,26,26,1,1,,"NEURODEGENERATION, INFANTILE-ONSET, WITH OPTIC ATROPHY AND STRUCTURAL BRAIN ABNORMALITIES 2"
+GRID2,syndromic_only,GRID2,O43424,1007,18,5,5,0,0.0,5,5,0.018,0.302,0.849,0.0,0.2,191,181,140,5,,Autosomal recessive spinocerebellar ataxia 18
+MTHFS,syndromic_only,MTHFS,P49914,203,7,5,3,2,0.4,2,5,0.034,0.365,0.798,0.0,0.2,28,25,20,2,,"Neurodevelopmental disorder with microcephaly, epilepsy, and hypomyelination"
+PARK7,syndromic_only,PARK7,Q99497,189,17,5,2,3,0.6,9,5,0.148,0.238,0.339,0.0,0.0,57,46,77,1,,Autosomal recessive early-onset Parkinson disease 7; Monogenic Parkinson Disease
+PDE10A,syndromic_only,PDE10A,Q9Y233,1055,15,5,1,4,0.8,9,5,0.064,0.675,0.814,0.0,0.4,151,123,144,4,,Infantile-onset generalized dyskinesia with orofacial involvement
+PMPCA,syndromic_only,PMPCA,Q10713,525,13,5,3,2,0.4,6,5,0.065,0.766,0.861,0.0,0.6,148,143,112,7,,Autosomal recessive spinocerebellar ataxia 2
+PRDX3,isolated,PRDX3,P30048,256,10,5,4,1,0.2,3,5,0.059,0.664,0.859,0.0,0.4,44,42,5,1,"Spinocerebellar ataxia, autosomal recessive 32",
+PRNP,isolated,PRNP,,,29,5,5,0,0.0,21,5,,,,,,94,71,69,8,Huntington disease-like 1,Genetic Prion Disease; Gerstmann-Straussler-Scheinker syndrome; Inherited Creutzfeldt-Jakob disease
+RAB39B,isolated,RAB39B,Q96DA2,213,14,5,3,2,0.4,5,5,0.033,0.296,0.878,0.0,0.4,68,47,33,4,Early-onset parkinsonism-intellectual disability syndrome,Monogenic Parkinson Disease
+RNASET2,syndromic_only,RNASET2,O00584,256,14,5,3,2,0.4,1,5,0.203,0.305,0.645,0.0,0.0,78,58,85,9,,Cystic leukoencephalopathy without megalencephaly
+SAMD9L,isolated,SAMD9L,Q8IVG5,1584,22,5,0,5,1.0,17,5,0.065,0.559,0.636,0.0,0.0,1868,1733,782,102,Ataxia-pancytopenia syndrome; Spinocerebellar ataxia 49,
+SLC33A1,isolated,SLC33A1,O00400,549,10,5,2,3,0.6,2,5,0.33,0.603,0.687,0.0,0.0,166,154,107,8,Hereditary spastic paraplegia 42,Pure hereditary spastic paraplegia
+SLC39A14,syndromic_only,SLC39A14,Q15043,492,14,5,3,2,0.4,7,5,0.122,0.325,0.659,0.0,0.0,99,87,161,6,,Hypermanganesemia with dystonia 2
+SVBP,syndromic_only,SVBP,Q8N300,66,6,5,2,3,0.6,1,5,0.121,0.394,0.545,0.0,0.0,11,9,0,0,,"Neurodevelopmental disorder with ataxia, hypotonia, and microcephaly"
+WARS2,isolated,WARS2,Q9UGM6,360,19,5,3,2,0.4,11,5,0.1,0.342,0.578,0.0,0.0,94,81,65,13,"Parkinsonism-dystonia 3, childhood-onset",
+AIMP2,isolated,AIMP2,Q13155,320,6,4,2,2,0.5,1,4,0.075,0.109,0.688,0.0,0.0,103,93,70,2,"Leukodystrophy, hypomyelinating, 17",
+APOE,isolated,APOE,P02649,317,19,4,2,2,0.5,13,4,0.016,0.319,0.719,0.0,0.0,124,113,118,17,Alzheimer disease; Alzheimer disease 2; Alzheimer disease 3,
+CA8,isolated,CA8,P35219,290,11,4,2,2,0.5,6,4,0.269,0.745,0.841,0.0,0.25,35,31,49,0,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 3",
+DSTYK,isolated,DSTYK,Q6XUX3,929,6,4,2,2,0.5,1,4,0.009,0.379,0.531,0.0,0.0,229,214,125,12,Hereditary spastic paraplegia 23,
+EIF2B3,isolated,EIF2B3,Q9NR50,452,17,4,1,3,0.75,12,4,0.334,0.692,0.881,0.0,0.25,127,109,205,12,Leukoencephalopathy with vanishing white matter 3,Childhood Ataxia with Central Nervous System Hypomyelination / Vanishing White Matter
+HNRNPA2B1,syndromic_only,HNRNPA2B1,P22626,353,7,4,0,4,1.0,3,4,0.915,0.938,0.958,1.0,1.0,100,66,299,3,,Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2
+KCNA1,isolated,KCNA1,Q09470,495,50,4,3,1,0.25,46,4,0.251,0.842,0.842,0.0,0.5,453,336,243,21,Episodic ataxia type 1,
+MARS1,syndromic_only,MARS1,P56192,900,7,4,1,3,0.75,3,4,0.083,0.42,0.899,0.0,0.25,545,436,363,40,,Autosomal recessive spastic paraplegia type 70
+MARS2,isolated,MARS2,Q96GW9,593,7,4,2,2,0.5,2,4,0.31,0.47,0.58,0.0,0.0,223,197,88,12,Spastic ataxia 3,
+MYBPC1,syndromic_only,MYBPC1,Q00872,1141,17,4,1,3,0.75,12,4,0.036,0.363,0.611,0.0,0.0,229,202,242,19,,"Myopathy, congenital, with tremor"
+NFU1,isolated,NFU1,Q9UMS0,254,18,4,1,3,0.75,10,4,0.315,0.402,0.669,0.0,0.0,80,62,105,14,"Spastic paraplegia 93, autosomal recessive",
+RFC1,isolated,RFC1,P35251,1148,10,4,2,2,0.5,0,4,0.167,0.338,0.365,0.0,0.0,150,148,33,0,Hereditary ataxia,Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome
+TAF8,syndromic_only,TAF8,Q7Z7C8,310,8,4,1,3,0.75,0,4,0.432,0.858,0.868,0.0,0.75,49,48,9,1,,"Neurodevelopmental disorder with severe motor impairment, absent language, cerebral hypomyelination, and brain atrophy"
+TDP1,syndromic_only,TDP1,Q9NUW8,608,8,4,3,1,0.25,2,4,0.289,0.5,0.873,0.0,0.25,177,124,95,5,,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 1"
+TMEM63C,isolated,TMEM63C,Q9P1W3,806,4,4,1,3,0.75,0,4,0.242,0.651,0.679,0.0,0.0,92,92,9,1,"Spastic paraplegia 87, autosomal recessive",
+VPS41,isolated,VPS41,P49754,854,11,4,3,1,0.25,4,4,0.717,0.776,0.781,0.0,0.75,122,114,61,1,"Spinocerebellar ataxia, autosomal recessive 29",
+COA7,syndromic_only,COA7,Q96BR5,231,8,3,0,3,1.0,3,3,0.143,0.623,0.797,0.0,0.333,35,34,37,1,,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 3"
+ERBB4,isolated,ERBB4,Q15303,1308,11,3,1,2,0.667,3,3,0.008,0.259,0.453,0.0,0.0,346,310,361,15,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 19,
+FTH1,isolated,FTH1,P02794,183,12,3,1,2,0.667,6,3,0.852,0.896,1.273,0.333,1.0,44,31,29,3,Neurodegeneration with brain iron accumulation 9,
+KLC4,syndromic_only,KLC4,Q9NSK0,619,3,3,2,1,0.333,0,3,0.299,0.431,0.627,0.0,0.0,99,95,1,0,,"Early-childhood-onset neurodegeneration with retinitis pigmentosa, sensorineural hearing loss, and demyelinating peripheral neuropathy"
+LETM1,syndromic_only,LETM1,O95202,739,12,3,0,3,1.0,6,3,0.658,0.809,0.946,0.333,0.667,162,146,162,4,,"Neurodegeneration, childhood-onset, with multisystem involvement due to mitochondrial dysfunction"
+PCYT2,isolated,PCYT2,Q99447,389,11,3,2,1,0.333,6,3,0.45,0.671,0.923,0.333,0.333,79,69,24,1,"Spastic paraplegia 82, autosomal recessive",
+PLEKHG2,isolated,PLEKHG2,Q9H7P9,1386,3,3,1,2,0.667,0,3,0.146,0.306,0.334,0.0,0.0,361,338,225,17,Leukodystrophy and acquired microcephaly with or without dystonia;,
+RNF170,isolated,RNF170,Q96K19,258,7,3,2,1,0.333,2,3,0.248,0.442,0.671,0.0,0.0,41,37,11,4,"Spastic paraplegia 85, autosomal recessive",Autosomal dominant sensory ataxia 1
+RUBCN,syndromic_only,RUBCN,Q92622,972,7,3,1,2,0.667,0,3,0.534,0.9,0.918,0.667,0.667,160,150,80,9,,Autosomal recessive spinocerebellar ataxia 15
+SNAPC4,syndromic_only,SNAPC4,Q5SXM2,1469,12,3,3,0,0.0,3,3,0.042,0.551,0.567,0.0,0.0,336,326,62,5,,"Neurodevelopmental disorder with motor regression, progressive spastic paraplegia, and oromotor dysfunction"
+XRCC1,isolated,XRCC1,P18887,633,4,3,3,0,0.0,1,3,0.284,0.536,0.735,0.0,0.0,83,80,47,2,"Spinocerebellar ataxia, autosomal recessive 26",
+ADAM10,isolated,ADAM10,O14672,748,4,2,1,1,0.5,2,2,0.191,0.564,0.564,0.0,0.0,72,72,45,1,Alzheimer disease 18,
+ATCAY,syndromic_only,ATCAY,Q86WG3,371,4,2,1,1,0.5,1,2,0.501,0.542,0.542,0.0,0.0,146,69,71,9,,Cayman type cerebellar ataxia
+ATG7,isolated,ATG7,O95352,703,9,2,2,0,0.0,4,2,0.161,0.937,0.937,0.5,0.5,94,91,29,2,"Spinocerebellar ataxia, autosomal recessive 31",
+BORCS8,syndromic_only,BORCS8,Q96FH0,119,5,2,1,1,0.5,2,2,0.218,0.571,0.571,0.0,0.0,28,28,2,0,,"Neurodegeneration, infantile-onset, with optic atrophy and structural brain abnormalities 1"
+CCT3,syndromic_only,CCT3,P49368,545,2,2,0,2,1.0,0,2,0.486,0.727,0.727,0.0,0.0,73,67,4,0,,Neurodevelopmental disorder with speech or visual impairment and brain hypomyelination
+EEF2,isolated,EEF2,P13639,858,6,2,1,1,0.5,4,2,0.169,0.781,0.781,0.0,0.5,267,222,302,10,Spinocerebellar ataxia type 26,
+ERLIN1,isolated,ERLIN1,O75477,348,4,2,0,2,1.0,2,2,0.261,0.724,0.724,0.0,0.0,74,65,88,6,Hereditary spastic paraplegia 62,
+FDX2,syndromic_only,FDX2,Q6P4F2,183,4,2,1,1,0.5,2,2,0.361,0.891,0.891,0.0,0.5,44,36,107,5,,"Mitochondrial myopathy, episodic, with optic atrophy and reversible leukoencephalopathy"
+FRMD4A,syndromic_only,FRMD4A,Q9P2Q2,1039,3,2,0,2,1.0,1,2,0.689,0.988,0.988,0.5,0.5,180,175,72,0,,Severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome
+GIGYF2,isolated,GIGYF2,Q6Y7W6,1299,2,2,2,0,0.0,0,2,0.15,0.2,0.2,0.0,0.0,182,168,111,4,"Parkinson disease 11, autosomal dominant, susceptibility to",
+HIKESHI,isolated,HIKESHI,Q53FT3,197,5,2,1,1,0.5,2,2,0.584,0.858,0.858,0.0,0.5,19,16,38,1,"Leukodystrophy, hypomyelinating, 13",
+IREB2,syndromic_only,IREB2,P48200,963,2,2,2,0,0.0,0,2,0.371,0.435,0.435,0.0,0.0,149,141,135,1,,"Neurodegeneration, early-onset, with choreoathetoid movements and microcytic anemia"
+KCNC3,isolated,KCNC3,Q14003,757,11,2,1,1,0.5,9,2,0.005,0.931,0.931,0.5,0.5,282,255,196,22,Hereditary ataxia; Spinocerebellar ataxia type 13,
+PDE2A,syndromic_only,PDE2A,O00408,941,9,2,1,1,0.5,3,2,0.21,0.419,0.419,0.0,0.0,150,131,202,3,,Intellectual developmental disorder with paroxysmal dyskinesia or seizures
+PITRM1,isolated,PITRM1,Q5JRX3,1037,4,2,1,1,0.5,1,2,0.779,0.89,0.89,0.0,1.0,247,233,230,23,"Spinocerebellar ataxia, autosomal recessive 30",
+PLD3,isolated,PLD3,Q8IV08,490,2,2,1,1,0.5,0,2,2.176,2.3,2.3,1.0,1.0,125,117,89,5,Spinocerebellar ataxia 46,
+PRPH,isolated,PRPH,P41219,470,3,2,2,0,0.0,0,2,0.53,0.653,0.653,0.0,0.0,85,80,20,3,Amyotrophic lateral sclerosis type 1,
+PSEN1,isolated,PSEN1,P49768,467,152,2,1,1,0.5,142,2,0.216,0.518,0.518,0.0,0.0,216,135,136,54,Alzheimer disease; Alzheimer disease 3; Frontotemporal dementia,
+PSMF1,isolated,PSMF1,Q92530,271,13,2,1,1,0.5,6,2,0.125,0.852,0.852,0.0,0.5,46,46,6,0,"PARKINSON DISEASE 27, AUTOSOMAL RECESSIVE EARLY-ONSET","NEURODEGENERATION, CHILDHOOD-ONSET, WITH MOVEMENT DISORDERS, COGNITIVE DECLINE, AND BRAIN ABNORMALITIES"
+PTRHD1,syndromic_only,PTRHD1,Q6GMV3,140,5,2,1,1,0.5,3,2,0.407,0.507,0.507,0.0,0.0,32,30,8,0,,Neurodevelopmental disorder with early-onset parkinsonism and behavioral abnormalities
+REEP2,isolated,REEP2,Q9BRK0,252,8,2,2,0,0.0,4,2,0.44,0.694,0.694,0.0,0.0,67,59,82,2,"Hereditary spastic paraplegia 72; Spastic paraplegia 72b, autosomal recessive",Pure hereditary spastic paraplegia
+SHQ1,isolated,SHQ1,Q6PI26,577,4,2,2,0,0.0,1,2,0.113,0.267,0.267,0.0,0.0,108,100,21,4,"Dystonia 35, childhood-onset",Neurodevelopmental disorder with dystonia and seizures
+SKOR2,syndromic_only,SKOR2,Q2VWA4,1015,3,2,1,1,0.5,1,2,0.418,0.903,0.903,0.5,0.5,0,0,0,0,,Valence-Farazi cerebellar ataxia syndrome
+SLC35B2,syndromic_only,SLC35B2,Q8TB61,432,3,2,1,1,0.5,1,2,0.685,0.944,0.944,0.5,0.5,86,84,9,1,,"Leukodystrophy, hypomyelinating, 26, with chondrodysplasia"
+ATP11A,isolated,ATP11A,P98196,1134,8,1,0,1,1.0,4,1,0.895,0.895,0.895,0.0,1.0,236,206,89,18,"Leukodystrophy, hypomyelinating, 24",
+ATP2B3,syndromic_only,ATP2B3,Q16720,1220,10,1,1,0,0.0,6,1,0.253,0.253,0.253,0.0,0.0,147,134,126,6,,X-linked progressive cerebellar ataxia
+ATP6AP2,syndromic_only,ATP6AP2,O75787,350,6,1,1,0,0.0,2,1,0.271,0.271,0.271,0.0,0.0,134,118,123,13,,X-linked parkinsonism-spasticity syndrome
+ATXN2,isolated,ATXN2,Q99700,1313,6,1,0,1,1.0,1,1,0.008,0.008,0.008,0.0,0.0,159,133,76,10,"Hereditary ataxia; Parkinson disease, late-onset; Spinocerebellar ataxia type 2",
+ATXN3,isolated,ATXN3,P54252,361,3,1,0,1,1.0,0,1,0.848,0.848,0.848,0.0,1.0,50,41,45,3,"Hereditary ataxia; Parkinson disease, late-onset",
+ATXN7,isolated,ATXN7,O15265,892,3,1,1,0,0.0,1,1,0.427,0.427,0.427,0.0,0.0,190,178,50,6,Hereditary ataxia; Spinocerebellar ataxia 7,
+CACNA1G,isolated,CACNA1G,O43497,2377,29,1,1,0,0.0,28,1,0.078,0.078,0.078,0.0,0.0,884,764,653,97,"Spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits; Spinocerebellar ataxia type 42",
+CACNB4,isolated,CACNB4,O00305,520,3,1,0,1,1.0,2,1,0.392,0.392,0.392,0.0,0.0,198,109,125,18,Episodic ataxia type 5,
+CHMP2B,isolated,CHMP2B,Q9UQN3,213,6,1,1,0,0.0,4,1,0.775,0.775,0.775,0.0,1.0,115,74,70,5,Amyotrophic lateral sclerosis; Frontotemporal dementia and/or amyotrophic lateral sclerosis 7,
+CRAT,isolated,CRAT,P43155,626,1,1,0,1,1.0,0,1,0.265,0.265,0.265,0.0,0.0,231,205,120,4,Neurodegeneration with brain iron accumulation 8,
+DARS1,syndromic_only,DARS1,P14868,501,10,1,1,0,0.0,9,1,0.489,0.489,0.489,0.0,0.0,120,105,116,9,,Hypomyelination with brain stem and spinal cord involvement and leg spasticity
+DCTN1,isolated,DCTN1,Q14203,1278,13,1,0,1,1.0,9,1,0.164,0.164,0.164,0.0,0.0,825,713,684,82,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 1,DCTN1-related neurodegeneration
+DTYMK,syndromic_only,DTYMK,P23919,212,5,1,0,1,1.0,3,1,0.453,0.453,0.453,0.0,0.0,43,42,7,0,,"Neurodegeneration, childhood-onset, with progressive microcephaly"
+ESRRG,syndromic_only,ESRRG,P62508,458,6,1,0,1,1.0,5,1,0.985,0.985,0.985,1.0,1.0,35,33,2,1,,"MOVEMENT DISORDER, CONGENITAL NONPROGRESSIVE, WITH ATAXIA AND EYE MOVEMENT ABNORMALITIES"
+EXOSC5,syndromic_only,EXOSC5,Q9NQT4,235,6,1,0,1,1.0,3,1,0.128,0.128,0.128,0.0,0.0,54,52,9,0,,"Cerebellar ataxia, brain abnormalities, and cardiac conduction defects"
+GLRX5,syndromic_only,GLRX5,Q86SX6,157,9,1,0,1,1.0,7,1,0.204,0.204,0.204,0.0,0.0,63,60,66,2,,Spasticity-ataxia-gait anomalies syndrome
+GPR88,isolated,GPR88,Q9GZN0,384,1,1,1,0,0.0,0,1,0.758,0.758,0.758,0.0,1.0,60,58,42,0,"Chorea, childhood-onset, with psychomotor retardation",
+KCTD17,syndromic_only,KCTD17,Q8N5Z5,314,4,1,0,1,1.0,2,1,0.583,0.583,0.583,0.0,0.0,86,72,99,5,,Myoclonic dystonia 26
+LRRK2,syndromic_only,LRRK2,Q5S007,2527,11,1,1,0,0.0,10,1,0.656,0.656,0.656,0.0,0.0,2393,2265,1538,65,,Autosomal dominant Parkinson disease 8; Monogenic Parkinson Disease
+MED11,syndromic_only,MED11,Q9P086,117,2,1,1,0,0.0,0,1,0.932,0.932,0.932,1.0,1.0,19,19,0,0,,"Neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and brain abnormalities"
+MTPAP,isolated,MTPAP,Q9NVV4,582,3,1,1,0,0.0,2,1,0.942,0.942,0.942,1.0,1.0,195,175,224,13,Spastic ataxia 4,
+NADK2,syndromic_only,NADK2,Q4G0N4,442,3,1,1,0,0.0,0,1,0.769,0.769,0.769,0.0,1.0,139,123,156,6,,Progressive encephalopathy with leukodystrophy due to DECR deficiency
+PFN1,isolated,PFN1,P07737,140,5,1,0,1,1.0,3,1,0.764,0.764,0.764,0.0,1.0,43,39,60,3,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 18,
+PRKCG,isolated,PRKCG,P05129,697,56,1,1,0,0.0,52,1,0.626,0.626,0.626,0.0,0.0,212,170,121,20,Hereditary ataxia; Spinocerebellar ataxia type 14,
+PRKRA,isolated,PRKRA,O75569,313,4,1,0,1,1.0,3,1,0.284,0.284,0.284,0.0,0.0,91,58,101,7,Dystonia 16,Monogenic Isolated Dystonia
+PSEN2,isolated,PSEN2,P49810,448,12,1,0,1,1.0,8,1,0.257,0.257,0.257,0.0,0.0,170,136,157,24,Alzheimer disease; Alzheimer disease 4,
+SPTSSA,isolated,SPTSSA,Q969W0,71,2,1,0,1,1.0,1,1,0.817,0.817,0.817,0.0,1.0,13,13,0,0,"Spastic paraplegia 90A, autosomal dominant; Spastic paraplegia 90B, autosomal recessive",
+TAF1,syndromic_only,TAF1,P21675,1893,41,1,0,1,1.0,38,1,0.385,0.385,0.385,0.0,0.0,453,402,327,29,,X-linked dystonia-parkinsonism
+TENM4,isolated,TENM4,Q6N022,2769,3,1,0,1,1.0,2,1,0.283,0.283,0.283,0.0,0.0,539,527,162,23,"Tremor, hereditary essential, 5",
+TFG,isolated,TFG,Q92734,400,5,1,1,0,0.0,4,1,0.282,0.282,0.282,0.0,0.0,243,221,232,10,Hereditary spastic paraplegia 57,
+THG1L,isolated,THG1L,Q9NWX6,298,5,1,1,0,0.0,3,1,0.594,0.594,0.594,0.0,0.0,53,51,13,0,"Spinocerebellar ataxia, autosomal recessive 28",
+TMEM240,isolated,TMEM240,Q5SV17,173,3,1,1,0,0.0,2,1,0.942,0.942,0.942,1.0,1.0,80,70,71,9,Spinocerebellar ataxia type 21,
+TMEM63A,isolated,TMEM63A,O94886,807,10,1,0,1,1.0,8,1,0.242,0.242,0.242,0.0,0.0,137,122,65,4,"Leukodystrophy, hypomyelinating, 19, transient infantile",
+TRPC3,isolated,TRPC3,Q13507,921,1,1,0,1,1.0,0,1,0.515,0.515,0.515,0.0,0.0,134,126,96,0,Spinocerebellar ataxia type 41,
+VCP,isolated,VCP,P55072,806,51,1,0,1,1.0,49,1,0.808,0.808,0.808,0.0,1.0,302,247,404,39,Amyotrophic lateral sclerosis; Frontotemporal dementia and/or amyotrophic lateral sclerosis 6,Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1
+ABCB7,syndromic_only,ABCB7,O75027,752,10,0,0,0,,9,0,,,,,,135,120,181,15,,X-linked sideroblastic anemia with ataxia
+ADH1C,isolated,ADH1C,P00326,375,0,0,0,0,,0,0,,,,,,38,37,16,1,"Parkinson disease, late-onset",
+ANG,isolated,ANG,P03950,147,7,0,0,0,,7,0,,,,,,67,53,44,6,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 9,
+ANO3,isolated,ANO3,Q9BYT9,981,13,0,0,0,,13,0,,,,,,299,243,345,14,Dystonia 24,Monogenic Isolated Dystonia
+ANXA11,isolated,ANXA11,P50995,505,6,0,0,0,,5,0,,,,,,260,211,194,6,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 23,
+APP,isolated,APP,P05067,770,29,0,0,0,,27,0,,,,,,275,205,284,35,Alzheimer disease; Alzheimer disease type 1,
+AQP4,syndromic_only,AQP4,P55087,323,2,0,0,0,,2,0,,,,,,37,36,11,1,,"Megalencephalic leukoencephalopathy with subcortical cysts; Megalencephalic leukoencephalopathy with subcortical cysts 4, remitting"
+ATG5,isolated,ATG5,Q9H1Y0,275,0,0,0,0,,0,0,,,,,,13,12,6,0,"Spinocerebellar ataxia, autosomal recessive 25",
+ATP5F1B,isolated,ATP5F1B,P06576,529,1,0,0,0,,1,0,,,,,,45,43,2,0,"Dystonia 38, susceptibility to",
+ATP5MC3,isolated,ATP5MC3,P48201,142,3,0,0,0,,3,0,,,,,,17,16,7,0,"Dystonia, early-onset, and/or spastic paraplegia",
+ATXN1,isolated,ATXN1,P54253,815,1,0,0,0,,0,0,,,,,,112,103,84,9,Hereditary ataxia; Spinocerebellar ataxia type 1,
+ATXN10,isolated,ATXN10,Q9UBB4,475,4,0,0,0,,0,0,,,,,,18,12,32,0,Hereditary ataxia; Spinocerebellar ataxia type 10,
+ATXN8,isolated,ATXN8,Q156A1,80,0,0,0,0,,0,0,,,,,,0,0,1,0,Hereditary ataxia; Spinocerebellar ataxia type 8,
+ATXN8OS,isolated,ATXN8OS,P0DMR3,200,0,0,0,0,,0,0,,,,,,4,0,22,0,"Hereditary ataxia; Parkinson disease, late-onset; Spinocerebellar ataxia type 8",
+BEAN1,isolated,BEAN1,Q3B7T3,259,0,0,0,0,,0,0,,,,,,64,62,50,3,Hereditary ataxia; Spinocerebellar ataxia type 31,
+C9orf72,isolated,C9orf72,Q96LT7,481,3,0,0,0,,0,0,,,,,,52,16,52,0,Amyotrophic lateral sclerosis; Frontotemporal dementia and/or amyotrophic lateral sclerosis 1,
+CCNF,isolated,CCNF,P41002,786,3,0,0,0,,3,0,,,,,,114,110,102,4,Frontotemporal dementia and/or amyotrophic lateral sclerosis 5,
+CCT5,syndromic_only,CCT5,P48643,541,1,0,0,0,,1,0,,,,,,193,142,172,8,,Hereditary sensory and autonomic neuropathy with spastic paraplegia
+CHCHD10,isolated,CHCHD10,Q8WYQ3,142,5,0,0,0,,5,0,,,,,,146,114,123,13,Amyotrophic lateral sclerosis; Frontotemporal dementia and/or amyotrophic lateral sclerosis 2,
+CHCHD2,isolated,CHCHD2,Q9Y6H1,151,2,0,0,0,,1,0,,,,,,64,58,43,1,"Parkinson disease 22, autosomal dominant",
+CHP1,isolated,CHP1,Q99653,195,1,0,0,0,,1,0,,,,,,0,0,5,0,"Spastic ataxia 9, autosomal recessive",
+CLCN6,isolated,CLCN6,P51797,869,2,0,0,0,,2,0,,,,,,559,477,474,5,Neuronal ceroid lipofuscinosis 15,
+CLDN11,isolated,CLDN11,O75508,207,2,0,0,0,,2,0,,,,,,15,14,6,0,"Leukodystrophy, hypomyelinating, 22",
+CST3,isolated,CST3,P01034,146,2,0,0,0,,1,0,,,,,,39,34,31,2,"Leukodystrophy, adult-onset, autosomal dominant, without amyloid angiopathy",
+CTBP1,syndromic_only,CTBP1,Q13363,440,2,0,0,0,,2,0,,,,,,159,127,214,8,,"Hypotonia, ataxia, developmental delay, and tooth enamel defect syndrome"
+DAB1,isolated,DAB1,O75553,588,1,0,0,0,,1,0,,,,,,86,82,68,3,Spinocerebellar ataxia type 37,
+DNAJC5,isolated,DNAJC5,Q9H3Z4,198,4,0,0,0,,3,0,,,,,,180,91,218,17,"Ceroid lipofuscinosis, neuronal, 4 (Kufs type); Neuronal ceroid lipofuscinosis",
+DNMT1,syndromic_only,DNMT1,P26358,1616,12,0,0,0,,10,0,,,,,,700,603,930,116,,"Autosomal dominant cerebellar ataxia, deafness and narcolepsy; Hereditary sensory neuropathy-deafness-dementia syndrome"
+DRD3,isolated,DRD3,P35462,400,0,0,0,0,,0,0,,,,,,47,45,23,2,"Tremor, hereditary essential, 1",
+EIF2AK1,isolated,EIF2AK1,Q9BQI3,630,0,0,0,0,,0,0,,,,,,164,143,91,7,"Leukoencephalopathy, motor delay, spasticity, and dysarthria syndrome",
+EIF2AK2,isolated,EIF2AK2,P19525,551,6,0,0,0,,4,0,,,,,,153,129,93,11,"Dystonia 33; Leukoencephalopathy, developmental delay, and episodic neurologic regression syndrome",Monogenic Isolated Dystonia
+EIF4G1,isolated,EIF4G1,Q04637,1599,0,0,0,0,,0,0,,,,,,185,184,94,1,"Parkinson disease 18, autosomal dominant, susceptibility to",
+ELOVL1,syndromic_only,ELOVL1,Q9BW60,279,1,0,0,0,,0,0,,,,,,39,35,37,1,,"Ichthyotic keratoderma, spasticity, hypomyelination, and dysmorphic facial features"
+ELOVL5,isolated,ELOVL5,Q9NYP7,299,2,0,0,0,,2,0,,,,,,92,71,72,3,Spinocerebellar ataxia type 38,
+FAT2,isolated,FAT2,Q9NYQ8,4349,1,0,0,0,,1,0,,,,,,975,936,543,79,Spinocerebellar ataxia 45,
+FBP2,isolated,FBP2,O00757,339,0,0,0,0,,0,0,,,,,,63,62,7,0,"Leukodystrophy, childhood-onset, remitting",
+FRMD5,syndromic_only,FRMD5,Q7Z6J6,570,7,0,0,0,,6,0,,,,,,102,90,23,2,,Neurodevelopmental disorder with eye movement abnormalities and ataxia
+GPRC5B,syndromic_only,GPRC5B,Q9NZH0,403,2,0,0,0,,0,0,,,,,,62,62,15,2,,Megalencephalic leukoencephalopathy with subcortical cysts; Megalencephalic leukoencephalopathy with subcortical cysts 3
+HLA-DQB1,syndromic_only,HLA-DQB1,P01920,261,1,0,0,0,,0,0,,,,,,0,0,10,0,,Inherited Creutzfeldt-Jakob disease
+HNRNPA1,isolated,HNRNPA1,P09651,372,21,0,0,0,,19,0,,,,,,57,44,51,0,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 20,Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 3
+HPCA,syndromic_only,HPCA,P84074,193,1,0,0,0,,1,0,,,,,,29,26,35,1,,Monogenic Isolated Dystonia; Torsion dystonia 2
+HSPD1,isolated,HSPD1,P10809,573,9,0,0,0,,9,0,,,,,,194,159,150,13,"Hereditary spastic paraplegia 13; Leukodystrophy, hypomyelinating, 4",Pure hereditary spastic paraplegia
+JPH3,isolated,JPH3,Q8WXH2,748,1,0,0,0,,0,0,,,,,,185,181,86,4,Huntington disease-like 2,
+KCNA4,syndromic_only,KCNA4,P22459,653,0,0,0,0,,0,0,,,,,,73,72,8,0,,"Microcephaly, cataracts, impaired intellectual development, and dystonia with abnormal striatum"
+KCND3,isolated,KCND3,Q9UK17,655,30,0,0,0,,29,0,,,,,,332,313,361,35,Hereditary ataxia; Spinocerebellar ataxia type 19/22,
+KLC2,syndromic_only,KLC2,Q9H0B6,622,2,0,0,0,,0,0,,,,,,126,117,67,1,,"Spastic paraplegia, optic atropy, and neuropathy"
+KPNA3,isolated,KPNA3,O00505,521,6,0,0,0,,6,0,,,,,,55,49,6,0,"Spastic paraplegia 88, autosomal dominant",
+LMNB1,isolated,LMNB1,P20700,586,10,0,0,0,,6,0,,,,,,198,169,120,20,"Leukodystrophy, demyelinating, adult-onset, autosomal dominant, typical",
+LRP12,isolated,LRP12,Q9Y561,859,1,0,0,0,,0,0,,,,,,112,111,16,1,Amyotrophic lateral sclerosis 28,
+LSM7,syndromic_only,LSM7,Q9UK45,103,2,0,0,0,,2,0,,,,,,9,9,0,0,,LSM7-related leukodystrophy and cerebellar atrophy
+MAL,isolated,MAL,P21145,153,0,0,0,0,,0,0,,,,,,19,19,0,0,"Leukodystrophy, hypomyelinating, 28",
+MAPT,isolated,MAPT,P10636,758,36,0,0,0,,27,0,,,,,,253,157,266,36,"Frontotemporal dementia; Parkinson disease, late-onset",MAPT-Related Frontotemporal Dementia; Progressive supranuclear palsy-parkinsonism syndrome
+MATR3,isolated,MATR3,P43243,847,1,0,0,0,,1,0,,,,,,357,294,314,15,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 21,
+NIPA1,isolated,NIPA1,Q7RTP0,329,7,0,0,0,,6,0,,,,,,203,108,155,21,Hereditary spastic paraplegia 6,Pure hereditary spastic paraplegia
+NOL3,isolated,NOL3,O60936,208,0,0,0,0,,0,0,,,,,,46,30,32,2,"Myoclonus, familial, 1",
+NOP56,isolated,NOP56,O00567,594,3,0,0,0,,0,0,,,,,,80,80,35,4,Hereditary ataxia; Spinocerebellar ataxia type 36,
+NOTCH2NLC,isolated,NOTCH2NLC,P0DPK4,293,0,0,0,0,,0,0,,,,,,0,0,0,0,"Tremor, hereditary essential, 6",
+NPTX1,isolated,NPTX1,Q15818,432,6,0,0,0,,5,0,,,,,,55,54,9,0,Spinocerebellar ataxia 50,
+NUP54,isolated,NUP54,Q7Z3B4,507,3,0,0,0,,3,0,,,,,,46,46,4,0,"Dystonia 37, early-onset, with striatal lesions",
+NUTM2B-AS1,syndromic_only,NUTM2B-AS1,,,0,0,0,0,,0,0,,,,,,1,0,10,0,,Oculopharyngeal myopathy with leukoencephalopathy 1
+PDYN,isolated,PDYN,P01213,254,2,0,0,0,,2,0,,,,,,135,96,61,16,Spinocerebellar ataxia type 23,
+PIK3R5,isolated,PIK3R5,Q8WYR1,880,0,0,0,0,,0,0,,,,,,123,121,50,4,Ataxia with oculomotor apraxia type 3,
+PLAU,isolated,PLAU,P00749,431,1,0,0,0,,0,0,,,,,,82,58,67,6,Alzheimer disease type 1,
+PNKD,isolated,PNKD,Q8N490,385,3,0,0,0,,3,0,,,,,,360,280,286,23,Paroxysmal nonkinesigenic dyskinesia 1,
+POLR3K,isolated,POLR3K,Q9Y2Y1,108,3,0,0,0,,2,0,,,,,,18,17,4,0,"Leukodystrophy, hypomyelinating, 21",
+PPP2R2B,isolated,PPP2R2B,Q00005,443,0,0,0,0,,0,0,,,,,,65,58,33,4,Hereditary ataxia; Spinocerebellar ataxia type 12,
+PRKAG2,syndromic_only,PRKAG2,Q9UGJ0,569,28,0,0,0,,26,0,,,,,,687,561,690,133,,Wolff-Parkinson-White pattern
+PTPA,isolated,PTPA,Q15257,358,2,0,0,0,,2,0,,,,,,6,5,14,0,"Parkinson disease 25, autosomal recessive early-onset, with impaired intellectual development",
+PTPMT1,syndromic_only,PTPMT1,Q8WUK0,201,1,0,0,0,,1,0,,,,,,27,27,11,0,,Neurodevelopmental disorder with ataxia and brain abnormalities
+RAB32,isolated,RAB32,Q13637,225,1,0,0,0,,0,0,,,,,,26,26,1,0,"Parkinson disease 26, autosomal dominant, susceptibility to",Monogenic Parkinson Disease
+RAB3A,isolated,RAB3A,P20336,220,1,0,0,0,,1,0,,,,,,18,18,4,0,Spinocerebellar ataxia 52,
+REPS1,isolated,REPS1,Q96D71,796,1,0,0,0,,1,0,,,,,,149,140,116,5,Neurodegeneration with brain iron accumulation 7,
+RNF220,syndromic_only,RNF220,Q5VTB9,566,2,0,0,0,,2,0,,,,,,64,63,10,0,,"Leukodystrophy, hypomyelinating, 23, with ataxia, deafness, liver dysfunction, and dilated cardiomyopathy"
+RNU12,isolated,RNU12,,,9,0,0,0,,0,0,,,,,,4,0,2,2,"Spinocerebellar ataxia, autosomal recessive 33",
+SARS1,syndromic_only,SARS1,P49591,514,3,0,0,0,,1,0,,,,,,54,52,20,0,,"Neurodevelopmental disorder with microcephaly, ataxia, and seizures"
+SEL1L,syndromic_only,SEL1L,Q9UBV2,794,1,0,0,0,,1,0,,,,,,85,83,5,0,,"Neurodevelopmental disorder with poor growth, absent speech, progressive ataxia, and dysmorphic facies"
+SELENOI,isolated,SELENOI,Q9C0D9,397,5,0,0,0,,2,0,,,,,,36,36,21,2,"Spastic paraplegia 81, autosomal recessive",
+SLC13A3,isolated,SLC13A3,Q8WWT9,602,4,0,0,0,,3,0,,,,,,131,119,98,3,"Leukoencephalopathy, acute reversible, with increased urinary alpha-ketoglutarate",
+SLC1A3,isolated,SLC1A3,P43003,542,2,0,0,0,,2,0,,,,,,196,156,138,17,Episodic ataxia type 6,
+SLC31A1,syndromic_only,SLC31A1,O15431,190,2,0,0,0,,2,0,,,,,,19,19,4,0,,Neurodegeneration and seizures due to copper transport defect
+SLC6A17,syndromic_only,SLC6A17,Q9H1V8,727,2,0,0,0,,2,0,,,,,,97,92,37,4,,Progressive essential tremor-speech impairment-facial dysmorphism-intellectual disability-abnormal behavior syndrome
+SNCA,syndromic_only,SNCA,P37840,140,9,0,0,0,,5,0,,,,,,79,30,76,8,,Autosomal dominant Parkinson disease 1; Autosomal dominant Parkinson disease 4; Lewy body dementia; Monogenic Parkinson Disease
+SNCB,syndromic_only,SNCB,Q16143,134,1,0,0,0,,1,0,,,,,,11,11,11,1,,Lewy body dementia
+SNORD118,isolated,SNORD118,,,29,0,0,0,,0,0,,,,,,124,0,33,24,Leukoencephalopathy with calcifications and cysts,
+SPTLC1,isolated,SPTLC1,O15269,473,14,0,0,0,,13,0,,,,,,303,225,210,20,"Amyotrophic lateral sclerosis 27, juvenile",
+SYT14,syndromic_only,SYT14,Q8NB59,555,2,0,0,0,,1,0,,,,,,86,73,55,3,,Autosomal recessive spinocerebellar ataxia 11
+TARDBP,isolated,TARDBP,Q13148,414,24,0,0,0,,24,0,,,,,,136,81,124,17,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 10,
+TBCB,syndromic_only,TBCB,Q99426,244,0,0,0,0,,0,0,,,,,,49,49,1,0,,Neurodevelopmental disorder with behavioral abnormalities and childhood-onset spastic paraplegia
+TBP,isolated,TBP,P20226,339,3,0,0,0,,0,0,,,,,,37,30,54,2,"Hereditary ataxia; Parkinson disease, late-onset; Spinocerebellar ataxia type 17",
+THAP11,isolated,THAP11,Q96EK4,314,1,0,0,0,,1,0,,,,,,74,45,82,2,Spinocerebellar ataxia 51,
+TIA1,isolated,TIA1,P31483,386,1,0,0,0,,1,0,,,,,,158,122,176,5,Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia,
+TMEM106B,isolated,TMEM106B,Q9NUM4,274,2,0,0,0,,2,0,,,,,,69,61,47,4,"Leukodystrophy, hypomyelinating, 16",
+TMEM163,isolated,TMEM163,Q8TC26,289,4,0,0,0,,4,0,,,,,,49,48,5,0,"Leukodystrophy, hypomyelinating, 25",
+TRPM7,isolated,TRPM7,Q96QT4,1865,4,0,0,0,,3,0,,,,,,259,241,66,3,Amyotrophic lateral sclerosis-parkinsonism-dementia complex,
+TUBB4A,isolated,TUBB4A,P04350,444,48,0,0,0,,48,0,,,,,,154,123,173,17,"Leukodystrophy, hypomyelinating, 6",Monogenic Isolated Dystonia; Torsion dystonia 4
+UBQLN2,isolated,UBQLN2,Q9UHD9,624,7,0,0,0,,7,0,,,,,,168,134,68,18,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 15,
+UFM1,isolated,UFM1,P61960,85,5,0,0,0,,2,0,,,,,,20,10,23,0,"Leukodystrophy, hypomyelinating, 14",
+UQCRC1,syndromic_only,UQCRC1,P31930,480,4,0,0,0,,4,0,,,,,,86,83,9,0,,Parkinsonism with polyneuropathy
+VAPB,isolated,VAPB,O95292,243,2,0,0,0,,2,0,,,,,,234,134,167,14,Amyotrophic lateral sclerosis; Amyotrophic lateral sclerosis type 8,
+VPS11,isolated,VPS11,Q9H270,941,5,0,0,0,,4,0,,,,,,133,119,435,4,"Dystonia 32; Leukodystrophy, hypomyelinating, 12",
+VPS35,isolated,VPS35,Q96QK1,796,3,0,0,0,,3,0,,,,,,133,114,124,11,Parkinson disease 17,Monogenic Parkinson Disease
+VPS37A,isolated,VPS37A,Q8NEZ2,397,1,0,0,0,,1,0,,,,,,130,120,119,4,Hereditary spastic paraplegia 53,
+VPS4A,syndromic_only,VPS4A,Q9UN37,437,7,0,0,0,,7,0,,,,,,84,71,27,1,,Cerebellar hypoplasia-intellectual disability-congenital microcephaly-dystonia-anemia-growth retardation syndrome

@@ -1,0 +1,5441 @@
+{
+ "genes": {
+  "AARS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ABCA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ABCA7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ABHD16A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ACBD6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ACSL4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ACTA2": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "ACTL6B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ADAM10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ADAM22": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ADARB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ADAT3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ADCY5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ADD3": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "ADGRG1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ADGRV1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ADH1C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AFG3L2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AGO1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "AIMP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AIMP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ALDH18A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ALG13": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ALKBH8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ALS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AMFR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AMPD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ANG": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ANGPTL3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ANK3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ANKLE2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ANO1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "ANO10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ANO3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ANXA11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AOPEP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AP2M1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "AP3B2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "AP4B1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AP4E1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AP4M1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AP4S1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AP5Z1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "APC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "APOB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "APOE": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "APOL2": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "APP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "APTX": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AQP4": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "ARF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ARHGEF2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ARHGEF9": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ARID1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ARL6IP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ARV1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ARX": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ASCC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ASH1L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ASPM": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ATAD3A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ATG12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ATG5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATG7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATM": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP11A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP13A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP1A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ATP1A3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP2B1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ATP5F1B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP5MC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP6AP2": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ATP6V0A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ATP6V0C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ATP6V1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ATP8A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATP9A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ATXN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATXN10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATXN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATXN3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATXN7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATXN8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ATXN8OS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "AUTS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "B4GALNT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "BAIAP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "BEAN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "BRAT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "BRWD3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "BSCL2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "BUB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "C19orf12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "C9orf72": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CA8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CACNA1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CACNA1B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CACNA1E": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CACNA1G": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CACNA1H": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CACNA1I": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CACNA2D1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CACNB4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CACNG2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CAD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CAMK2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CAMK2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CAMK2G": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CAMSAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CAPRIN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CASK": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CASP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CASR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CC2D1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CCDC88C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CCM2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CCNF": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CCT3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CDC40": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CDH15": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CDK19": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CDK4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CDK5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CDK5RAP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CDK6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CDK8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CDKL5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CDON": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CELF2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CENPE": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CEP104": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CEP135": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CEP152": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CEP85L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CERS1": [
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CERT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CFAP410": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CHAMP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CHCHD10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CHCHD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CHD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CHD8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CHI3L1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "CHKA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CHMP1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CHMP2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CHP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CIC": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CILK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CIT": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CLCN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLCN3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CLCN4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CLCN6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLDN11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLN3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLN5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLN6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLN8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CLP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CLTC": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CNKSR2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CNOT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CNTN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CNTNAP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "COASY": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "COL3A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "COL6A3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "COPB2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "COQ2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "COQ4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "COQ8A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CPA6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CPAP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CPLX1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CPSF3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CPT1C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CRADD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CRAT": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CRBN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CSF1R": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CST3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CSTF2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CTNNA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "CTSD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CTSF": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CUL3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CUL4B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CUX1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "CUX2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CYFIP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "CYLD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CYP2U1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "CYP7B1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DAB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DALRD3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "DAO": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DAOA": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "DARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DCAF17": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DCTN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DCX": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "DDHD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DDHD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DDX3X": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DEAF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DEGS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DENND5A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "DEPDC5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "DHPS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DHX30": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DHX9": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DICER1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DIP2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DISC1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "DISC2": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "DISP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "DLG3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DLG4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DLL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "DMAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DMRTA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "DMXL2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "DNAJC5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DNM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "DOCK3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DOCK7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "DOHH": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DPP6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "DRD3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DSTYK": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "DYNC1H1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "DYNC1I2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EDC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EDNRA": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "EEF1A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EEF2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EEFSEC": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EFHC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "EIF2AK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF2AK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF2B1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF2B2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF2B3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF2B4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF2B5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIF3F": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EIF4A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EIF4E": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EIF4G1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EIPR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ELOVL4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ELOVL5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ELP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EMX2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ENTPD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "EPB41L1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EPG5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EPM2A": [
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "EPRS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ERBB4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ERLIN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ERLIN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ERMARD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ESAM": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ESR1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "EXOC7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EXOC8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "EXOSC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "EXOSC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "EXOSC8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "EXOSC9": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "EXT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "FA2H": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FAM177A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FAT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FBP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FBXO28": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "FBXO31": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FBXO7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FERRY3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FGF12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "FGF13": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FGF14": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FGF8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "FGFR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "FIG4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FLVCR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FMN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FMR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FOXH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "FRMD5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FRMPD4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FRRS1L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "FSD1L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FTH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FTL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FTSJ1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "FUS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FUZ": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "FXN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "FZR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABBR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GABBR2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GABRA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRA5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRB2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRB3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GABRG2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GAD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GAL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GBA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GBA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GCH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GDAP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GDI1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GEMIN5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GIGYF2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GJC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GLI2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "GLRA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GLS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GLUL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GNAI1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GNAL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GNAO1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GNB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GOSR2": [
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GOT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GPR88": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GPRC5B": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "GRIA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIA3": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIA4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIN2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRIN2D": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "GRM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GRM7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "GRN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "GUCY1A1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "GUF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "HACE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HCN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "HCN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "HCN4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "HCRT": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "HECTD4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HECW2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HEPACAM": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "HID1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "HIKESHI": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HIVEP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HMBS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HNMT": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HNRNPA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HNRNPC": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HNRNPH2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "HNRNPU": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "HPDL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HSPD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HTR2A": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "HTRA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "HTT": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "HUWE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "IBA57": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "IL1RAPL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "IMPA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "INPP4A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "INTS6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "INTS8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "IQSEC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "IRF2BPL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ITPA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ITPR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "JKAMP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "JPH3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KANK1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "KATNB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KCNA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KCNA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNC1": [
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KCND3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KCNH5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNK18": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "KCNMA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KCNQ2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNQ3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNQ5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KCNT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCNT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "KCTD7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KDM4B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KDM5B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KDM5C": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KICS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KIF14": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KIF1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KIF1C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KIF26A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KIF2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KIF4A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KIF5A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KIF5C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KLHL15": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KMT2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KMT2D": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KMT5B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "KNL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "KPNA3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "KRIT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "LAMA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "LAMB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "LGI1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "LINGO1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "LINS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "LMAN2L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "LMNB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "LMNB2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "LNPK": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "LRP12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "LRRC7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "LRRK2": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "MACF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MAG": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MAL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MAP1B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MAP3K3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MAPT": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MARCHF6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "MARK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MAST3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "MATR3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MBD5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MBOAT7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MCPH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MDGA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "MDH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "MDH2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "MECP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MED12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MED13": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MED23": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MEF2C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "METTL23": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MFSD2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MFSD8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MID2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MINPP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MLC1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "MME": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MOBP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MOG": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "MPDZ": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MPO": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MRE11": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "MTHFD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MTHFR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MTHFS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "MTPAP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MTR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MTRFR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MTRR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "MTTP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "MYT1L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NAA15": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NAA20": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NAPB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NARS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NBEA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NCAPD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "NCAPD3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "NCAPH": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "NCDN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NDE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "NDST1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NECAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NEDD4L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "NEFH": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NEK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NEUROD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NEXMIF": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NFASC": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NFU1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NHLRC1": [
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NIPA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NKAP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NKX6-2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NLGN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NLGN3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NLGN4X": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NOL3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NONO": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NOP56": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NOS3": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "NOTCH2NLC": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NOVA2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NPRL2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NPRL3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NPTX1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NR4A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NRROS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NRXN1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "NSF": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NSRP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NSUN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NSUN6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NT5C2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NTNG2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "NTRK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "NUP37": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "NUP54": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "NUS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ODC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "OGT": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "OPHN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "OPTN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "OTUD7A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PACS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PAFAH1B1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PAK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PAK3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PANK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PARK7": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "PARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PCDH19": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PCLO": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PCNA": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "PCYT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PDCD10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PDCD6IP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PDE2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PDYN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PFN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PGAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PGBD5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PHACTR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PHC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PHF8": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PHIP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated"
+  ],
+  "PI4K2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PI4KA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PIDD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PIGA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PIGB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PIGG": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PIGK": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PIGP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PIGQ": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PIK3CA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PIK3R5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PINK1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "PIP5K1C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PITRM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PLA2G6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PLAA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PLAU": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PLCB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PLCH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PLD3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PLEKHG2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PLP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PLPBP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PNKD": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PNKP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PNPLA6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PNPT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "POGZ": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "POLA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "POLR1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "POLR1C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "POLR2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "POLR3K": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "POU4F1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PPFIBP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PPIL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PPM1D": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PPP1R12A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PPP2R2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PPP3CA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PPT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PRDM13": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PRDX3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PRICKLE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PRKCG": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PRKN": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "PRKRA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PRMT9": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PRNP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PRODH": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "PRPH": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PRRT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "PRSS12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PRUNE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PSAP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PSEN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PSEN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PSMB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PSMF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PTCH1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "PTCHD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PTPA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PTPMT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PTPN23": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PTRHD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "PUM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "PYCR2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RAB11B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RAB32": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RAB39B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RAB3A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RAC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RAD21": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "RALGAPA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RAPGEF2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "RARS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "RBM12": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "RBMX": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "REEP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "REEP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RELN": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "REPS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RFC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RFX7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RHOBTB2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "RLIM": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RNF13": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "RNF170": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RNF213": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "RNU12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RNU2-2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "RORA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RORB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "RPL10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RPS6KA3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RPS6KC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RRP7A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "RSRC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "RTN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "RTN4R": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "RUSC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SACS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SAMD12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SAMD9L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SARS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SASS6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SCFD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SCN1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SCN1B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SCN2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SCN3A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SCN8A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SELENOI": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SEMA6B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SEPSECS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SET": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SETBP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SETD1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SETD1B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SETD2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SETX": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SGSM3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SHANK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SHANK3": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "SHH": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SHQ1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SIGMAR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SIK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SIX3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SLC12A5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC13A3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SLC13A5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC1A1": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "SLC1A2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC1A3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SLC25A12": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC25A22": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC25A46": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SLC2A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SLC32A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC33A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SLC35A3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SLC38A3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC45A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SLC4A10": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SLC6A1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC7A6OS": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SLC9A7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SLC9A9": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SLITRK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SMARCA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SMARCA4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SMARCB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SMARCC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SMC1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SMC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "SMPD4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SMS": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SNAPC4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SNCA": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "SNF8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SNORD118": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SOBP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SOD1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SOX3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SPAST": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SPG11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SPG7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SPOUT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SPTAN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SPTBN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SPTLC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SPTSSA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SQSTM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SRPK3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SRRM2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ST3GAL3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "STAG1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "STAG2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "STARD7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "STEEP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "STIL": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "STUB1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "STX1B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "STXBP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SV2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "SVBP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SYN1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SYN2": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "SYNE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SYNGAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SYNJ1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "SYP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "SZT2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "TAF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TAF13": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TAF15": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TAF4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TAF8": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TANC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TARDBP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TBC1D23": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TBC1D24": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "TBC1D2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TBCB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TBK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TBL1XR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TBP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TBR1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TBXT": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TCP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TDP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TECPR2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TECR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TENM4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TFG": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TGIF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TGM6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "THAP11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "THG1L": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TIA1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TIAM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TLK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TMEM106B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TMEM163": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TMEM222": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TMEM240": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TMEM63A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TMEM63B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "TMEM63C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TMTC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TMX2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TNF": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "TNIK": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TNR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TNRC6A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "TNRC6B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TOE1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TPP1": [
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/unmerged"
+  ],
+  "TPR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TRAK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "TRAPPC14": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TRAPPC4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TRAPPC6B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TRAPPC9": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TREM2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TRIM71": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TRIO": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TRMT1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TRPC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TRPM7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TSEN15": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TSEN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TSEN34": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TSEN54": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TSPAN7": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TSPOAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TTBK2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TTI1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "TTPA": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TUBA1A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TUBA4A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TUBB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TUBB2A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TUBB2B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TUBB3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TUBB4A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "TUBG1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "TUSC3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UBA5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "UBAP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "UBE2A": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UBE3C": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UBE4A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UBQLN2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "UBR5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UCHL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "UFC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UFM1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "UFSP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "UGDH": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "UGP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "UNC13A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "UPF3B": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "USP25": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "USP27X": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "USP9X": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "VAMP1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VAMP2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "VANGL1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "VANGL2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "VAPB": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VARS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "VCP": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VLDLR": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS13C": [
+   "screen/brain_whole/isolated",
+   "strict/brain_whole/isolated"
+  ],
+  "VPS13D": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS16": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS35": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS37A": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS41": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "VPS50": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "VPS51": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "VPS53": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "VRK1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "VWA3B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "WARS1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "WARS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "WASF1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "WASHC4": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "WASHC5": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "WDFY3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "WDR11": [
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated",
+   "strict/unmerged"
+  ],
+  "WDR45": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "WDR45B": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "WDR62": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "WDR81": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "WWOX": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "XRCC1": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "YEATS2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "YWHAG": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated"
+  ],
+  "ZBTB11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZBTB18": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZC3H14": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZDHHC9": [
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZFHX3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_epilepsy/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_epilepsy/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ZFX": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZFYVE26": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodegeneration/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodegeneration/isolated"
+  ],
+  "ZIC2": [
+   "screen/brain_whole/isolated",
+   "screen/brain_malformation/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_malformation/isolated"
+  ],
+  "ZMYM3": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZMYND11": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZNF142": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZNF292": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZNF711": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ],
+  "ZSWIM6": [
+   "screen/brain_whole/isolated",
+   "screen/brain_neurodevelopmental/isolated",
+   "strict/brain_whole/isolated",
+   "strict/brain_neurodevelopmental/isolated"
+  ]
+ },
+ "n_genes": 895,
+ "steps": [
+  {
+   "added": 877,
+   "added_genes": null,
+   "isolated": 877,
+   "step": "screen/brain_whole isolated tier"
+  },
+  {
+   "added": 5,
+   "added_genes": [
+    "CERS1",
+    "EPM2A",
+    "GOSR2",
+    "KCNC1",
+    "NHLRC1"
+   ],
+   "isolated": 164,
+   "step": "screen/brain_epilepsy isolated tier"
+  },
+  {
+   "added": 11,
+   "added_genes": [
+    "ATP6AP2",
+    "CASK",
+    "GRIA3",
+    "KDM5C",
+    "NONO",
+    "PHF8",
+    "RBMX",
+    "SMS",
+    "UBE2A",
+    "UPF3B",
+    "ZDHHC9"
+   ],
+   "isolated": 307,
+   "step": "screen/brain_neurodevelopmental isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "isolated": 302,
+   "step": "screen/brain_neurodegeneration isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "isolated": 125,
+   "step": "screen/brain_malformation isolated tier"
+  },
+  {
+   "added": 2,
+   "added_genes": [
+    "TPP1",
+    "WDR11"
+   ],
+   "isolated": 878,
+   "step": "strict/brain_whole isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "isolated": 164,
+   "step": "strict/brain_epilepsy isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "isolated": 307,
+   "step": "strict/brain_neurodevelopmental isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "isolated": 303,
+   "step": "strict/brain_neurodegeneration isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "isolated": 125,
+   "step": "strict/brain_malformation isolated tier"
+  },
+  {
+   "added": 0,
+   "added_genes": [],
+   "step": "symbols the strict resolution unmerges",
+   "unmerged": [
+    "TPP1",
+    "WDR11"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,745 @@
+{
+ "dual_phenotype_genes": {
+  "AARS1": {
+   "n_conditions": 5,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Charcot-Marie-Tooth disease axonal type 2N",
+    "Trichothiodystrophy 8, nonphotosensitive"
+   ],
+   "positioned_ptv": 53
+  },
+  "AARS2": {
+   "n_conditions": 3,
+   "other": [
+    "Combined oxidative phosphorylation defect type 8"
+   ],
+   "positioned_ptv": 44
+  },
+  "ADAM10": {
+   "n_conditions": 2,
+   "other": [
+    "Reticulate acropigmentation of Kitamura"
+   ],
+   "positioned_ptv": 2
+  },
+  "ADH1C": {
+   "n_conditions": 2,
+   "other": [
+    "Alcohol dependence"
+   ],
+   "positioned_ptv": 0
+  },
+  "AFG3L2": {
+   "n_conditions": 5,
+   "other": [
+    "Optic atrophy 12"
+   ],
+   "positioned_ptv": 21
+  },
+  "ALDH18A1": {
+   "n_conditions": 6,
+   "other": [
+    "Cutis laxa, autosomal dominant 3",
+    "Neurocutaneous Disorders due to Mitochondrial Proline Synthesis Defects"
+   ],
+   "positioned_ptv": 30
+  },
+  "ALS2": {
+   "n_conditions": 5,
+   "other": [
+    "Infantile-onset ascending hereditary spastic paralysis",
+    "Juvenile primary lateral sclerosis"
+   ],
+   "positioned_ptv": 74
+  },
+  "AP4E1": {
+   "n_conditions": 3,
+   "other": [
+    "Stuttering, familial persistent, 1"
+   ],
+   "positioned_ptv": 27
+  },
+  "APOE": {
+   "n_conditions": 7,
+   "other": [
+    "Age related macular degeneration 1",
+    "Familial type 3 hyperlipoproteinemia",
+    "Lipoprotein glomerulopathy",
+    "Sea-blue histiocyte syndrome"
+   ],
+   "positioned_ptv": 4
+  },
+  "ATL1": {
+   "n_conditions": 3,
+   "other": [
+    "Neuropathy, hereditary sensory, type 1D"
+   ],
+   "positioned_ptv": 16
+  },
+  "ATP11A": {
+   "n_conditions": 3,
+   "other": [
+    "Auditory neuropathy, autosomal dominant 2",
+    "Hearing loss, autosomal dominant 84"
+   ],
+   "positioned_ptv": 1
+  },
+  "ATP13A2": {
+   "n_conditions": 4,
+   "other": [
+    "Kufor-Rakeb syndrome"
+   ],
+   "positioned_ptv": 69
+  },
+  "ATP1A3": {
+   "n_conditions": 5,
+   "other": [
+    "Alternating hemiplegia of childhood 2"
+   ],
+   "positioned_ptv": 15
+  },
+  "ATP5F1B": {
+   "n_conditions": 2,
+   "other": [
+    "Hypermetabolism due to uncoupled mitochondrial oxidative phosphorylation 2"
+   ],
+   "positioned_ptv": 0
+  },
+  "ATXN3": {
+   "n_conditions": 3,
+   "other": [
+    "Azorean disease"
+   ],
+   "positioned_ptv": 0
+  },
+  "BSCL2": {
+   "n_conditions": 6,
+   "other": [
+    "Congenital generalized lipodystrophy type 2",
+    "Neuronopathy, distal hereditary motor, type 5C"
+   ],
+   "positioned_ptv": 36
+  },
+  "CHCHD10": {
+   "n_conditions": 5,
+   "other": [
+    "Autosomal dominant mitochondrial myopathy with exercise intolerance",
+    "Lower motor neuron syndrome with late-adult onset"
+   ],
+   "positioned_ptv": 0
+  },
+  "CLCN2": {
+   "n_conditions": 3,
+   "other": [
+    "Familial hyperaldosteronism type II"
+   ],
+   "positioned_ptv": 27
+  },
+  "CLN3": {
+   "n_conditions": 4,
+   "other": [
+    "Retinitis pigmentosa 101"
+   ],
+   "positioned_ptv": 128
+  },
+  "COL6A3": {
+   "n_conditions": 4,
+   "other": [
+    "Bethlem myopathy 1C",
+    "Collagen VI-Related Dystrophies",
+    "Ullrich congenital muscular dystrophy 1C"
+   ],
+   "positioned_ptv": 116
+  },
+  "COQ4": {
+   "n_conditions": 5,
+   "other": [
+    "Coenzyme Q10 deficiency",
+    "Neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome",
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 18
+  },
+  "COQ8A": {
+   "n_conditions": 3,
+   "other": [
+    "Coenzyme Q10 deficiency"
+   ],
+   "positioned_ptv": 56
+  },
+  "CST3": {
+   "n_conditions": 3,
+   "other": [
+    "Age related macular degeneration 11"
+   ],
+   "positioned_ptv": 0
+  },
+  "CYLD": {
+   "n_conditions": 4,
+   "other": [
+    "Brooke-Spiegler syndrome",
+    "Familial cylindromatosis",
+    "Trichoepithelioma, multiple familial, 1"
+   ],
+   "positioned_ptv": 73
+  },
+  "CYP7B1": {
+   "n_conditions": 4,
+   "other": [
+    "Congenital bile acid synthesis defect 3",
+    "Pediatric Genetic Cholestatic Liver Disease"
+   ],
+   "positioned_ptv": 54
+  },
+  "DARS2": {
+   "n_conditions": 2,
+   "other": [
+    "Charcot-Marie-Tooth disease, axonal, type 2LL"
+   ],
+   "positioned_ptv": 37
+  },
+  "DCTN1": {
+   "n_conditions": 5,
+   "other": [
+    "Neuronopathy, distal hereditary motor, type 7B",
+    "Perry syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "DSTYK": {
+   "n_conditions": 2,
+   "other": [
+    "Congenital anomalies of kidney and urinary tract 1"
+   ],
+   "positioned_ptv": 4
+  },
+  "EARS2": {
+   "n_conditions": 2,
+   "other": [
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 25
+  },
+  "ELOVL4": {
+   "n_conditions": 3,
+   "other": [
+    "Stargardt disease 3"
+   ],
+   "positioned_ptv": 19
+  },
+  "FARS2": {
+   "n_conditions": 4,
+   "other": [
+    "Combined oxidative phosphorylation defect type 14",
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 26
+  },
+  "FIG4": {
+   "n_conditions": 6,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Charcot-Marie-Tooth disease type 4J",
+    "Yunis-Varon syndrome"
+   ],
+   "positioned_ptv": 82
+  },
+  "FMR1": {
+   "n_conditions": 5,
+   "other": [
+    "Fragile X syndrome",
+    "Premature ovarian failure 1"
+   ],
+   "positioned_ptv": 9
+  },
+  "FTH1": {
+   "n_conditions": 2,
+   "other": [
+    "Hemochromatosis type 5"
+   ],
+   "positioned_ptv": 3
+  },
+  "GBA1": {
+   "n_conditions": 8,
+   "other": [
+    "Gaucher disease",
+    "Gaucher disease perinatal lethal",
+    "Gaucher disease type I",
+    "Gaucher disease type II",
+    "Gaucher disease type III",
+    "Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome"
+   ],
+   "positioned_ptv": 116
+  },
+  "GCH1": {
+   "n_conditions": 2,
+   "other": [
+    "GTP cyclohydrolase I deficiency with hyperphenylalaninemia"
+   ],
+   "positioned_ptv": 51
+  },
+  "GJC2": {
+   "n_conditions": 3,
+   "other": [
+    "Lymphatic malformation 3"
+   ],
+   "positioned_ptv": 48
+  },
+  "HMBS": {
+   "n_conditions": 3,
+   "other": [
+    "Acute intermittent porphyria"
+   ],
+   "positioned_ptv": 65
+  },
+  "HNRNPA1": {
+   "n_conditions": 5,
+   "other": [
+    "Finnish upper limb-onset distal myopathy",
+    "Multisystem Proteinopathy"
+   ],
+   "positioned_ptv": 0
+  },
+  "HPDL": {
+   "n_conditions": 3,
+   "other": [
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 24
+  },
+  "HTRA2": {
+   "n_conditions": 3,
+   "other": [
+    "3-methylglutaconic aciduria type 8",
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 10
+  },
+  "IBA57": {
+   "n_conditions": 2,
+   "other": [
+    "Multiple mitochondrial dysfunctions syndrome 3"
+   ],
+   "positioned_ptv": 27
+  },
+  "ITPR1": {
+   "n_conditions": 4,
+   "other": [
+    "Gillespie syndrome"
+   ],
+   "positioned_ptv": 21
+  },
+  "KCND3": {
+   "n_conditions": 4,
+   "other": [
+    "Brugada syndrome",
+    "Brugada syndrome 9"
+   ],
+   "positioned_ptv": 0
+  },
+  "KIF1A": {
+   "n_conditions": 6,
+   "other": [
+    "Hereditary sensory and autonomic neuropathy type 2",
+    "Neuropathy, hereditary sensory, type 2C"
+   ],
+   "positioned_ptv": 33
+  },
+  "LRP12": {
+   "n_conditions": 2,
+   "other": [
+    "Oculopharyngodistal myopathy 1"
+   ],
+   "positioned_ptv": 0
+  },
+  "MAPT": {
+   "n_conditions": 6,
+   "other": [
+    "Pick disease",
+    "Supranuclear palsy, progressive, 1"
+   ],
+   "positioned_ptv": 0
+  },
+  "MARS2": {
+   "n_conditions": 2,
+   "other": [
+    "Combined oxidative phosphorylation defect type 25"
+   ],
+   "positioned_ptv": 4
+  },
+  "MFSD8": {
+   "n_conditions": 3,
+   "other": [
+    "Macular dystrophy with central cone involvement"
+   ],
+   "positioned_ptv": 86
+  },
+  "MME": {
+   "n_conditions": 2,
+   "other": [
+    "Charcot-Marie-Tooth disease axonal type 2T"
+   ],
+   "positioned_ptv": 69
+  },
+  "MPO": {
+   "n_conditions": 2,
+   "other": [
+    "Myeloperoxidase deficiency"
+   ],
+   "positioned_ptv": 12
+  },
+  "MTRFR": {
+   "n_conditions": 3,
+   "other": [
+    "Combined oxidative phosphorylation defect type 7",
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 15
+  },
+  "NEFH": {
+   "n_conditions": 2,
+   "other": [
+    "Charcot-Marie-Tooth disease axonal type 2CC"
+   ],
+   "positioned_ptv": 8
+  },
+  "NEK1": {
+   "n_conditions": 4,
+   "other": [
+    "Mohr syndrome",
+    "Short-rib thoracic dysplasia 6 with or without polydactyly"
+   ],
+   "positioned_ptv": 85
+  },
+  "NFU1": {
+   "n_conditions": 2,
+   "other": [
+    "Multiple mitochondrial dysfunctions syndrome 1"
+   ],
+   "positioned_ptv": 4
+  },
+  "NOTCH2NLC": {
+   "n_conditions": 3,
+   "other": [
+    "Neuronal intranuclear inclusion disease",
+    "Oculopharyngodistal myopathy 3"
+   ],
+   "positioned_ptv": 0
+  },
+  "OPTN": {
+   "n_conditions": 4,
+   "other": [
+    "Glaucoma, normal tension, susceptibility to",
+    "Primary open angle glaucoma"
+   ],
+   "positioned_ptv": 46
+  },
+  "PFN1": {
+   "n_conditions": 3,
+   "other": [
+    "PAGET DISEASE OF BONE 7, EARLY-ONSET"
+   ],
+   "positioned_ptv": 1
+  },
+  "PI4KA": {
+   "n_conditions": 4,
+   "other": [
+    "Gastrointestinal defects and immunodeficiency syndrome 2"
+   ],
+   "positioned_ptv": 32
+  },
+  "PLA2G6": {
+   "n_conditions": 6,
+   "other": [
+    "Infantile neuroaxonal dystrophy"
+   ],
+   "positioned_ptv": 74
+  },
+  "PLAU": {
+   "n_conditions": 2,
+   "other": [
+    "Quebec platelet disorder"
+   ],
+   "positioned_ptv": 0
+  },
+  "PLP1": {
+   "n_conditions": 3,
+   "other": [
+    "Pelizaeus-Merzbacher disease"
+   ],
+   "positioned_ptv": 59
+  },
+  "PNKP": {
+   "n_conditions": 4,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Charcot-Marie-Tooth disease type 2B2"
+   ],
+   "positioned_ptv": 95
+  },
+  "PNPLA6": {
+   "n_conditions": 5,
+   "other": [
+    "Laurence-Moon syndrome",
+    "Trichomegaly-retina pigmentary degeneration-dwarfism syndrome"
+   ],
+   "positioned_ptv": 75
+  },
+  "PNPT1": {
+   "n_conditions": 3,
+   "other": [
+    "Autosomal recessive nonsyndromic hearing loss 70",
+    "Combined oxidative phosphorylation defect type 13"
+   ],
+   "positioned_ptv": 34
+  },
+  "POLR1A": {
+   "n_conditions": 2,
+   "other": [
+    "Acrofacial dysostosis Cincinnati type"
+   ],
+   "positioned_ptv": 8
+  },
+  "POLR1C": {
+   "n_conditions": 4,
+   "other": [
+    "Treacher Collins syndrome",
+    "Treacher Collins syndrome 3"
+   ],
+   "positioned_ptv": 31
+  },
+  "PRDX3": {
+   "n_conditions": 2,
+   "other": [
+    "Corneal dystrophy, punctiform and polychromatic pre-descemet"
+   ],
+   "positioned_ptv": 5
+  },
+  "PRNP": {
+   "n_conditions": 7,
+   "other": [
+    "Fatal familial insomnia",
+    "Kuru, susceptibility to"
+   ],
+   "positioned_ptv": 5
+  },
+  "PSAP": {
+   "n_conditions": 5,
+   "other": [
+    "Gaucher disease due to saposin C deficiency",
+    "Krabbe disease due to saposin A deficiency",
+    "Sphingolipid activator protein 1 deficiency"
+   ],
+   "positioned_ptv": 44
+  },
+  "PSEN1": {
+   "n_conditions": 7,
+   "other": [
+    "Acne inversa, familial, 3",
+    "Dilated cardiomyopathy 1U",
+    "Pick disease",
+    "Primary dilated cardiomyopathy"
+   ],
+   "positioned_ptv": 2
+  },
+  "PSEN2": {
+   "n_conditions": 4,
+   "other": [
+    "Dilated cardiomyopathy 1V",
+    "Primary dilated cardiomyopathy"
+   ],
+   "positioned_ptv": 1
+  },
+  "PSMF1": {
+   "n_conditions": 3,
+   "other": [
+    "ARTHROGRYPOSIS MULTIPLEX CONGENITA 8, NEUROGENIC TYPE"
+   ],
+   "positioned_ptv": 2
+  },
+  "RAB39B": {
+   "n_conditions": 4,
+   "other": [
+    "Chromosome Xq28 duplication syndrome"
+   ],
+   "positioned_ptv": 5
+  },
+  "REEP1": {
+   "n_conditions": 4,
+   "other": [
+    "Neuronopathy, distal hereditary motor, type 5B",
+    "Spinal muscular atrophy, distal, autosomal recessive, 6"
+   ],
+   "positioned_ptv": 50
+  },
+  "RNU12": {
+   "n_conditions": 2,
+   "other": [
+    "Craniosynostosis-anal anomalies-porokeratosis syndrome"
+   ],
+   "positioned_ptv": 0
+  },
+  "RTN2": {
+   "n_conditions": 3,
+   "other": [
+    "Neuronopathy, distal hereditary motor, autosomal recessive 11, with spasticity"
+   ],
+   "positioned_ptv": 13
+  },
+  "SAMD9L": {
+   "n_conditions": 3,
+   "other": [
+    "Monosomy 7 myelodysplasia and leukemia syndrome 1"
+   ],
+   "positioned_ptv": 5
+  },
+  "SIGMAR1": {
+   "n_conditions": 2,
+   "other": [
+    "Autosomal recessive distal spinal muscular atrophy 2"
+   ],
+   "positioned_ptv": 15
+  },
+  "SLC2A1": {
+   "n_conditions": 6,
+   "other": [
+    "Childhood onset GLUT1 deficiency syndrome 2",
+    "GLUT1 deficiency syndrome",
+    "Hereditary cryohydrocytosis with reduced stomatin"
+   ],
+   "positioned_ptv": 160
+  },
+  "SLC33A1": {
+   "n_conditions": 3,
+   "other": [
+    "Huppke-Brendel syndrome"
+   ],
+   "positioned_ptv": 5
+  },
+  "SPG11": {
+   "n_conditions": 4,
+   "other": [
+    "Charcot-Marie-Tooth disease axonal type 2X"
+   ],
+   "positioned_ptv": 456
+  },
+  "SPTAN1": {
+   "n_conditions": 4,
+   "other": [
+    "Neuronopathy, distal hereditary motor, autosomal dominant 11"
+   ],
+   "positioned_ptv": 70
+  },
+  "SPTLC1": {
+   "n_conditions": 2,
+   "other": [
+    "Neuropathy, hereditary sensory and autonomic, type 1A"
+   ],
+   "positioned_ptv": 0
+  },
+  "SQSTM1": {
+   "n_conditions": 6,
+   "other": [
+    "Multisystem Proteinopathy",
+    "Myopathy, distal, with rimmed vacuoles",
+    "Paget disease of bone 3"
+   ],
+   "positioned_ptv": 44
+  },
+  "SYNE1": {
+   "n_conditions": 5,
+   "other": [
+    "Arthrogryposis multiplex congenita 3, myogenic type",
+    "Emery-Dreifuss muscular dystrophy",
+    "Emery-Dreifuss muscular dystrophy 4, autosomal dominant"
+   ],
+   "positioned_ptv": 328
+  },
+  "TBK1": {
+   "n_conditions": 4,
+   "other": [
+    "Autoinflammation with arthritis and vasculitis"
+   ],
+   "positioned_ptv": 59
+  },
+  "TFG": {
+   "n_conditions": 2,
+   "other": [
+    "Hereditary motor and sensory neuropathy, Okinawa type"
+   ],
+   "positioned_ptv": 1
+  },
+  "THAP11": {
+   "n_conditions": 3,
+   "other": [
+    "Disorders of Intracellular Cobalamin Metabolism",
+    "Methylmalonic aciduria and homocystinuria, cb1L type"
+   ],
+   "positioned_ptv": 0
+  },
+  "TIA1": {
+   "n_conditions": 2,
+   "other": [
+    "Welander distal myopathy"
+   ],
+   "positioned_ptv": 0
+  },
+  "TREM2": {
+   "n_conditions": 3,
+   "other": [
+    "Polycystic lipomembranous osteodysplasia with sclerosing leukoencephaly"
+   ],
+   "positioned_ptv": 13
+  },
+  "TUBA4A": {
+   "n_conditions": 5,
+   "other": [
+    "Congenital myopathy 26",
+    "Oocyte/zygote/embryo maturation arrest 23"
+   ],
+   "positioned_ptv": 6
+  },
+  "VAMP1": {
+   "n_conditions": 2,
+   "other": [
+    "Myasthenic syndrome, congenital, 25, presynaptic"
+   ],
+   "positioned_ptv": 9
+  },
+  "VAPB": {
+   "n_conditions": 3,
+   "other": [
+    "Adult-onset proximal spinal muscular atrophy, autosomal dominant"
+   ],
+   "positioned_ptv": 0
+  },
+  "VCP": {
+   "n_conditions": 5,
+   "other": [
+    "Charcot-Marie-Tooth disease type 2Y",
+    "Multisystem Proteinopathy"
+   ],
+   "positioned_ptv": 1
+  },
+  "WASHC5": {
+   "n_conditions": 4,
+   "other": [
+    "Ritscher-Schinzel syndrome",
+    "Ritscher-Schinzel syndrome 1"
+   ],
+   "positioned_ptv": 22
+  },
+  "ZFHX3": {
+   "n_conditions": 5,
+   "other": [
+    "Atrial fibrillation, familial, 8",
+    "Familial prostate cancer"
+   ],
+   "positioned_ptv": 48
+  }
+ },
+ "n_dual": 97,
+ "n_dual_ge10": 57,
+ "n_isolated": 286
+}

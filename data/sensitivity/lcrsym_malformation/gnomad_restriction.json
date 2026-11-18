@@ -1,0 +1,9 @@
+{
+ "to_transcript_used": false,
+ "outside_low_complexity_file": "LCR-hs38.bed.gz",
+ "outside_gnomad_lcr_flag": false,
+ "records_kept": 161115,
+ "records_dropped": 5490,
+ "dropped_off_transcript": 0,
+ "dropped_in_low_complexity": 5490
+}

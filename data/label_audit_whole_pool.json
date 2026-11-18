@@ -1,0 +1,3019 @@
+{
+ "pool": [
+  "AARS1",
+  "AARS2",
+  "ADCY5",
+  "ADGRV1",
+  "AFG3L2",
+  "ALDH18A1",
+  "ALS2",
+  "ANGPTL3",
+  "AP4E1",
+  "APOB",
+  "ARID1A",
+  "ARX",
+  "ATAD3A",
+  "ATL1",
+  "ATM",
+  "ATP13A2",
+  "ATP1A2",
+  "ATP1A3",
+  "BSCL2",
+  "CASR",
+  "CEP152",
+  "CFAP410",
+  "CLCN2",
+  "CLN3",
+  "CNOT1",
+  "COL3A1",
+  "COL6A3",
+  "COQ2",
+  "COQ4",
+  "COQ8A",
+  "CP",
+  "CPAP",
+  "CSF1R",
+  "CUL3",
+  "CYLD",
+  "CYP7B1",
+  "DARS2",
+  "DCAF17",
+  "DCX",
+  "DICER1",
+  "DLG4",
+  "DMXL2",
+  "DYNC1H1",
+  "EARS2",
+  "ELOVL4",
+  "EPG5",
+  "EXT2",
+  "FARS2",
+  "FGFR1",
+  "FIG4",
+  "FTL",
+  "GBA1",
+  "GCH1",
+  "GJC2",
+  "GLI2",
+  "GNB1",
+  "HK1",
+  "HMBS",
+  "HPDL",
+  "HTRA2",
+  "IBA57",
+  "IL1RAPL1",
+  "IRF2BPL",
+  "ITPA",
+  "ITPR1",
+  "KCNMA1",
+  "KCNQ2",
+  "KCNQ3",
+  "KIF14",
+  "KIF1A",
+  "KMT2B",
+  "KMT2D",
+  "MAP1B",
+  "MECP2",
+  "MED12",
+  "MEF2C",
+  "MFSD8",
+  "MINPP1",
+  "MME",
+  "MPO",
+  "MTHFD1",
+  "MTHFR",
+  "MTR",
+  "MTRFR",
+  "MTRR",
+  "MTTP",
+  "NARS1",
+  "NEK1",
+  "NKX6-2",
+  "NRXN1",
+  "NUS1",
+  "OPTN",
+  "PANK2",
+  "PI4KA",
+  "PIGA",
+  "PIGB",
+  "PIGG",
+  "PLA2G6",
+  "PLP1",
+  "PNKP",
+  "PNPLA6",
+  "PNPT1",
+  "POLR1C",
+  "PPM1D",
+  "PRKN",
+  "PRODH",
+  "PRRT2",
+  "PSAP",
+  "PTCH1",
+  "RAD21",
+  "REEP1",
+  "RELN",
+  "RPS6KA3",
+  "RTN2",
+  "SCN1B",
+  "SETBP1",
+  "SETD2",
+  "SHANK3",
+  "SHH",
+  "SIGMAR1",
+  "SLC25A46",
+  "SLC2A1",
+  "SMARCA4",
+  "SMARCB1",
+  "SMC1A",
+  "SMC3",
+  "SPG11",
+  "SPTAN1",
+  "SQSTM1",
+  "STAG2",
+  "SYNE1",
+  "TBC1D24",
+  "TBK1",
+  "TBL1XR1",
+  "TREM2",
+  "TTPA",
+  "VRK1",
+  "WASHC5",
+  "WDR11",
+  "WWOX",
+  "ZFHX3"
+ ],
+ "n_variants": 14755,
+ "variant_buckets": {
+  "both": 1547,
+  "area": 4323,
+  "other": 6018,
+  "unlabelled": 2867
+ },
+ "submissions_by_side": {
+  "area": 8505,
+  "other": 11037,
+  "vague": 6548
+ },
+ "top_terms": {
+  "area": [
+   [
+    "Ataxia-telangiectasia syndrome",
+    2343
+   ],
+   [
+    "Rett syndrome",
+    851
+   ],
+   [
+    "Hereditary spastic paraplegia 11",
+    539
+   ],
+   [
+    "Ataxia-telangiectasia syndrome;C0346153:Familial cancer of breast",
+    186
+   ],
+   [
+    "Severe neonatal-onset encephalopathy with microcephaly",
+    153
+   ],
+   [
+    "Neuronal ceroid lipofuscinosis 3",
+    131
+   ],
+   [
+    "Autosomal recessive ataxia, Beauce type;C2751807:Emery-Dreifuss muscular dystrophy 4, autosomal dominant",
+    114
+   ],
+   [
+    "Intellectual developmental disorder 62",
+    105
+   ],
+   [
+    "Pontocerebellar hypoplasia type 1A",
+    99
+   ],
+   [
+    "Neuronal ceroid lipofuscinosis 7",
+    92
+   ],
+   [
+    "Spastic paraplegia",
+    88
+   ],
+   [
+    "Autosomal recessive ataxia, Beauce type",
+    85
+   ],
+   [
+    "Hereditary spastic paraplegia 11;C1865864:Amyotrophic lateral sclerosis type 5;C5569024:Charcot-Marie-Tooth disease axonal type 2X",
+    82
+   ],
+   [
+    "Intellectual disability, autosomal recessive 53",
+    82
+   ],
+   [
+    "Neural tube defects, folate-sensitive",
+    81
+   ],
+   [
+    "Episodic kinesigenic dyskinesia",
+    76
+   ],
+   [
+    "Congenital muscular hypertrophy-cerebral syndrome",
+    72
+   ],
+   [
+    "Neuronal ceroid lipofuscinosis",
+    71
+   ],
+   [
+    "Neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures",
+    67
+   ],
+   [
+    "Hereditary spastic paraplegia",
+    66
+   ],
+   [
+    "Frontotemporal dementia and/or amyotrophic lateral sclerosis 4",
+    60
+   ],
+   [
+    "Developmental and epileptic encephalopathy, 12",
+    59
+   ],
+   [
+    "Encephalopathy due to GLUT1 deficiency",
+    52
+   ],
+   [
+    "Hereditary spastic paraplegia 39",
+    51
+   ],
+   [
+    "Intellectual disability, autosomal dominant 29",
+    51
+   ],
+   [
+    "Norman-Roberts syndrome;C4225327:Familial temporal lobe epilepsy 7",
+    51
+   ],
+   [
+    "Intellectual disability, autosomal dominant 14",
+    49
+   ],
+   [
+    "Episodic kinesigenic dyskinesia 1",
+    47
+   ],
+   [
+    "Kufor-Rakeb syndrome;C5567893:Autosomal recessive spastic paraplegia type 78",
+    45
+   ],
+   [
+    "Intellectual disability",
+    44
+   ],
+   [
+    "Holoprosencephaly 3",
+    43
+   ],
+   [
+    "Dystonia 28, childhood-onset",
+    42
+   ],
+   [
+    "Intellectual developmental disorder with gastrointestinal difficulties and high pain threshold",
+    42
+   ],
+   [
+    "Leukodystrophy, hypomyelinating, 2",
+    39
+   ],
+   [
+    "Developmental and epileptic encephalopathy, 1;C3661900:not provided;C3892048:Autosomal dominant nonsyndromic hearing loss 65",
+    39
+   ],
+   [
+    "Hereditary spastic paraplegia 31",
+    38
+   ],
+   [
+    "Seizures, benign familial neonatal, 1",
+    38
+   ],
+   [
+    "Neurodevelopmental disorder with hypotonia, stereotypic hand movements, and impaired language",
+    38
+   ],
+   [
+    "Autosomal recessive ataxia due to ubiquinone deficiency",
+    37
+   ],
+   [
+    "Febrile seizures, familial, 4;C2931213:Usher syndrome type 2C",
+    37
+   ],
+   [
+    "Developmental and epileptic encephalopathy, 28",
+    36
+   ],
+   [
+    "Seizures, benign familial infantile, 2",
+    35
+   ],
+   [
+    "Neurodevelopmental disorder with or without autism or seizures",
+    33
+   ],
+   [
+    "Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome",
+    32
+   ],
+   [
+    "Developmental and epileptic encephalopathy, 7",
+    31
+   ],
+   [
+    "X-linked lissencephaly with abnormal genitalia",
+    31
+   ],
+   [
+    "Primary open angle glaucoma;C1842026:Glaucoma 1, open angle, E;C3150692:Amyotrophic lateral sclerosis type 12",
+    30
+   ],
+   [
+    "Intellectual developmental disorder, autosomal dominant 55, with seizures",
+    30
+   ],
+   [
+    "Juvenile neuronal ceroid lipofuscinosis",
+    29
+   ],
+   [
+    "Periventricular nodular heterotopia 9",
+    29
+   ],
+   [
+    "GTP cyclohydrolase I deficiency;C1851920:Dystonia 5",
+    28
+   ],
+   [
+    "Autosomal recessive spinocerebellar ataxia 12;C3463992:Developmental and epileptic encephalopathy, 1",
+    27
+   ],
+   [
+    "Paget disease of bone 2, early-onset;C5779877:Frontotemporal dementia and/or amyotrophic lateral sclerosis 1",
+    27
+   ],
+   [
+    "Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy",
+    27
+   ],
+   [
+    "Familial hemiplegic migraine",
+    26
+   ],
+   [
+    "Amyotrophic lateral sclerosis type 2, juvenile",
+    24
+   ],
+   [
+    "Developmental and epileptic encephalopathy, 85, with or without midline brain defects",
+    24
+   ],
+   [
+    "Amyotrophic lateral sclerosis type 5",
+    23
+   ],
+   [
+    "Microcephaly 6, primary, autosomal recessive",
+    23
+   ],
+   [
+    "Hereditary spastic paraplegia 2",
+    23
+   ]
+  ],
+  "other": [
+   [
+    "Hereditary cancer-predisposing syndrome",
+    2288
+   ],
+   [
+    "Familial cancer of breast",
+    1787
+   ],
+   [
+    "DICER1-related tumor predisposition",
+    678
+   ],
+   [
+    "Kabuki syndrome 1",
+    576
+   ],
+   [
+    "Gorlin syndrome",
+    407
+   ],
+   [
+    "Inborn genetic diseases",
+    397
+   ],
+   [
+    "Kabuki syndrome",
+    232
+   ],
+   [
+    "Early-infantile DEE",
+    187
+   ],
+   [
+    "Vici syndrome",
+    187
+   ],
+   [
+    "Abetalipoproteinaemia",
+    177
+   ],
+   [
+    "Exostoses, multiple, type 2",
+    168
+   ],
+   [
+    "Rhabdoid tumor predisposition syndrome 2",
+    157
+   ],
+   [
+    "Hypercholesterolemia, autosomal dominant, type B;C4551990:Familial hypobetalipoproteinemia 1",
+    136
+   ],
+   [
+    "Ehlers-Danlos syndrome, type 4",
+    120
+   ],
+   [
+    "Gaucher disease",
+    117
+   ],
+   [
+    "ATM-related cancer predisposition",
+    112
+   ],
+   [
+    "Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+    103
+   ],
+   [
+    "Methylcobalamin deficiency type cblE",
+    101
+   ],
+   [
+    "Phelan-McDermid syndrome",
+    100
+   ],
+   [
+    "Familial hypocalciuric hypercalcemia;C3715128:Autosomal dominant hypocalcemia 1",
+    99
+   ],
+   [
+    "Short-rib thoracic dysplasia 6 with or without polydactyly",
+    78
+   ],
+   [
+    "Bethlem myopathy 1A",
+    77
+   ],
+   [
+    "Pigmentary pallidal degeneration",
+    75
+   ],
+   [
+    "Familial isolated deficiency of vitamin E",
+    75
+   ],
+   [
+    "Usher syndrome type 2C",
+    74
+   ],
+   [
+    "GLUT1 deficiency syndrome 1, autosomal recessive",
+    67
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 4",
+    63
+   ],
+   [
+    "Infantile-onset ascending hereditary spastic paralysis",
+    63
+   ],
+   [
+    "Hypogonadotropic hypogonadism 2 with or without anosmia",
+    62
+   ],
+   [
+    "Deficiency of ferroxidase",
+    61
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 2",
+    59
+   ],
+   [
+    "Gastric cancer",
+    58
+   ],
+   [
+    "Infantile neuroaxonal dystrophy",
+    56
+   ],
+   [
+    "Methylcobalamin deficiency type cblG",
+    55
+   ],
+   [
+    "Woodhouse-Sakati syndrome",
+    49
+   ],
+   [
+    "Basal cell nevus syndrome 1",
+    47
+   ],
+   [
+    "Familial thoracic aortic aneurysm and aortic dissection",
+    45
+   ],
+   [
+    "Charcot-Marie-Tooth disease axonal type 2T",
+    42
+   ],
+   [
+    "Malignant tumor of breast",
+    40
+   ],
+   [
+    "Malignant tumor of urinary bladder",
+    39
+   ],
+   [
+    "Pitt-Hopkins-like syndrome 2",
+    38
+   ],
+   [
+    "Coffin-Lowry syndrome",
+    35
+   ],
+   [
+    "Cornelia de Lange syndrome 4",
+    33
+   ],
+   [
+    "Usher syndrome",
+    30
+   ],
+   [
+    "na:Inherited breast cancer and ovarian cancer",
+    28
+   ],
+   [
+    "Pelizaeus-Merzbacher disease",
+    28
+   ],
+   [
+    "Pfeiffer syndrome;C1563720:Hypogonadotropic hypogonadism 2 with or without anosmia",
+    28
+   ],
+   [
+    "Sphingolipid activator protein 1 deficiency",
+    27
+   ],
+   [
+    "Infantile convulsions and choreoathetosis",
+    27
+   ],
+   [
+    "Congenital disorder of glycosylation, type Iaa",
+    27
+   ],
+   [
+    "Familial hypobetalipoproteinemia 1",
+    26
+   ],
+   [
+    "Luscan-Lumish syndrome",
+    26
+   ],
+   [
+    "Charcot-Marie-Tooth disease axonal type 2X",
+    25
+   ],
+   [
+    "Retinal dystrophy",
+    25
+   ],
+   [
+    "Hypercholesterolemia, autosomal dominant, type B",
+    25
+   ],
+   [
+    "Combined oxidative phosphorylation defect type 14",
+    25
+   ],
+   [
+    "Acute intermittent porphyria",
+    23
+   ],
+   [
+    "Congenital generalized lipodystrophy type 2",
+    22
+   ],
+   [
+    "Ectopic tissue",
+    22
+   ],
+   [
+    "Breast and/or ovarian cancer",
+    21
+   ]
+  ],
+  "vague": [
+   [
+    "not provided",
+    4960
+   ],
+   [
+    "na:ADGRV1-related disorder",
+    153
+   ],
+   [
+    "na:ATM-related disorder",
+    118
+   ],
+   [
+    "na:KMT2D-related disorder",
+    95
+   ],
+   [
+    "na:SPG11-related disorder",
+    60
+   ],
+   [
+    "MECP2-related disorder",
+    45
+   ],
+   [
+    "na:SYNE1-related disorder",
+    43
+   ],
+   [
+    "na:PTCH1-related disorder",
+    41
+   ],
+   [
+    "na:See cases",
+    37
+   ],
+   [
+    "not specified",
+    26
+   ],
+   [
+    "na:CYLD-related disorder",
+    24
+   ],
+   [
+    "na:PNPLA6-related disorder",
+    24
+   ],
+   [
+    "KCNQ2-Related Disorders",
+    23
+   ],
+   [
+    "na:SHANK3-related disorder",
+    22
+   ],
+   [
+    "na:EXT2-related disorders",
+    21
+   ],
+   [
+    "na:DICER1-related disorder",
+    21
+   ],
+   [
+    "na:CASR-related disorder",
+    20
+   ],
+   [
+    "na:NEK1-related disorder",
+    18
+   ],
+   [
+    "IRF2BPL-related disorder",
+    18
+   ],
+   [
+    "na:MTTP-related disorder",
+    16
+   ],
+   [
+    "FGFR1-related disorder",
+    16
+   ],
+   [
+    "PRRT2-Related Disorder",
+    16
+   ],
+   [
+    "na:EXT2-related disorder",
+    15
+   ],
+   [
+    "na:PNKP-related disorder",
+    15
+   ],
+   [
+    "CEP152-related disorder",
+    15
+   ],
+   [
+    "na:PANK2-related disorder",
+    15
+   ],
+   [
+    "na:CUL3-related disorder",
+    15
+   ],
+   [
+    "TBC1D24-related disorder",
+    14
+   ],
+   [
+    "na:COL6A3-related disorder",
+    14
+   ],
+   [
+    "na:GLI2-related disorder",
+    14
+   ],
+   [
+    "na:FIG4-related disorder",
+    12
+   ],
+   [
+    "na:CYP7B1-related disorder",
+    12
+   ],
+   [
+    "na:RPS6KA3-related disorder",
+    12
+   ],
+   [
+    "na:EPG5-related disorders",
+    12
+   ],
+   [
+    "na:ARID1A-related disorder",
+    12
+   ],
+   [
+    "na:CLN3-related disorders",
+    11
+   ],
+   [
+    "na:COL3A1-related disorder",
+    11
+   ],
+   [
+    "na:SETD2-related disorder",
+    11
+   ],
+   [
+    "PI4KA-related disorder",
+    11
+   ],
+   [
+    "na:ZFHX3-related disorder",
+    11
+   ],
+   [
+    "na:SLC2A1-related disorder",
+    10
+   ],
+   [
+    "na:APOB-related disorder",
+    10
+   ],
+   [
+    "na:CLCN2-related disorder",
+    10
+   ],
+   [
+    "na:MME-related disorder",
+    10
+   ],
+   [
+    "KMT2B-related disorder",
+    10
+   ],
+   [
+    "na:TTPA-related disorder",
+    9
+   ],
+   [
+    "na:SETBP1-related disorder",
+    9
+   ],
+   [
+    "na:MFSD8-related disorders",
+    9
+   ],
+   [
+    "na:CENPJ-related disorder",
+    9
+   ],
+   [
+    "na:PPM1D-related disorder",
+    9
+   ],
+   [
+    "na:CFAP410-related disorder",
+    9
+   ],
+   [
+    "na:OPTN-related disorder",
+    9
+   ],
+   [
+    "na:DLG4-related disorder",
+    9
+   ],
+   [
+    "EPG5-related disorder",
+    8
+   ],
+   [
+    "AARS2-related disorder",
+    8
+   ],
+   [
+    "na:STAG2-related disorder",
+    8
+   ],
+   [
+    "na:MAP1B-related disorder",
+    8
+   ],
+   [
+    "na:CNOT1-related disorder",
+    8
+   ],
+   [
+    "na:MPO-related disorder",
+    7
+   ],
+   [
+    "na:PLA2G6-related disorder",
+    7
+   ]
+  ]
+ },
+ "per_gene_top_other": {
+  "MTRFR": [
+   [
+    "Combined oxidative phosphorylation defect type 7",
+    9
+   ],
+   [
+    "na:Fetal anomalies with a likely genetic cause",
+    1
+   ],
+   [
+    "Hereditary motor and sensory neuropathy with optic atrophy",
+    1
+   ]
+  ],
+  "CEP152": [
+   [
+    "Seckel syndrome 5",
+    6
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Seckel syndrome",
+    1
+   ]
+  ],
+  "DCAF17": [
+   [
+    "Woodhouse-Sakati syndrome",
+    49
+   ]
+  ],
+  "MFSD8": [
+   [
+    "Macular dystrophy with central cone involvement",
+    2
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ]
+  ],
+  "DARS2": [
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "na:Possible mitochondrial disorder - nuclear genes",
+    1
+   ],
+   [
+    "Charcot-Marie-Tooth disease, axonal, type 2LL",
+    1
+   ]
+  ],
+  "SPG11": [
+   [
+    "Charcot-Marie-Tooth disease axonal type 2X",
+    25
+   ],
+   [
+    "Inborn genetic diseases",
+    25
+   ],
+   [
+    "Abnormal central motor function",
+    5
+   ],
+   [
+    "Metabolic disease",
+    2
+   ],
+   [
+    "na:Hereditary neuropathy or pain disorder",
+    1
+   ],
+   [
+    "Charcot-Marie-Tooth disease",
+    1
+   ]
+  ],
+  "ATP13A2": [
+   [
+    "Kufor-Rakeb syndrome",
+    17
+   ],
+   [
+    "Inborn genetic diseases",
+    6
+   ]
+  ],
+  "HMBS": [
+   [
+    "Acute intermittent porphyria",
+    23
+   ],
+   [
+    "Porphyria, acute intermittent, nonerythroid variant",
+    1
+   ],
+   [
+    "Abdominal pain;C0003467:Anxiety;C1848702:Elevated urinary delta-aminolevulinic acid;C1867971:Acute episodes of neuropathic symptoms",
+    1
+   ],
+   [
+    "Abnormal circulating porphyrin concentration",
+    1
+   ]
+  ],
+  "FIG4": [
+   [
+    "Charcot-Marie-Tooth disease type 4",
+    63
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 4J",
+    15
+   ],
+   [
+    "Inborn genetic diseases",
+    11
+   ],
+   [
+    "Yunis-Varon syndrome",
+    5
+   ],
+   [
+    "Charcot-Marie-Tooth disease",
+    4
+   ]
+  ],
+  "CPAP": [
+   [
+    "Seckel syndrome 4",
+    13
+   ],
+   [
+    "Seckel syndrome 5",
+    1
+   ],
+   [
+    "na:CPAP-related condition",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Arthrogryposis, renal dysfunction, and cholestasis 1",
+    1
+   ]
+  ],
+  "REEP1": [
+   [
+    "Spinal muscular atrophy, distal, autosomal recessive, 6",
+    1
+   ],
+   [
+    "Neuronopathy, distal hereditary motor, type 5B",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "na:Paediatric disorders",
+    1
+   ]
+  ],
+  "GJC2": [
+   [
+    "Lymphatic malformation 3",
+    2
+   ],
+   [
+    "Abnormality of the nervous system",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Pelizaeus-Merzbacher disease",
+    1
+   ]
+  ],
+  "SYNE1": [
+   [
+    "Arthrogryposis multiplex congenita 3, myogenic type",
+    9
+   ],
+   [
+    "Emery-Dreifuss muscular dystrophy 4, autosomal dominant",
+    9
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "Abnormal central motor function",
+    2
+   ],
+   [
+    "Cleft lip/palate",
+    1
+   ],
+   [
+    "Abnormality of the musculature",
+    1
+   ],
+   [
+    "Third degree atrioventricular block",
+    1
+   ]
+  ],
+  "EXT2": [
+   [
+    "Exostoses, multiple, type 2",
+    168
+   ],
+   [
+    "Inborn genetic diseases",
+    4
+   ],
+   [
+    "Hereditary cancer-predisposing syndrome",
+    1
+   ]
+  ],
+  "ATM": [
+   [
+    "Hereditary cancer-predisposing syndrome",
+    1831
+   ],
+   [
+    "Familial cancer of breast",
+    1784
+   ],
+   [
+    "ATM-related cancer predisposition",
+    112
+   ],
+   [
+    "Gastric cancer",
+    58
+   ],
+   [
+    "Malignant tumor of breast",
+    40
+   ],
+   [
+    "na:Inherited breast cancer and ovarian cancer",
+    28
+   ],
+   [
+    "Breast and/or ovarian cancer",
+    21
+   ],
+   [
+    "Malignant tumor of urinary bladder",
+    19
+   ]
+  ],
+  "MTHFR": [
+   [
+    "Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+    103
+   ],
+   [
+    "Abnormality of metabolism/homeostasis",
+    1
+   ]
+  ],
+  "CLN3": [
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Retinitis pigmentosa",
+    2
+   ],
+   [
+    "Retinal dystrophy",
+    1
+   ],
+   [
+    "Retinitis pigmentosa 101",
+    1
+   ],
+   [
+    "Cone-rod dystrophy",
+    1
+   ]
+  ],
+  "MPO": [
+   [
+    "Myeloperoxidase deficiency",
+    14
+   ]
+  ],
+  "COQ8A": [
+   [
+    "na:Possible mitochondrial disorder - nuclear genes",
+    1
+   ],
+   [
+    "Coenzyme Q10 deficiency, primary, 1",
+    1
+   ]
+  ],
+  "GBA1": [
+   [
+    "Gaucher disease",
+    117
+   ],
+   [
+    "Gaucher disease type I",
+    14
+   ],
+   [
+    "Gaucher disease perinatal lethal",
+    6
+   ],
+   [
+    "Gaucher disease type II;C0268251:Gaucher disease type III;C1856476:Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome;C1961835:Gaucher disease type I",
+    1
+   ],
+   [
+    "Thrombocytopenia;C1458140:Abnormal bleeding",
+    1
+   ],
+   [
+    "Gaucher disease;C0268250:Gaucher disease type II;C0268251:Gaucher disease type III;C1842704:Gaucher disease perinatal lethal;C1856476:Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome;C1961835:Gaucher disease type I",
+    1
+   ]
+  ],
+  "ALS2": [
+   [
+    "Infantile-onset ascending hereditary spastic paralysis",
+    63
+   ],
+   [
+    "Juvenile primary lateral sclerosis",
+    8
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Tip-toe gait",
+    1
+   ],
+   [
+    "Abnormal central motor function",
+    1
+   ]
+  ],
+  "DICER1": [
+   [
+    "DICER1-related tumor predisposition",
+    678
+   ],
+   [
+    "Hereditary cancer-predisposing syndrome",
+    245
+   ],
+   [
+    "Pleuropulmonary blastoma",
+    21
+   ],
+   [
+    "Euthyroid goiter",
+    12
+   ],
+   [
+    "Rhabdomyosarcoma, embryonal, 2",
+    5
+   ],
+   [
+    "Pineoblastoma",
+    5
+   ],
+   [
+    "Rhabdomyosarcoma",
+    2
+   ],
+   [
+    "Pleuropulmonary blastoma;C1867234:Rhabdomyosarcoma, embryonal, 2",
+    1
+   ]
+  ],
+  "BSCL2": [
+   [
+    "Congenital generalized lipodystrophy type 2",
+    22
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 2",
+    18
+   ],
+   [
+    "Lipodystrophy",
+    2
+   ],
+   [
+    "Neuronopathy, distal hereditary motor, type 5C",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "PANK2": [
+   [
+    "Pigmentary pallidal degeneration",
+    75
+   ],
+   [
+    "Dystonic disorder",
+    1
+   ],
+   [
+    "Pigmentary pallidal degeneration;C1846582:Hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration",
+    1
+   ],
+   [
+    "Cone-rod dystrophy",
+    1
+   ],
+   [
+    "Retinal dystrophy",
+    1
+   ]
+  ],
+  "PNKP": [
+   [
+    "Inborn genetic diseases",
+    7
+   ],
+   [
+    "Abnormality of the nervous system",
+    2
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 2B2",
+    2
+   ]
+  ],
+  "ELOVL4": [
+   [
+    "Stargardt disease 3",
+    4
+   ]
+  ],
+  "TREM2": [
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Polycystic lipomembranous osteodysplasia with sclerosing leukoencephaly",
+    1
+   ]
+  ],
+  "CYLD": [
+   [
+    "Familial cylindromatosis",
+    17
+   ],
+   [
+    "Brooke-Spiegler syndrome",
+    14
+   ],
+   [
+    "na:Multiple monogenic benign skin tumours",
+    8
+   ],
+   [
+    "Familial multiple trichoepitheliomata",
+    2
+   ],
+   [
+    "Familial cylindromatosis;C1857941:Brooke-Spiegler syndrome;CN296585:Trichoepithelioma, multiple familial, 1",
+    2
+   ],
+   [
+    "SLC35A2-congenital disorder of glycosylation",
+    1
+   ],
+   [
+    "Multiple myeloma",
+    1
+   ]
+  ],
+  "CYP7B1": [
+   [
+    "Congenital bile acid synthesis defect 3",
+    3
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "CHD7-related CHARGE syndrome",
+    2
+   ]
+  ],
+  "SMARCA4": [
+   [
+    "Rhabdoid tumor predisposition syndrome 2",
+    157
+   ],
+   [
+    "Hereditary cancer-predisposing syndrome",
+    86
+   ],
+   [
+    "Anophthalmia-microphthalmia syndrome",
+    1
+   ],
+   [
+    "Neuroblastoma",
+    1
+   ]
+  ],
+  "PNPLA6": [
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "Trichomegaly-retina pigmentary degeneration-dwarfism syndrome",
+    1
+   ],
+   [
+    "Retinal dystrophy",
+    1
+   ],
+   [
+    "Laurence-Moon syndrome",
+    1
+   ],
+   [
+    "Rod-cone dystrophy",
+    1
+   ],
+   [
+    "Hypogonadism with anosmia",
+    1
+   ]
+  ],
+  "ADGRV1": [
+   [
+    "Usher syndrome type 2C",
+    74
+   ],
+   [
+    "Usher syndrome",
+    30
+   ],
+   [
+    "Rare genetic deafness",
+    21
+   ],
+   [
+    "Retinal dystrophy",
+    16
+   ],
+   [
+    "na:Monogenic hearing loss",
+    7
+   ],
+   [
+    "Retinal disorder",
+    6
+   ],
+   [
+    "Usher syndrome type 2",
+    5
+   ],
+   [
+    "Retinitis pigmentosa",
+    2
+   ]
+  ],
+  "MTRR": [
+   [
+    "Methylcobalamin deficiency type cblE",
+    101
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Homocystinuria without methylmalonic aciduria",
+    1
+   ]
+  ],
+  "PRKN": [
+   [
+    "Lung adenocarcinoma",
+    1
+   ]
+  ],
+  "OPTN": [
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "Glaucoma 1, open angle, E",
+    1
+   ]
+  ],
+  "KCNQ2": [
+   [
+    "Early-infantile DEE",
+    165
+   ],
+   [
+    "Inborn genetic diseases",
+    17
+   ]
+  ],
+  "VRK1": [
+   [
+    "Inborn genetic diseases",
+    4
+   ],
+   [
+    "Neuronopathy, distal hereditary motor, autosomal recessive 10",
+    4
+   ],
+   [
+    "Abnormality of the musculature",
+    1
+   ],
+   [
+    "Spinal muscular atrophy",
+    1
+   ]
+  ],
+  "KMT2D": [
+   [
+    "Kabuki syndrome 1",
+    576
+   ],
+   [
+    "Kabuki syndrome",
+    232
+   ],
+   [
+    "Inborn genetic diseases",
+    32
+   ],
+   [
+    "Choanal atresia-athelia-hypothyroidism-delayed puberty-short stature syndrome;CN030661:Kabuki syndrome 1",
+    16
+   ],
+   [
+    "Branchial cleft anomaly",
+    5
+   ],
+   [
+    "Choanal atresia-athelia-hypothyroidism-delayed puberty-short stature syndrome",
+    3
+   ],
+   [
+    "Lung cancer",
+    2
+   ],
+   [
+    "Primary ciliary dyskinesia",
+    2
+   ]
+  ],
+  "SMARCB1": [
+   [
+    "Hereditary cancer-predisposing syndrome",
+    19
+   ],
+   [
+    "Rhabdoid tumor predisposition syndrome 1",
+    17
+   ],
+   [
+    "SMARCB1-related schwannomatosis",
+    5
+   ],
+   [
+    "Malignant rhabdoid tumor, somatic",
+    1
+   ],
+   [
+    "Schwannomatosis 1, somatic",
+    1
+   ],
+   [
+    "Teratoid tumor, atypical",
+    1
+   ],
+   [
+    "Schwannomatosis",
+    1
+   ]
+  ],
+  "SQSTM1": [
+   [
+    "Paget disease of bone 3",
+    3
+   ],
+   [
+    "na:Rare neuromuscular disorders",
+    1
+   ]
+  ],
+  "PTCH1": [
+   [
+    "Gorlin syndrome",
+    407
+   ],
+   [
+    "Hereditary cancer-predisposing syndrome",
+    106
+   ],
+   [
+    "Basal cell nevus syndrome 1",
+    47
+   ],
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "Basal cell carcinoma, susceptibility to, 1",
+    4
+   ],
+   [
+    "Medulloblastoma",
+    1
+   ],
+   [
+    "Rhabdomyosarcoma",
+    1
+   ],
+   [
+    "Precocious puberty;C0220697:Postaxial polydactyly;C1849265:Overgrowth;C2243051:Macrocephaly",
+    1
+   ]
+  ],
+  "CASR": [
+   [
+    "Familial hypocalciuric hypercalcemia;C3715128:Autosomal dominant hypocalcemia 1",
+    99
+   ],
+   [
+    "Familial hypocalciuric hypercalcemia 1",
+    21
+   ],
+   [
+    "Familial hypocalciuric hypercalcemia",
+    21
+   ],
+   [
+    "Neonatal severe primary hyperparathyroidism",
+    9
+   ],
+   [
+    "Nephrolithiasis/nephrocalcinosis",
+    9
+   ],
+   [
+    "na:Familial hyperparathyroidism or Hypocalciuric hypercalcaemia",
+    3
+   ],
+   [
+    "Autosomal dominant hypocalcemia 1",
+    2
+   ],
+   [
+    "na:CASR-related calcium metabolism disorders",
+    1
+   ]
+  ],
+  "SHH": [
+   [
+    "Solitary median maxillary central incisor syndrome",
+    4
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "Microphthalmia, isolated, with coloboma 5",
+    1
+   ]
+  ],
+  "MEF2C": [
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "5q14.3 microdeletion syndrome",
+    1
+   ],
+   [
+    "na:MEF2C Haploinsufficiency Syndrome",
+    1
+   ]
+  ],
+  "NRXN1": [
+   [
+    "Pitt-Hopkins-like syndrome 2",
+    38
+   ],
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "na:Paediatric disorders",
+    1
+   ]
+  ],
+  "TTPA": [
+   [
+    "Familial isolated deficiency of vitamin E",
+    75
+   ],
+   [
+    "Retinal dystrophy",
+    2
+   ],
+   [
+    "CHD7-related CHARGE syndrome",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Abnormal central motor function",
+    1
+   ]
+  ],
+  "GCH1": [
+   [
+    "Dystonic disorder",
+    2
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "GTP cyclohydrolase I deficiency",
+    1
+   ]
+  ],
+  "PIGA": [
+   [
+    "Paroxysmal nocturnal hemoglobinuria",
+    7
+   ],
+   [
+    "Paroxysmal nocturnal hemoglobinuria 1",
+    5
+   ]
+  ],
+  "PLP1": [
+   [
+    "Pelizaeus-Merzbacher disease",
+    27
+   ],
+   [
+    "Pelizaeus-Merzbacher disease, atypical",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "na:Hypotonic infant",
+    1
+   ],
+   [
+    "Spasticity",
+    1
+   ]
+  ],
+  "ARX": [
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Generalized hypotonia",
+    1
+   ],
+   [
+    "Abnormal synaptic transmission",
+    1
+   ],
+   [
+    "Partington syndrome",
+    1
+   ]
+  ],
+  "IL1RAPL1": [
+   [
+    "Inborn genetic diseases",
+    2
+   ]
+  ],
+  "DCX": [
+   [
+    "Ectopic tissue",
+    22
+   ],
+   [
+    "Abnormal cortical gyration",
+    5
+   ],
+   [
+    "Inborn genetic diseases",
+    4
+   ],
+   [
+    "Abnormality of the nervous system",
+    1
+   ]
+  ],
+  "RPS6KA3": [
+   [
+    "Coffin-Lowry syndrome",
+    35
+   ],
+   [
+    "Inborn genetic diseases",
+    10
+   ]
+  ],
+  "MECP2": [
+   [
+    "Inborn genetic diseases",
+    31
+   ],
+   [
+    "Abnormality of the nervous system",
+    2
+   ],
+   [
+    "na:Hypotonic infant;na:Paediatric disorders",
+    1
+   ],
+   [
+    "Dystonic disorder;C0037052:Sick sinus syndrome;C0038450:Stridor;C0264303:Congenital laryngomalacia;C1842364:Central hypotonia;C1851400:Facial hypertrichosis;C1854838:Progressive neurologic deterioration;C3887548:Central apnea;C4021083:Abnormal synaptic transmission;C4021663:Abnormal muscle fiber morphology;C4024896:Motor neuron atrophy;C4082299:Bulbar palsy",
+    1
+   ],
+   [
+    "Developmental disorder",
+    1
+   ],
+   [
+    "na:Paediatric disorders",
+    1
+   ]
+  ],
+  "PSAP": [
+   [
+    "Sphingolipid activator protein 1 deficiency",
+    27
+   ],
+   [
+    "Combined PSAP deficiency",
+    2
+   ],
+   [
+    "Gaucher disease due to saposin C deficiency",
+    1
+   ],
+   [
+    "Sphingolipid activator protein 1 deficiency;C1864651:Gaucher disease due to saposin C deficiency;C2673266:Krabbe disease due to saposin A deficiency;C2673635:Combined PSAP deficiency",
+    1
+   ],
+   [
+    "Krabbe disease due to saposin A deficiency",
+    1
+   ]
+  ],
+  "GLI2": [
+   [
+    "Postaxial polydactyly-anterior pituitary anomalies-facial dysmorphism syndrome",
+    17
+   ],
+   [
+    "Inborn genetic diseases",
+    8
+   ],
+   [
+    "Combined pituitary hormone deficiencies, genetic form",
+    1
+   ]
+  ],
+  "MTTP": [
+   [
+    "Abetalipoproteinaemia",
+    177
+   ],
+   [
+    "Abetalipoproteinaemia;C4552048:Metabolic syndrome X",
+    2
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "MTR": [
+   [
+    "Methylcobalamin deficiency type cblG",
+    55
+   ]
+  ],
+  "SLC2A1": [
+   [
+    "GLUT1 deficiency syndrome 1, autosomal recessive",
+    67
+   ],
+   [
+    "Inborn genetic diseases",
+    11
+   ],
+   [
+    "Childhood onset GLUT1 deficiency syndrome 2",
+    8
+   ],
+   [
+    "GLUT1 deficiency syndrome",
+    3
+   ]
+  ],
+  "FGFR1": [
+   [
+    "Hypogonadotropic hypogonadism 2 with or without anosmia",
+    62
+   ],
+   [
+    "Pfeiffer syndrome;C1563720:Hypogonadotropic hypogonadism 2 with or without anosmia",
+    28
+   ],
+   [
+    "Hypogonadotropic hypogonadism",
+    3
+   ],
+   [
+    "Delayed puberty",
+    3
+   ],
+   [
+    "Hypogonadotropic hypogonadism 7 with or without anosmia",
+    2
+   ],
+   [
+    "Pfeiffer syndrome;C0406612:Encephalocraniocutaneous lipomatosis;C0432122:Trigonocephaly 1;C0432283:Osteoglophonic dysplasia;C0795998:Jackson-Weiss syndrome;C1563720:Hypogonadotropic hypogonadism 2 with or without anosmia;C1845146:Hartsfield-Bixler-Demyer syndrome",
+    2
+   ],
+   [
+    "Multiple epiphyseal dysplasia",
+    2
+   ],
+   [
+    "Encephalocraniocutaneous lipomatosis",
+    1
+   ]
+  ],
+  "FTL": [
+   [
+    "Neuroferritinopathy",
+    8
+   ],
+   [
+    "Hereditary hyperferritinemia with congenital cataracts;C1853578:Neuroferritinopathy",
+    3
+   ],
+   [
+    "L-ferritin deficiency",
+    2
+   ],
+   [
+    "L-FERRITIN DEFICIENCY, AUTOSOMAL RECESSIVE",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "COL6A3": [
+   [
+    "Bethlem myopathy 1A",
+    77
+   ],
+   [
+    "Ullrich congenital muscular dystrophy 1A",
+    9
+   ],
+   [
+    "Ullrich congenital muscular dystrophy 1C",
+    4
+   ],
+   [
+    "Bethlem myopathy 1C",
+    3
+   ],
+   [
+    "Limb-girdle muscular dystrophy",
+    1
+   ],
+   [
+    "Myopathy",
+    1
+   ],
+   [
+    "Collagen 6-related myopathy",
+    1
+   ],
+   [
+    "Bethlem myopathy 1C;C5935583:Ullrich congenital muscular dystrophy 1C",
+    1
+   ]
+  ],
+  "CP": [
+   [
+    "Deficiency of ferroxidase",
+    61
+   ],
+   [
+    "Hermansky-Pudlak syndrome 3",
+    4
+   ],
+   [
+    "na:CERULOPLASMIN BELFAST",
+    1
+   ],
+   [
+    "Hermansky-Pudlak syndrome",
+    1
+   ],
+   [
+    "na:Iron metabolism disorders",
+    1
+   ]
+  ],
+  "APOB": [
+   [
+    "Hypercholesterolemia, autosomal dominant, type B;C4551990:Familial hypobetalipoproteinemia 1",
+    136
+   ],
+   [
+    "Familial hypobetalipoproteinemia 1",
+    26
+   ],
+   [
+    "Hypercholesterolemia, autosomal dominant, type B",
+    25
+   ],
+   [
+    "Familial hypobetalipoproteinemia",
+    15
+   ],
+   [
+    "Hypercholesterolemia, familial, 1",
+    15
+   ],
+   [
+    "Hypobetalipoproteinemia",
+    12
+   ],
+   [
+    "Cardiovascular phenotype",
+    12
+   ],
+   [
+    "Familial hypercholesterolemia",
+    3
+   ]
+  ],
+  "ANGPTL3": [
+   [
+    "Familial hypobetalipoproteinemia 2",
+    5
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "COL3A1": [
+   [
+    "Ehlers-Danlos syndrome, type 4",
+    120
+   ],
+   [
+    "Familial thoracic aortic aneurysm and aortic dissection",
+    42
+   ],
+   [
+    "Familial aortopathy",
+    4
+   ],
+   [
+    "Cardiovascular phenotype",
+    2
+   ],
+   [
+    "Ehlers-Danlos syndrome",
+    2
+   ],
+   [
+    "Aortic dissection",
+    1
+   ],
+   [
+    "Ehlers-Danlos syndrome, type 3;C0268338:Ehlers-Danlos syndrome, type 4",
+    1
+   ],
+   [
+    "na:Thoracic aortic aneurysm or dissection",
+    1
+   ]
+  ],
+  "ARID1A": [
+   [
+    "Malignant tumor of urinary bladder",
+    20
+   ],
+   [
+    "Inborn genetic diseases",
+    6
+   ],
+   [
+    "na:ARID1A-related BAFopathy",
+    5
+   ],
+   [
+    "Coffin-Siris syndrome 1",
+    2
+   ],
+   [
+    "Coffin-Siris syndrome",
+    1
+   ],
+   [
+    "Colorectal cancer",
+    1
+   ],
+   [
+    "Non-immune hydrops fetalis",
+    1
+   ],
+   [
+    "Septo-optic dysplasia sequence",
+    1
+   ]
+  ],
+  "RTN2": [
+   [
+    "Neuronopathy, distal hereditary motor, autosomal recessive 11, with spasticity",
+    4
+   ]
+  ],
+  "PLA2G6": [
+   [
+    "Infantile neuroaxonal dystrophy",
+    56
+   ],
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Abnormality of the nervous system",
+    1
+   ]
+  ],
+  "NEK1": [
+   [
+    "Short-rib thoracic dysplasia 6 with or without polydactyly",
+    78
+   ],
+   [
+    "Asphyxiating thoracic dystrophy 3",
+    2
+   ],
+   [
+    "Mohr syndrome",
+    1
+   ],
+   [
+    "Short rib-polydactyly syndrome",
+    1
+   ],
+   [
+    "na:Fetal anomalies with a likely genetic cause",
+    1
+   ],
+   [
+    "Short-rib thoracic dysplasia 6 with or without polydactyly;C0026363:Mohr syndrome",
+    1
+   ]
+  ],
+  "SHANK3": [
+   [
+    "Phelan-McDermid syndrome",
+    100
+   ],
+   [
+    "Inborn genetic diseases",
+    19
+   ],
+   [
+    "Autistic behavior",
+    1
+   ],
+   [
+    "na:Paediatric disorders",
+    1
+   ]
+  ],
+  "AP4E1": [
+   [
+    "Stuttering, familial persistent, 1",
+    1
+   ],
+   [
+    "ALG12-congenital disorder of glycosylation",
+    1
+   ],
+   [
+    "Abnormality of the nervous system",
+    1
+   ],
+   [
+    "Stuttering",
+    1
+   ]
+  ],
+  "POLR1C": [
+   [
+    "Treacher Collins syndrome 3",
+    3
+   ]
+  ],
+  "PRRT2": [
+   [
+    "Infantile convulsions and choreoathetosis",
+    27
+   ],
+   [
+    "Inborn genetic diseases",
+    9
+   ],
+   [
+    "PRRT2-associated paroxysmal movement disorder",
+    3
+   ],
+   [
+    "na:Paroxysmal central nervous system disorders",
+    2
+   ],
+   [
+    "na:PRRT2-Associated Paroxysmal Movement Disorders",
+    1
+   ],
+   [
+    "na:PRRT2 insufficiency",
+    1
+   ],
+   [
+    "Convulsions",
+    1
+   ]
+  ],
+  "EPG5": [
+   [
+    "Vici syndrome",
+    187
+   ],
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Syndromic retinitis pigmentosa",
+    1
+   ]
+  ],
+  "TBC1D24": [
+   [
+    "DOORS syndrome",
+    8
+   ],
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "Autosomal recessive nonsyndromic hearing loss 86",
+    4
+   ],
+   [
+    "Autosomal dominant nonsyndromic hearing loss 65",
+    2
+   ],
+   [
+    "na:Monogenic hearing loss",
+    1
+   ]
+  ],
+  "KIF1A": [
+   [
+    "Neuropathy, hereditary sensory, type 2C",
+    3
+   ],
+   [
+    "Neuropathy, hereditary sensory and autonomic, type 2A",
+    2
+   ]
+  ],
+  "CLCN2": [
+   [
+    "Familial hyperaldosteronism type II",
+    1
+   ]
+  ],
+  "CSF1R": [
+   [
+    "Inborn genetic diseases",
+    2
+   ]
+  ],
+  "WWOX": [
+   [
+    "Abnormality of the nervous system",
+    2
+   ],
+   [
+    "na:WWOX-related diosrder",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "West syndrome",
+    1
+   ]
+  ],
+  "RELN": [
+   [
+    "Norman-Roberts syndrome",
+    16
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ]
+  ],
+  "AARS2": [
+   [
+    "Combined oxidative phosphorylation defect type 8",
+    7
+   ],
+   [
+    "Cardiovascular phenotype",
+    3
+   ],
+   [
+    "Pulmonary hypoplasia",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "na:Fetal anomalies with a likely genetic cause",
+    1
+   ]
+  ],
+  "ALDH18A1": [
+   [
+    "ALDH18A1-related de Barsy syndrome",
+    6
+   ],
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "Cutis laxa, autosomal dominant 3",
+    1
+   ]
+  ],
+  "SETBP1": [
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "Schinzel-Giedion syndrome",
+    3
+   ],
+   [
+    "Abnormality of the nervous system",
+    1
+   ],
+   [
+    "Developmental disorder",
+    1
+   ]
+  ],
+  "SMC1A": [
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "na:SMC1A-related cohesinopathy",
+    2
+   ],
+   [
+    "Abnormality of the nervous system",
+    1
+   ],
+   [
+    "De Lange syndrome",
+    1
+   ]
+  ],
+  "KIF14": [
+   [
+    "Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome",
+    4
+   ]
+  ],
+  "COQ4": [
+   [
+    "Neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome",
+    15
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "ATL1": [
+   [
+    "Neuropathy, hereditary sensory, type 1D",
+    1
+   ]
+  ],
+  "SCN1B": [
+   [
+    "Brugada syndrome 5",
+    15
+   ],
+   [
+    "Cardiovascular phenotype",
+    1
+   ]
+  ],
+  "TBK1": [
+   [
+    "Autoinflammation with arthritis and vasculitis",
+    2
+   ],
+   [
+    "Primary progressive non fluent aphasia;C5575119:Corticobasal syndrome",
+    1
+   ]
+  ],
+  "PI4KA": [
+   [
+    "Gastrointestinal defects and immunodeficiency syndrome 2",
+    1
+   ]
+  ],
+  "SIGMAR1": [
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "Autosomal recessive distal spinal muscular atrophy 2",
+    1
+   ]
+  ],
+  "RAD21": [
+   [
+    "Cornelia de Lange syndrome 4",
+    33
+   ],
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Acute megakaryoblastic leukemia in down syndrome",
+    1
+   ],
+   [
+    "Cornelia de Lange syndrome 1",
+    1
+   ]
+  ],
+  "COQ2": [
+   [
+    "Coenzyme Q10 deficiency, primary, 1",
+    5
+   ],
+   [
+    "Coenzyme Q10 deficiency, primary, 1;C3714927:Multiple system atrophy 1, susceptibility to",
+    5
+   ],
+   [
+    "Multiple system atrophy",
+    1
+   ],
+   [
+    "Nephrotic syndrome",
+    1
+   ],
+   [
+    "Multiple system atrophy 1, susceptibility to",
+    1
+   ]
+  ],
+  "ITPA": [
+   [
+    "Inosine triphosphatase deficiency",
+    12
+   ],
+   [
+    "Hypodontia",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "SETD2": [
+   [
+    "Luscan-Lumish syndrome",
+    26
+   ],
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "Acute megakaryoblastic leukemia without down syndrome",
+    2
+   ]
+  ],
+  "DLG4": [
+   [
+    "Inborn genetic diseases",
+    4
+   ]
+  ],
+  "ZFHX3": [
+   [
+    "Atrial fibrillation, familial, 8",
+    1
+   ],
+   [
+    "Familial prostate cancer",
+    1
+   ],
+   [
+    "na:ZFHX3-associated disorder",
+    1
+   ]
+  ],
+  "PIGG": [
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Emm-null phenotype",
+    1
+   ]
+  ],
+  "TBL1XR1": [
+   [
+    "Pierpont syndrome",
+    15
+   ],
+   [
+    "Malignant lymphoma, large B-cell, diffuse",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "ITPR1": [
+   [
+    "Gillespie syndrome",
+    6
+   ]
+  ],
+  "MME": [
+   [
+    "Charcot-Marie-Tooth disease axonal type 2T",
+    42
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 2T",
+    1
+   ],
+   [
+    "na:Hereditary neuropathy or pain disorder",
+    1
+   ],
+   [
+    "Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization",
+    1
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 2",
+    1
+   ],
+   [
+    "na:MME-related distal hereditary motor neuropathies",
+    1
+   ]
+  ],
+  "MED12": [
+   [
+    "Cholestasis-pigmentary retinopathy-cleft palate syndrome",
+    14
+   ],
+   [
+    "Familial thoracic aortic aneurysm and aortic dissection",
+    3
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "FG syndrome",
+    1
+   ]
+  ],
+  "HTRA2": [
+   [
+    "3-methylglutaconic aciduria type 8",
+    3
+   ]
+  ],
+  "SLC25A46": [
+   [
+    "Neuropathy, hereditary motor and sensory, type 6B",
+    11
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ]
+  ],
+  "KMT2B": [
+   [
+    "Inborn genetic diseases",
+    11
+   ],
+   [
+    "Dystonic disorder",
+    2
+   ],
+   [
+    "na:Paediatric disorders",
+    1
+   ]
+  ],
+  "FARS2": [
+   [
+    "Combined oxidative phosphorylation defect type 14",
+    25
+   ],
+   [
+    "Inborn genetic diseases",
+    3
+   ],
+   [
+    "Leigh syndrome",
+    2
+   ],
+   [
+    "Autosomal dominant Alport syndrome",
+    1
+   ]
+  ],
+  "PPM1D": [
+   [
+    "Inborn genetic diseases",
+    9
+   ],
+   [
+    "Familial cancer of breast",
+    3
+   ]
+  ],
+  "ATP1A3": [
+   [
+    "Alternating hemiplegia of childhood 2",
+    1
+   ]
+  ],
+  "AARS1": [
+   [
+    "Charcot-Marie-Tooth disease type 2",
+    40
+   ],
+   [
+    "Charcot-Marie-Tooth disease axonal type 2N",
+    5
+   ],
+   [
+    "Inborn genetic diseases",
+    3
+   ]
+  ],
+  "PNPT1": [
+   [
+    "Autosomal recessive nonsyndromic hearing loss 70",
+    3
+   ],
+   [
+    "Combined oxidative phosphorylation defect type 13",
+    3
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "na:Monogenic hearing loss",
+    1
+   ]
+  ],
+  "SMC3": [
+   [
+    "Cornelia de Lange syndrome 3",
+    9
+   ],
+   [
+    "Inborn genetic diseases",
+    3
+   ]
+  ],
+  "EARS2": [],
+  "ATP1A2": [
+   [
+    "Inborn genetic diseases",
+    1
+   ],
+   [
+    "Hemiplegia",
+    1
+   ]
+  ],
+  "CFAP410": [
+   [
+    "Retinal dystrophy with or without macular staphyloma",
+    5
+   ],
+   [
+    "Retinal dystrophy",
+    4
+   ],
+   [
+    "Axial spondylometaphyseal dysplasia",
+    3
+   ],
+   [
+    "Retinitis pigmentosa",
+    2
+   ],
+   [
+    "Axial spondylometaphyseal dysplasia;C4479651:Retinal dystrophy with or without macular staphyloma",
+    1
+   ],
+   [
+    "Cone-rod dystrophy",
+    1
+   ]
+  ],
+  "NKX6-2": [],
+  "KCNMA1": [
+   [
+    "Liang-Wang syndrome",
+    1
+   ]
+  ],
+  "MTHFD1": [
+   [
+    "Severe combined immunodeficiency disease",
+    4
+   ],
+   [
+    "Combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia",
+    2
+   ]
+  ],
+  "ATAD3A": [
+   [
+    "Harel-Yoon syndrome",
+    4
+   ]
+  ],
+  "NUS1": [
+   [
+    "Congenital disorder of glycosylation, type Iaa",
+    27
+   ],
+   [
+    "Inborn genetic diseases",
+    4
+   ]
+  ],
+  "CUL3": [
+   [
+    "Inborn genetic diseases",
+    13
+   ],
+   [
+    "Pseudohypoaldosteronism type 2E",
+    3
+   ],
+   [
+    "Abnormal cardiovascular system morphology",
+    1
+   ]
+  ],
+  "ADCY5": [
+   [
+    "Inborn genetic diseases",
+    3
+   ]
+  ],
+  "PRODH": [
+   [
+    "Proline dehydrogenase deficiency",
+    12
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "IRF2BPL": [
+   [
+    "Inborn genetic diseases",
+    8
+   ]
+  ],
+  "STAG2": [
+   [
+    "Mullegama-Klein-Martinez syndrome",
+    10
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "KCNQ3": [],
+  "IBA57": [
+   [
+    "Multiple mitochondrial dysfunctions syndrome 3",
+    10
+   ],
+   [
+    "Inborn genetic diseases",
+    1
+   ]
+  ],
+  "MAP1B": [
+   [
+    "Inborn genetic diseases",
+    5
+   ],
+   [
+    "Hearing loss, autosomal dominant 83",
+    1
+   ],
+   [
+    "Chromosome 5Q14.3 deletion syndrome, distal",
+    1
+   ]
+  ],
+  "WASHC5": [
+   [
+    "Ritscher-Schinzel syndrome 1",
+    5
+   ],
+   [
+    "Inborn genetic diseases",
+    2
+   ],
+   [
+    "Lower limb spasticity",
+    1
+   ]
+  ],
+  "AFG3L2": [
+   [
+    "Optic atrophy 12",
+    2
+   ]
+  ],
+  "DMXL2": [],
+  "SPTAN1": [
+   [
+    "Early-infantile DEE",
+    22
+   ],
+   [
+    "Neuronopathy, distal hereditary motor, autosomal dominant 11",
+    11
+   ],
+   [
+    "Inborn genetic diseases",
+    6
+   ],
+   [
+    "Distal lower limb muscle weakness",
+    1
+   ]
+  ],
+  "HK1": [
+   [
+    "Charcot-Marie-Tooth disease type 4G",
+    3
+   ],
+   [
+    "Retinitis pigmentosa 79",
+    1
+   ],
+   [
+    "Charcot-Marie-Tooth disease type 4G;C3150343:Hemolytic anemia due to hexokinase deficiency",
+    1
+   ]
+  ],
+  "WDR11": [
+   [
+    "Hypogonadotropic hypogonadism 14 with or without anosmia",
+    4
+   ]
+  ],
+  "PIGB": [],
+  "NARS1": [
+   [
+    "Mitochondrial complex 1 deficiency, nuclear type 35",
+    1
+   ],
+   [
+    "Developmental disorder",
+    1
+   ]
+  ],
+  "CNOT1": [
+   [
+    "Vissers-Bodmer syndrome",
+    17
+   ],
+   [
+    "Inborn genetic diseases",
+    4
+   ],
+   [
+    "CNOT1-Related Vissers-Bodmer Syndrome",
+    1
+   ]
+  ],
+  "HPDL": [
+   [
+    "Inborn genetic diseases",
+    5
+   ]
+  ],
+  "GNB1": [
+   [
+    "Inborn genetic diseases",
+    3
+   ]
+  ],
+  "DYNC1H1": [
+   [
+    "Charcot-Marie-Tooth disease axonal type 2O",
+    2
+   ]
+  ],
+  "MINPP1": []
+ }
+}

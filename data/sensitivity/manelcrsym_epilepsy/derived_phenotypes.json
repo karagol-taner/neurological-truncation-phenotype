@@ -1,0 +1,493 @@
+{
+ "dual_phenotype_genes": {
+  "AARS1": {
+   "n_conditions": 5,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Charcot-Marie-Tooth disease axonal type 2N",
+    "Leukoencephalopathy, hereditary diffuse, with spheroids 2",
+    "Trichothiodystrophy 8, nonphotosensitive"
+   ],
+   "positioned_ptv": 53
+  },
+  "ACTL6B": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual developmental disorder with severe speech and ambulation defects"
+   ],
+   "positioned_ptv": 25
+  },
+  "ADGRV1": {
+   "n_conditions": 3,
+   "other": [
+    "Usher syndrome type 2",
+    "Usher syndrome type 2C"
+   ],
+   "positioned_ptv": 546
+  },
+  "ARX": {
+   "n_conditions": 5,
+   "other": [
+    "Corpus callosum agenesis-abnormal genitalia syndrome",
+    "Partington syndrome",
+    "X-linked lissencephaly with abnormal genitalia"
+   ],
+   "positioned_ptv": 93
+  },
+  "ATP1A2": {
+   "n_conditions": 5,
+   "other": [
+    "Alternating hemiplegia of childhood 1",
+    "Familial hemiplegic migraine",
+    "Fetal akinesia, respiratory insufficiency, microcephaly, polymicrogyria, and dysmorphic facies",
+    "Migraine, familial hemiplegic, 2"
+   ],
+   "positioned_ptv": 45
+  },
+  "ATP1A3": {
+   "n_conditions": 5,
+   "other": [
+    "ATP1A3-related disorder",
+    "Alternating hemiplegia of childhood 2",
+    "Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome",
+    "Dystonia 12"
+   ],
+   "positioned_ptv": 15
+  },
+  "ATP6V1A": {
+   "n_conditions": 2,
+   "other": [
+    "Autosomal recessive cutis laxa type 2D"
+   ],
+   "positioned_ptv": 0
+  },
+  "CACNA1A": {
+   "n_conditions": 7,
+   "other": [
+    "Episodic ataxia type 2",
+    "Familial hemiplegic migraine",
+    "Hereditary ataxia",
+    "Migraine, familial hemiplegic, 1",
+    "Spinocerebellar ataxia type 6"
+   ],
+   "positioned_ptv": 313
+  },
+  "CACNA1H": {
+   "n_conditions": 2,
+   "other": [
+    "Hyperaldosteronism, familial, type IV"
+   ],
+   "positioned_ptv": 1
+  },
+  "CACNA2D1": {
+   "n_conditions": 2,
+   "other": [
+    "Brugada syndrome"
+   ],
+   "positioned_ptv": 2
+  },
+  "CACNB4": {
+   "n_conditions": 2,
+   "other": [
+    "Episodic ataxia type 5"
+   ],
+   "positioned_ptv": 1
+  },
+  "CASR": {
+   "n_conditions": 5,
+   "other": [
+    "Autosomal dominant hypocalcemia 1",
+    "Familial hypocalciuric hypercalcemia 1",
+    "Neonatal severe primary hyperparathyroidism",
+    "Pancreatitis"
+   ],
+   "positioned_ptv": 167
+  },
+  "CILK1": {
+   "n_conditions": 3,
+   "other": [
+    "Cranioectodermal dysplasia 6",
+    "Endocrine-cerebro-osteodysplasia syndrome"
+   ],
+   "positioned_ptv": 3
+  },
+  "CLCN2": {
+   "n_conditions": 3,
+   "other": [
+    "Familial hyperaldosteronism type II",
+    "Leukoencephalopathy with mild cerebellar ataxia and white matter edema"
+   ],
+   "positioned_ptv": 27
+  },
+  "DMXL2": {
+   "n_conditions": 3,
+   "other": [
+    "Hearing loss, autosomal dominant 71",
+    "Polyendocrine-polyneuropathy syndrome"
+   ],
+   "positioned_ptv": 51
+  },
+  "EEF1A2": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual disability, autosomal dominant 38"
+   ],
+   "positioned_ptv": 0
+  },
+  "EPM2A": {
+   "n_conditions": 2,
+   "other": [
+    "Lafora disease"
+   ],
+   "positioned_ptv": 31
+  },
+  "EXT2": {
+   "n_conditions": 3,
+   "other": [
+    "Exostoses, multiple, type 2",
+    "Multiple congenital exostosis"
+   ],
+   "positioned_ptv": 175
+  },
+  "FGF12": {
+   "n_conditions": 2,
+   "other": [
+    "Brugada syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "FGF13": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual developmental disorder, X-linked 110"
+   ],
+   "positioned_ptv": 1
+  },
+  "GABBR2": {
+   "n_conditions": 3,
+   "other": [
+    "Neurodevelopmental disorder with poor language and loss of hand skills",
+    "Tobacco addiction, susceptibility to"
+   ],
+   "positioned_ptv": 0
+  },
+  "GABRA2": {
+   "n_conditions": 2,
+   "other": [
+    "Alcohol dependence"
+   ],
+   "positioned_ptv": 2
+  },
+  "GLS": {
+   "n_conditions": 3,
+   "other": [
+    "Global developmental delay, progressive ataxia, and elevated glutamine",
+    "Infantile cataract, skin abnormalities, glutamate excess, and impaired intellectual development"
+   ],
+   "positioned_ptv": 8
+  },
+  "GLUL": {
+   "n_conditions": 2,
+   "other": [
+    "Congenital brain dysgenesis due to glutamine synthetase deficiency"
+   ],
+   "positioned_ptv": 1
+  },
+  "GNAO1": {
+   "n_conditions": 3,
+   "other": [
+    "GNAO1-related disorder",
+    "Neurodevelopmental disorder with involuntary movements"
+   ],
+   "positioned_ptv": 6
+  },
+  "GRIN1": {
+   "n_conditions": 4,
+   "other": [
+    "GRIN1-related complex neurodevelopmental disorder"
+   ],
+   "positioned_ptv": 20
+  },
+  "GRIN2B": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual disability, autosomal dominant 6"
+   ],
+   "positioned_ptv": 99
+  },
+  "HCN4": {
+   "n_conditions": 5,
+   "other": [
+    "Brugada syndrome",
+    "Brugada syndrome 8",
+    "Heritable Thoracic Aortic Disease",
+    "Sick sinus syndrome 2, autosomal dominant"
+   ],
+   "positioned_ptv": 3
+  },
+  "ITPA": {
+   "n_conditions": 2,
+   "other": [
+    "Inosine triphosphatase deficiency"
+   ],
+   "positioned_ptv": 21
+  },
+  "KCNC1": {
+   "n_conditions": 2,
+   "other": [
+    "KCNC1-related disorder"
+   ],
+   "positioned_ptv": 3
+  },
+  "KCNMA1": {
+   "n_conditions": 4,
+   "other": [
+    "Liang-Wang syndrome"
+   ],
+   "positioned_ptv": 20
+  },
+  "KCNQ2": {
+   "n_conditions": 3,
+   "other": [
+    "KCNQ2-Related Disorders"
+   ],
+   "positioned_ptv": 286
+  },
+  "KCNQ3": {
+   "n_conditions": 2,
+   "other": [
+    "KCNQ3-related disorder"
+   ],
+   "positioned_ptv": 11
+  },
+  "KCTD7": {
+   "n_conditions": 2,
+   "other": [
+    "Neuronal ceroid lipofuscinosis"
+   ],
+   "positioned_ptv": 17
+  },
+  "LMNB2": {
+   "n_conditions": 3,
+   "other": [
+    "Lipodystrophy, partial, acquired, susceptibility to",
+    "Microcephaly 27, primary, autosomal dominant"
+   ],
+   "positioned_ptv": 1
+  },
+  "NHLRC1": {
+   "n_conditions": 2,
+   "other": [
+    "Lafora disease"
+   ],
+   "positioned_ptv": 32
+  },
+  "NTRK2": {
+   "n_conditions": 2,
+   "other": [
+    "Obesity, hyperphagia, and developmental delay"
+   ],
+   "positioned_ptv": 4
+  },
+  "PIGB": {
+   "n_conditions": 2,
+   "other": [
+    "Acrofrontofacionasal dysostosis 1"
+   ],
+   "positioned_ptv": 18
+  },
+  "PPP3CA": {
+   "n_conditions": 2,
+   "other": [
+    "Arthrogryposis, cleft palate, craniosynostosis, and impaired intellectual development"
+   ],
+   "positioned_ptv": 24
+  },
+  "PRICKLE1": {
+   "n_conditions": 2,
+   "other": [
+    "PRICKLE1-related disorder"
+   ],
+   "positioned_ptv": 0
+  },
+  "PRRT2": {
+   "n_conditions": 4,
+   "other": [
+    "Episodic kinesigenic dyskinesia 1",
+    "Infantile convulsions and choreoathetosis",
+    "PRRT2-Related Disorder"
+   ],
+   "positioned_ptv": 126
+  },
+  "RELN": {
+   "n_conditions": 3,
+   "other": [
+    "Norman-Roberts syndrome"
+   ],
+   "positioned_ptv": 88
+  },
+  "SCN1A": {
+   "n_conditions": 6,
+   "other": [
+    "Familial hemiplegic migraine",
+    "Migraine, familial hemiplegic, 3"
+   ],
+   "positioned_ptv": 843
+  },
+  "SCN1B": {
+   "n_conditions": 5,
+   "other": [
+    "Atrial fibrillation, familial, 13",
+    "Brugada syndrome",
+    "Brugada syndrome 5"
+   ],
+   "positioned_ptv": 15
+  },
+  "SCN2A": {
+   "n_conditions": 3,
+   "other": [
+    "Episodic ataxia, type 9"
+   ],
+   "positioned_ptv": 213
+  },
+  "SCN3A": {
+   "n_conditions": 3,
+   "other": [
+    "SCN3A-Related Neurodevelopmental Disorder"
+   ],
+   "positioned_ptv": 8
+  },
+  "SCN8A": {
+   "n_conditions": 5,
+   "other": [
+    "Cognitive impairment with or without cerebellar ataxia",
+    "Myoclonus, familial, 2"
+   ],
+   "positioned_ptv": 71
+  },
+  "SETD1A": {
+   "n_conditions": 2,
+   "other": [
+    "Neurodevelopmental disorder with speech impairment and dysmorphic facies"
+   ],
+   "positioned_ptv": 64
+  },
+  "SLC2A1": {
+   "n_conditions": 6,
+   "other": [
+    "Childhood onset GLUT1 deficiency syndrome 2",
+    "Dystonia 9",
+    "Encephalopathy due to GLUT1 deficiency",
+    "GLUT1 deficiency syndrome",
+    "Hereditary cryohydrocytosis with reduced stomatin"
+   ],
+   "positioned_ptv": 160
+  },
+  "SLC6A1": {
+   "n_conditions": 2,
+   "other": [
+    "SLC6A1-related neurodevelopmental disorder"
+   ],
+   "positioned_ptv": 70
+  },
+  "SMC1A": {
+   "n_conditions": 4,
+   "other": [
+    "Congenital muscular hypertrophy-cerebral syndrome",
+    "De Lange syndrome",
+    "Holoprosencephaly sequence"
+   ],
+   "positioned_ptv": 107
+  },
+  "SNF8": {
+   "n_conditions": 2,
+   "other": [
+    "Neurodevelopmental disorder plus optic atrophy"
+   ],
+   "positioned_ptv": 2
+  },
+  "SPTAN1": {
+   "n_conditions": 4,
+   "other": [
+    "Neuronopathy, distal hereditary motor, autosomal dominant 11",
+    "Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia"
+   ],
+   "positioned_ptv": 70
+  },
+  "ST3GAL3": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual disability, autosomal recessive 12"
+   ],
+   "positioned_ptv": 6
+  },
+  "SYN1": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual disability, X-linked 50"
+   ],
+   "positioned_ptv": 57
+  },
+  "SYNJ1": {
+   "n_conditions": 3,
+   "other": [
+    "Early-onset Parkinson disease 20",
+    "Monogenic Parkinson Disease"
+   ],
+   "positioned_ptv": 40
+  },
+  "TBC1D24": {
+   "n_conditions": 7,
+   "other": [
+    "Autosomal dominant nonsyndromic hearing loss 65",
+    "Autosomal recessive nonsyndromic hearing loss 86",
+    "DOORS syndrome",
+    "TBC1D24-related disorder"
+   ],
+   "positioned_ptv": 61
+  },
+  "TMEM63B": {
+   "n_conditions": 2,
+   "other": [
+    "LUNG-BRAIN DEVELOPMENTAL DISORDER"
+   ],
+   "positioned_ptv": 2
+  },
+  "UBA5": {
+   "n_conditions": 2,
+   "other": [
+    "Spinocerebellar ataxia, autosomal recessive 24"
+   ],
+   "positioned_ptv": 21
+  },
+  "UFSP2": {
+   "n_conditions": 3,
+   "other": [
+    "Hip dysplasia, Beukes type",
+    "Spondyloepimetaphyseal dysplasia, di rocco type"
+   ],
+   "positioned_ptv": 2
+  },
+  "WWOX": {
+   "n_conditions": 3,
+   "other": [
+    "Autosomal recessive spinocerebellar ataxia 12",
+    "Malignant tumor of esophagus"
+   ],
+   "positioned_ptv": 48
+  },
+  "ZFHX3": {
+   "n_conditions": 5,
+   "other": [
+    "Atrial fibrillation, familial, 8",
+    "Familial prostate cancer",
+    "Hereditary ataxia",
+    "Spinocerebellar ataxia type 4"
+   ],
+   "positioned_ptv": 48
+  }
+ },
+ "n_dual": 62,
+ "n_dual_ge10": 39,
+ "n_isolated": 164
+}

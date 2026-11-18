@@ -1,0 +1,582 @@
+gene,tier,clinvar_symbols,uniprot,protein_length,plp_total,plp_ptv,plp_nonsense,plp_frameshift,plp_fs_fraction,plp_missense,plp_ptv_positioned,plp_ptv_rel_min,plp_ptv_rel_median,plp_ptv_rel_max,plp_ptv_frac_last_10pct,plp_ptv_frac_last_25pct,vus_total,vus_missense,benign_total,conflicting_total,isolated,syndromic
+PTEN,syndromic_only,PTEN,P60484,403,1352,790,160,630,0.797,294,790,0.002,0.457,0.943,0.008,0.138,1638,819,931,261,,Macrocephaly-autism syndrome
+DICER1,syndromic_only,DICER1,Q9UPY3,1922,882,665,217,448,0.674,50,665,0.002,0.53,0.955,0.065,0.232,3973,3667,2741,325,,Global developmental delay - lung cysts - overgrowth - Wilms tumor syndrome
+MECP2,isolated,MECP2,P51608,486,860,585,73,512,0.875,150,585,0.002,0.679,1.025,0.043,0.427,562,401,697,59,"Autism, susceptibility to, X-linked 3; Syndromic X-linked intellectual disability Lubs type; X-linked intellectual disability-psychosis-macroorchidism syndrome",
+SYNGAP1,isolated,SYNGAP1,Q96PV0,1343,468,316,93,223,0.706,70,316,0.007,0.465,0.987,0.06,0.263,613,560,780,120,"Intellectual disability, autosomal dominant 5",
+SETD5,syndromic_only,SETD5,Q9C0A6,1442,323,249,85,164,0.659,25,249,0.037,0.469,0.968,0.02,0.161,667,603,464,91,,Intellectual disability-facial dysmorphism syndrome due to SETD5 haploinsufficiency
+MED13L,syndromic_only,MED13L,Q71F56,2210,334,229,84,145,0.633,46,229,0.005,0.524,0.993,0.118,0.262,654,617,759,81,,Cardiac anomalies - developmental delay - facial dysmorphism syndrome
+NEXMIF,isolated,NEXMIF,Q5QGS0,1516,229,215,88,127,0.591,3,215,0.015,0.431,0.97,0.019,0.121,644,626,369,72,"X-linked intellectual disability, Cantagrel type",
+SMARCA4,isolated,SMARCA4,P51532,1647,353,199,86,113,0.568,74,199,0.007,0.437,0.975,0.09,0.191,2874,2552,3057,534,"Intellectual disability, autosomal dominant 16",
+DYRK1A,syndromic_only,DYRK1A,Q13627,763,284,197,65,132,0.67,38,197,0.063,0.408,0.955,0.005,0.061,373,329,478,78,,DYRK1A-related intellectual disability syndrome
+DDX3X,isolated,DDX3X,O00571,662,385,191,69,122,0.639,141,191,0.005,0.438,0.94,0.031,0.173,255,207,327,31,"Intellectual disability, X-linked 102",DDX3X-Related Neurodevelopmental Disorder
+CHD8,isolated,CHD8,Q9HCK8,2581,261,185,86,99,0.535,36,185,0.005,0.478,0.968,0.032,0.146,941,849,665,138,Intellectual developmental disorder with autism and macrocephaly,
+AHDC1,syndromic_only,AHDC1,Q5TGY3,1603,190,183,50,133,0.727,5,183,0.054,0.492,0.989,0.077,0.137,627,605,601,102,,AHDC1-related intellectual disability - obstructive sleep apnea - mild dysmorphism syndrome
+CTNNB1,syndromic_only,CTNNB1,P35222,781,268,182,60,122,0.67,32,182,0.029,0.556,0.971,0.071,0.291,361,328,343,20,,Severe intellectual disability-progressive spastic diplegia syndrome
+KAT6A,syndromic_only,KAT6A,Q92794,2004,226,182,78,104,0.571,21,182,0.025,0.556,0.949,0.044,0.143,757,688,1018,134,,Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome
+POGZ,isolated,POGZ,Q7Z3K3,1410,222,176,58,118,0.67,17,176,0.002,0.584,0.91,0.023,0.193,416,379,262,28,Intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome,
+IQSEC2,isolated,IQSEC2,Q5JU85,1488,246,174,65,109,0.626,35,174,0.003,0.513,0.995,0.132,0.287,600,551,598,82,"Intellectual disability, X-linked 1; NEURODEVELOPMENTAL DISORDER, X-LINKED, WITH POOR OR ABSENT SPEECH AND BEHAVIORAL ABNORMALITIES",
+EPG5,isolated,EPG5,Q9HCE0,2579,227,169,91,78,0.462,10,169,0.005,0.499,0.964,0.041,0.189,993,933,1438,50,Neurodevelopmental disorder with parkinsonism or other movement abnormalities,
+POMGNT1,syndromic_only,POMGNT1,Q8WZA1,660,280,165,55,110,0.667,28,165,0.006,0.5,0.974,0.073,0.236,527,429,667,108,,"Muscular dystrophy-dystroglycanopathy (congenital with intellectual disability), type B3"
+KIF11,syndromic_only,KIF11,P52732,1056,220,160,58,102,0.637,13,160,0.001,0.527,0.939,0.037,0.231,374,325,481,42,,"Microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability"
+KAT6B,syndromic_only,KAT6B,Q8WYB5,2073,187,158,54,104,0.658,10,158,0.021,0.625,0.941,0.038,0.222,804,734,690,151,,"Blepharophimosis - intellectual disability syndrome, SBBYS type"
+TCF20,syndromic_only,TCF20,Q9UGU0,1960,162,154,55,99,0.643,5,154,0.014,0.555,0.973,0.117,0.286,689,667,484,77,,Developmental delay with variable intellectual impairment and behavioral abnormalities
+ADNP,syndromic_only,ADNP,Q9H2P0,1102,178,153,45,108,0.706,11,153,0.003,0.505,0.995,0.02,0.111,432,391,290,75,,ADNP-related multiple congenital anomalies - intellectual disability - autism spectrum disorder
+TRIO,isolated,TRIO,O75962,3097,205,136,54,82,0.603,38,136,0.008,0.499,0.904,0.015,0.257,1152,1033,752,49,"Intellectual developmental disorder, autosomal dominant 63, with macrocephaly",Micrognathia-recurrent infections-behavioral abnormalities-mild intellectual disability syndrome; TRIO-Related Neurodevelopmental Disorder
+POMT1,syndromic_only,POMT1,Q9Y6A1,747,202,131,41,90,0.687,25,131,0.003,0.511,0.959,0.092,0.237,429,354,563,101,,"Muscular dystrophy-dystroglycanopathy (congenital with intellectual disability), type B1"
+FKTN,syndromic_only,FKTN,O75072,461,180,130,52,78,0.6,13,130,0.015,0.466,0.987,0.038,0.2,476,366,421,97,,"Muscular dystrophy-dystroglycanopathy (congenital without intellectual disability), type B4"
+KDM5C,isolated,KDM5C,P41229,1560,209,130,57,73,0.562,48,130,0.003,0.496,0.865,0.0,0.154,453,400,407,44,Syndromic X-linked intellectual disability Claes-Jensen type,
+LAMA1,syndromic_only,LAMA1,P25391,3075,157,121,50,71,0.587,2,121,0.001,0.421,0.997,0.099,0.215,881,826,749,81,,Ataxia - intellectual disability - oculomotor apraxia - cerebellar cysts syndrome
+NAA15,isolated,NAA15,Q9BXJ9,866,182,119,58,61,0.513,17,119,0.012,0.42,0.906,0.034,0.16,320,281,182,21,"Intellectual disability, autosomal dominant 50",
+KMT2B,isolated,KMT2B,Q9UMN6,2715,162,118,30,88,0.746,31,118,0.002,0.443,0.969,0.068,0.212,1087,1006,1330,182,"Intellectual developmental disorder, autosomal dominant 68",
+CASK,isolated,CASK,O14936,926,220,117,56,61,0.521,36,117,0.008,0.544,0.992,0.103,0.248,348,291,400,54,Syndromic X-linked intellectual disability Najm type,
+FOXP1,syndromic_only,FOXP1,Q9H334,677,213,117,46,71,0.607,37,117,0.084,0.612,0.994,0.009,0.197,387,300,474,56,,Intellectual disability-severe speech delay-mild dysmorphism syndrome
+MBD5,isolated,MBD5,Q9P267,1494,147,113,40,73,0.646,7,113,0.003,0.331,1.11,0.159,0.274,956,911,633,149,"Intellectual disability, autosomal dominant 1",
+PHIP,syndromic_only,PHIP,Q8WWQ0,1821,198,112,57,55,0.491,35,112,0.003,0.415,0.925,0.027,0.143,689,587,622,62,,PHIP-related behavioral problems-intellectual disability-obesity-dysmorphic features syndrome
+ZNF292,isolated,ZNF292,O60281,2723,115,109,38,71,0.651,4,109,0.033,0.502,0.801,0.0,0.156,551,523,274,23,"Intellectual developmental disorder, autosomal dominant 64",
+SRCAP,syndromic_only,SRCAP,Q6ZRS2,3230,123,106,37,69,0.651,6,106,0.015,0.745,0.982,0.066,0.396,1430,1340,848,140,,"Developmental delay, hypotonia, musculoskeletal defects, and behavioral abnormalities"
+ARID1A,isolated,ARID1A,O14497,2285,157,105,58,47,0.448,33,105,0.005,0.425,0.985,0.048,0.229,813,734,849,125,"Intellectual disability, autosomal dominant 14",
+ASH1L,isolated,ASH1L,Q9NR48,2969,115,103,45,58,0.563,7,103,0.015,0.452,0.994,0.068,0.223,763,733,208,30,"Intellectual disability, autosomal dominant 52",
+IRF2BPL,isolated,IRF2BPL,Q9H1B7,796,117,100,30,70,0.7,15,100,0.08,0.264,0.976,0.04,0.17,374,337,224,18,"Neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures",
+GRIN2B,isolated,GRIN2B,Q13224,1484,292,99,43,56,0.566,162,99,0.006,0.498,0.986,0.02,0.121,624,572,820,139,"Intellectual disability, autosomal dominant 6",
+SETBP1,isolated,SETBP1,Q9Y6X0,1596,135,99,43,56,0.566,24,99,0.009,0.392,0.961,0.03,0.111,802,759,856,136,"Intellectual disability, autosomal dominant 29",
+POMT2,syndromic_only,POMT2,Q9UKY4,750,158,96,36,60,0.625,18,96,0.023,0.54,0.981,0.052,0.271,497,395,599,84,,"Muscular dystrophy-dystroglycanopathy (congenital with intellectual disability), type B2"
+GATAD2B,syndromic_only,GATAD2B,Q8WXI9,593,120,95,36,59,0.621,8,95,0.04,0.378,0.865,0.0,0.168,286,257,253,21,,Severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome
+PNKP,syndromic_only,PNKP,Q96T60,521,156,95,24,71,0.747,11,95,0.008,0.772,0.992,0.137,0.516,487,412,566,82,,"Microcephaly, seizures, and developmental delay"
+ARX,isolated,ARX,Q96QS3,562,147,93,25,68,0.731,29,93,0.018,0.596,0.95,0.118,0.301,389,332,408,76,"Intellectual disability, X-linked, with or without seizures, ARX-related",
+CLTC,isolated,CLTC,Q00610,1675,143,92,42,50,0.543,21,92,0.01,0.556,0.986,0.163,0.304,558,489,550,22,"Intellectual disability, autosomal dominant 56",
+SIN3A,syndromic_only,SIN3A,Q96ST3,1273,124,91,42,49,0.538,12,91,0.006,0.529,0.991,0.055,0.231,391,362,293,27,,SIN3A-related intellectual disability syndrome due to a point mutation
+KDM6B,syndromic_only,KDM6B,O15054,1643,129,90,39,51,0.567,20,90,0.007,0.525,0.973,0.133,0.222,547,474,284,17,,Neurodevelopmental disorder with coarse facies and mild distal skeletal abnormalities
+ZMYM2,syndromic_only,ZMYM2,Q9UBW7,1377,107,87,39,48,0.552,0,87,0.083,0.492,0.908,0.034,0.241,305,263,64,11,,Neurodevelopmental-craniofacial syndrome with variable renal and cardiac abnormalities
+RPS6KA3,isolated,RPS6KA3,P51812,740,183,86,42,44,0.512,49,86,0.023,0.52,0.993,0.14,0.279,192,160,237,20,"Intellectual disability, X-linked 19",RPS6KA3-Related Intellectual Disability
+KDM5B,isolated,KDM5B,Q9UGL1,1544,112,85,42,43,0.506,8,85,0.025,0.466,0.955,0.059,0.259,340,307,108,18,"Intellectual disability, autosomal recessive 65",
+MCM3AP,syndromic_only,MCM3AP,O60318,1980,115,83,28,55,0.663,5,83,0.013,0.439,0.948,0.048,0.145,741,708,785,29,,"Peripheral neuropathy, autosomal recessive, with or without impaired intellectual development"
+USP9X,isolated,USP9X,Q93008,2554,141,83,35,48,0.578,38,83,0.006,0.49,0.982,0.133,0.265,639,575,462,22,"Intellectual disability, X-linked 99; Intellectual disability, X-linked 99, syndromic, female-restricted",
+CNTNAP2,isolated,CNTNAP2,Q9UHC6,1331,124,82,41,41,0.5,1,82,0.003,0.453,0.929,0.049,0.159,933,804,808,112,"Autism, susceptibility to, 15",
+CUL3,isolated,CUL3,Q13618,768,135,82,24,58,0.707,20,82,0.052,0.413,0.958,0.012,0.159,316,199,233,25,Neurodevelopmental disorder with or without autism or seizures,
+AUTS2,isolated,AUTS2,Q8WXX7,1259,129,80,28,52,0.65,16,80,0.021,0.344,0.809,0.0,0.037,614,534,568,73,Autism spectrum disorder due to AUTS2 deficiency,
+BRAT1,isolated,BRAT1,Q6PJG6,821,119,80,34,46,0.575,10,80,0.009,0.52,0.932,0.025,0.163,524,483,639,80,Neurodevelopmental disorder with cerebellar atrophy and with or without seizures,
+NALCN,syndromic_only,NALCN,Q8IZF0,1738,191,78,37,41,0.526,87,78,0.005,0.429,0.931,0.051,0.167,620,542,593,40,,"Congenital contractures of the limbs and face, hypotonia, and developmental delay"
+HIVEP2,isolated,HIVEP2,P31629,2446,86,77,33,44,0.571,4,77,0.016,0.635,0.979,0.078,0.429,688,663,684,78,"Intellectual disability, autosomal dominant 43",
+SETD1B,isolated,SETD1B,Q9UPS6,1966,116,76,21,55,0.724,27,76,0.004,0.553,0.983,0.105,0.303,485,455,311,27,Intellectual developmental disorder with seizures and language delay,SETD1B-Related Neurodevelopmental Disorder
+BCL11A,syndromic_only,BCL11A,Q9H165,835,103,75,20,55,0.733,17,75,0.008,0.381,0.877,0.0,0.027,197,175,66,5,,BCL11A-Related Intellectual Disability
+MYT1L,isolated,MYT1L,Q9UL68,1186,121,75,35,40,0.533,34,75,0.002,0.48,0.936,0.013,0.16,278,244,262,15,"Intellectual disability, autosomal dominant 39",
+NUS1,isolated,NUS1,Q96E22,293,95,75,30,45,0.6,4,75,0.003,0.362,0.98,0.027,0.173,246,228,175,12,"Intellectual developmental disorder, autosomal dominant 55, with seizures",
+CIC,isolated,CIC,Q96RK0,2517,93,73,17,56,0.767,11,73,0.015,0.601,0.933,0.082,0.301,587,533,365,39,"Intellectual developmental disorder, autosomal dominant 45",
+SRRM2,isolated,SRRM2,Q9UQ35,2752,77,73,35,38,0.521,1,73,0.007,0.419,0.977,0.041,0.137,893,868,291,26,"Intellectual developmental disorder, autosomal dominant 72",
+BPTF,syndromic_only,BPTF,Q12830,3046,90,71,22,49,0.69,13,71,0.006,0.578,0.952,0.099,0.254,774,696,361,48,,Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies
+PIGG,isolated,PIGG,Q5H8A4,983,97,71,26,45,0.634,3,71,0.078,0.544,0.975,0.056,0.225,506,468,520,30,"Intellectual disability, autosomal recessive 53",
+PIGO,syndromic_only,PIGO,Q8TEQ8,1089,90,71,25,46,0.648,9,71,0.009,0.415,0.939,0.028,0.113,554,519,392,39,,Hyperphosphatasia with intellectual disability syndrome 2
+SCN8A,syndromic_only,SCN8A,Q9UQD0,1980,394,71,28,43,0.606,294,71,0.01,0.445,0.919,0.014,0.155,1169,1057,900,153,,SCN8A-Related Epilepsy and/or Neurodevelopmental Disorders
+SLC6A1,syndromic_only,SLC6A1,P30531,599,195,70,34,36,0.514,93,70,0.015,0.467,0.953,0.029,0.214,349,309,466,61,,SLC6A1-related neurodevelopmental disorder
+SMARCB1,isolated,SMARCB1,Q12824,385,131,70,24,46,0.657,24,70,0.01,0.343,0.995,0.071,0.186,594,506,623,61,"Intellectual disability, autosomal dominant 15",
+SPTAN1,syndromic_only,SPTAN1,Q13813,2472,144,70,37,33,0.471,43,70,0.008,0.407,0.975,0.071,0.229,1372,1190,1600,221,,Developmental delay with or without epilepsy
+DLG4,isolated,DLG4,P78352,724,111,69,30,39,0.565,9,69,0.006,0.517,0.96,0.029,0.159,174,153,81,6,Intellectual developmental disorder 62,
+PPM1D,isolated,PPM1D,O15297,605,75,69,14,55,0.797,1,69,0.656,0.701,0.902,0.014,0.261,170,127,163,27,Intellectual developmental disorder with gastrointestinal difficulties and high pain threshold,
+SETD1A,syndromic_only,SETD1A,O15047,1707,84,66,24,42,0.636,12,66,0.002,0.391,0.92,0.03,0.167,569,528,262,33,,"Epilepsy, early-onset, with or without developmental delay; Neurodevelopmental disorder with speech impairment and dysmorphic facies"
+TNRC6B,isolated,TNRC6B,Q9UPQ9,1833,75,65,33,32,0.492,2,65,0.003,0.39,0.895,0.0,0.154,460,418,124,15,Global developmental delay with speech and behavioral abnormalities,
+CSNK2B,syndromic_only,CSNK2B,P67870,215,125,62,29,33,0.532,28,62,0.023,0.47,0.967,0.048,0.145,78,57,31,8,,CSNK2B-Related Neurodevelopmental Disorder; Poirier-Bienvenu neurodevelopmental syndrome
+BCL11B,syndromic_only,BCL11B,Q9C0K0,894,73,61,11,50,0.82,11,61,0.031,0.65,0.997,0.23,0.344,451,409,438,38,,"Intellectual developmental disorder with speech delay, dysmorphic facies, and t-cell abnormalities"
+AFG2A,syndromic_only,AFG2A,Q8NB90,893,101,60,32,28,0.467,22,60,0.004,0.576,0.9,0.017,0.133,399,373,390,34,,Microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome
+TRNT1,syndromic_only,TRNT1,Q96Q11,434,84,60,15,45,0.75,9,60,0.005,0.514,0.963,0.15,0.3,295,269,253,16,,Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome
+KIDINS220,syndromic_only,KIDINS220,Q9ULH0,1771,70,59,26,33,0.559,1,59,0.041,0.745,0.851,0.0,0.492,728,657,489,53,,"Spastic paraplegia, intellectual disability, nystagmus, and obesity"
+MED13,isolated,MED13,Q9UHV7,2174,86,59,24,35,0.593,14,59,0.004,0.496,0.945,0.017,0.186,523,487,179,20,Intellectual developmental disorder 61,
+KMT5B,isolated,KMT5B,Q4FZB7,885,85,57,20,37,0.649,16,57,0.037,0.446,0.941,0.07,0.158,150,131,66,8,"Intellectual disability, autosomal dominant 51",
+SETD2,isolated,SETD2,Q9BYW2,2564,81,57,29,28,0.491,13,57,0.027,0.583,0.967,0.035,0.263,851,815,583,83,"Intellectual developmental disorder, autosomal dominant 70",SETD2 Neurodevelopmental Disorders
+SYN1,isolated,SYN1,P17600,705,71,57,15,42,0.737,4,57,0.001,0.596,0.959,0.053,0.211,315,275,251,31,"Intellectual disability, X-linked 50","Epilepsy, X-linked 1, with variable learning disabilities and behavior disorders"
+ZMYND11,isolated,ZMYND11,Q15326,602,91,57,21,36,0.632,24,57,0.013,0.525,0.993,0.07,0.246,198,166,155,15,"Intellectual developmental disorder, autosomal dominant 30, with speech delay and behavioral abnormalities",
+ERCC6L2,syndromic_only,ERCC6L2,Q5T890,1561,69,56,18,38,0.679,0,56,0.004,0.469,0.873,0.0,0.107,1092,1051,632,22,,Pancytopenia-developmental delay syndrome
+TRAPPC9,isolated,TRAPPC9,Q96Q05,1148,86,56,26,30,0.536,2,56,0.036,0.56,0.883,0.0,0.232,382,337,505,51,"Intellectual disability, autosomal recessive 13",
+DLL1,isolated,DLL1,O00548,723,72,55,21,34,0.618,4,55,0.018,0.39,0.931,0.018,0.145,356,325,286,40,Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures,
+BRWD3,isolated,BRWD3,Q6RI45,1802,79,54,32,22,0.407,8,54,0.018,0.594,0.942,0.056,0.259,515,404,370,26,"Intellectual disability, X-linked 93",
+CHAMP1,isolated,CHAMP1,Q96JM3,812,63,54,24,30,0.556,2,54,0.05,0.681,0.873,0.0,0.407,190,183,114,7,"Intellectual disability, autosomal dominant 40",
+ATRX,syndromic_only,ATRX,P46100,2492,159,53,33,20,0.377,77,53,0.01,0.359,0.989,0.226,0.302,939,840,1453,182,,"Alpha thalassemia-X-linked intellectual disability syndrome; Intellectual disability-hypotonic facies syndrome, X-linked, 1"
+MEF2C,isolated,MEF2C,Q06413,473,136,53,21,32,0.604,40,53,0.011,0.332,0.996,0.019,0.019,207,161,272,30,"Neurodevelopmental disorder with hypotonia, stereotypic hand movements, and impaired language",
+TLK2,isolated,TLK2,Q86UE8,772,100,53,30,23,0.434,23,53,0.014,0.374,0.911,0.038,0.17,177,148,47,10,"Intellectual disability, autosomal dominant 57",
+ARFGEF1,syndromic_only,ARFGEF1,Q9Y6D6,1849,79,52,24,28,0.538,7,52,0.029,0.581,0.959,0.077,0.25,389,352,78,4,,"Developmental delay, impaired speech, and behavioral abnormalities, with or without seizures"
+NBEA,isolated,NBEA,Q8NFP9,2946,92,51,31,20,0.392,12,51,0.013,0.442,0.973,0.098,0.235,691,645,329,25,Neurodevelopmental disorder with or without early-onset generalized epilepsy,
+FBXO11,syndromic_only,FBXO11,Q86XK2,927,165,50,18,32,0.64,72,50,0.014,0.769,1.373,0.34,0.5,449,365,620,41,,Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities
+TAOK1,syndromic_only,TAOK1,Q7L7X3,1001,86,50,30,20,0.4,16,50,0.006,0.587,0.854,0.0,0.18,232,208,47,4,,Developmental delay with or without intellectual impairment or behavioral abnormalities
+CACNA2D2,syndromic_only,CACNA2D2,Q9NY47,1150,79,49,16,33,0.673,4,49,0.024,0.384,0.97,0.061,0.245,477,423,729,18,,Cerebellar atrophy with seizures and variable developmental delay
+CDK13,syndromic_only,CDK13,Q14004,1512,100,48,22,26,0.542,45,48,0.04,0.373,0.756,0.0,0.021,618,533,472,71,,"Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder"
+CNOT3,syndromic_only,CNOT3,O75175,753,80,48,16,32,0.667,18,48,0.011,0.608,0.926,0.083,0.292,242,211,149,23,,"Intellectual developmental disorder with speech delay, autism, and dysmorphic facies"
+DIAPH1,syndromic_only,DIAPH1,O60610,1272,72,48,18,30,0.625,3,48,0.009,0.553,0.954,0.188,0.354,995,856,782,70,,Progressive microcephaly-seizures-cortical blindness-developmental delay syndrome
+SHANK2,isolated,SHANK2,Q9UPX8,1849,55,48,16,32,0.667,2,48,0.033,0.432,0.933,0.042,0.208,250,192,225,26,"Autism, susceptibility to, 17",
+TBR1,isolated,TBR1,Q16650,682,80,48,15,33,0.688,23,48,0.01,0.598,0.996,0.021,0.333,226,213,61,8,Intellectual developmental disorder with autism and speech delay,
+CUX1,isolated,CUX1,,,56,47,27,20,0.426,1,47,,,,,,416,362,208,15,Global developmental delay with or without impaired intellectual development,
+OPHN1,isolated,OPHN1,O60890,802,95,47,19,28,0.596,11,47,0.004,0.44,0.961,0.043,0.106,253,215,209,26,X-linked intellectual disability-cerebellar hypoplasia syndrome,
+PTPN23,isolated,PTPN23,Q9H3S7,1636,57,46,14,32,0.696,4,46,0.037,0.598,0.962,0.022,0.152,753,687,773,40,Neurodevelopmental disorder and structural brain anomalies with or without seizures and spasticity,
+CNKSR2,isolated,CNKSR2,Q8WXI2,1034,63,45,24,21,0.467,3,45,0.018,0.533,0.763,0.0,0.089,193,174,61,8,"Intellectual disability, X-linked, syndromic, Houge type",
+CUL4B,isolated,CUL4B,Q13620,913,69,45,19,26,0.578,5,45,0.067,0.494,0.975,0.111,0.311,230,197,229,18,X-linked intellectual disability Cabezas type,
+SLC35A3,isolated,SLC35A3,Q9Y2D2,325,57,45,17,28,0.622,1,45,0.018,0.609,0.923,0.067,0.244,93,79,207,3,Autism spectrum disorder - epilepsy - arthrogryposis syndrome,
+ZBTB18,isolated,ZBTB18,Q99592,522,81,45,16,29,0.644,30,45,0.086,0.548,0.941,0.067,0.244,170,164,121,16,"Intellectual disability, autosomal dominant 22",
+SPTBN1,syndromic_only,SPTBN1,Q01082,2364,81,44,26,18,0.409,23,44,0.035,0.501,0.899,0.0,0.136,584,541,146,9,,"Developmental delay, impaired speech, and behavioral abnormalities"
+CEP104,isolated,CEP104,O60308,925,59,43,18,25,0.581,1,43,0.018,0.39,0.958,0.023,0.209,207,200,403,34,"Intellectual developmental disorder, autosomal recessive 77",
+CTCF,syndromic_only,CTCF,P49711,727,97,43,12,31,0.721,40,43,0.034,0.355,0.913,0.023,0.14,206,194,104,21,,CTCF-related neurodevelopmental disorder
+PBX1,syndromic_only,PBX1,P40424,430,75,43,17,26,0.605,21,43,0.042,0.328,0.73,0.0,0.0,94,76,53,3,,"Congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay"
+RERE,syndromic_only,RERE,Q9P2R6,1566,74,43,14,29,0.674,21,43,0.013,0.58,0.985,0.093,0.233,663,588,408,64,,"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart"
+TANC2,isolated,TANC2,Q9HCD6,1990,62,43,21,22,0.512,3,43,0.016,0.504,0.961,0.023,0.256,539,498,163,12,"Intellectual developmental disorder with autistic features and language delay, with or without seizures",
+CACNA1B,isolated,CACNA1B,Q00975,2339,57,42,17,25,0.595,0,42,0.007,0.474,0.899,0.0,0.214,706,648,1184,45,Neurodevelopmental disorder with seizures and nonepileptic hyperkinetic movements,
+ZMIZ1,syndromic_only,ZMIZ1,Q9ULJ6,1067,67,42,11,31,0.738,11,42,0.013,0.491,0.985,0.095,0.262,413,373,378,25,,Neurodevelopmental disorder with dysmorphic facies and distal skeletal anomalies
+ZNF142,isolated,ZNF142,P52746,1687,51,41,16,25,0.61,3,41,0.156,0.742,1.081,0.146,0.39,310,307,116,9,Neurodevelopmental disorder with impaired speech and hyperkinetic movements,
+ABCC9,syndromic_only,ABCC9,O60706,1549,107,40,15,25,0.625,39,40,0.056,0.522,0.904,0.025,0.175,993,759,1053,139,,Intellectual disability and myopathy syndrome
+NSUN2,isolated,NSUN2,Q08J23,767,58,40,17,23,0.575,6,40,0.017,0.445,0.833,0.0,0.05,243,205,346,27,"Intellectual disability, autosomal recessive 5",
+CC2D1A,isolated,CC2D1A,Q6P1N0,951,69,39,12,27,0.692,1,39,0.058,0.416,0.944,0.026,0.128,232,217,402,49,"Intellectual disability, autosomal recessive 3",
+FLVCR1,isolated,FLVCR1,Q9Y5Y0,555,65,39,12,27,0.692,17,39,0.018,0.476,0.935,0.077,0.231,314,229,220,26,"Neurodevelopmental disorder with microcephaly, absent speech, and hypotonia",
+PHF21A,syndromic_only,PHF21A,Q96BD5,680,48,38,15,23,0.605,1,38,0.009,0.553,0.994,0.105,0.263,180,160,163,16,,Intellectual developmental disorder with behavioral abnormalities and craniofacial dysmorphism with or without seizures
+VLDLR,syndromic_only,VLDLR,P98155,873,66,38,24,14,0.368,5,38,0.046,0.551,0.942,0.053,0.316,225,184,533,38,,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 1"
+ARCN1,syndromic_only,ARCN1,P48444,511,40,36,18,18,0.5,1,36,0.037,0.564,0.861,0.0,0.194,152,145,132,16,,"Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay"
+MED12,isolated,MED12,Q93074,2177,98,36,21,15,0.417,45,36,0.073,0.785,0.988,0.333,0.583,989,823,1167,158,X-linked intellectual disability with marfanoid habitus,"Blepharophimosis - intellectual disability syndrome, MKB type"
+RUSC2,isolated,RUSC2,Q8N2Y8,1516,41,36,18,18,0.5,1,36,0.065,0.677,0.929,0.083,0.417,534,516,421,11,"Intellectual disability, autosomal recessive 61",
+WDR81,syndromic_only,WDR81,Q562E7,1941,45,36,19,17,0.472,4,36,0.038,0.357,0.917,0.028,0.167,421,414,224,18,,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 2"
+STAG1,isolated,STAG1,Q8WVM7,1258,60,35,17,18,0.514,17,35,0.005,0.455,0.98,0.086,0.286,329,298,301,26,"Intellectual disability, autosomal dominant 47",
+UPF3B,isolated,UPF3B,Q9BZI7,483,40,35,12,23,0.657,1,35,0.002,0.501,0.934,0.029,0.314,140,128,168,19,Syndromic X-linked intellectual disability 14,
+DEAF1,isolated,DEAF1,O75398,565,103,34,15,19,0.559,49,34,0.023,0.481,0.961,0.059,0.206,504,423,383,55,"Intellectual disability, autosomal dominant 24; Intellectual disability-epilepsy-extrapyramidal syndrome",
+KIF1A,isolated,KIF1A,Q12756,1690,213,34,16,18,0.529,141,34,0.002,0.607,1.04,0.206,0.412,1303,1054,1625,385,"Intellectual disability, autosomal dominant 9",
+NFIB,syndromic_only,NFIB,O00712,420,52,34,16,18,0.529,9,34,0.024,0.605,1.164,0.029,0.235,137,112,50,3,,"Macrocephaly, acquired, with impaired intellectual development"
+PRMT7,syndromic_only,PRMT7,Q9NVM4,692,50,33,15,18,0.545,8,33,0.025,0.409,0.968,0.03,0.152,163,148,146,15,,Short stature-brachydactyly-obesity-global developmental delay syndrome
+SCAPER,syndromic_only,SCAPER,Q9BY12,1400,45,33,16,17,0.515,2,33,0.073,0.563,0.901,0.03,0.152,403,379,230,9,,Intellectual developmental disorder and retinitis pigmentosa; IDDRP
+CSNK2A1,syndromic_only,CSNK2A1,P68400,391,87,32,19,13,0.406,46,32,0.046,0.343,0.877,0.0,0.188,95,77,90,7,,Okur-Chung neurodevelopmental syndrome
+DLG3,isolated,DLG3,Q92796,817,43,32,17,15,0.469,2,32,0.017,0.551,0.968,0.094,0.125,189,153,95,16,"Intellectual disability, X-linked 90",
+ATP2B1,isolated,ATP2B1,P20020,1220,50,31,13,18,0.581,11,31,0.006,0.526,0.88,0.0,0.226,235,221,26,6,"Intellectual developmental disorder, autosomal dominant 66",
+CAPRIN1,isolated,CAPRIN1,Q14444,709,36,31,17,14,0.452,1,31,0.044,0.468,0.821,0.0,0.258,128,109,26,1,"Neurodevelopmental disorder with language impairment, autism, and attention deficit-hyperactivity disorder",
+CNNM2,syndromic_only,CNNM2,Q9H8M5,875,58,31,9,22,0.71,24,31,0.005,0.241,0.909,0.032,0.065,369,284,2425,25,,"Hypomagnesemia, seizures, and intellectual disability 1"
+TBL1XR1,isolated,TBL1XR1,Q9BZK7,514,125,31,10,21,0.677,78,31,0.004,0.42,0.924,0.032,0.29,247,211,307,19,"Intellectual disability, autosomal dominant 41",
+LINS1,isolated,LINS1,Q8NG48,757,38,30,10,20,0.667,1,30,0.108,0.563,0.963,0.033,0.233,79,69,85,11,"Intellectual disability, autosomal recessive 27",
+ATP8A2,syndromic_only,ATP8A2,Q9NTI2,1188,57,29,13,16,0.552,6,29,0.059,0.489,0.944,0.138,0.207,256,229,265,14,,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 4"
+CACNA1C,syndromic_only,CACNA1C,Q13936,2221,111,29,13,16,0.552,67,29,0.005,0.507,0.901,0.034,0.241,1501,1260,1946,289,,"Neurodevelopmental disorder with hypotonia, language delay, and skeletal defects with or without seizures"
+PGAP1,isolated,PGAP1,Q75T13,922,50,29,17,12,0.414,3,29,0.008,0.505,0.866,0.0,0.138,202,178,204,20,"Intellectual disability, autosomal recessive 42",
+SOX11,syndromic_only,SOX11,P35716,441,95,29,15,14,0.483,64,29,0.025,0.621,0.973,0.103,0.345,241,187,124,29,,Intellectual developmental disorder with microcephaly and with or without ocular malformations or hypogonadotropic hypogonadism
+TAF4,isolated,TAF4,O00268,1085,30,29,8,21,0.724,1,29,0.066,0.418,0.983,0.069,0.241,259,237,65,1,"Intellectual developmental disorder, autosomal dominant 73",
+CLCN4,isolated,CLCN4,P51793,760,70,28,8,20,0.714,37,28,0.02,0.443,0.914,0.036,0.25,323,305,331,32,"Intellectual disability, X-linked 49",
+COG6,syndromic_only,COG6,Q9Y2V7,657,46,28,16,12,0.429,2,28,0.058,0.352,0.956,0.036,0.143,206,159,198,16,,Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome
+PTCHD1,isolated,PTCHD1,Q96NR3,888,34,28,11,17,0.607,5,28,0.055,0.484,0.97,0.036,0.107,238,219,76,15,"Autism, susceptibility to, X-linked 4",
+SET,isolated,SET,Q01105,290,44,28,5,23,0.821,8,28,0.09,0.483,0.838,0.0,0.071,64,51,34,1,"Intellectual disability, autosomal dominant 58",
+SPTBN4,syndromic_only,SPTBN4,Q9H254,2564,36,28,15,13,0.464,3,28,0.142,0.463,0.969,0.071,0.214,476,467,250,16,,"Neurodevelopmental disorder with hypotonia, neuropathy, and deafness"
+TRIM8,syndromic_only,TRIM8,Q9BZR9,551,28,28,19,9,0.321,0,28,0.644,0.768,0.898,0.0,0.607,204,187,238,19,,Focal segmental glomerulosclerosis and neurodevelopmental syndrome
+GMPPB,syndromic_only,GMPPB,Q9Y5P6,360,64,27,9,18,0.667,22,27,0.103,0.456,0.978,0.185,0.296,201,170,169,21,,"Muscular dystrophy-dystroglycanopathy (congenital with intellectual disability), type B14"
+RORA,isolated,RORA,P35398,523,48,27,17,10,0.37,10,27,0.119,0.514,0.956,0.037,0.222,180,138,81,12,Intellectual developmental disorder with or without epilepsy or cerebellar ataxia,
+IARS1,syndromic_only,IARS1,P41252,1262,42,26,11,15,0.577,8,26,0.007,0.331,0.914,0.038,0.192,254,245,199,7,,"Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy"
+MADD,syndromic_only,MADD,Q8WXG6,1647,42,26,13,13,0.5,4,26,0.055,0.475,0.93,0.038,0.192,277,267,72,8,,"Neurodevelopmental disorder with dysmorphic facies, impaired speech, and hypotonia"
+ACTL6B,isolated,ACTL6B,O94805,426,58,25,16,9,0.36,24,25,0.012,0.568,0.993,0.16,0.28,110,96,45,5,Intellectual developmental disorder with severe speech and ambulation defects,
+ADCY5,isolated,ADCY5,O95622,1261,58,25,8,17,0.68,24,25,0.009,0.122,0.81,0.0,0.08,435,398,453,57,Neurodevelopmental disorder with hyperkinetic movements and dyskinesia,
+ADGRL1,syndromic_only,ADGRL1,O94910,1474,36,25,13,12,0.48,7,25,0.006,0.464,0.858,0.0,0.28,331,296,70,9,,"Developmental delay, behavioral abnormalities, and neuropsychiatric disorders"
+ANK3,isolated,ANK3,Q12955,4377,32,25,11,14,0.56,3,25,0.006,0.333,0.983,0.16,0.28,1212,1133,567,89,Intellectual disability-hypotonia-spasticity-sleep disorder syndrome,
+DHDDS,syndromic_only,DHDDS,Q86SQ9,333,47,25,12,13,0.52,17,25,0.036,0.52,0.928,0.04,0.12,297,229,278,22,,Developmental delay and seizures with or without movement abnormalities
+HACE1,syndromic_only,HACE1,Q8IYU2,909,40,25,15,10,0.4,4,25,0.056,0.45,0.904,0.04,0.16,135,118,176,5,,Spastic paraplegia-severe developmental delay-epilepsy syndrome
+JARID2,syndromic_only,JARID2,Q92833,1246,31,25,7,18,0.72,2,25,0.004,0.537,0.904,0.04,0.24,267,256,108,4,,Developmental delay with variable intellectual disability and dysmorphic facies
+PUS7,syndromic_only,PUS7,Q96PZ0,661,37,25,9,16,0.64,5,25,0.045,0.489,0.968,0.04,0.16,95,91,30,2,,"Intellectual developmental disorder with abnormal behavior, microcephaly, and short stature"
+SATB1,syndromic_only,SATB1,Q01826,763,40,25,8,17,0.68,13,25,0.06,0.583,0.934,0.08,0.4,181,144,42,4,,Developmental delay with dysmorphic facies and dental anomalies
+ZNF148,syndromic_only,ZNF148,Q9UQR1,794,31,25,8,17,0.68,4,25,0.101,0.612,0.98,0.08,0.12,109,95,34,2,,"Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies"
+APC2,isolated,APC2,O95996,2303,29,24,4,20,0.833,2,24,0.059,0.245,0.963,0.083,0.167,725,698,496,17,"Intellectual developmental disorder, autosomal recessive 74",
+HPDL,isolated,HPDL,Q96IR7,371,48,24,7,17,0.708,24,24,0.024,0.631,0.922,0.042,0.208,62,60,19,5,Neurodevelopmental disorder with progressive spasticity and brain white matter abnormalities,
+MARK2,isolated,MARK2,Q7KZI7,788,39,24,13,11,0.458,5,24,0.11,0.561,0.948,0.083,0.25,100,72,11,4,"Intellectual developmental disorder, autosomal dominant 76",
+MBOAT7,isolated,MBOAT7,Q96N66,472,31,24,6,18,0.75,1,24,0.008,0.581,0.911,0.042,0.25,150,137,55,4,"Intellectual disability, autosomal recessive 57",
+NONO,isolated,NONO,Q15233,471,37,24,7,17,0.708,1,24,0.074,0.325,0.989,0.083,0.292,110,93,86,5,Syndromic X-linked intellectual disability 34,
+NR4A2,isolated,NR4A2,P43354,598,55,24,5,19,0.792,25,24,0.002,0.298,0.844,0.0,0.208,170,135,48,6,Intellectual developmental disorder with language impairment and early-onset DOPA-responsive dystonia-parkinsonism,
+PPP3CA,syndromic_only,PPP3CA,Q08209,521,50,24,4,20,0.833,21,24,0.023,0.841,0.904,0.042,0.917,248,208,303,9,,"Arthrogryposis, cleft palate, craniosynostosis, and impaired intellectual development"
+TANGO2,syndromic_only,TANGO2,Q6ICL3,276,53,24,16,8,0.333,4,24,0.007,0.312,0.783,0.0,0.083,150,132,283,10,,Recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome
+TRMT1,isolated,TRMT1,Q9NXH9,659,34,24,11,13,0.542,2,24,0.015,0.563,0.985,0.042,0.25,163,155,49,2,"Intellectual developmental disorder, autosomal recessive 68",
+PGAP3,syndromic_only,PGAP3,Q96FM1,320,41,23,11,12,0.522,12,23,0.034,0.372,0.938,0.043,0.13,86,82,106,10,,Hyperphosphatasia with intellectual disability syndrome 4
+PHF8,isolated,PHF8,Q9UPP1,1060,33,23,11,12,0.522,2,23,0.04,0.556,0.854,0.0,0.217,186,162,99,10,Syndromic X-linked intellectual disability Siderius type,
+TMEM94,syndromic_only,TMEM94,Q12767,1356,30,23,8,15,0.652,0,23,0.009,0.394,0.928,0.043,0.087,221,208,96,1,,Intellectual developmental disorder with cardiac defects and dysmorphic facies
+INTS1,syndromic_only,INTS1,Q8N201,2190,29,22,12,10,0.455,2,22,0.032,0.463,0.971,0.045,0.409,529,501,259,15,,"Neurodevelopmental disorder with cataracts, poor growth, and dysmorphic facies"
+SMPD4,isolated,SMPD4,Q9NXE4,866,34,22,6,16,0.727,1,22,0.032,0.523,0.864,0.0,0.273,171,158,56,7,"Neurodevelopmental disorder with microcephaly, arthrogryposis, and structural brain anomalies",
+GEMIN5,isolated,GEMIN5,Q8TEQ6,1508,37,21,12,9,0.429,10,21,0.027,0.354,0.935,0.048,0.19,271,261,48,4,Neurodevelopmental disorder with cerebellar atrophy and motor dysfunction,
+HERC2,syndromic_only,HERC2,O95714,4834,30,21,10,11,0.524,2,21,0.001,0.532,0.971,0.095,0.333,909,868,435,36,,Developmental delay with autism spectrum disorder and gait instability
+KCNMA1,syndromic_only,KCNMA1,Q12791,1236,53,21,5,16,0.762,21,21,0.009,0.518,0.871,0.0,0.19,744,553,713,91,,"Cerebellar atrophy, developmental delay, and seizures"
+KDM4B,isolated,KDM4B,O94953,1096,40,21,10,11,0.524,6,21,0.078,0.602,0.915,0.048,0.19,323,297,124,17,"Intellectual developmental disorder, autosomal dominant 65",
+NEMF,syndromic_only,NEMF,O60524,1076,29,21,7,14,0.667,3,21,0.073,0.625,0.944,0.095,0.333,142,137,42,1,,Intellectual developmental disorder with speech delay and axonal peripheral neuropathy
+FMN2,isolated,FMN2,Q9NZ56,1722,21,20,12,8,0.4,1,20,0.17,0.433,0.891,0.0,0.2,238,222,374,19,"Intellectual disability, autosomal recessive 47",
+GRIN1,isolated,GRIN1,Q05586,938,138,20,7,13,0.65,106,20,0.043,0.478,0.858,0.0,0.15,422,354,681,71,"Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal dominant; Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal recessive",GRIN1-related complex neurodevelopmental disorder
+IL1RAPL1,isolated,IL1RAPL1,Q9NZN1,696,34,20,10,10,0.5,4,20,0.072,0.546,0.907,0.05,0.15,165,137,158,10,"Intellectual disability, X-linked 21",
+RTN4IP1,syndromic_only,RTN4IP1,Q8WWV3,396,40,20,10,10,0.5,8,20,0.045,0.508,0.896,0.0,0.25,158,144,149,14,,"Optic atrophy 10 with or without ataxia, intellectual disability, and seizures"
+ZBTB7A,syndromic_only,ZBTB7A,O95365,584,24,20,7,13,0.65,4,20,0.057,0.476,0.908,0.05,0.2,121,107,37,0,,"Macrocephaly, neurodevelopmental delay, lymphoid hyperplasia, and persistent fetal hemoglobin"
+ELOVL4,syndromic_only,ELOVL4,Q9GZR5,314,29,19,6,13,0.684,6,19,0.054,0.465,0.86,0.0,0.211,195,147,145,13,,Congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome
+FERRY3,isolated,FERRY3,Q9NQ89,552,21,19,11,8,0.421,1,19,0.024,0.406,0.822,0.0,0.053,11,9,18,0,"Intellectual disability, autosomal recessive 66",
+PIGA,isolated,PIGA,P37287,484,51,19,3,16,0.842,27,19,0.039,0.298,0.961,0.105,0.368,187,169,152,35,Neurodevelopmental disorder with epilepsy and hemochromatosis,
+SNX27,syndromic_only,SNX27,Q96L92,541,23,19,9,10,0.526,3,19,0.048,0.542,0.921,0.105,0.368,191,176,248,2,,DAMSEH-DANSON NEURODEVELOPMENTAL DISORDER
+TELO2,syndromic_only,TELO2,Q9Y4R8,837,31,18,6,12,0.667,5,18,0.167,0.442,0.873,0.0,0.222,259,246,347,28,,TELO2-related intellectual disability-neurodevelopmental disorder
+VARS1,isolated,VARS1,P26640,1264,40,18,13,5,0.278,16,18,0.048,0.489,0.962,0.167,0.278,253,243,92,11,"Neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy",
+CHD5,syndromic_only,CHD5,Q8TDI0,1954,42,17,8,9,0.529,20,17,0.078,0.429,0.995,0.118,0.235,511,467,112,10,,Parenti-mignot neurodevelopmental syndrome
+FBXW7,syndromic_only,FBXW7,Q969H0,707,32,17,5,12,0.706,12,17,0.122,0.545,0.941,0.294,0.353,154,132,89,7,,"Developmental delay, hypotonia, and impaired language"
+FRMPD4,isolated,FRMPD4,Q14CM0,1322,22,17,7,10,0.588,1,17,0.141,0.7,0.963,0.059,0.412,376,351,157,24,"Intellectual disability, X-linked 104",
+GNB5,syndromic_only,GNB5,O14775,395,32,17,8,9,0.529,5,17,0.053,0.542,0.947,0.118,0.235,85,81,110,1,,GNB5-Related Neurodevelopmental Disorder; Gnb5-related intellectual disability-cardiac arrhythmia syndrome
+PPP1R21,syndromic_only,PPP1R21,Q6ZMI0,780,24,17,9,8,0.471,2,17,0.038,0.327,0.941,0.118,0.412,159,153,49,3,,"Neurodevelopmental disorder with hypotonia, facial dysmorphism, and brain abnormalities"
+PRMT9,isolated,PRMT9,Q6P2P2,845,19,17,6,11,0.647,1,17,0.043,0.29,0.93,0.118,0.176,114,111,9,2,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 85",
+THOC6,syndromic_only,THOC6,Q86W42,341,28,17,9,8,0.471,6,17,0.044,0.437,0.874,0.0,0.294,71,67,28,1,,THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome
+ELP2,isolated,ELP2,Q6IA86,826,21,16,8,8,0.5,5,16,0.162,0.669,0.993,0.125,0.312,159,140,57,6,"Intellectual developmental disorder, autosomal recessive 58",
+NMNAT1,syndromic_only,NMNAT1,Q9HAN9,279,70,16,8,8,0.5,42,16,0.197,0.505,0.81,0.0,0.25,95,78,68,13,,"Spondyloepiphyseal dysplasia, sensorineural hearing loss, impaired intellectual development, and leber congenital amaurosis"
+RFX7,isolated,RFX7,Q2KHR2,1460,20,16,5,11,0.688,3,16,0.011,0.532,0.692,0.0,0.0,283,255,94,3,"Intellectual developmental disorder, autosomal dominant 71, with behavioral abnormalities",
+SMARCA1,isolated,SMARCA1,P28370,1042,17,16,14,2,0.125,1,16,0.003,0.344,0.962,0.062,0.125,151,136,20,4,NEURODEVELOPMENTAL DISORDER WITH OR WITHOUT MACROCEPHALY,
+TBC1D2B,isolated,TBC1D2B,Q9UPU7,963,16,16,11,5,0.312,0,16,0.009,0.513,0.823,0.0,0.188,147,144,40,1,Neurodevelopmental disorder with seizures and gingival overgrowth,
+CDC42BPB,syndromic_only,CDC42BPB,Q9Y5S2,1711,41,15,7,8,0.533,17,15,0.008,0.642,0.909,0.067,0.4,380,342,164,9,,Chilton-Okur-Chung neurodevelopmental syndrome
+KPTN,syndromic_only,KPTN,Q9Y664,436,27,15,5,10,0.667,1,15,0.092,0.53,0.601,0.0,0.0,116,101,81,10,,Macrocephaly-developmental delay syndrome
+METTL23,isolated,METTL23,Q86XA0,190,20,15,1,14,0.933,1,15,0.221,0.358,0.963,0.067,0.2,43,36,8,6,"Intellectual disability, autosomal recessive 44",
+PRUNE1,isolated,PRUNE1,Q86TP1,453,28,15,7,8,0.533,9,15,0.007,0.353,0.561,0.0,0.0,43,36,73,3,"Neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies",
+SMG9,syndromic_only,SMG9,Q9H0W8,520,20,15,7,8,0.533,3,15,0.015,0.454,0.915,0.067,0.2,84,78,37,1,,"Neurodevelopmental disorder with intention tremor, pyramidal signs, dyspraxia, and ocular anomalies"
+TPP2,syndromic_only,TPP2,P29144,1249,19,15,7,8,0.533,1,15,0.116,0.685,0.926,0.067,0.333,347,315,461,5,,Immunodeficiency 78 with autoimmunity and developmental delay
+TUSC3,isolated,TUSC3,Q13454,348,21,15,9,6,0.4,2,15,0.055,0.27,0.951,0.067,0.133,169,85,114,10,"Intellectual disability, autosomal recessive 7",
+WDR11,isolated,WDR11,Q9BZH6,1224,22,15,8,7,0.467,1,15,0.045,0.392,0.877,0.0,0.2,261,245,273,10,"Intellectual developmental disorder, autosomal recessive 78",
+ZNF711,isolated,ZNF711,Q9Y462,761,17,15,5,10,0.667,1,15,0.043,0.737,1.037,0.4,0.467,151,128,53,4,"Intellectual disability, X-linked 97",
+ABCA2,isolated,ABCA2,Q9BZC7,2435,17,14,6,8,0.571,0,14,0.09,0.563,0.878,0.0,0.143,468,454,344,11,Intellectual developmental disorder with poor growth and with or without seizures or ataxia,
+DOCK3,isolated,DOCK3,Q8IZD9,2030,17,14,4,10,0.714,0,14,0.027,0.297,0.986,0.071,0.071,246,236,74,3,"Neurodevelopmental disorder with impaired intellectual development, hypotonia, and ataxia",
+KCNQ5,isolated,KCNQ5,Q9NR82,932,36,14,5,9,0.643,21,14,0.018,0.201,0.607,0.0,0.0,407,354,446,49,"Intellectual disability, autosomal dominant 46",
+MSL2,syndromic_only,MSL2,Q9HCI7,577,16,14,7,7,0.5,1,14,0.04,0.593,0.854,0.0,0.143,78,67,15,7,,Karayol-Borroto-Haghshenas neurodevelopmental syndrome
+NOVA2,isolated,NOVA2,Q9UNW9,492,14,14,1,13,0.929,0,14,0.356,0.496,0.75,0.0,0.0,93,77,35,4,Neurodevelopmental disorder with or without autistic features and/or structural brain abnormalities,
+PAK3,isolated,PAK3,O75914,559,35,14,8,6,0.429,13,14,0.179,0.637,0.907,0.071,0.286,140,111,79,6,"Intellectual disability, X-linked 30",
+PIDD1,isolated,PIDD1,,,21,14,3,11,0.786,2,14,,,,,,227,224,83,9,"Intellectual developmental disorder, autosomal recessive 75, with neuropsychiatric features and variant lissencephaly",
+LNPK,isolated,LNPK,Q9C0E8,428,18,13,5,8,0.615,0,13,0.016,0.339,0.703,0.0,0.0,18,12,33,2,Neurodevelopmental disorder with epilepsy and hypoplasia of the corpus callosum,
+OTUD6B,syndromic_only,OTUD6B,Q8N6M0,293,20,13,6,7,0.538,4,13,0.024,0.433,0.884,0.0,0.077,64,55,18,5,,"Intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies"
+POLR2A,isolated,POLR2A,P24928,1970,47,13,5,8,0.615,33,13,0.004,0.355,0.919,0.077,0.154,427,378,160,11,Neurodevelopmental disorder with hypotonia and variable intellectual and behavioral abnormalities,
+PUS3,syndromic_only,PUS3,Q9BZE2,481,16,13,6,7,0.538,2,13,0.012,0.376,0.904,0.077,0.154,102,100,52,6,,Severe growth deficiency-strabismus-extensive dermal melanocytosis-intellectual disability syndrome
+UBAP2L,syndromic_only,UBAP2L,Q14157,1087,16,13,6,7,0.538,0,13,0.028,0.603,0.911,0.077,0.231,139,130,19,2,,"Neurodevelopmental disorder with impaired language, behavioral abnormalities, and dysmorphic facies"
+DHX9,isolated,DHX9,Q08211,1270,18,12,9,3,0.25,4,12,0.18,0.493,0.983,0.083,0.25,140,129,24,3,"Intellectual developmental disorder, autosomal dominant 75",
+EMC10,syndromic_only,EMC10,Q5UCC4,262,17,12,6,6,0.5,0,12,0.088,0.366,0.706,0.0,0.0,51,47,24,1,,Neurodevelopmental disorder with dysmorphic facies and variable seizures
+GMPPA,syndromic_only,GMPPA,Q96IJ6,420,18,12,8,4,0.333,2,12,0.095,0.46,0.871,0.0,0.083,77,73,87,4,,"Alacrima, achalasia, and intellectual disability syndrome"
+HK1,isolated,HK1,P19367,917,38,12,6,6,0.5,20,12,0.008,0.361,0.866,0.0,0.167,472,429,391,32,Neurodevelopmental disorder with visual defects and brain anomalies,
+LSS,syndromic_only,LSS,P48449,732,37,12,6,6,0.5,18,12,0.139,0.295,0.825,0.0,0.083,153,141,193,6,,Alopecia-intellectual disability syndrome 4
+PPFIBP1,isolated,PPFIBP1,Q86W92,1011,18,12,5,7,0.583,0,12,0.056,0.468,0.875,0.0,0.25,142,131,25,1,"Neurodevelopmental disorder with seizures, microcephaly, and brain abnormalities",
+BCAP31,syndromic_only,BCAP31,P51572,246,19,11,6,5,0.455,3,11,0.126,0.496,0.715,0.0,0.0,85,66,119,13,,Severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome
+GNB1,isolated,GNB1,P62873,340,60,11,4,7,0.636,41,11,0.056,0.453,0.9,0.0,0.182,120,105,199,18,"Intellectual disability, autosomal dominant 42",
+GRIA2,isolated,GRIA2,P42262,883,45,11,7,4,0.364,33,11,0.191,0.627,0.855,0.0,0.273,179,159,57,2,Neurodevelopmental disorder with language impairment and behavioral abnormalities,
+HEPACAM,syndromic_only,HEPACAM,Q14CZ8,416,26,11,5,6,0.545,11,11,0.01,0.24,0.786,0.0,0.091,198,151,120,22,,"Megalencephalic leukoencephalopathy with subcortical cysts 2B, remitting, with or without intellectual disability"
+MED23,isolated,MED23,Q9ULK4,1368,26,11,6,5,0.455,10,11,0.146,0.417,0.856,0.0,0.182,167,152,61,7,"Intellectual disability, autosomal recessive 18",
+NARS1,isolated,NARS1,O43776,548,22,11,7,4,0.364,9,11,0.126,0.23,0.974,0.091,0.182,181,161,28,5,"Neurodevelopmental disorder with microcephaly, impaired language, and gait abnormalities; Neurodevelopmental disorder with microcephaly, impaired language, epilepsy, and gait abnormalities",
+PGM2L1,syndromic_only,PGM2L1,Q6PCE3,622,11,11,3,8,0.727,0,11,0.029,0.598,0.831,0.0,0.091,51,51,30,0,,"Neurodevelopmental disorder with hypotonia, dysmorphic facies, and skin abnormalities"
+PLXNA1,syndromic_only,PLXNA1,Q9UIW2,1896,19,11,5,6,0.545,3,11,0.136,0.369,0.853,0.0,0.091,738,682,593,15,,Dworschak-Punetha neurodevelopmental syndrome
+PPFIA3,syndromic_only,PPFIA3,O75145,1194,26,11,4,7,0.636,12,11,0.079,0.652,0.966,0.273,0.364,180,163,22,1,,PAUL-CHAO NEURODEVELOPMENTAL SYNDROME
+RALGAPA1,isolated,RALGAPA1,Q6GYQ0,2036,15,11,7,4,0.364,1,11,0.1,0.826,1.187,0.273,0.545,254,239,72,3,"Neurodevelopmental disorder with hypotonia, neonatal respiratory insufficiency, and thermodysregulation",
+TCEAL1,syndromic_only,TCEAL1,Q15170,159,13,11,6,5,0.455,1,11,0.132,0.447,0.937,0.091,0.091,20,13,5,2,,"Neurodevelopmental disorder with gait disturbance, dysmorphic facies, and behavioral abnormalities, X-linked"
+TMCO1,syndromic_only,TMCO1,Q9UM00,239,20,11,7,4,0.364,2,11,0.126,0.502,0.69,0.0,0.0,28,21,40,0,,"Craniofacial dysmorphism, skeletal anomalies, and impaired intellectual development 1"
+DPH1,syndromic_only,DPH1,Q9BZG8,438,17,10,4,6,0.6,5,10,0.08,0.477,0.858,0.0,0.1,106,95,42,3,,"Developmental delay with short stature, dysmorphic facial features, and sparse hair 1"
+SFXN4,syndromic_only,SFXN4,Q6P4A7,337,15,10,5,5,0.5,0,10,0.231,0.662,0.932,0.2,0.3,46,44,141,7,,Growth and developmental delay-hypotonia-vision impairment-lactic acidosis syndrome
+WASHC4,isolated,WASHC4,Q2M389,1173,14,10,6,4,0.4,3,10,0.345,0.508,0.837,0.0,0.1,173,158,61,9,"Intellectual disability, autosomal recessive 43",
+ZDHHC9,isolated,ZDHHC9,Q9Y397,364,22,10,6,4,0.4,5,10,0.159,0.684,0.819,0.0,0.2,119,109,147,12,Syndromic X-linked intellectual disability Raymond type,
+ACSL4,isolated,ACSL4,O60488,711,16,9,2,7,0.778,4,9,0.121,0.397,0.871,0.0,0.222,140,117,56,14,"Intellectual disability, X-linked 63",
+ATP9A,isolated,ATP9A,O75110,1047,13,9,6,3,0.333,0,9,0.098,0.313,0.861,0.0,0.111,116,111,32,0,Neurodevelopmental disorder with poor growth and behavioral abnormalities,
+CRELD1,syndromic_only,CRELD1,Q96HD1,420,18,9,2,7,0.778,5,9,0.152,0.417,0.764,0.0,0.111,128,99,86,11,,Jeffries-Lakhani neurodevelopmental syndrome
+DPM3,syndromic_only,DPM3,Q9P2X0,92,13,9,6,3,0.333,4,9,0.022,0.478,0.924,0.111,0.333,38,37,26,2,,"Muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type B, 15"
+GOLGA2,syndromic_only,GOLGA2,Q08379,1002,11,9,3,6,0.667,0,9,0.192,0.449,0.776,0.0,0.111,157,154,80,6,,"Developmental delay with hypotonia, myopathy, and brain abnormalities"
+NRCAM,syndromic_only,NRCAM,Q92823,1304,16,9,4,5,0.556,4,9,0.007,0.712,0.883,0.0,0.333,199,194,35,1,,Neurodevelopmental disorder with neuromuscular and skeletal abnormalities
+ODC1,isolated,ODC1,P11926,461,13,9,4,5,0.556,0,9,0.362,0.909,0.972,0.667,0.889,68,59,43,1,Neurodevelopmental disorder with alopecia and brain abnormalities,
+PCDHGC4,syndromic_only,PCDHGC4,Q9Y5F7,938,10,9,5,4,0.444,1,9,0.043,0.243,0.761,0.0,0.111,105,104,13,1,,Neurodevelopmental disorder with poor growth and skeletal anomalies
+RBL2,syndromic_only,RBL2,Q08999,1139,12,9,3,6,0.667,0,9,0.133,0.272,0.919,0.111,0.111,162,162,20,0,,Brunet-Wagner neurodevelopmental syndrome
+SRSF1,syndromic_only,SRSF1,Q07955,248,17,9,4,5,0.556,5,9,0.016,0.492,0.81,0.0,0.222,27,22,5,1,,Neurodevelopmental disorder with dysmorphic facies and behavioral abnormalities
+TNR,isolated,TNR,Q92752,1358,14,9,4,5,0.556,4,9,0.029,0.362,0.692,0.0,0.0,213,211,59,5,"Neurodevelopmental disorder, nonprogressive, with spasticity and transient opisthotonus",
+TRAPPC6B,isolated,TRAPPC6B,Q86SZ2,158,13,9,4,5,0.556,0,9,0.063,0.259,0.601,0.0,0.0,31,28,30,0,"Neurodevelopmental disorder with microcephaly, epilepsy, and brain atrophy",
+UBE4A,isolated,UBE4A,Q14139,1066,10,9,6,3,0.333,0,9,0.068,0.371,0.841,0.0,0.111,128,125,23,1,Neurodevelopmental disorder with hypotonia and gross motor and speech delay,
+USP27X,isolated,USP27X,A6NNY8,438,11,9,3,6,0.667,2,9,0.082,0.37,0.92,0.111,0.222,71,67,17,1,"Intellectual disability, X-linked 105",
+AFG2B,syndromic_only,AFG2B,Q9BVQ7,753,19,8,2,6,0.75,10,8,0.275,0.809,0.964,0.25,0.5,124,124,24,5,,Neurodevelopmental disorder with hearing loss and spasticity
+ASCC3,isolated,ASCC3,Q8N3C0,2202,16,8,4,4,0.5,5,8,0.45,0.739,0.925,0.125,0.375,287,271,73,4,"Intellectual developmental disorder, autosomal recessive 81",
+CRBN,isolated,CRBN,Q96SW2,442,12,8,5,3,0.375,2,8,0.095,0.484,0.692,0.0,0.0,73,67,29,6,"Intellectual disability, autosomal recessive 2",
+GDI1,isolated,GDI1,P31150,447,15,8,2,6,0.75,4,8,0.157,0.588,0.886,0.0,0.375,92,81,53,13,"Intellectual disability, X-linked 41",
+GLS,isolated,GLS,O94925,669,21,8,4,4,0.5,9,8,0.121,0.347,0.821,0.0,0.125,115,108,65,1,"Global developmental delay, progressive ataxia, and elevated glutamine","Infantile cataract, skin abnormalities, glutamate excess, and impaired intellectual development"
+GRIA3,isolated,GRIA3,P42263,894,38,8,3,5,0.625,25,8,0.242,0.543,0.782,0.0,0.125,299,253,288,40,Syndromic X-linked intellectual disability 94,
+HECTD4,isolated,HECTD4,Q9Y4D8,3996,14,8,4,4,0.5,2,8,0.17,0.531,0.833,0.0,0.25,474,455,87,0,"Neurodevelopmental disorder with seizures, spasticity, and complete or partial agenesis of the corpus callosum",
+NFASC,isolated,NFASC,O94856,1347,13,8,6,2,0.25,5,8,0.594,0.659,0.88,0.0,0.125,215,205,107,8,Neurodevelopmental disorder with central and peripheral motor dysfunction,
+SCN3A,syndromic_only,SCN3A,Q9NY46,2000,41,8,3,5,0.625,28,8,0.004,0.444,0.753,0.0,0.125,1256,1118,821,79,,SCN3A-Related Neurodevelopmental Disorder
+TMEM147,syndromic_only,TMEM147,Q9BVK8,224,16,8,3,5,0.625,3,8,0.094,0.58,0.812,0.0,0.125,36,32,6,1,,"Neurodevelopmental disorder with facial dysmorphism, absent language, and pseudo-pelger-huet anomaly"
+WASF1,isolated,WASF1,Q92558,559,13,8,4,4,0.5,3,8,0.157,0.88,0.93,0.25,0.75,109,96,36,4,Neurodevelopmental disorder with absent language and variable seizures,
+ALKBH8,isolated,ALKBH8,Q96BT7,664,9,7,3,4,0.571,0,7,0.482,0.593,0.898,0.0,0.429,121,113,66,5,"Intellectual developmental disorder, autosomal recessive 71",
+CAMK2A,isolated,CAMK2A,Q9UQM7,478,33,7,6,1,0.143,19,7,0.155,0.464,0.851,0.0,0.143,108,81,61,10,"Intellectual developmental disorder, autosomal dominant 53; Intellectual developmental disorder, autosomal recessive 63",
+CNOT2,syndromic_only,CNOT2,Q9NZN8,540,9,7,3,4,0.571,1,7,0.126,0.585,0.974,0.143,0.286,58,52,24,2,,"Intellectual developmental disorder with nasal speech, dysmorphic facies, and variable skeletal anomalies"
+FTSJ1,isolated,FTSJ1,Q9UET6,329,16,7,2,5,0.714,4,7,0.064,0.261,0.891,0.0,0.143,58,50,53,4,"Intellectual disability, X-linked 9",
+LGI3,syndromic_only,LGI3,Q8N145,548,12,7,3,4,0.571,2,7,0.007,0.204,0.681,0.0,0.0,100,94,15,1,,Intellectual developmental disorder with muscle tone abnormalities and distal skeletal defects
+LRRC7,isolated,LRRC7,Q96NW7,1575,11,7,4,3,0.429,3,7,0.224,0.67,0.951,0.143,0.286,164,149,31,2,"Intellectual developmental disorder, autosomal dominant 77",
+RDH11,syndromic_only,RDH11,Q8TC12,318,7,7,4,3,0.429,0,7,0.211,0.299,0.786,0.0,0.143,133,121,98,2,,Retinitis pigmentosa-juvenile cataract-short stature-intellectual disability syndrome
+RSRC1,isolated,RSRC1,Q96IZ7,334,12,7,5,2,0.286,1,7,0.111,0.332,0.521,0.0,0.0,60,57,10,0,"Intellectual developmental disorder, autosomal recessive 70",
+THUMPD1,syndromic_only,THUMPD1,Q9NXG2,353,9,7,3,4,0.571,2,7,0.125,0.323,0.601,0.0,0.0,57,56,2,1,,Neurodevelopmental disorder with speech delay and variable ocular anomalies
+UBR5,isolated,UBR5,O95071,2799,14,7,4,3,0.429,4,7,0.054,0.335,0.968,0.143,0.143,285,266,67,1,Neurodevelopmental disorder with speech delay and behavioral abnormalities,
+ZIC1,syndromic_only,ZIC1,Q15915,447,14,7,6,1,0.143,6,7,0.821,0.87,0.899,0.0,1.0,108,99,97,2,,Structural brain anomalies with impaired intellectual development and craniosynostosis
+ATP6V0C,syndromic_only,ATP6V0C,P27449,155,22,6,1,5,0.833,15,6,0.155,0.639,0.813,0.0,0.333,36,29,8,2,,"Epilepsy, early-onset, 3, with or without developmental delay"
+CCDC47,syndromic_only,CCDC47,Q96A33,483,7,6,2,4,0.667,0,6,0.389,0.791,0.822,0.0,0.5,50,49,12,1,,Trichohepatoneurodevelopmental syndrome
+FRA10AC1,syndromic_only,FRA10AC1,Q70Z53,315,11,6,3,3,0.5,1,6,0.054,0.479,0.597,0.0,0.0,44,38,5,1,,"Neurodevelopmental disorder with growth retardation, dysmorphic facies, and corpus callosum abnormalities"
+GNAO1,isolated,GNAO1,P09471,354,103,6,1,5,0.833,86,6,0.127,0.638,0.949,0.167,0.167,184,142,299,31,Neurodevelopmental disorder with involuntary movements,
+GRIK2,isolated,GRIK2,Q13002,908,16,6,6,0,0.0,6,6,0.047,0.297,0.576,0.0,0.0,235,215,86,8,"Intellectual disability, autosomal recessive 6; Neurodevelopmental disorder with impaired language and ataxia and with or without seizures",
+HNRNPH1,syndromic_only,HNRNPH1,P31943,449,10,6,1,5,0.833,4,6,0.167,0.461,0.924,0.333,0.333,75,64,21,0,,Neurodevelopmental disorder with craniofacial dysmorphism and skeletal defects
+HNRNPR,syndromic_only,HNRNPR,O43390,633,8,6,2,4,0.667,2,6,0.175,0.867,0.872,0.0,0.833,83,77,13,0,,Neurodevelopmental disorder with dysmorphic facies and skeletal and brain abnormalities
+KCNN2,isolated,KCNN2,Q9H2S1,579,20,6,2,4,0.667,9,6,0.316,0.798,1.14,0.333,0.5,176,152,41,5,Neurodevelopmental disorder with or without variable movement or behavioral abnormalities,
+KDM5A,syndromic_only,KDM5A,P29375,1690,14,6,3,3,0.5,3,6,0.005,0.492,0.573,0.0,0.0,221,206,88,3,,El Hayek-Chahrour neurodevelopmental disorder
+NLGN4X,isolated,NLGN4X,Q8N0W4,816,14,6,3,3,0.5,2,6,0.124,0.44,0.574,0.0,0.0,242,220,102,13,"Autism, susceptibility to, X-linked 2",
+PLAA,isolated,PLAA,Q9Y263,795,13,6,4,2,0.333,5,6,0.03,0.357,0.755,0.0,0.167,279,249,292,12,"Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies",
+PRDM13,syndromic_only,PRDM13,Q9H4Q3,707,10,6,2,4,0.667,0,6,0.378,0.59,0.737,0.0,0.0,404,364,237,26,,"Cerebellar dysfunction, impaired intellectual development, and hypogonadotropic hypogonadism"
+ST3GAL3,isolated,ST3GAL3,Q11203,375,22,6,5,1,0.167,5,6,0.075,0.587,0.72,0.0,0.0,161,136,211,22,"Intellectual disability, autosomal recessive 12",
+SYP,isolated,SYP,P08247,313,10,6,2,4,0.667,1,6,0.294,0.773,0.933,0.167,0.5,71,64,27,7,"Intellectual disability, X-linked 96",
+TCP1,isolated,TCP1,P17987,556,8,6,2,4,0.667,1,6,0.153,0.48,0.903,0.167,0.333,76,72,4,0,Intellectual developmental disorder with polymicrogyria and seizures,
+TTC5,syndromic_only,TTC5,Q8N0Z6,440,11,6,4,2,0.333,3,6,0.061,0.455,0.598,0.0,0.0,52,48,11,1,,Neurodevelopmental disorder with cerebral atrophy and variable facial dysmorphism
+UBE2A,isolated,UBE2A,P49459,152,26,6,3,3,0.5,7,6,0.237,0.842,0.967,0.333,0.667,37,29,27,2,Syndromic X-linked intellectual disability Nascimento type,
+ZSCAN10,syndromic_only,ZSCAN10,Q96SZ4,780,6,6,2,4,0.667,0,6,0.031,0.535,0.877,0.0,0.167,136,134,25,1,,Otofacial neurodevelopmental syndrome
+ACBD6,isolated,ACBD6,Q9BR61,282,7,5,1,4,0.8,0,5,0.082,0.223,0.564,0.0,0.0,42,39,16,0,Neurodevelopmental disorder with progressive movement abnormalities,
+COPB2,syndromic_only,COPB2,P35606,906,9,5,1,4,0.8,1,5,0.067,0.544,0.919,0.2,0.2,133,119,81,9,,"Osteoporosis, childhood- or juvenile-onset, with developmental delay"
+DHX30,isolated,DHX30,Q7L2E3,1194,22,5,4,1,0.2,15,5,0.008,0.52,0.668,0.0,0.0,223,202,112,12,Neurodevelopmental disorder with severe motor impairment and absent language,
+DPM2,syndromic_only,DPM2,O94777,84,9,5,3,2,0.4,3,5,0.119,0.44,0.583,0.0,0.0,60,28,65,1,,Congenital muscular dystrophy with intellectual disability and severe epilepsy
+ESAM,isolated,ESAM,Q96AP7,390,8,5,3,2,0.4,0,5,0.031,0.246,0.813,0.0,0.2,61,59,14,0,"Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",
+GRM7,isolated,GRM7,Q14831,915,11,5,5,0,0.0,6,5,0.125,0.577,0.72,0.0,0.0,161,152,147,3,"Neurodevelopmental disorder with seizures, hypotonia, and brain imaging abnormalities",
+HDAC4,syndromic_only,HDAC4,P56524,1084,16,5,1,4,0.8,9,5,0.101,0.565,0.744,0.0,0.0,317,279,410,35,,Neurodevelopmental disorder with central hypotonia and dysmorphic facies
+HECW2,isolated,HECW2,Q9P2P5,1572,44,5,4,1,0.2,37,5,0.156,0.572,0.964,0.2,0.4,377,340,232,26,"Neurodevelopmental disorder with hypotonia, seizures, and absent language",
+HEPHL1,syndromic_only,HEPHL1,Q6MZM0,1159,6,5,4,1,0.2,0,5,0.002,0.118,0.822,0.0,0.2,187,184,46,0,,Pili torti-developmental delay-neurological abnormalities syndrome
+INPP5K,syndromic_only,INPP5K,Q9BT40,448,15,5,1,4,0.8,8,5,0.487,0.848,0.931,0.4,0.6,84,79,63,6,,Congenital muscular dystrophy with cataracts and intellectual disability
+KDM1A,syndromic_only,KDM1A,O60341,852,16,5,3,2,0.4,9,5,0.318,0.407,0.777,0.0,0.2,714,659,546,21,,Palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome
+KDM2B,syndromic_only,KDM2B,Q8NHM5,1336,22,5,0,5,1.0,16,5,0.459,0.727,0.83,0.0,0.2,254,228,61,4,,Neurodevelopmental disorder with congenital cardiac defects and variable renal and ocular abnormalities
+MED25,syndromic_only,MED25,Q71SY5,747,9,5,1,4,0.8,3,5,0.095,0.521,0.866,0.0,0.4,352,289,447,23,,Congenital cataract-microcephaly-nevus flammeus simplex-severe intellectual disability syndrome
+MIPEP,syndromic_only,MIPEP,Q99797,713,16,5,5,0,0.0,5,5,0.586,0.844,0.914,0.2,0.6,160,146,161,24,,Lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome
+MTHFS,isolated,MTHFS,P49914,203,7,5,3,2,0.4,2,5,0.034,0.365,0.798,0.0,0.2,28,25,20,2,"Neurodevelopmental disorder with microcephaly, epilepsy, and hypomyelination",
+NSRP1,isolated,NSRP1,Q9H0G5,558,7,5,3,2,0.4,1,5,0.014,0.701,0.815,0.0,0.4,70,67,12,0,"Neurodevelopmental disorder with spasticity, seizures, and brain abnormalities",
+PAN2,syndromic_only,PAN2,Q504Q3,1202,7,5,4,1,0.2,1,5,0.646,0.875,0.943,0.4,0.6,133,126,7,0,,Developmental delay with variable cardiac and renal congenital anomalies and dysmorphic facies
+RAB39B,isolated,RAB39B,Q96DA2,213,14,5,3,2,0.4,5,5,0.033,0.296,0.878,0.0,0.4,68,47,33,4,"Intellectual disability, X-linked 72",Early-onset parkinsonism-intellectual disability syndrome
+RBMX,isolated,RBMX,P38159,391,10,5,3,2,0.4,5,5,0.731,0.885,0.974,0.4,0.8,42,34,20,2,Syndromic X-linked intellectual disability Shashi type,"Severe X-linked intellectual disability, Gustavson type"
+SVBP,isolated,SVBP,Q8N300,66,6,5,2,3,0.6,1,5,0.121,0.394,0.545,0.0,0.0,11,9,0,0,"Neurodevelopmental disorder with ataxia, hypotonia, and microcephaly",
+SYNCRIP,syndromic_only,SYNCRIP,O60506,623,5,5,1,4,0.8,0,5,0.236,0.461,0.79,0.0,0.2,115,102,18,0,,SYNCRIP-related neurodevelopmental disorder
+TRRAP,syndromic_only,TRRAP,Q9Y4A5,3859,36,5,4,1,0.2,28,5,0.027,0.266,0.755,0.0,0.2,1259,1143,1309,106,,Developmental delay with or without dysmorphic facies and autism
+WARS2,isolated,WARS2,Q9UGM6,360,19,5,3,2,0.4,11,5,0.1,0.342,0.578,0.0,0.0,94,81,65,13,"Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures",
+YAP1,syndromic_only,YAP1,P46937,504,7,5,4,1,0.2,2,5,0.246,0.706,0.792,0.0,0.4,79,71,49,2,,Uveal coloboma-cleft lip and palate-intellectual disability
+ZFX,isolated,ZFX,P17010,805,11,5,0,5,1.0,5,5,0.048,0.547,0.827,0.0,0.2,83,76,7,0,"Intellectual developmental disorder, X-linked, syndromic 37",
+CA8,syndromic_only,CA8,P35219,290,11,4,2,2,0.5,6,4,0.269,0.745,0.841,0.0,0.25,35,31,49,0,,"Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 3"
+CASP2,isolated,CASP2,P42575,452,5,4,2,2,0.5,0,4,0.097,0.854,0.867,0.0,0.5,45,45,20,1,"Intellectual developmental disorder, autosomal recessive 80, with variant lissencephaly",
+DYNC1I2,isolated,DYNC1I2,Q13409,638,7,4,3,1,0.25,1,4,0.027,0.455,0.469,0.0,0.0,80,75,23,0,Neurodevelopmental disorder with microcephaly and structural brain anomalies,
+EIF4A2,isolated,EIF4A2,Q14240,407,21,4,0,4,1.0,15,4,0.108,0.194,0.445,0.0,0.0,85,53,14,2,"Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures",
+FAM177A1,isolated,FAM177A1,Q8N128,213,7,4,1,3,0.75,0,4,0.329,0.577,0.577,0.0,0.0,40,40,7,0,Neurodevelopmental disorder with white matter abnormalities and gait disturbance,
+FBRSL1,syndromic_only,FBRSL1,Q9HCM7,1045,5,4,2,2,0.5,1,4,0.106,0.122,0.156,0.0,0.0,315,271,77,8,,"CAMPTODACTYLY, IMPAIRED INTELLECTUAL DEVELOPMENT, AND FACIAL DYSMORPHISM SYNDROME"
+FBXL3,syndromic_only,FBXL3,Q9UKT7,428,5,4,3,1,0.25,1,4,0.348,0.647,0.689,0.0,0.0,29,29,11,0,,"Intellectual disability, short stature, facial anomalies, and joint dislocations"
+FSD1L,isolated,FSD1L,Q9BXM9,530,5,4,2,2,0.5,1,4,0.145,0.889,0.898,0.0,0.5,50,50,4,0,"NEURODEVELOPMENTAL DISORDER WITH SEIZURES, SPASTIC TETRAPARESIS, AND VISION IMPAIRMENT",
+GFER,syndromic_only,GFER,P55789,205,9,4,2,2,0.5,4,4,0.356,0.82,0.922,0.25,0.5,75,70,91,8,,Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome
+HNRNPH2,isolated,HNRNPH2,P55795,449,13,4,1,3,0.75,9,4,0.343,0.457,0.726,0.0,0.0,50,45,28,3,"Intellectual disability, X-linked, syndromic, Bain type",
+INPP4A,isolated,INPP4A,Q96PE3,977,8,4,2,2,0.5,1,4,0.04,0.221,0.336,0.0,0.0,91,90,35,0,"Neurodevelopmental disorder with growth impairment, quadriparesis, and poor or absent speech",
+INTS11,syndromic_only,INTS11,Q5TA45,600,8,4,1,3,0.75,3,4,0.072,0.868,0.918,0.25,0.5,129,124,28,2,,"Neurodevelopmental disorder with motor and language delay, ocular defects, and brain abnormalities"
+INTS6,isolated,INTS6,Q9UL03,887,10,4,2,2,0.5,4,4,0.209,0.313,0.688,0.0,0.0,86,72,8,0,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL DOMINANT 78",
+KLHL15,isolated,KLHL15,Q96M94,604,6,4,1,3,0.75,2,4,0.162,0.407,0.652,0.0,0.0,87,80,37,1,"Intellectual disability, X-linked 103",
+NAV3,syndromic_only,NAV3,Q8IVL0,2385,4,4,2,2,0.5,0,4,0.365,0.884,0.919,0.25,0.5,308,298,19,1,,"Neurodevelopmental disorder with poor or absent speech, dysmorphic facies, and behavioral abnormalities"
+NLGN3,isolated,NLGN3,Q9NZ94,848,13,4,1,3,0.75,7,4,0.068,0.144,0.166,0.0,0.0,176,155,55,6,"Autism, susceptibility to, X-linked 1",
+NTRK2,syndromic_only,NTRK2,Q16620,822,14,4,2,2,0.5,6,4,0.071,0.394,0.54,0.0,0.0,450,396,425,29,,"Obesity, hyperphagia, and developmental delay"
+PGAP2,syndromic_only,PGAP2,Q9UHJ9,254,18,4,1,3,0.75,12,4,0.331,0.846,0.965,0.25,0.5,72,56,53,6,,Hyperphosphatasia with intellectual disability syndrome 3
+PGBD5,isolated,PGBD5,Q8N414,524,4,4,2,2,0.5,0,4,0.032,0.137,0.918,0.25,0.25,0,0,6,0,"Neurodevelopmental disorder with seizures, hypotonia, and variable spasticity",
+PRSS12,isolated,PRSS12,P56730,875,4,4,2,2,0.5,0,4,0.169,0.39,0.605,0.0,0.0,249,186,50,8,"Intellectual disability, autosomal recessive 1",
+RSPRY1,syndromic_only,RSPRY1,Q96DX4,576,6,4,2,2,0.5,1,4,0.064,0.741,0.823,0.0,0.25,67,65,132,1,,Progressive spondyloepimetaphyseal dysplasia-short stature-short fourth metatarsals-intellectual disability syndrome
+SLC4A10,isolated,SLC4A10,Q6U841,1118,14,4,3,1,0.25,5,4,0.261,0.677,0.781,0.0,0.25,119,111,31,0,Neurodevelopmental disorder with hypotonia and characteristic brain abnormalities,
+STEEP1,isolated,STEEP1,Q9H5V9,222,5,4,2,2,0.5,0,4,0.122,0.248,0.901,0.25,0.25,20,16,7,0,"Intellectual disability, X-linked 107",
+SUPT16H,syndromic_only,SUPT16H,Q9Y5B9,1047,10,4,2,2,0.5,5,4,0.143,0.47,0.662,0.0,0.0,175,147,31,0,,Neurodevelopmental disorder with dysmorphic facies and thin corpus callosum
+TAF8,isolated,TAF8,Q7Z7C8,310,8,4,1,3,0.75,0,4,0.432,0.858,0.868,0.0,0.75,49,48,9,1,"Neurodevelopmental disorder with severe motor impairment, absent language, cerebral hypomyelination, and brain atrophy",
+TRAPPC10,syndromic_only,TRAPPC10,P48553,1259,6,4,2,2,0.5,1,4,0.249,0.853,0.898,0.0,0.5,158,154,39,0,,"Neurodevelopmental disorder with microcephaly, short stature, and speech delay"
+TSPAN7,isolated,TSPAN7,P41732,249,6,4,2,2,0.5,0,4,0.39,0.767,0.876,0.0,0.5,43,27,17,3,"Intellectual disability, X-linked 58",
+VAMP2,isolated,VAMP2,P63027,116,15,4,2,2,0.5,9,4,0.095,0.655,0.974,0.25,0.25,30,25,23,1,Neurodevelopmental disorder with hypotonia and autistic features with or without hyperkinetic movements,
+VPS50,isolated,VPS50,Q96JG6,964,8,4,3,1,0.25,1,4,0.005,0.596,0.602,0.0,0.0,91,88,16,0,"Neurodevelopmental disorder with microcephaly, seizures, and neonatal cholestasis",
+ZNF526,syndromic_only,ZNF526,Q8TF50,670,6,4,1,3,0.75,2,4,0.11,0.651,0.754,0.0,0.25,125,120,31,4,,Dentici-Novelli neurodevelopmental syndrome
+CAMK2B,isolated,CAMK2B,Q13554,666,20,3,3,0,0.0,10,3,0.044,0.297,0.919,0.333,0.333,364,257,548,31,"Intellectual developmental disorder, autosomal dominant 54",
+CARS1,syndromic_only,CARS1,P49589,748,7,3,1,2,0.667,3,3,0.106,0.619,1.031,0.333,0.333,147,147,64,2,,"Microcephaly, developmental delay, and brittle hair syndrome"
+CRADD,isolated,CRADD,P78560,199,8,3,1,2,0.667,4,3,0.085,0.09,0.658,0.0,0.0,35,32,41,2,"Intellectual disability, autosomal recessive 34",
+DHPS,isolated,DHPS,P49366,369,5,3,1,2,0.667,0,3,0.198,0.526,0.642,0.0,0.0,55,53,34,3,Neurodevelopmental disorder with seizures and speech and walking impairment,
+DIP2B,isolated,DIP2B,Q9P265,1576,8,3,2,1,0.333,1,3,0.056,0.187,0.521,0.0,0.0,223,204,76,4,"Intellectual disability, FRA12A type",
+DOHH,isolated,DOHH,Q9BU89,302,5,3,1,2,0.667,2,3,0.338,0.927,0.993,0.667,0.667,68,66,9,2,"Neurodevelopmental disorder with microcephaly, cerebral atrophy, and visual impairment",
+EEFSEC,isolated,EEFSEC,P57772,596,5,3,2,1,0.333,2,3,0.715,0.862,0.982,0.333,0.667,99,99,12,1,Neurodevelopmental disorder with progressive spasticity and brain abnormalities,
+ELFN1,syndromic_only,ELFN1,P0C7U0,828,5,3,0,3,1.0,2,3,0.018,0.052,0.714,0.0,0.0,167,164,44,2,,Dursun-Ozgul neurodevelopmental syndrome
+FIBP,syndromic_only,FIBP,O43427,364,5,3,1,2,0.667,1,3,0.514,0.599,0.687,0.0,0.0,65,58,23,0,,Tall stature-intellectual disability-renal anomalies syndrome
+GTPBP1,syndromic_only,GTPBP1,O00178,669,4,3,2,1,0.333,1,3,0.761,0.83,0.903,0.333,1.0,64,64,4,0,,Neurodevelopmental disorder with characteristic facial and ectodermal features and tetraparesis 1
+MID2,isolated,MID2,Q9UJV3,735,3,3,1,2,0.667,0,3,0.65,0.657,0.94,0.333,0.333,76,74,26,5,"Intellectual disability, X-linked 101",
+PI4K2A,isolated,PI4K2A,Q9BTU6,479,3,3,3,0,0.0,0,3,0.046,0.645,0.664,0.0,0.0,46,46,1,0,"Neurodevelopmental disorder with hyperkinetic movements, seizures, and structural brain abnormalities",
+PIGK,isolated,PIGK,Q92643,395,11,3,2,1,0.333,6,3,0.076,0.084,0.137,0.0,0.0,55,51,15,2,"Neurodevelopmental disorder with hypotonia and cerebellar atrophy, with or without seizures",
+RPS6KC1,isolated,RPS6KC1,Q96S38,1066,6,3,0,3,1.0,3,3,0.28,0.485,0.72,0.0,0.0,228,212,128,5,"Neurodevelopmental disorder with spasticity, thin corpus callosum, and decreased brain white matter",
+SMS,isolated,SMS,P52788,366,36,3,2,1,0.333,27,3,0.317,0.639,0.828,0.0,0.333,105,91,81,7,Syndromic X-linked intellectual disability Snyder type,
+SNAPC4,isolated,SNAPC4,Q5SXM2,1469,12,3,3,0,0.0,3,3,0.042,0.551,0.567,0.0,0.0,336,326,62,5,"Neurodevelopmental disorder with motor regression, progressive spastic paraplegia, and oromotor dysfunction",
+SRPK3,isolated,SRPK3,Q9UPE1,567,5,3,0,3,1.0,2,3,0.12,0.125,0.6,0.0,0.0,136,123,21,5,"Intellectual developmental disorder, X-linked 114",
+TMX2,isolated,TMX2,Q9Y320,296,8,3,1,2,0.667,4,3,0.209,0.443,0.855,0.0,0.333,53,48,18,4,"Neurodevelopmental disorder with microcephaly, cortical malformations, and spasticity",
+TTI1,isolated,TTI1,O43156,1089,12,3,2,1,0.333,7,3,0.033,0.07,0.485,0.0,0.0,202,194,31,0,Neurodevelopmental disorder with microcephaly and movement abnormalities,
+WBP4,syndromic_only,WBP4,O75554,376,6,3,1,2,0.667,0,3,0.303,0.444,0.593,0.0,0.0,58,54,8,1,,"Neurodevelopmental disorder with hypotonia, feeding difficulties, facial dysmorphism, and brain abnormalities"
+WDR45B,isolated,WDR45B,Q5MNZ6,344,3,3,3,0,0.0,0,3,0.099,0.654,0.776,0.0,0.333,30,30,21,2,Neurodevelopmental disorder with spastic quadriplegia and brain abnormalities with or without seizures,
+WDR83OS,syndromic_only,WDR83OS,Q9Y284,106,6,3,3,0,0.0,0,3,0.226,0.547,0.745,0.0,0.0,15,12,14,1,,Neurodevelopmental disorder with variable familial hypercholanemia
+ZBTB11,isolated,ZBTB11,O95625,1053,10,3,2,1,0.333,7,3,0.028,0.478,0.88,0.0,0.333,128,118,42,1,"Intellectual developmental disorder, autosomal recessive 69",
+ZNF668,syndromic_only,ZNF668,Q96K58,619,3,3,2,1,0.333,0,3,0.515,0.599,0.645,0.0,0.0,87,79,14,0,,"Neurodevelopmental disorder with poor growth, large ears, and dysmorphic facies"
+ADAT3,isolated,ADAT3,Q96EY9,367,4,2,0,2,1.0,2,2,0.098,0.15,0.15,0.0,0.0,140,133,35,8,Intellectual disability-strabismus syndrome,
+ATP6V0A1,isolated,ATP6V0A1,Q93050,837,13,2,0,2,1.0,8,2,0.178,0.379,0.379,0.0,0.0,141,132,16,2,Neurodevelopmental disorder with epilepsy and brain atrophy,
+CAPN15,syndromic_only,CAPN15,O75808,1086,8,2,1,1,0.5,5,2,0.193,0.308,0.308,0.0,0.0,265,259,146,6,,Oculogastrointestinal-neurodevelopmental syndrome
+CCDC32,syndromic_only,CCDC32,Q9BV29,185,3,2,0,2,1.0,0,2,0.054,0.297,0.297,0.0,0.0,4,2,6,0,,Cardiofacioneurodevelopmental syndrome
+CCT3,isolated,CCT3,P49368,545,2,2,0,2,1.0,0,2,0.486,0.727,0.727,0.0,0.0,73,67,4,0,Neurodevelopmental disorder with speech or visual impairment and brain hypomyelination,
+CHKA,isolated,CHKA,P35790,457,5,2,1,1,0.5,3,2,0.013,0.753,0.753,0.0,0.5,50,49,9,0,"Neurodevelopmental disorder with microcephaly, movement abnormalities, and seizures",
+DHX37,syndromic_only,DHX37,Q8IY37,1157,14,2,1,1,0.5,10,2,0.628,0.685,0.685,0.0,0.0,348,309,265,23,,Neurodevelopmental disorder with brain anomalies and with or without vertebral or cardiac anomalies
+DPH2,syndromic_only,DPH2,Q9BQC3,489,2,2,2,0,0.0,0,2,0.153,0.975,0.975,0.5,0.5,84,81,8,1,,"Developmental delay with short stature, dysmorphic facial features, and sparse hair 2"
+DPP6,isolated,DPP6,P42658,865,6,2,2,0,0.0,1,2,0.237,0.896,0.896,0.0,0.5,84,55,227,7,"Intellectual disability, autosomal dominant 33",
+EIF3F,isolated,EIF3F,O00303,357,4,2,1,1,0.5,2,2,0.171,0.807,0.807,0.0,0.5,56,53,43,1,"Intellectual developmental disorder, autosomal recessive 67",
+FGFR3,syndromic_only,FGFR3,P22607,806,67,2,0,2,1.0,60,2,0.352,0.981,0.981,0.5,0.5,621,530,574,97,,Severe achondroplasia-developmental delay-acanthosis nigricans syndrome
+FRMD4A,syndromic_only,FRMD4A,Q9P2Q2,1039,3,2,0,2,1.0,1,2,0.689,0.988,0.988,0.5,0.5,180,175,72,0,,Severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome
+GEMIN4,syndromic_only,GEMIN4,P57678,1058,4,2,0,2,1.0,2,2,0.118,0.331,0.331,0.0,0.0,221,209,86,6,,"Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities"
+GRIA1,isolated,GRIA1,P42261,906,9,2,2,0,0.0,7,2,0.312,0.416,0.416,0.0,0.0,190,163,71,2,"Intellectual developmental disorder, autosomal dominant 67; Intellectual developmental disorder, autosomal recessive 76",
+GRIA4,isolated,GRIA4,P48058,902,11,2,2,0,0.0,9,2,0.198,0.817,0.817,0.0,0.5,243,212,81,6,Neurodevelopmental disorder with or without seizures and gait abnormalities,
+GTF3C3,syndromic_only,GTF3C3,Q9Y5Q9,886,11,2,2,0,0.0,8,2,0.643,0.809,0.809,0.0,0.5,76,75,16,0,,"Neurodevelopmental disorder with dysmorphic facies, brain anomalies, and seizures"
+H4C11,syndromic_only,H4C11; H4C3; H4C5; H4C9,P62805,103,26,2,1,1,0.5,24,2,0.243,0.961,0.961,0.5,0.5,132,121,34,1,,Tessadori-Van Haaften neurodevelopmental syndrome 3; Tessadori-Van Haaften neurodevelopmental syndrome 4; Tessadori-van Haaften neurodevelopmental syndrome 1; Tessadori-van Haaften neurodevelopmental syndrome 2
+HUWE1,isolated,HUWE1,Q7Z6Z7,4374,86,2,1,1,0.5,77,2,0.226,0.226,0.226,0.0,0.0,1075,972,927,91,"Intellectual disability, X-linked syndromic, Turner type",
+IMPA1,isolated,IMPA1,P29218,277,2,2,1,1,0.5,0,2,0.596,0.986,0.986,0.5,0.5,38,31,13,0,"Intellectual disability, autosomal recessive 59",
+JKAMP,isolated,JKAMP,Q9P055,311,4,2,2,0,0.0,0,2,0.061,0.151,0.151,0.0,0.0,30,26,1,0,Neurodevelopmental disorder with seizures and impaired intellectual and language development,
+KICS2,isolated,KICS2,Q96MD2,445,5,2,1,1,0.5,2,2,0.007,0.584,0.584,0.0,0.0,2,2,3,1,"Intellectual developmental disorder, autosomal recessive 83",
+LRRC32,syndromic_only,LRRC32,Q14392,662,3,2,1,1,0.5,1,2,0.465,0.822,0.822,0.0,0.5,121,120,30,0,,"Cleft palate, proliferative retinopathy, and developmental delay"
+MANF,syndromic_only,MANF,P55145,182,3,2,1,1,0.5,0,2,0.027,0.137,0.137,0.0,0.0,28,27,5,0,,"Diabetes, deafness, developmental delay, and short stature syndrome"
+MED27,syndromic_only,MED27,Q6P2C8,311,4,2,1,1,0.5,1,2,0.421,0.743,0.743,0.0,0.0,37,29,15,3,,"Neurodevelopmental disorder with spasticity, cataracts, and cerebellar hypoplasia"
+NCDN,isolated,NCDN,Q9UBB6,729,7,2,0,2,1.0,5,2,0.1,0.454,0.454,0.0,0.0,96,93,29,4,Neurodevelopmental disorder with infantile epileptic spasms,
+NEUROG1,syndromic_only,NEUROG1,Q92886,237,4,2,1,1,0.5,2,2,0.287,0.329,0.329,0.0,0.0,56,56,8,0,,"Cranial dysinnervation disorder, congenital, with absent corneal reflex and developmental delay"
+NSUN6,isolated,NSUN6,Q8TEA1,469,3,2,0,2,1.0,1,2,0.597,0.94,0.94,0.5,0.5,80,79,4,1,"Intellectual developmental disorder, autosomal recessive 82",
+NTNG2,isolated,NTNG2,Q96CW9,530,8,2,1,1,0.5,6,2,0.238,0.304,0.304,0.0,0.0,61,58,25,1,"Neurodevelopmental disorder with behavioral abnormalities, absent speech, and hypotonia",
+NUDT2,syndromic_only,NUDT2,P50583,147,3,2,1,1,0.5,1,2,0.082,0.429,0.429,0.0,0.0,17,16,7,0,,Intellectual developmental disorder with or without peripheral neuropathy
+PDE2A,isolated,PDE2A,O00408,941,9,2,1,1,0.5,3,2,0.21,0.419,0.419,0.0,0.0,150,131,202,3,Intellectual developmental disorder with paroxysmal dyskinesia or seizures,
+PIGV,syndromic_only,PIGV,Q9NUD9,493,12,2,1,1,0.5,9,2,0.529,0.907,0.907,0.5,0.5,210,173,150,27,,Hyperphosphatasia with intellectual disability syndrome 1
+PIP5K1C,isolated,PIP5K1C,O60331,668,8,2,0,2,1.0,5,2,0.344,0.389,0.389,0.0,0.0,131,121,147,4,"NEURODEVELOPMENTAL DISORDER WITH INTELLECTUAL, VISUAL, AND LANGUAGE IMPAIRMENT",
+PTRHD1,isolated,PTRHD1,Q6GMV3,140,5,2,1,1,0.5,3,2,0.407,0.507,0.507,0.0,0.0,32,30,8,0,Neurodevelopmental disorder with early-onset parkinsonism and behavioral abnormalities,
+SGSM3,isolated,SGSM3,Q96HU1,749,3,2,2,0,0.0,0,2,0.646,0.702,0.702,0.0,0.0,144,142,33,1,"Intellectual developmental disorder, autosomal recessive 84",
+SHQ1,isolated,SHQ1,Q6PI26,577,4,2,2,0,0.0,1,2,0.113,0.267,0.267,0.0,0.0,108,100,21,4,Neurodevelopmental disorder with dystonia and seizures,
+SLC9A9,isolated,SLC9A9,Q8IVB4,645,2,2,1,1,0.5,0,2,0.304,0.918,0.918,0.5,0.5,97,87,46,1,"Autism, susceptibility to, 16",
+SMARCA2,syndromic_only,SMARCA2,P51531,1590,127,2,1,1,0.5,123,2,0.099,0.672,0.672,0.0,0.0,592,461,851,70,,Blepharophimosis-impaired intellectual development syndrome
+SNAPIN,syndromic_only,SNAPIN,O95295,136,5,2,2,0,0.0,2,2,0.228,0.279,0.279,0.0,0.0,15,14,0,0,,Neurodevelopmental disorder with structural brain abnormalities and craniofacial abnormalities
+SNF8,syndromic_only,SNF8,Q96H20,258,6,2,1,1,0.5,3,2,0.647,0.872,0.872,0.0,0.5,30,30,1,1,,Neurodevelopmental disorder plus optic atrophy
+TMEM222,isolated,TMEM222,Q9H0R3,208,6,2,1,1,0.5,2,2,0.337,0.538,0.538,0.0,0.0,38,34,8,0,Neurodevelopmental disorder with motor and speech delay and behavioral abnormalities,
+TTI2,syndromic_only,TTI2,Q6NXR4,508,10,2,1,1,0.5,5,2,0.016,0.657,0.657,0.0,0.0,80,73,41,7,,Severe intellectual disability-short stature-behavioral abnormalities-facial dysmorphism syndrome
+WARS1,isolated,WARS1,P23381,471,5,2,2,0,0.0,3,2,0.187,0.866,0.866,0.0,0.5,87,83,47,7,"Neurodevelopmental disorder with microcephaly and speech delay, with or without brain abnormalities",
+ZSWIM6,isolated,ZSWIM6,Q9HCJ5,1215,5,2,1,1,0.5,3,2,0.602,0.751,0.751,0.0,0.5,514,443,526,56,"Neurodevelopmental disorder with movement abnormalities, abnormal gait, and autistic features",
+ARHGEF2,isolated,ARHGEF2,Q92974,986,2,1,1,0,0.0,0,1,0.855,0.855,0.855,0.0,1.0,102,97,36,0,Neurodevelopmental disorder with midbrain and hindbrain malformations,
+ATG12,isolated,ATG12,O94817,140,4,1,1,0,0.0,2,1,0.564,0.564,0.564,0.0,0.0,23,23,1,1,NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA,
+ATP1A1,syndromic_only,ATP1A1,P05023,1023,28,1,0,1,1.0,25,1,0.916,0.916,0.916,1.0,1.0,396,331,542,14,,"Hypomagnesemia, seizures, and intellectual disability 2"
+ATP6AP2,isolated,ATP6AP2,O75787,350,6,1,1,0,0.0,2,1,0.271,0.271,0.271,0.0,0.0,134,118,123,13,Syndromic X-linked intellectual disability Hedera type,
+CACNA1G,syndromic_only,CACNA1G,O43497,2377,29,1,1,0,0.0,28,1,0.078,0.078,0.078,0.0,0.0,884,764,653,97,,"Spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits"
+CAMK2G,isolated,CAMK2G,Q13555,558,5,1,0,1,1.0,4,1,0.104,0.104,0.104,0.0,0.0,100,90,33,1,Intellectual developmental disorder 59,
+CDK8,isolated,CDK8,P49336,464,20,1,1,0,0.0,19,1,0.134,0.134,0.134,0.0,0.0,79,73,20,1,Intellectual developmental disorder with hypotonia and behavioral abnormalities,
+CLCN3,isolated,CLCN3,P51790,818,16,1,0,1,1.0,15,1,0.137,0.137,0.137,0.0,0.0,189,157,30,1,Neurodevelopmental disorder with hypotonia and brain abnormalities; Neurodevelopmental disorder with seizures and brain abnormalities,
+DDX6,syndromic_only,DDX6,P26196,483,9,1,0,1,1.0,8,1,0.747,0.747,0.747,0.0,0.0,81,67,21,2,,Intellectual developmental disorder with impaired language and dysmorphic facies
+DLK1,syndromic_only,DLK1,P80370,383,2,1,1,0,0.0,0,1,0.311,0.311,0.311,0.0,0.0,56,54,34,0,,Motor developmental delay due to 14q32.2 paternally expressed gene defect
+DMAP1,isolated,DMAP1,Q9NPF5,467,7,1,0,1,1.0,6,1,0.732,0.732,0.732,0.0,0.0,59,56,0,1,"INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL RECESSIVE 86",
+DOT1L,syndromic_only,DOT1L,Q8TEK3,1537,9,1,0,1,1.0,8,1,0.843,0.843,0.843,0.0,1.0,249,227,94,2,,Nil-Deshwar neurodevelopmental syndrome
+DPH5,syndromic_only,DPH5,Q9H2P9,285,4,1,1,0,0.0,2,1,0.726,0.726,0.726,0.0,0.0,38,36,2,0,,"Neurodevelopmental disorder with short stature, prominent forehead, and feeding difficulties"
+EDC3,isolated,EDC3,Q96F86,508,2,1,0,1,1.0,1,1,0.337,0.337,0.337,0.0,0.0,45,43,16,2,"Intellectual disability, autosomal recessive 50",
+EXOC7,isolated,EXOC7,Q9UPT5,735,5,1,1,0,0.0,2,1,0.475,0.475,0.475,0.0,0.0,100,88,27,0,Neurodevelopmental disorder with seizures and brain atrophy,
+EXOC8,isolated,EXOC8,Q8IYI6,725,2,1,0,1,1.0,0,1,0.219,0.219,0.219,0.0,0.0,82,80,23,0,"Neurodevelopmental disorder with microcephaly, seizures, and brain atrophy",
+EXTL3,syndromic_only,EXTL3,O43909,919,2,1,1,0,0.0,1,1,0.172,0.172,0.172,0.0,0.0,283,268,306,6,,Immunoskeletal dysplasia with neurodevelopmental abnormalities
+FBXO31,isolated,FBXO31,Q5XUX0,539,3,1,0,1,1.0,1,1,0.525,0.525,0.525,0.0,0.0,82,75,31,0,"Intellectual disability, autosomal recessive 45",
+FGF13,isolated,FGF13,Q92913,245,6,1,1,0,0.0,5,1,0.033,0.033,0.033,0.0,0.0,57,39,11,2,"Intellectual developmental disorder, X-linked 110",
+GLRA2,isolated,GLRA2,P23416,452,10,1,0,1,1.0,9,1,0.381,0.381,0.381,0.0,0.0,72,57,20,1,"Intellectual developmental disorder, X-linked, syndromic, Pilorge type",
+HNRNPC,isolated,HNRNPC,P07910,306,3,1,0,1,1.0,1,1,0.824,0.824,0.824,0.0,1.0,36,29,4,1,"Intellectual developmental disorder, autosomal dominant 74",
+INTS8,isolated,INTS8,Q75QN2,995,3,1,1,0,0.0,1,1,0.361,0.361,0.361,0.0,0.0,101,99,22,0,Neurodevelopmental disorder with cerebellar hypoplasia and spasticity,
+IQSEC1,syndromic_only,IQSEC1,Q6DN90,963,3,1,0,1,1.0,2,1,0.51,0.51,0.51,0.0,0.0,215,207,79,1,,Intellectual developmental disorder with short stature and behavioral abnormalities
+LMAN2L,isolated,LMAN2L,Q9H0V9,348,3,1,0,1,1.0,2,1,0.997,0.997,0.997,1.0,1.0,64,53,19,1,"Intellectual developmental disorder, autosomal dominant 69; Intellectual disability, autosomal recessive 52",
+LRRC8C,syndromic_only,LRRC8C,Q8TDW0,803,2,1,0,1,1.0,1,1,0.498,0.498,0.498,0.0,0.0,69,67,4,1,,"Telangiectasia, impaired intellectual development, microcephaly, metaphyseal dysplasia, eye abnormalities, and short stature"
+MED11,syndromic_only,MED11,Q9P086,117,2,1,1,0,0.0,0,1,0.932,0.932,0.932,1.0,1.0,19,19,0,0,,"Neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and brain abnormalities"
+MTOR,syndromic_only,MTOR,P42345,2549,57,1,0,1,1.0,54,1,0.034,0.034,0.034,0.0,0.0,1113,928,1823,117,,Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+NAA20,isolated,NAA20,P61599,178,3,1,1,0,0.0,2,1,0.191,0.191,0.191,0.0,0.0,19,17,3,0,"Intellectual developmental disorder, autosomal recessive 73",
+OTUD5,syndromic_only,OTUD5,Q96G74,571,9,1,1,0,0.0,8,1,0.863,0.863,0.863,0.0,1.0,80,74,21,5,,"Multiple congenital anomalies-neurodevelopmental syndrome, X-linked"
+OTUD7A,isolated,OTUD7A,Q8TE49,926,15,1,0,1,1.0,1,1,0.413,0.413,0.413,0.0,0.0,170,150,64,3,Neurodevelopmental disorder with hypotonia and seizures,
+PAK1,isolated,PAK1,Q13153,545,24,1,0,1,1.0,23,1,0.128,0.128,0.128,0.0,0.0,113,89,29,2,"Intellectual developmental disorder with macrocephaly, seizures, and speech delay",
+PDZD8,syndromic_only,PDZD8,Q8NEN9,1154,2,1,1,0,0.0,0,1,0.258,0.258,0.258,0.0,0.0,144,143,29,0,,Intellectual developmental disorder with autism and dysmorphic facies
+PIGW,syndromic_only,PIGW,Q7Z7B1,504,7,1,0,1,1.0,6,1,0.875,0.875,0.875,0.0,1.0,214,182,113,10,,Hyperphosphatasia with intellectual disability syndrome 5
+PRKAR1B,syndromic_only,PRKAR1B,P31321,381,8,1,1,0,0.0,7,1,0.499,0.499,0.499,0.0,0.0,118,104,53,4,,Marbach-Schaaf neurodevelopmental syndrome
+RAB5IF,syndromic_only,RAB5IF,Q9BUV8,137,1,1,1,0,0.0,0,1,0.182,0.182,0.182,0.0,0.0,3,2,0,0,,"Craniofacial dysmorphism, skeletal anomalies, and impaired intellectual development syndrome 2"
+SEC31A,syndromic_only,SEC31A,O94979,1220,1,1,0,1,1.0,0,1,0.76,0.76,0.76,0.0,1.0,114,113,35,0,,"Neurodevelopmental disorder with spastic quadriplegia, optic atrophy, seizures, and structural brain anomalies"
+SLITRK2,isolated,SLITRK2,Q9H156,845,5,1,1,0,0.0,4,1,0.546,0.546,0.546,0.0,0.0,97,90,21,3,"Intellectual developmental disorder, X-linked 111",
+SPOP,syndromic_only,SPOP,O43791,374,11,1,0,1,1.0,9,1,0.42,0.42,0.42,0.0,0.0,204,97,16,8,,Neurodevelopmental disorder with microcephaly and dysmorphic facies; Neurodevelopmental disorder with relative macrocephaly and with or without cardiac or endocrine anomalies
+SRPX2,syndromic_only,SRPX2,O60687,465,2,1,1,0,0.0,1,1,0.849,0.849,0.849,0.0,1.0,109,98,75,18,,"Rolandic epilepsy, intellectual disability, and speech dyspraxia, X-linked"
+SYT1,syndromic_only,SYT1,P21579,422,25,1,1,0,0.0,22,1,0.948,0.948,0.948,1.0,1.0,80,70,26,2,,Infantile hypotonia-oculomotor anomalies-hyperkinetic movements-developmental delay syndrome
+TAF1,isolated,TAF1,P21675,1893,41,1,0,1,1.0,38,1,0.385,0.385,0.385,0.0,0.0,453,402,327,29,"Intellectual disability, X-linked, syndromic 33",
+TAF2,syndromic_only,TAF2,Q6P1X5,1199,5,1,0,1,1.0,2,1,0.727,0.727,0.727,0.0,0.0,177,158,156,3,,Microcephaly-thin corpus callosum-intellectual disability syndrome
+TNIK,isolated,TNIK,Q9UKE5,1360,1,1,1,0,0.0,0,1,0.132,0.132,0.132,0.0,0.0,139,130,77,0,"Intellectual disability, autosomal recessive 54",
+TRA2B,syndromic_only,TRA2B,P62995,288,7,1,1,0,0.0,4,1,0.024,0.024,0.024,0.0,0.0,24,17,2,0,,Ramond-Elliott neurodevelopmental syndrome
+TRAPPC4,isolated,TRAPPC4,Q9Y296,219,4,1,0,1,1.0,1,1,0.037,0.037,0.037,0.0,0.0,44,40,33,0,"Neurodevelopmental disorder with epilepsy, spasticity, and brain atrophy",
+UBE3C,isolated,UBE3C,Q15386,1083,1,1,0,1,1.0,0,1,0.616,0.616,0.616,0.0,0.0,110,108,22,0,Neurodevelopmental disorder with absent speech and movement and behavioral abnormalities,
+ZC3H14,isolated,ZC3H14,Q6PJT7,736,1,1,1,0,0.0,0,1,0.209,0.209,0.209,0.0,0.0,95,82,44,5,"Intellectual disability, autosomal recessive 56",
+ADARB1,isolated,ADARB1,P78563,741,6,0,0,0,,5,0,,,,,,74,67,23,1,"Neurodevelopmental disorder with hypotonia, microcephaly, and seizures",
+AGO1,isolated,AGO1,Q9UL18,857,16,0,0,0,,14,0,,,,,,151,123,44,4,"Neurodevelopmental disorder with language delay and behavioral abnormalities, with or without seizures",
+AHSG,syndromic_only,AHSG,P02765,367,1,0,0,0,,1,0,,,,,,51,51,24,1,,Alopecia-intellectual disability syndrome 1
+ALG14,syndromic_only,ALG14,Q96F25,216,1,0,0,0,,1,0,,,,,,89,80,71,10,,"Intellectual developmental disorder with epilepsy, behavioral abnormalities, and coarse facies"
+ANAPC7,syndromic_only,ANAPC7,Q9UJX3,565,1,0,0,0,,0,0,,,,,,61,49,7,0,,Ferguson-Bonni neurodevelopmental syndrome
+AP2M1,isolated,AP2M1,Q96CW1,435,2,0,0,0,,2,0,,,,,,115,90,202,3,Intellectual developmental disorder 60 with seizures,
+ARPC4,syndromic_only,ARPC4,P59998,168,1,0,0,0,,1,0,,,,,,25,13,6,1,,"Developmental delay, language impairment, and ocular abnormalities"
+ATN1,syndromic_only,ATN1,P54259,1190,15,0,0,0,,8,0,,,,,,263,231,126,17,,"Congenital hypotonia, epilepsy, developmental delay, and digital anomalies"
+ATXN7L3,syndromic_only,ATXN7L3,Q14CW9,347,1,0,0,0,,1,0,,,,,,34,27,6,0,,Harel-Tora neurodevelopmental syndrome
+CACNA1I,isolated,CACNA1I,Q9P0X4,2223,6,0,0,0,,5,0,,,,,,556,525,125,7,Neurodevelopmental disorder with speech impairment and with or without seizures,
+CACNG2,isolated,CACNG2,Q9Y698,323,0,0,0,0,,0,0,,,,,,58,55,16,0,"Intellectual disability, autosomal dominant 10",
+CCDC174,syndromic_only,CCDC174,Q6PII3,467,1,0,0,0,,1,0,,,,,,80,77,48,0,,Severe hypotonia-psychomotor developmental delay-strabismus-cardiac septal defect syndrome
+CCNK,syndromic_only,CCNK,O75909,580,1,0,0,0,,1,0,,,,,,75,69,44,2,,Intellectual developmental disorder with hypertelorism and distinctive facies
+CDH15,isolated,CDH15,P55291,814,1,0,0,0,,0,0,,,,,,266,248,139,17,"Intellectual disability, autosomal dominant 3",
+CERT1,isolated,CERT1,Q9Y5P4,624,14,0,0,0,,12,0,,,,,,191,134,109,10,"Intellectual disability, autosomal dominant 34",
+CHASERR,syndromic_only,CHASERR,,,0,0,0,0,,0,0,,,,,,0,0,0,0,,"Neurodevelopmental disorder with dysmorphic facies, absent speech and ambulation, and brain abnormalities"
+CPSF3,isolated,CPSF3,Q9UKF6,684,3,0,0,0,,1,0,,,,,,49,47,19,0,"Neurodevelopmental disorder with microcephaly, hypotonia, nystagmus, and seizures",
+CSTF2,isolated,CSTF2,P33240,577,1,0,0,0,,1,0,,,,,,37,36,6,1,"Intellectual developmental disorder, X-linked 113",
+CTBP1,syndromic_only,CTBP1,Q13363,440,2,0,0,0,,2,0,,,,,,159,127,214,8,,"Hypotonia, ataxia, developmental delay, and tooth enamel defect syndrome"
+EEF1A2,isolated,EEF1A2,Q05639,463,46,0,0,0,,45,0,,,,,,207,175,393,30,"Intellectual disability, autosomal dominant 38",
+EIF2AK2,syndromic_only,EIF2AK2,P19525,551,6,0,0,0,,4,0,,,,,,153,129,93,11,,"Leukoencephalopathy, developmental delay, and episodic neurologic regression syndrome"
+EIF4E,isolated,EIF4E,P06730,217,0,0,0,0,,0,0,,,,,,16,14,9,0,"Autism, susceptibility to, 19",
+EIPR1,isolated,EIPR1,Q53HC9,387,4,0,0,0,,4,0,,,,,,51,51,3,0,"NEURODEVELOPMENTAL DISORDER WITH SPASTICITY, HYPOPLASIA OF THE CORPUS CALLOSUM, AND RECURRENT INFECTIONS",
+EPB41L1,isolated,EPB41L1,Q9H4G0,881,1,0,0,0,,1,0,,,,,,125,117,87,9,"Intellectual disability, autosomal dominant 11",
+EXOC2,syndromic_only,EXOC2,Q96KP1,924,1,0,0,0,,1,0,,,,,,120,114,22,0,,Neurodevelopmental disorder with dysmorphic facies and cerebellar hypoplasia
+FBXW11,syndromic_only,FBXW11,Q9UKB1,542,10,0,0,0,,10,0,,,,,,122,96,13,2,,"Neurodevelopmental, jaw, eye, and digital syndrome"
+FEM1B,syndromic_only,FEM1B,Q9UK73,627,1,0,0,0,,1,0,,,,,,49,49,5,0,,"Neurodevelopmental disorder with behavioral, ear, and skeletal abnormalities"
+FRMD5,isolated,FRMD5,Q7Z6J6,570,7,0,0,0,,6,0,,,,,,102,90,23,2,Neurodevelopmental disorder with eye movement abnormalities and ataxia,
+GABBR1,isolated,GABBR1,Q9UBS5,961,9,0,0,0,,9,0,,,,,,152,128,17,1,Neurodevelopmental disorder with language delay and variable cognitive abnormalities,
+GABBR2,isolated,GABBR2,O75899,941,17,0,0,0,,16,0,,,,,,450,379,689,42,Neurodevelopmental disorder with poor language and loss of hand skills,
+GABRA3,syndromic_only,GABRA3,P34903,492,6,0,0,0,,4,0,,,,,,63,55,19,0,,"Epilepsy, X-linked 2, with or without impaired intellectual development and dysmorphic features"
+GNAI1,isolated,GNAI1,P63096,354,22,0,0,0,,22,0,,,,,,111,90,26,3,"Neurodevelopmental disorder with hypotonia, impaired speech, and behavioral abnormalities",
+GNB2,syndromic_only,GNB2,P62879,340,10,0,0,0,,10,0,,,,,,72,66,29,2,,Neurodevelopmental disorder with hypotonia and dysmorphic facies
+H3-3A,syndromic_only,H3-3A; H3-3B,P84243,136,41,0,0,0,,41,0,,,,,,44,38,17,7,,Bryant-Li-Bhoj neurodevelopmental syndrome; Bryant-Li-Bhoj neurodevelopmental syndrome 1; Bryant-Li-Bhoj neurodevelopmental syndrome 2
+HMGB3,syndromic_only,HMGB3,O15347,200,0,0,0,0,,0,0,,,,,,19,15,10,0,,X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome
+HNMT,isolated,HNMT,P50135,292,3,0,0,0,,3,0,,,,,,37,33,21,2,"Intellectual disability, autosomal recessive 51",
+IGBP1,syndromic_only,IGBP1,P78318,339,1,0,0,0,,0,0,,,,,,39,37,15,1,,Corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome
+ITGAV,syndromic_only,ITGAV,P06756,1048,6,0,0,0,,2,0,,,,,,143,142,20,0,,"Immune dysregulation, neurodevelopmental defects, and colitis"
+KAT5,syndromic_only,KAT5,Q92993,513,4,0,0,0,,4,0,,,,,,96,85,19,4,,"Neurodevelopmental disorder with dysmorphic facies, sleep disturbance, and brain abnormalities"
+KCNA4,syndromic_only,KCNA4,P22459,653,0,0,0,0,,0,0,,,,,,73,72,8,0,,"Microcephaly, cataracts, impaired intellectual development, and dystonia with abnormal striatum"
+KCNK3,syndromic_only,KCNK3,O14649,394,9,0,0,0,,9,0,,,,,,172,159,107,6,,Developmental delay with sleep apnea
+KCNK4,syndromic_only,KCNK4,Q9NYG8,393,6,0,0,0,,6,0,,,,,,230,193,222,30,,"Facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome"
+KIF4A,isolated,KIF4A,O95239,1232,8,0,0,0,,5,0,,,,,,200,188,58,8,"Intellectual disability, X-linked 100",
+KLHL20,syndromic_only,KLHL20,Q9Y2M5,609,7,0,0,0,,7,0,,,,,,72,68,7,1,,"Neurodevelopmental disorder with early-onset seizures, facial dysmorphism, and behavioral abnormalities"
+LINGO1,isolated,LINGO1,Q96FE5,620,2,0,0,0,,2,0,,,,,,88,88,45,1,"Intellectual disability, autosomal recessive 64",
+LMBRD2,syndromic_only,LMBRD2,Q68DH5,695,10,0,0,0,,10,0,,,,,,130,118,22,3,,Developmental delay with variable neurologic and brain abnormalities
+MEG3,syndromic_only,MEG3,,,2,0,0,0,,0,0,,,,,,2,0,49,0,,Motor developmental delay due to 14q32.2 paternally expressed gene defect
+MORC2,syndromic_only,MORC2,Q9Y6X9,1032,39,0,0,0,,39,0,,,,,,552,451,458,37,,"Developmental delay, impaired growth, dysmorphic facies, and axonal neuropathy"
+MTSS2,syndromic_only,MTSS2,Q765P7,747,2,0,0,0,,2,0,,,,,,199,184,52,7,,Intellectual developmental disorder with ocular anomalies and distinctive facial features
+NACC1,syndromic_only,NACC1,Q96RE7,527,6,0,0,0,,6,0,,,,,,218,194,283,21,,"Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination"
+NAE1,syndromic_only,NAE1,Q13564,534,3,0,0,0,,3,0,,,,,,65,64,6,1,,Neurodevelopmental disorder with dysmorphic facies and ischiopubic hypoplasia
+NDC1,syndromic_only,NDC1,Q9BTX1,674,1,0,0,0,,0,0,,,,,,93,92,6,0,,"Neurodevelopmental disorder with achalasia, polyneuropathy, and alacrima"
+NDST1,isolated,NDST1,P52848,882,5,0,0,0,,5,0,,,,,,171,162,135,7,"Intellectual disability, autosomal recessive 46",
+NFE2L2,syndromic_only,NFE2L2,Q16236,605,5,0,0,0,,5,0,,,,,,238,214,174,15,,"Immunodeficiency, developmental delay, and hypohomocysteinemia"
+NKAP,isolated,NKAP,Q8N5F7,415,4,0,0,0,,4,0,,,,,,57,53,22,4,"Intellectual developmental disorder, X-linked, syndromic, Hackmann-Di Donato type",
+NLGN1,isolated,NLGN1,Q8N2Q7,863,0,0,0,0,,0,0,,,,,,106,96,31,1,"Autism, susceptibility to, 20",
+OGT,isolated,OGT,O15294,1046,18,0,0,0,,17,0,,,,,,153,147,67,3,"Intellectual disability, X-linked 106",
+PIGF,syndromic_only,PIGF,Q07326,219,0,0,0,0,,0,0,,,,,,36,36,9,0,,"Onychodystrophy, osteodystrophy, impaired intellectual development, and seizures syndrome"
+PIGY,syndromic_only,PIGY,Q3MUY2,71,2,0,0,0,,1,0,,,,,,13,12,8,0,,Hyperphosphatasia with intellectual disability syndrome 6
+POLA1,isolated,POLA1,P09884,1462,12,0,0,0,,8,0,,,,,,477,444,428,28,"X-linked intellectual disability, van Esch type",
+PSMB1,isolated,PSMB1,P20618,241,1,0,0,0,,1,0,,,,,,25,23,6,0,"Neurodevelopmental disorder with microcephaly, hypotonia, and absent language",
+PSMC1,syndromic_only,PSMC1,P62191,440,1,0,0,0,,1,0,,,,,,12,11,5,0,,"Neurodevelopmental disorder with poor growth, spastic tetraplegia, and hearing loss"
+PSMC3,syndromic_only,PSMC3,P17980,439,12,0,0,0,,11,0,,,,,,45,43,11,1,,"Deafness, cataract, impaired intellectual development, and polyneuropathy; Ebstein-Bezieau neurodevelopmental syndrome"
+PSMC5,syndromic_only,PSMC5,P62195,406,4,0,0,0,,4,0,,,,,,43,40,11,1,,YU-KURY NEURODEVELOPMENTAL SYNDROME
+PTPA,syndromic_only,PTPA,Q15257,358,2,0,0,0,,2,0,,,,,,6,5,14,0,,"Parkinson disease 25, autosomal recessive early-onset, with impaired intellectual development"
+PTPMT1,isolated,PTPMT1,Q8WUK0,201,1,0,0,0,,1,0,,,,,,27,27,11,0,Neurodevelopmental disorder with ataxia and brain abnormalities,
+RAB11B,isolated,RAB11B,Q15907,218,7,0,0,0,,7,0,,,,,,80,68,171,7,"Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+RAC1,isolated,RAC1,P63000,192,34,0,0,0,,34,0,,,,,,49,32,23,0,"Intellectual disability, autosomal dominant 48",
+RAC3,syndromic_only,RAC3,P60763,192,12,0,0,0,,12,0,,,,,,41,36,27,2,,Neurodevelopmental disorder with structural brain anomalies and dysmorphic facies
+RALA,syndromic_only,RALA,P11233,206,14,0,0,0,,14,0,,,,,,47,39,68,1,,Hiatt-Neu-Cooper neurodevelopmental syndrome
+RBSN,syndromic_only,RBSN,Q9H1K0,784,3,0,0,0,,3,0,,,,,,112,111,15,1,,"Kariminejad neurodevelopmental syndrome; Myelofibrosis, congenital, with anemia, neutropenia, developmental delay, and ocular abnormalities"
+RLIM,isolated,RLIM,Q9NVW2,624,14,0,0,0,,13,0,,,,,,121,112,42,3,"Intellectual disability, X-linked 61",
+RNU4-2,syndromic_only,RNU4-2,,,30,0,0,0,,0,0,,,,,,37,0,22,2,,"Neurodevelopmental disorder with hypotonia, brain anomalies, distinctive facies, and absent language"
+RNU5B-1,syndromic_only,RNU5B-1,,,2,0,0,0,,0,0,,,,,,7,0,1,1,,RNU5B-1 related neurodevelopmental disorder with seizures and joint laxity
+RPL10,isolated,RPL10,P27635,214,9,0,0,0,,9,0,,,,,,54,34,31,2,"Autism, susceptibility to, X-linked 5; Intellectual disability, X-linked, syndromic, 35",
+RPS23,syndromic_only,RPS23,P62266,143,2,0,0,0,,2,0,,,,,,7,3,6,0,,"Brachycephaly, trichomegaly, and developmental delay"
+RTL1,syndromic_only,RTL1,A6NKG5,1358,0,0,0,0,,0,0,,,,,,192,192,41,1,,Motor developmental delay due to 14q32.2 paternally expressed gene defect
+SARS1,isolated,SARS1,P49591,514,3,0,0,0,,1,0,,,,,,54,52,20,0,"Neurodevelopmental disorder with microcephaly, ataxia, and seizures",
+SEL1L,syndromic_only,SEL1L,Q9UBV2,794,1,0,0,0,,1,0,,,,,,85,83,5,0,,"Neurodevelopmental disorder with hypotonia, poor growth, dysmorphic facies, and agammaglobulinemia; Neurodevelopmental disorder with poor growth, absent speech, progressive ataxia, and dysmorphic facies"
+SHMT2,syndromic_only,SHMT2,P34897,504,3,0,0,0,,3,0,,,,,,72,67,19,1,,"Neurodevelopmental disorder with cardiomyopathy, spasticity, and brain abnormalities"
+SLC45A1,isolated,SLC45A1,Q9Y2W3,748,0,0,0,0,,0,0,,,,,,137,135,88,3,Intellectual developmental disorder with neuropsychiatric features,
+SLC6A17,syndromic_only,SLC6A17,Q9H1V8,727,2,0,0,0,,2,0,,,,,,97,92,37,4,,Progressive essential tremor-speech impairment-facial dysmorphism-intellectual disability-abnormal behavior syndrome
+SLC9A7,isolated,SLC9A7,Q96T83,725,2,0,0,0,,1,0,,,,,,173,149,80,8,"Intellectual developmental disorder, X-linked 108",
+SOBP,isolated,SOBP,A7XYQ1,873,0,0,0,0,,0,0,,,,,,149,139,44,3,"Intellectual disability, anterior maxillary protrusion, and strabismus",
+SOX3,isolated,SOX3,P41225,446,5,0,0,0,,1,0,,,,,,92,75,53,9,"Intellectual disability, X-linked, with panhypopituitarism",
+SPOUT1,isolated,SPOUT1,Q5T280,376,6,0,0,0,,6,0,,,,,,17,12,16,2,"Neurodevelopmental disorder with poor growth, seizures, and brain abnormalities",
+TAF13,isolated,TAF13,Q15543,124,4,0,0,0,,2,0,,,,,,8,6,5,0,"Intellectual disability, autosomal recessive 60",
+TBCB,isolated,TBCB,Q99426,244,0,0,0,0,,0,0,,,,,,49,49,1,0,Neurodevelopmental disorder with behavioral abnormalities and childhood-onset spastic paraplegia,
+TECR,isolated,TECR,Q9NZ01,308,0,0,0,0,,0,0,,,,,,37,29,26,0,"Intellectual disability, autosomal recessive 14",
+TFE3,syndromic_only,TFE3,P19532,575,20,0,0,0,,17,0,,,,,,97,87,33,2,,"Intellectual developmental disorder, X-linked, syndromic, with pigmentary mosaicism and coarse facies"
+THOC2,syndromic_only,THOC2,Q8NI27,1593,23,0,0,0,,20,0,,,,,,243,219,92,3,,X-linked intellectual disability-short stature-overweight syndrome
+TIAM1,isolated,TIAM1,Q13009,1591,5,0,0,0,,5,0,,,,,,261,254,84,6,Neurodevelopmental disorder with language delay and seizures,
+TNPO2,syndromic_only,TNPO2,O14787,897,19,0,0,0,,16,0,,,,,,111,94,61,2,,"Intellectual developmental disorder with hypotonia, impaired speech, and dysmorphic facies"
+TPR,isolated,TPR,P12270,2363,0,0,0,0,,0,0,,,,,,230,224,29,2,"Intellectual developmental disorder, autosomal recessive 79",
+TRAF7,syndromic_only,TRAF7,Q6Q0C0,670,24,0,0,0,,24,0,,,,,,158,134,90,6,,"Cardiac, facial, and digital anomalies with developmental delay"
+TRPM3,syndromic_only,TRPM3,Q9HCF6,1732,11,0,0,0,,10,0,,,,,,396,374,116,10,,"Neurodevelopmental disorder with hypotonia, dysmorphic facies, and skeletal anomalies, with or without seizures"
+TUBB3,syndromic_only,TUBB3,Q13509,450,57,0,0,0,,57,0,,,,,,176,160,146,29,,"CONGENITAL FIBROSIS OF EXTRAOCULAR MUSCLES 3A, SYNDROMIC 1, WITH ANOSMIA AND DEVELOPMENTAL DELAY; CONGENITAL FIBROSIS OF EXTRAOCULAR MUSCLES 3A, SYNDROMIC 2, WITH JOINT CONTRACTURES, DEVELOPMENTAL DELAY, AND PERIPHERAL NEUROPATHY"
+TUBGCP2,syndromic_only,TUBGCP2,Q9BSJ2,902,2,0,0,0,,1,0,,,,,,153,140,82,8,,"Pachygyria, microcephaly, developmental delay, and dysmorphic facies, with or without seizures"
+UFC1,isolated,UFC1,Q9Y3C8,167,6,0,0,0,,3,0,,,,,,25,24,10,0,Neurodevelopmental disorder with spasticity and poor growth,
+UNC13A,isolated,UNC13A,Q9UPW8,1703,10,0,0,0,,8,0,,,,,,286,254,170,6,"Neurodevelopmental disorder with hypotonia, epilepsy, and absent speech; Neurodevelopmental disorder with speech delay, movement abnormalities, and seizures",Intellectual developmental disorder with seizures and dysmorphic facies
+VPS4A,syndromic_only,VPS4A,Q9UN37,437,7,0,0,0,,7,0,,,,,,84,71,27,1,,Cerebellar hypoplasia-intellectual disability-congenital microcephaly-dystonia-anemia-growth retardation syndrome
+WIPI2,syndromic_only,WIPI2,Q9Y4P8,454,2,0,0,0,,2,0,,,,,,51,50,35,1,,Intellectual developmental disorder with short stature and variable skeletal anomalies
+WSB2,syndromic_only,WSB2,Q9NYS7,404,1,0,0,0,,1,0,,,,,,38,33,6,0,,Luo-Agrawal neurodevelopmental syndrome
+ZMYM3,isolated,ZMYM3,Q14202,1370,14,0,0,0,,10,0,,,,,,185,170,39,8,"Intellectual developmental disorder, X-linked 112",
+ZNF407,syndromic_only,ZNF407,Q9C0G0,2248,2,0,0,0,,2,0,,,,,,397,373,148,19,,"Short stature, impaired intellectual development, microcephaly, hypotonia, and ocular anomalies"

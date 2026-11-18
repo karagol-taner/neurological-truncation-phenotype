@@ -1,0 +1,22 @@
+{
+ "answers_stored": 1789,
+ "error": null,
+ "failed_query": null,
+ "genes_pulled": 894,
+ "genes_total": 895,
+ "genes_without_cds": [
+  "ATXN8",
+  "ATXN8OS",
+  "RNU12",
+  "RNU2-2",
+  "SNORD118"
+ ],
+ "genes_without_record": [
+  "DISC2"
+ ],
+ "last_query": "tx_ENST00000252744",
+ "plof_variants": 166605,
+ "started_utc": "2026-11-11T09:15:16Z",
+ "state": "done",
+ "updated_utc": "2026-11-11T10:16:24Z"
+}

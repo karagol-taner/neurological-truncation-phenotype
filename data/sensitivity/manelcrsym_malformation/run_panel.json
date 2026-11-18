@@ -1,0 +1,44 @@
+{
+ "gene_condition_source_id": "gene_condition_source_id",
+ "grouping_names": 57,
+ "grouping_names_in_area": [
+  "Holoprosencephaly sequence",
+  "Joubert syndrome"
+ ],
+ "grouping_scope": "routes",
+ "grouping_threshold": 10,
+ "map_rows_kept": 14247,
+ "map_rows_removed": 25,
+ "map_used": "codes/gene_condition_source_id.grouping_routes_lt10",
+ "resolution": "strict",
+ "resolution_failures": [
+  [
+   "MACF1",
+   2
+  ],
+  [
+   "PIDD1",
+   2
+  ]
+ ],
+ "symbols_whose_only_route_is_a_grouping_name": [
+  "B9D2",
+  "C2CD3",
+  "CNOT1",
+  "DLL1",
+  "FGF8",
+  "FGFR1",
+  "FOXH1",
+  "IFT172",
+  "KIF7",
+  "KMT2D",
+  "POC1B",
+  "RAD21",
+  "SMC1A",
+  "SMC3",
+  "TMEM107",
+  "TTC21B",
+  "ZNF423"
+ ],
+ "variant_summary": "variant_summary_outside_lcr.txt.gz"
+}

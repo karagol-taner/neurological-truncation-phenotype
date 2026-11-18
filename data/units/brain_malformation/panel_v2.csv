@@ -1,0 +1,277 @@
+gene,tier,clinvar_symbols,uniprot,protein_length,plp_total,plp_ptv,plp_nonsense,plp_frameshift,plp_fs_fraction,plp_missense,plp_ptv_positioned,plp_ptv_rel_min,plp_ptv_rel_median,plp_ptv_rel_max,plp_ptv_frac_last_10pct,plp_ptv_frac_last_25pct,vus_total,vus_missense,benign_total,conflicting_total,isolated,syndromic
+TSC2,syndromic_only,TSC2,P49815,1807,1527,935,293,642,0.687,210,935,0.003,0.561,2.159,0.103,0.301,4572,3965,4323,1632,,Isolated focal cortical dysplasia type II
+CEP290,syndromic_only,CEP290,O15078,2479,1090,838,363,475,0.567,22,838,0.0,0.513,0.991,0.104,0.251,1754,1573,1836,177,,Joubert syndrome; Joubert syndrome 5
+TSC1,syndromic_only,TSC1,Q92574,1164,791,597,178,419,0.702,32,597,0.003,0.48,0.835,0.0,0.087,2249,1934,1850,686,,Isolated focal cortical dysplasia type II
+MECP2,syndromic_only,MECP2,P51608,486,860,585,73,512,0.875,150,585,0.002,0.679,1.025,0.043,0.427,562,401,697,59,,Severe neonatal-onset encephalopathy with microcephaly
+PTCH1,isolated,PTCH1,Q13635,1447,790,550,177,373,0.678,61,550,0.006,0.375,0.923,0.004,0.069,2781,2500,2302,684,Holoprosencephaly 7,
+NBN,syndromic_only,NBN,O60934,754,569,435,142,293,0.674,6,435,0.003,0.508,0.989,0.12,0.246,1888,1699,1145,265,,"Microcephaly, normal intelligence and immunodeficiency"
+ASPM,isolated,ASPM,Q8IZT6,3477,376,335,140,195,0.582,4,335,0.006,0.492,0.991,0.081,0.26,1029,965,626,184,"Microcephaly 5, primary, autosomal recessive",
+CC2D2A,syndromic_only,CC2D2A,Q9P2K1,1620,448,312,135,177,0.567,41,312,0.004,0.538,0.991,0.115,0.288,841,742,1062,224,,Joubert syndrome; Joubert syndrome 9
+KRIT1,isolated,KRIT1,O00522,736,392,306,111,195,0.637,12,306,0.015,0.584,0.97,0.085,0.294,288,217,163,31,Cerebral cavernous malformation; Cerebral cavernous malformation 1,Familial Cerebral Cavernous Malformations
+CPLANE1,syndromic_only,CPLANE1,Q9H799,3197,368,268,106,162,0.604,21,268,0.005,0.502,0.997,0.116,0.261,1213,1067,984,148,,Joubert syndrome; Joubert syndrome 17
+RPGRIP1L,syndromic_only,RPGRIP1L,Q68CZ1,1315,348,264,119,145,0.549,10,264,0.002,0.432,0.934,0.053,0.167,883,753,914,113,,Joubert syndrome; Joubert syndrome 7
+FLNA,syndromic_only,FLNA,P21333,2647,382,243,80,163,0.671,56,243,0.003,0.505,0.995,0.082,0.276,1529,1378,1835,512,,"Heterotopia, periventricular, X-linked dominant"
+AHI1,syndromic_only,AHI1,Q8N157,1196,329,234,94,140,0.598,24,234,0.02,0.473,0.976,0.064,0.222,659,566,765,109,,Joubert syndrome; Joubert syndrome 3
+ASXL3,syndromic_only,ASXL3,Q9C0F0,2248,260,231,83,148,0.641,3,231,0.002,0.415,0.992,0.017,0.078,462,426,401,49,,Severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome
+SLC12A6,syndromic_only,SLC12A6,Q9UHW9,1150,264,193,68,125,0.648,9,193,0.009,0.539,0.986,0.088,0.264,616,486,921,34,,Agenesis of the corpus callosum with peripheral neuropathy
+POGZ,syndromic_only,POGZ,Q7Z3K3,1410,222,176,58,118,0.67,17,176,0.002,0.584,0.91,0.023,0.193,416,379,262,28,,Intellectual disability-microcephaly-strabismus-behavioral abnormalities syndrome
+KIF11,syndromic_only,KIF11,P52732,1056,220,160,58,102,0.637,13,160,0.001,0.527,0.939,0.037,0.231,374,325,481,42,,"Microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability"
+CCDC88C,isolated,CCDC88C,Q9P219,2028,179,145,65,80,0.552,5,145,0.001,0.524,0.961,0.062,0.2,541,517,1180,65,"Hydrocephalus, nonsyndromic, autosomal recessive 1",
+COL3A1,isolated,COL3A1,P02461,1466,976,140,52,88,0.629,608,140,0.007,0.423,0.992,0.121,0.25,1407,1214,1411,212,Polymicrogyria with or without vascular-type Ehlers-Danlos syndrome,
+RARS2,isolated,RARS2,Q5T160,578,243,134,49,85,0.634,32,134,0.003,0.479,0.939,0.06,0.261,225,184,537,52,Pontocerebellar hypoplasia type 6,
+L1CAM,syndromic_only,L1CAM,P32004,1257,228,121,58,63,0.521,39,121,0.006,0.589,0.965,0.058,0.248,370,321,822,110,,X-linked complicated corpus callosum dysgenesis; X-linked hydrocephalus syndrome
+KIAA0586,syndromic_only,KIAA0586,Q9BVV6,1533,178,119,53,66,0.555,3,119,0.002,0.412,0.969,0.076,0.235,732,640,695,46,,Joubert syndrome; Joubert syndrome 23
+ASNS,syndromic_only,ASNS,P08243,561,185,118,36,82,0.695,29,118,0.027,0.426,0.964,0.085,0.246,238,213,409,28,,Congenital microcephaly - severe encephalopathy - progressive cerebral atrophy syndrome
+MKS1,syndromic_only,MKS1,Q9NXB0,559,198,118,53,65,0.551,15,118,0.011,0.485,0.914,0.017,0.136,454,372,512,87,,Joubert syndrome; Joubert syndrome 28
+TUBGCP6,syndromic_only,TUBGCP6,Q96RT7,1819,146,116,43,73,0.629,3,116,0.002,0.512,0.975,0.034,0.224,1035,972,1074,92,,Microcephaly and chorioretinopathy 1
+MTRR,isolated,MTRR,Q9UBK8,698,160,112,42,70,0.625,10,112,0.053,0.413,0.897,0.0,0.161,273,231,612,28,"Neural tube defects, folate-sensitive",
+OFD1,syndromic_only,OFD1,O75665,1012,174,112,35,77,0.688,14,112,0.001,0.433,0.955,0.125,0.25,588,497,469,87,,Joubert syndrome; Joubert syndrome 10
+TMEM67,syndromic_only,TMEM67,Q5HYA8,995,255,110,45,65,0.591,67,110,0.007,0.454,0.958,0.036,0.182,586,502,624,84,,Joubert syndrome; Joubert syndrome 6
+EFTUD2,syndromic_only,EFTUD2,Q15029,972,196,107,33,74,0.692,28,107,0.016,0.573,0.966,0.103,0.271,322,279,411,33,,Mandibulofacial dysostosis-microcephaly syndrome
+MPDZ,isolated,MPDZ,O75970,2070,148,107,51,56,0.523,1,107,0.011,0.524,0.969,0.056,0.224,1010,940,809,48,"Hydrocephalus, nonsyndromic, autosomal recessive 2",
+CEP152,isolated,CEP152,O94986,1710,145,106,48,58,0.547,3,106,0.016,0.351,0.989,0.009,0.085,370,335,679,69,"Microcephaly 9, primary, autosomal recessive",
+PAFAH1B1,isolated,PAFAH1B1,P43034,410,198,102,42,60,0.588,49,102,0.012,0.534,0.932,0.029,0.176,166,136,223,17,Lissencephaly due to LIS1 mutation,
+CSPP1,syndromic_only,CSPP1,Q1MSJ5,1256,140,101,39,62,0.614,3,101,0.006,0.513,0.904,0.01,0.129,601,514,548,38,,Joubert syndrome; Joubert syndrome 21
+MTHFR,isolated,MTHFR,P42898,656,202,101,48,53,0.525,51,101,0.009,0.581,0.942,0.04,0.317,256,227,497,51,"Neural tube defects, folate-sensitive",
+PNKP,syndromic_only,PNKP,Q96T60,521,156,95,24,71,0.747,11,95,0.008,0.772,0.992,0.137,0.516,487,412,566,82,,"Microcephaly, seizures, and developmental delay"
+SUFU,syndromic_only,SUFU,Q9UMX1,484,140,94,27,67,0.713,3,94,0.01,0.481,0.959,0.032,0.181,1006,881,765,114,,Joubert syndrome 32
+ARX,syndromic_only,ARX,Q96QS3,562,147,93,25,68,0.731,29,93,0.018,0.596,0.95,0.118,0.301,389,332,408,76,,Corpus callosum agenesis-abnormal genitalia syndrome; X-linked lissencephaly with abnormal genitalia
+NPHP1,syndromic_only,NPHP1,O15259,732,162,93,36,57,0.613,4,93,0.008,0.454,0.9,0.011,0.129,440,357,489,66,,Joubert syndrome; Joubert syndrome with renal defect
+WDR62,isolated,WDR62,O43379,1518,140,87,30,57,0.655,19,87,0.02,0.497,0.986,0.092,0.195,493,438,443,106,"Microcephaly 2, primary, autosomal recessive, with or without cortical malformations",
+GLI2,isolated,GLI2,P10070,1586,104,86,28,58,0.674,7,86,0.003,0.352,0.965,0.023,0.093,732,664,484,83,Holoprosencephaly 9; Holoprosencephaly sequence,
+ADGRG1,isolated,ADGRG1,Q9Y653,693,129,85,41,44,0.518,18,85,0.006,0.405,0.939,0.047,0.129,285,222,629,63,"Polymicrogyria, bilateral perisylvian, autosomal recessive",Bilateral frontoparietal polymicrogyria
+VRK1,isolated,VRK1,Q99986,396,121,83,23,60,0.723,9,83,0.005,0.477,0.97,0.169,0.277,180,152,309,18,Pontocerebellar hypoplasia type 1A,
+CCM2,isolated,CCM2,Q9BSQ5,444,126,82,20,62,0.756,11,82,0.007,0.241,0.939,0.024,0.061,160,146,153,17,Cerebral cavernous malformation 2,Familial Cerebral Cavernous Malformations
+CNTNAP2,isolated,CNTNAP2,Q9UHC6,1331,124,82,41,41,0.5,1,82,0.003,0.453,0.929,0.049,0.159,933,804,808,112,Cortical dysplasia-focal epilepsy syndrome,
+FIG4,syndromic_only,FIG4,Q92562,907,131,82,38,44,0.537,6,82,0.009,0.49,0.907,0.012,0.256,469,404,507,52,,Bilateral parasagittal parieto-occipital polymicrogyria
+MCPH1,isolated,MCPH1,Q8NEM0,835,122,81,45,36,0.444,7,81,0.012,0.346,0.963,0.049,0.198,368,310,689,80,"Microcephaly 1, primary, autosomal recessive",
+CPAP,isolated,CPAP,Q9HC77,1338,93,79,34,45,0.57,5,79,0.005,0.469,0.981,0.101,0.278,299,245,288,44,"Microcephaly 6, primary, autosomal recessive",
+LAMC3,syndromic_only,LAMC3,Q9Y6N6,1575,111,78,34,44,0.564,0,78,0.014,0.387,0.922,0.013,0.077,773,722,872,75,,Occipital pachygyria and polymicrogyria
+SEPSECS,isolated,SEPSECS,Q9HD40,501,113,77,26,51,0.662,11,77,0.008,0.423,0.952,0.026,0.104,199,141,365,19,Pontocerebellar hypoplasia type 2D,
+WDFY3,isolated,WDFY3,Q8IZQ1,3526,106,77,42,35,0.455,16,77,0.022,0.561,0.975,0.078,0.286,850,798,214,13,"Microcephaly 18, primary, autosomal dominant",
+PCLO,isolated,PCLO,Q9Y6V0,5142,76,69,38,31,0.449,1,69,0.019,0.328,0.987,0.13,0.232,1918,1840,1330,54,Pontocerebellar hypoplasia type 3,
+CDK5RAP2,isolated,CDK5RAP2,Q96SN8,1893,88,66,31,35,0.53,3,66,0.003,0.513,0.983,0.091,0.258,452,413,455,66,"Microcephaly 3, primary, autosomal recessive",
+PDCD10,isolated,PDCD10,Q9BUL8,212,94,64,19,45,0.703,1,64,0.075,0.528,0.943,0.094,0.234,64,42,50,1,Cerebral cavernous malformation 3,Familial Cerebral Cavernous Malformations
+MYCN,syndromic_only,MYCN,P04198,464,82,63,17,46,0.73,14,63,0.054,0.575,0.972,0.079,0.238,207,178,107,21,,Megalencephaly-polydactyly syndrome
+TSEN54,isolated,TSEN54,Q7Z6J9,526,85,61,25,36,0.59,7,61,0.011,0.553,0.973,0.016,0.164,237,210,369,38,Pontocerebellar hypoplasia type 2A; Pontocerebellar hypoplasia type 4; Pontocerebellar hypoplasia type 5,TSEN54 Pontocerebellar Hypoplasia
+AFG2A,syndromic_only,AFG2A,Q8NB90,893,101,60,32,28,0.467,22,60,0.004,0.576,0.9,0.017,0.133,399,373,390,34,,Microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome
+MTR,isolated,MTR,Q99707,1265,111,60,23,37,0.617,9,60,0.001,0.554,0.953,0.117,0.233,419,281,888,44,"Neural tube defects, folate-sensitive",
+DCX,isolated,DCX,O43602,365,179,59,22,37,0.627,101,59,0.033,0.438,0.83,0.0,0.085,114,99,58,16,Lissencephaly type 1 due to doublecortin gene mutation,
+MED17,syndromic_only,MED17,Q9NVC6,651,84,58,31,27,0.466,2,58,0.025,0.47,0.854,0.0,0.19,194,171,428,15,,Infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly
+SHH,isolated,SHH,Q15465,462,132,58,30,28,0.483,61,58,0.004,0.452,0.946,0.103,0.207,357,219,212,23,Holoprosencephaly 3; Holoprosencephaly sequence,
+NFIA,syndromic_only,NFIA,Q12857,509,76,54,21,33,0.611,13,54,0.012,0.293,0.833,0.0,0.074,183,148,202,10,,Brain malformations with or without urinary tract defects
+TCTN2,syndromic_only,TCTN2,Q96GX1,697,81,54,22,32,0.593,2,54,0.034,0.597,0.915,0.037,0.222,340,290,355,42,,Joubert syndrome; Joubert syndrome 24
+CEP135,isolated,CEP135,Q66GS9,1140,63,53,22,31,0.585,0,53,0.077,0.58,0.95,0.113,0.302,249,234,258,32,"Microcephaly 8, primary, autosomal recessive",
+INPP5E,syndromic_only,INPP5E,Q9NRR6,644,88,53,20,33,0.623,27,53,0.011,0.548,0.995,0.226,0.321,457,402,427,71,,Joubert syndrome; Joubert syndrome 1
+TBCD,syndromic_only,TBCD,Q9BTW9,1192,95,53,28,25,0.472,13,53,0.005,0.476,0.968,0.132,0.245,335,299,971,49,,Early-onset progressive diffuse brain atrophy-microcephaly-muscle weakness-optic atrophy syndrome
+TCTN3,syndromic_only,TCTN3,Q6NUS6,607,76,52,16,36,0.692,5,52,0.016,0.47,0.967,0.019,0.135,261,230,284,17,,Joubert syndrome; Joubert syndrome 18
+MAP1B,isolated,MAP1B,P46821,2468,56,51,20,31,0.608,1,51,0.034,0.437,0.972,0.059,0.235,494,483,212,17,Periventricular nodular heterotopia 9,
+DIAPH1,syndromic_only,DIAPH1,O60610,1272,72,48,18,30,0.625,3,48,0.009,0.553,0.954,0.188,0.354,995,856,782,70,,Progressive microcephaly-seizures-cortical blindness-developmental delay syndrome
+OPHN1,syndromic_only,OPHN1,O60890,802,95,47,19,28,0.596,11,47,0.004,0.44,0.961,0.043,0.106,253,215,209,26,,X-linked intellectual disability-cerebellar hypoplasia syndrome
+QARS1,syndromic_only,QARS1,P47897,775,73,46,19,27,0.587,6,46,0.006,0.57,0.908,0.022,0.13,451,408,512,30,,Diffuse cerebral and cerebellar atrophy - intractable seizures - progressive microcephaly syndrome
+ATP1A2,syndromic_only,ATP1A2,P50993,1020,145,45,17,28,0.622,78,45,0.013,0.514,0.989,0.133,0.2,704,585,670,93,,"Fetal akinesia, respiratory insufficiency, microcephaly, polymicrogyria, and dysmorphic facies"
+CEP104,syndromic_only,CEP104,O60308,925,59,43,18,25,0.581,1,43,0.018,0.39,0.958,0.023,0.209,207,200,403,34,,Joubert syndrome; Joubert syndrome 25
+KIAA0753,syndromic_only,KIAA0753,Q2KHM9,967,60,43,24,19,0.442,3,43,0.027,0.423,0.922,0.047,0.163,257,244,263,22,,Joubert syndrome 38
+FLVCR1,syndromic_only,FLVCR1,Q9Y5Y0,555,65,39,12,27,0.692,17,39,0.018,0.476,0.935,0.077,0.231,314,229,220,26,,"Neurodevelopmental disorder with microcephaly, absent speech, and hypotonia"
+IFT74,syndromic_only,IFT74,Q96LB3,600,63,39,27,12,0.308,3,39,0.013,0.475,0.835,0.0,0.128,329,302,312,8,,Joubert syndrome 40
+KATNIP,syndromic_only,KATNIP,O60303,1618,57,39,13,26,0.667,2,39,0.004,0.489,0.943,0.128,0.256,416,400,392,24,,Joubert syndrome; Joubert syndrome 26
+ZIC2,isolated,ZIC2,O95409,532,61,38,8,30,0.789,13,38,0.015,0.571,0.945,0.026,0.184,293,227,200,16,Holoprosencephaly 5; Holoprosencephaly sequence,
+ARCN1,syndromic_only,ARCN1,P48444,511,40,36,18,18,0.5,1,36,0.037,0.564,0.861,0.0,0.194,152,145,132,16,,"Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay"
+WDR81,isolated,WDR81,Q562E7,1941,45,36,19,17,0.472,4,36,0.038,0.357,0.917,0.028,0.167,421,414,224,18,"Hydrocephalus, congenital, 3, with brain anomalies",
+TCTN1,syndromic_only,TCTN1,Q2MV58,587,63,35,11,24,0.686,2,35,0.019,0.434,1.009,0.029,0.257,191,172,251,20,,Joubert syndrome; Joubert syndrome 13
+TUBGCP4,syndromic_only,TUBGCP4,Q9UGJ1,667,44,35,20,15,0.429,0,35,0.028,0.39,0.957,0.029,0.2,178,153,356,11,,Microcephaly and chorioretinopathy 3
+TMEM237,syndromic_only,TMEM237,Q96Q45,408,48,33,15,18,0.545,0,33,0.007,0.397,0.75,0.0,0.0,260,173,210,26,,Joubert syndrome; Joubert syndrome 14
+ZIC3,syndromic_only,ZIC3,O60481,467,47,33,16,17,0.515,9,33,0.071,0.52,0.874,0.0,0.091,104,81,52,10,,"VACTERL association, X-linked, with or without hydrocephalus"
+ARL13B,syndromic_only,ARL13B,Q3SXY8,428,44,32,10,22,0.688,5,32,0.005,0.591,0.895,0.0,0.188,174,158,188,30,,Joubert syndrome; Joubert syndrome 8
+CEP120,syndromic_only,CEP120,Q8N960,986,50,32,20,12,0.375,6,32,0.039,0.605,0.928,0.031,0.312,268,253,353,28,,Joubert syndrome; Joubert syndrome 31
+PI4KA,isolated,PI4KA,P42356,2102,55,32,16,16,0.5,14,32,0.052,0.417,0.982,0.125,0.156,168,156,258,8,"Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
+TOP3A,syndromic_only,TOP3A,Q13472,1001,43,32,13,19,0.594,3,32,0.017,0.374,0.906,0.031,0.219,214,202,235,15,,"Microcephaly, growth restriction, and increased sister chromatid exchange 2"
+KIF14,isolated,KIF14,Q15058,1648,47,31,12,19,0.613,6,31,0.002,0.389,0.905,0.032,0.194,260,238,206,8,"Microcephaly 20, primary, autosomal recessive",
+LAMB1,syndromic_only,LAMB1,P07942,1786,49,31,12,19,0.613,2,31,0.059,0.492,0.98,0.161,0.258,581,542,481,28,,Cobblestone lissencephaly without muscular or ocular involvement
+PPP1R12A,isolated,PPP1R12A,O14974,1030,44,31,11,20,0.645,4,31,0.042,0.508,0.923,0.065,0.355,173,152,98,18,Holoprosencephaly sequence,Genitourinary and/or brain malformation syndrome
+DONSON,syndromic_only,DONSON,Q9NYP3,566,47,30,10,20,0.667,7,30,0.027,0.587,0.878,0.0,0.367,132,122,116,14,,"Microcephaly, short stature, and limb abnormalities; Microcephaly-micromelia syndrome"
+TMEM216,syndromic_only,TMEM216,Q9P0N5,145,51,30,8,22,0.733,3,30,0.097,0.531,0.91,0.033,0.2,110,69,141,27,,Joubert syndrome; Joubert syndrome 2
+EXOSC3,isolated,EXOSC3,Q9NQT5,275,52,29,7,22,0.759,19,29,0.095,0.465,0.865,0.0,0.138,110,92,146,16,Pontocerebellar hypoplasia type 1B,
+PLK4,syndromic_only,PLK4,O00444,970,38,29,11,18,0.621,0,29,0.013,0.413,0.931,0.138,0.138,361,335,295,20,,Microcephaly and chorioretinopathy 2
+SOX11,syndromic_only,SOX11,P35716,441,95,29,15,14,0.483,64,29,0.025,0.621,0.973,0.103,0.345,241,187,124,29,,Intellectual developmental disorder with microcephaly and with or without ocular malformations or hypogonadotropic hypogonadism
+AMPD2,isolated,AMPD2,Q01433,825,53,27,13,14,0.519,11,27,0.017,0.211,0.846,0.0,0.074,217,193,273,11,Pontocerebellar hypoplasia type 9,
+ARMC9,syndromic_only,ARMC9,Q7Z3E5,818,58,27,12,15,0.556,4,27,0.042,0.509,0.9,0.0,0.074,338,304,340,19,,Joubert syndrome 30
+STAG2,isolated,STAG2,Q8N3U4,1231,54,27,14,13,0.481,12,27,0.056,0.482,1.009,0.074,0.259,344,301,383,9,"Holoprosencephaly 13, X-linked; Holoprosencephaly sequence",
+COASY,isolated,COASY,Q13057,564,35,26,11,15,0.577,3,26,0.067,0.434,0.934,0.115,0.269,204,189,161,14,"Pontocerebellar hypoplasia, type 12",
+VPS53,isolated,VPS53,Q5VIR6,832,37,26,10,16,0.615,2,26,0.096,0.522,0.791,0.0,0.115,138,127,538,7,Pontocerebellar hypoplasia type 2E,
+PUS7,syndromic_only,PUS7,Q96PZ0,661,37,25,9,16,0.64,5,25,0.045,0.489,0.968,0.04,0.16,95,91,30,2,,"Intellectual developmental disorder with abnormal behavior, microcephaly, and short stature"
+TMEM231,syndromic_only,TMEM231,Q9H6L2,316,56,25,11,14,0.56,9,25,0.006,0.326,0.794,0.0,0.04,239,166,213,33,,Joubert syndrome; Joubert syndrome 20
+ZNF148,syndromic_only,ZNF148,Q9UQR1,794,31,25,8,17,0.68,4,25,0.101,0.612,0.98,0.08,0.12,109,95,34,2,,"Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies"
+APC2,isolated,APC2,O95996,2303,29,24,4,20,0.833,2,24,0.059,0.245,0.963,0.083,0.167,725,698,496,17,"Cortical dysplasia, complex, with other brain malformations 10",
+ARFGEF2,syndromic_only,ARFGEF2,Q9Y6D5,1785,29,23,13,10,0.435,0,23,0.017,0.527,0.982,0.13,0.217,428,340,360,52,,"Periventricular heterotopia with microcephaly, autosomal recessive"
+MTHFD1,isolated,MTHFD1,P11586,935,41,22,11,11,0.5,5,22,0.057,0.347,0.938,0.182,0.273,246,224,370,8,"Neural tube defects, folate-sensitive",
+SMPD4,syndromic_only,SMPD4,Q9NXE4,866,34,22,6,16,0.727,1,22,0.032,0.523,0.864,0.0,0.273,171,158,56,7,,"Neurodevelopmental disorder with microcephaly, arthrogryposis, and structural brain anomalies"
+CFAP43,syndromic_only,CFAP43,Q8NDM7,1665,29,21,10,11,0.524,4,21,0.13,0.553,0.917,0.095,0.286,223,223,59,10,,Normal pressure hydrocephalus
+DYNC1H1,isolated,DYNC1H1,Q14204,4646,194,21,8,13,0.619,163,21,0.03,0.659,0.992,0.143,0.333,2256,1920,2855,438,"Cortical dysplasia, complex, with other brain malformations 13",
+SIX3,isolated,SIX3,O95343,332,34,21,8,13,0.619,10,21,0.03,0.446,0.825,0.0,0.095,150,130,93,15,Holoprosencephaly 2; Holoprosencephaly sequence; Schizencephaly,
+MEIS2,syndromic_only,MEIS2,O14770,477,48,20,11,9,0.45,17,20,0.075,0.457,0.721,0.0,0.0,125,97,74,4,,"Cardiac malformation, cleft lip/palate, microcephaly, and digital anomalies"
+EXOSC9,isolated,EXOSC9,Q06265,439,34,19,8,11,0.579,4,19,0.016,0.483,0.893,0.0,0.316,153,139,148,2,"Pontocerebellar hypoplasia, type 1D",
+STIL,isolated,STIL,Q15468,1287,31,19,7,12,0.632,4,19,0.021,0.402,0.963,0.158,0.211,256,220,157,28,"Holoprosencephaly sequence; Microcephaly 7, primary, autosomal recessive",
+TRMT10A,syndromic_only,TRMT10A,Q8TBZ6,339,25,19,14,5,0.263,1,19,0.027,0.274,0.687,0.0,0.0,81,73,49,7,,"Microcephaly, short stature, and impaired glucose metabolism 1"
+SLC1A4,syndromic_only,SLC1A4,P43007,532,34,18,5,13,0.722,8,18,0.107,0.573,0.852,0.0,0.056,124,119,286,9,,Spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome
+VARS1,syndromic_only,VARS1,P26640,1264,40,18,13,5,0.278,16,18,0.048,0.489,0.962,0.167,0.278,253,243,92,11,,"Neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"
+KNL1,isolated,KNL1,Q8NG31,2342,24,17,4,13,0.765,3,17,0.061,0.675,0.949,0.118,0.353,187,153,187,34,"Microcephaly 4, primary, autosomal recessive",
+THOC6,syndromic_only,THOC6,Q86W42,341,28,17,9,8,0.471,6,17,0.044,0.437,0.874,0.0,0.294,71,67,28,1,,THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome
+TOE1,isolated,TOE1,Q96GM8,510,32,17,8,9,0.529,12,17,0.022,0.453,0.767,0.0,0.059,120,115,80,9,Pontocerebellar hypoplasia type 7,
+PIBF1,syndromic_only,PIBF1,Q8WXW3,757,24,16,7,9,0.562,5,16,0.011,0.535,0.915,0.062,0.25,136,125,73,9,,Joubert syndrome 33
+SLC25A46,isolated,SLC25A46,Q96AG3,418,38,16,5,11,0.688,10,16,0.012,0.493,0.804,0.0,0.188,213,198,186,14,"Pontocerebellar hypoplasia, type 1E",
+PRUNE1,syndromic_only,PRUNE1,Q86TP1,453,28,15,7,8,0.533,9,15,0.007,0.353,0.561,0.0,0.0,43,36,73,3,,"Neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+SMARCC1,isolated,SMARCC1,Q92922,1105,18,15,8,7,0.467,2,15,0.13,0.376,0.88,0.0,0.2,180,164,37,2,"Hydrocephalus, congenital, 5, susceptibility to",
+SMG9,syndromic_only,SMG9,Q9H0W8,520,20,15,7,8,0.533,3,15,0.015,0.454,0.915,0.067,0.2,84,78,37,1,,Heart and brain malformation syndrome
+STRADA,syndromic_only,STRADA,Q7RTN6,431,24,15,6,9,0.6,2,15,0.023,0.408,0.803,0.0,0.067,198,174,210,6,,"Polyhydramnios, megalencephaly, and symptomatic epilepsy"
+TMTC3,isolated,TMTC3,Q6ZXV5,915,21,15,6,9,0.6,4,15,0.286,0.533,0.954,0.133,0.2,160,144,108,2,Lissencephaly 8,
+TSEN2,isolated,TSEN2,Q8NCE0,465,25,15,7,8,0.533,4,15,0.041,0.497,0.905,0.067,0.133,160,118,157,21,Pontocerebellar hypoplasia type 2B,
+XRCC4,syndromic_only,XRCC4,Q13426,336,22,15,7,8,0.533,4,15,0.027,0.449,0.854,0.0,0.2,91,84,71,2,,"Short stature, microcephaly, and endocrine dysfunction"
+PIDD1,syndromic_only,PIDD1,,,21,14,3,11,0.786,2,14,,,,,,227,224,83,9,,"Intellectual developmental disorder, autosomal recessive 75, with neuropsychiatric features and variant lissencephaly"
+STAMBP,syndromic_only,STAMBP,O95630,424,27,14,7,7,0.5,7,14,0.007,0.384,1.0,0.143,0.143,105,96,101,8,,Microcephaly-capillary malformation syndrome
+ATAD3A,isolated,ATAD3A,Q9NVI7,586,28,13,5,8,0.615,5,13,0.096,0.459,0.961,0.154,0.308,327,280,146,27,"Pontocerebellar hypoplasia, hypotonia, and respiratory insufficiency syndrome, neonatal lethal",
+CIT,isolated,CIT,O14578,2027,26,13,9,4,0.308,6,13,0.005,0.185,0.907,0.077,0.154,310,295,397,18,"Microcephaly 17, primary, autosomal recessive",
+LNPK,syndromic_only,LNPK,Q9C0E8,428,18,13,5,8,0.615,0,13,0.016,0.339,0.703,0.0,0.0,18,12,33,2,,Neurodevelopmental disorder with epilepsy and hypoplasia of the corpus callosum
+TBC1D23,isolated,TBC1D23,Q9NUY8,699,18,13,2,11,0.846,0,13,0.146,0.454,0.93,0.154,0.154,97,90,38,1,"Pontocerebellar hypoplasia, type 11",
+CEP55,syndromic_only,CEP55,Q53EZ4,464,14,12,10,2,0.167,0,12,0.138,0.58,0.916,0.083,0.25,72,70,43,3,,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome
+MINPP1,isolated,MINPP1,Q9UNW1,487,16,12,6,6,0.5,4,12,0.055,0.618,0.961,0.083,0.25,67,65,26,1,"Pontocerebellar hypoplasia, type 16",
+PPFIBP1,syndromic_only,PPFIBP1,Q86W92,1011,18,12,5,7,0.583,0,12,0.056,0.468,0.875,0.0,0.25,142,131,25,1,,"Neurodevelopmental disorder with seizures, microcephaly, and brain abnormalities"
+CEP41,syndromic_only,CEP41,Q9BYV8,373,24,11,4,7,0.636,1,11,0.008,0.375,0.845,0.0,0.273,246,148,196,20,,Joubert syndrome; Joubert syndrome 15
+FAM149B1,syndromic_only,FAM149B1,Q96BN6,582,15,11,6,5,0.455,0,11,0.16,0.564,0.804,0.0,0.091,99,87,25,4,,Joubert syndrome 36
+KIF26A,isolated,KIF26A,Q9ULI4,1882,14,11,6,5,0.455,2,11,0.464,0.654,0.776,0.0,0.091,522,516,97,4,"Cortical dysplasia, complex, with other brain malformations 11",
+NARS1,syndromic_only,NARS1,O43776,548,22,11,7,4,0.364,9,11,0.126,0.23,0.974,0.091,0.182,181,161,28,5,,"Neurodevelopmental disorder with microcephaly, impaired language, and gait abnormalities; Neurodevelopmental disorder with microcephaly, impaired language, epilepsy, and gait abnormalities"
+TMEM138,syndromic_only,TMEM138,Q9NPI0,162,20,11,4,7,0.636,4,11,0.08,0.605,0.642,0.0,0.0,91,65,76,11,,Joubert syndrome; Joubert syndrome 16
+TOGARAM1,syndromic_only,TOGARAM1,Q9Y4F4,1720,19,11,5,6,0.545,2,11,0.015,0.452,0.805,0.0,0.091,245,240,40,6,,Joubert syndrome 37
+CCND2,syndromic_only,CCND2,P30279,289,18,10,8,2,0.2,8,10,0.488,0.934,0.958,0.8,0.8,80,68,76,5,,Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3; Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome
+SCYL2,syndromic_only,SCYL2,Q6P3W7,929,11,10,5,5,0.5,0,10,0.036,0.215,0.836,0.0,0.1,116,112,19,0,,"Arthrogryposis multiplex congenita 4, neurogenic, with agenesis of the corpus callosum"
+KATNB1,isolated,KATNB1,Q9BVA0,655,18,9,4,5,0.556,5,9,0.021,0.26,0.879,0.0,0.111,148,136,250,16,Lissencephaly 6 with microcephaly,
+TRAPPC6B,syndromic_only,TRAPPC6B,Q86SZ2,158,13,9,4,5,0.556,0,9,0.063,0.259,0.601,0.0,0.0,31,28,30,0,,"Neurodevelopmental disorder with microcephaly, epilepsy, and brain atrophy"
+CTNNA2,isolated,CTNNA2,P26232,953,9,8,4,4,0.5,0,8,0.191,0.518,0.976,0.125,0.25,88,77,74,1,"Cortical dysplasia, complex, with other brain malformations 9",
+HECTD4,syndromic_only,HECTD4,Q9Y4D8,3996,14,8,4,4,0.5,2,8,0.17,0.531,0.833,0.0,0.25,474,455,87,0,,"Neurodevelopmental disorder with seizures, spasticity, and complete or partial agenesis of the corpus callosum"
+CAMSAP1,isolated,CAMSAP1,Q5T5Y3,1602,7,7,4,3,0.429,0,7,0.356,0.566,0.873,0.0,0.286,234,231,50,1,"Cortical dysplasia, complex, with other brain malformations 12",
+NCAPD3,isolated,NCAPD3,P42695,1498,11,7,3,4,0.571,1,7,0.284,0.719,0.824,0.0,0.143,256,252,99,5,"Microcephaly 22, primary, autosomal recessive",
+PDE6D,syndromic_only,PDE6D,O43924,150,8,7,2,5,0.714,0,7,0.107,0.407,0.82,0.0,0.286,28,23,41,0,,Joubert syndrome; Joubert syndrome 22
+PIK3CA,isolated,PIK3CA,P42336,1068,120,7,1,6,0.857,96,7,0.128,0.648,1.0,0.286,0.429,707,651,819,32,Cerebral cavernous malformation 4; Megalencephaly-capillary malformation-polymicrogyria syndrome,
+WDR4,syndromic_only,WDR4,P57081,412,16,7,2,5,0.714,4,7,0.405,0.648,0.939,0.143,0.429,141,131,179,8,,"Microcephaly, growth deficiency, seizures, and brain malformations"
+EML1,syndromic_only,EML1,O00423,815,10,6,4,2,0.333,2,6,0.056,0.642,0.777,0.0,0.167,107,99,149,4,,Band heterotopia of brain
+FRA10AC1,syndromic_only,FRA10AC1,Q70Z53,315,11,6,3,3,0.5,1,6,0.054,0.479,0.597,0.0,0.0,44,38,5,1,,"Neurodevelopmental disorder with growth retardation, dysmorphic facies, and corpus callosum abnormalities"
+JAM3,syndromic_only,JAM3,Q9BX67,310,16,6,2,4,0.667,6,6,0.248,0.619,0.803,0.0,0.333,97,88,124,2,,Porencephaly-microcephaly-bilateral congenital cataract syndrome
+NCAPD2,isolated,NCAPD2,Q15021,1401,11,6,2,4,0.667,1,6,0.127,0.597,0.967,0.167,0.167,234,222,76,5,"Microcephaly 21, primary, autosomal recessive",
+NDE1,isolated,NDE1,Q9NXR1,335,10,6,3,3,0.5,0,6,0.054,0.684,0.731,0.0,0.0,153,93,133,32,Lissencephaly 4,NDE1-related microhydranencephaly
+PLAA,syndromic_only,PLAA,Q9Y263,795,13,6,4,2,0.333,5,6,0.03,0.357,0.755,0.0,0.167,279,249,292,12,,"Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies"
+PRDM13,isolated,PRDM13,Q9H4Q3,707,10,6,2,4,0.667,0,6,0.378,0.59,0.737,0.0,0.0,404,364,237,26,"Pontocerebellar hypoplasia, IIA 17",
+TBC1D7,syndromic_only,TBC1D7,Q9P0N9,293,7,6,1,5,0.833,0,6,0.024,0.614,0.898,0.0,0.333,65,60,77,5,,"Macrocephaly/megalencephaly syndrome, autosomal recessive"
+TCP1,syndromic_only,TCP1,P17987,556,8,6,2,4,0.667,1,6,0.153,0.48,0.903,0.167,0.333,76,72,4,0,,Intellectual developmental disorder with polymicrogyria and seizures
+TGIF1,isolated,TGIF1,Q15583,401,13,6,2,4,0.667,3,6,0.147,0.267,0.648,0.0,0.0,78,66,94,6,Holoprosencephaly 4; Holoprosencephaly sequence,
+B9D1,syndromic_only,B9D1,Q9UPM9,204,16,5,2,3,0.6,5,5,0.034,0.642,0.755,0.0,0.2,113,91,143,19,,Joubert syndrome; Joubert syndrome 27
+COPB2,isolated,COPB2,P35606,906,9,5,1,4,0.8,1,5,0.067,0.544,0.919,0.2,0.2,133,119,81,9,"Microcephaly 19, primary, autosomal recessive",
+MACF1,isolated,MACF1,,,24,5,2,3,0.6,14,5,,,,,,1116,955,1113,121,Lissencephaly 9 with complex brainstem malformation,
+MED25,syndromic_only,MED25,Q71SY5,747,9,5,1,4,0.8,3,5,0.095,0.521,0.866,0.0,0.4,352,289,447,23,,Congenital cataract-microcephaly-nevus flammeus simplex-severe intellectual disability syndrome
+MTHFS,syndromic_only,MTHFS,P49914,203,7,5,3,2,0.4,2,5,0.034,0.365,0.798,0.0,0.2,28,25,20,2,,"Neurodevelopmental disorder with microcephaly, epilepsy, and hypomyelination"
+RNASET2,syndromic_only,RNASET2,O00584,256,14,5,3,2,0.4,1,5,0.203,0.305,0.645,0.0,0.0,78,58,85,9,,Cystic leukoencephalopathy without megalencephaly
+SASS6,isolated,SASS6,Q6UVJ0,657,8,5,1,4,0.8,1,5,0.087,0.253,0.603,0.0,0.0,79,76,67,2,"Microcephaly 14, primary, autosomal recessive",
+SVBP,syndromic_only,SVBP,Q8N300,66,6,5,2,3,0.6,1,5,0.121,0.394,0.545,0.0,0.0,11,9,0,0,,"Neurodevelopmental disorder with ataxia, hypotonia, and microcephaly"
+ANKLE2,isolated,ANKLE2,Q86XL3,938,8,4,3,1,0.25,2,4,0.252,0.665,0.887,0.0,0.25,175,167,162,13,"Microcephaly 16, primary, autosomal recessive",
+CASP2,syndromic_only,CASP2,P42575,452,5,4,2,2,0.5,0,4,0.097,0.854,0.867,0.0,0.5,45,45,20,1,,"Intellectual developmental disorder, autosomal recessive 80, with variant lissencephaly"
+CDH2,syndromic_only,CDH2,P19022,906,29,4,2,2,0.5,16,4,0.127,0.944,0.945,0.5,0.5,636,578,493,40,,"Agenesis of corpus callosum, cardiac, ocular, and genital syndrome"
+CTU2,syndromic_only,CTU2,Q2VPK5,515,10,4,0,4,1.0,0,4,0.583,0.835,0.981,0.25,0.75,219,197,163,15,,"Microcephaly, facial dysmorphism, renal agenesis, and ambiguous genitalia syndrome"
+DISP1,isolated,DISP1,Q96F81,1524,7,4,2,2,0.5,2,4,0.104,0.825,0.943,0.25,0.5,335,312,151,13,Holoprosencephaly 10; Holoprosencephaly sequence,
+DYNC1I2,syndromic_only,DYNC1I2,Q13409,638,7,4,3,1,0.25,1,4,0.027,0.455,0.469,0.0,0.0,80,75,23,0,,Neurodevelopmental disorder with microcephaly and structural brain anomalies
+SUPT16H,syndromic_only,SUPT16H,Q9Y5B9,1047,10,4,2,2,0.5,5,4,0.143,0.47,0.662,0.0,0.0,175,147,31,0,,Neurodevelopmental disorder with dysmorphic facies and thin corpus callosum
+TRAPPC10,syndromic_only,TRAPPC10,P48553,1259,6,4,2,2,0.5,1,4,0.249,0.853,0.898,0.0,0.5,158,154,39,0,,"Neurodevelopmental disorder with microcephaly, short stature, and speech delay"
+VPS50,syndromic_only,VPS50,Q96JG6,964,8,4,3,1,0.25,1,4,0.005,0.596,0.602,0.0,0.0,91,88,16,0,,"Neurodevelopmental disorder with microcephaly, seizures, and neonatal cholestasis"
+AKT3,syndromic_only,AKT3,Q9Y243,479,22,3,2,1,0.333,16,3,0.125,0.238,0.768,0.0,0.333,84,65,138,10,,Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2; Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome
+BUB1,isolated,BUB1,O43683,1085,6,3,0,3,1.0,1,3,0.441,0.676,0.944,0.333,0.333,970,940,523,18,"Microcephaly 30, primary, autosomal recessive",
+CARS1,syndromic_only,CARS1,P49589,748,7,3,1,2,0.667,3,3,0.106,0.619,1.031,0.333,0.333,147,147,64,2,,"Microcephaly, developmental delay, and brittle hair syndrome"
+CDK4,isolated,CDK4,P11802,303,5,3,2,1,0.333,2,3,0.112,0.31,0.815,0.0,0.333,690,551,547,80,"Microcephaly 31, primary, autosomal recessive",
+CENPE,isolated,CENPE,Q02224,2701,6,3,1,2,0.667,2,3,0.11,0.173,0.851,0.0,0.333,309,301,285,12,"Microcephaly 13, primary, autosomal recessive",
+CEP85L,isolated,CEP85L,Q5SZL2,805,17,3,1,2,0.667,8,3,0.025,0.655,0.866,0.0,0.333,135,116,55,4,Lissencephaly 10,
+CHMP1A,isolated,CHMP1A,Q9HD42,196,6,3,1,2,0.667,0,3,0.036,0.061,0.464,0.0,0.0,86,41,148,20,Pontocerebellar hypoplasia type 8,
+CLP1,isolated,CLP1,Q92989,425,4,3,2,1,0.333,1,3,0.096,0.273,0.713,0.0,0.0,70,69,55,2,Pontocerebellar hypoplasia type 10,
+DOHH,syndromic_only,DOHH,Q9BU89,302,5,3,1,2,0.667,2,3,0.338,0.927,0.993,0.667,0.667,68,66,9,2,,"Neurodevelopmental disorder with microcephaly, cerebral atrophy, and visual impairment"
+MFSD2A,isolated,MFSD2A,Q8NA29,543,9,3,1,2,0.667,3,3,0.28,0.462,0.851,0.0,0.333,91,79,110,6,"Microcephaly 15, primary, autosomal recessive",
+PLEKHG2,syndromic_only,PLEKHG2,Q9H7P9,1386,3,3,1,2,0.667,0,3,0.146,0.306,0.334,0.0,0.0,361,338,225,17,,Leukodystrophy and acquired microcephaly with or without dystonia;
+RPS6KC1,syndromic_only,RPS6KC1,Q96S38,1066,6,3,0,3,1.0,3,3,0.28,0.485,0.72,0.0,0.0,228,212,128,5,,"Neurodevelopmental disorder with spasticity, thin corpus callosum, and decreased brain white matter"
+TMX2,syndromic_only,TMX2,Q9Y320,296,8,3,1,2,0.667,4,3,0.209,0.443,0.855,0.0,0.333,53,48,18,4,,"Neurodevelopmental disorder with microcephaly, cortical malformations, and spasticity"
+TRIM71,isolated,TRIM71,Q2Q1W2,868,9,3,1,2,0.667,6,3,0.093,0.094,0.755,0.0,0.333,146,140,47,4,"Hydrocephalus, congenital communicating, 1",
+TTI1,syndromic_only,TTI1,O43156,1089,12,3,2,1,0.333,7,3,0.033,0.07,0.485,0.0,0.0,202,194,31,0,,Neurodevelopmental disorder with microcephaly and movement abnormalities
+VPS51,isolated,VPS51,Q9UID3,782,5,3,1,2,0.667,2,3,0.175,0.707,0.953,0.333,0.333,140,134,28,0,"Pontocerebellar hypoplasia, type 13",
+CDON,isolated,CDON,Q4KMG0,1287,6,2,1,1,0.5,4,2,0.162,0.809,0.809,0.0,0.5,455,322,339,33,Holoprosencephaly 11; Holoprosencephaly sequence,
+CHKA,syndromic_only,CHKA,P35790,457,5,2,1,1,0.5,3,2,0.013,0.753,0.753,0.0,0.5,50,49,9,0,,"Neurodevelopmental disorder with microcephaly, movement abnormalities, and seizures"
+EMX2,isolated,EMX2,Q04743,252,7,2,1,1,0.5,3,2,0.44,0.762,0.762,0.0,0.5,33,29,23,3,Schizencephaly,
+EXOSC8,isolated,EXOSC8,Q96B26,276,3,2,1,1,0.5,1,2,0.315,0.326,0.326,0.0,0.0,65,56,56,4,"Pontocerebellar hypoplasia, type 1C",
+FRMD4A,syndromic_only,FRMD4A,Q9P2Q2,1039,3,2,0,2,1.0,1,2,0.689,0.988,0.988,0.5,0.5,180,175,72,0,,Severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome
+GEMIN4,syndromic_only,GEMIN4,P57678,1058,4,2,0,2,1.0,2,2,0.118,0.331,0.331,0.0,0.0,221,209,86,6,,"Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities"
+KIF5C,isolated,KIF5C,O60282,957,11,2,1,1,0.5,8,2,0.581,0.832,0.832,0.0,0.5,129,113,200,5,Complex cortical dysplasia with other brain malformations 2,
+MED27,syndromic_only,MED27,Q6P2C8,311,4,2,1,1,0.5,1,2,0.421,0.743,0.743,0.0,0.0,37,29,15,3,,"Neurodevelopmental disorder with spasticity, cataracts, and cerebellar hypoplasia"
+NUP37,isolated,NUP37,Q8NFH4,326,4,2,2,0,0.0,0,2,0.233,0.939,0.939,0.5,0.5,44,44,8,0,"Microcephaly 24, primary, autosomal recessive",
+PHC1,isolated,PHC1,P78364,1004,3,2,1,1,0.5,1,2,0.034,0.302,0.302,0.0,0.0,143,141,57,1,"Microcephaly 11, primary, autosomal recessive",
+PIK3R2,syndromic_only,PIK3R2,O00459,728,16,2,2,0,0.0,12,2,0.262,0.622,0.622,0.0,0.0,262,216,309,25,,Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1; Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome
+PLCH1,isolated,PLCH1,Q4KWH8,1693,2,2,1,1,0.5,0,2,0.414,0.633,0.633,0.0,0.0,219,216,29,1,Holoprosencephaly 14,
+PPIL1,isolated,PPIL1,Q9Y3C6,166,10,2,1,1,0.5,6,2,0.084,0.271,0.271,0.0,0.0,26,26,4,1,"Pontocerebellar hypoplasia, type 14",
+TSEN34,isolated,TSEN34,Q9BSV6,310,3,2,0,2,1.0,1,2,0.248,0.932,0.932,0.5,0.5,108,79,84,10,Pontocerebellar hypoplasia type 2C,
+TUBA1A,isolated,TUBA1A,Q71U36,451,213,2,0,2,1.0,206,2,0.472,0.993,0.993,0.5,0.5,93,87,118,37,Lissencephaly due to TUBA1A mutation,
+WARS1,syndromic_only,WARS1,P23381,471,5,2,2,0,0.0,3,2,0.187,0.866,0.866,0.0,0.5,87,83,47,7,,"Neurodevelopmental disorder with microcephaly and speech delay, with or without brain abnormalities"
+ARHGEF2,syndromic_only,ARHGEF2,Q92974,986,2,1,1,0,0.0,0,1,0.855,0.855,0.855,0.0,1.0,102,97,36,0,,Neurodevelopmental disorder with midbrain and hindbrain malformations
+ATG12,syndromic_only,ATG12,O94817,140,4,1,1,0,0.0,2,1,0.564,0.564,0.564,0.0,0.0,23,23,1,1,,NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA
+CYP26B1,syndromic_only,CYP26B1,Q9NR63,512,7,1,1,0,0.0,5,1,0.057,0.057,0.057,0.0,0.0,89,88,73,6,,Lethal occipital encephalocele-skeletal dysplasia syndrome
+DTYMK,syndromic_only,DTYMK,P23919,212,5,1,0,1,1.0,3,1,0.453,0.453,0.453,0.0,0.0,43,42,7,0,,"Neurodegeneration, childhood-onset, with progressive microcephaly"
+ERMARD,isolated,ERMARD,Q5T6L9,678,3,1,1,0,0.0,1,1,0.137,0.137,0.137,0.0,0.0,194,159,183,17,Periventricular nodular heterotopia 6,
+EXOC3L2,syndromic_only,EXOC3L2,Q2M3D2,802,3,1,0,1,1.0,1,1,0.82,0.82,0.82,0.0,1.0,84,83,44,2,,Brain malformation renal syndrome
+EXOC8,syndromic_only,EXOC8,Q8IYI6,725,2,1,0,1,1.0,0,1,0.219,0.219,0.219,0.0,0.0,82,80,23,0,,"Neurodevelopmental disorder with microcephaly, seizures, and brain atrophy"
+INTS8,syndromic_only,INTS8,Q75QN2,995,3,1,1,0,0.0,1,1,0.361,0.361,0.361,0.0,0.0,101,99,22,0,,Neurodevelopmental disorder with cerebellar hypoplasia and spasticity
+KIF2A,isolated,KIF2A,O00139,706,7,1,1,0,0.0,6,1,0.135,0.135,0.135,0.0,0.0,239,196,403,14,Complex cortical dysplasia with other brain malformations 3,
+LMNB2,isolated,LMNB2,Q03252,620,4,1,0,1,1.0,3,1,0.311,0.311,0.311,0.0,0.0,318,297,349,27,"Microcephaly 27, primary, autosomal dominant",
+LRRC8C,syndromic_only,LRRC8C,Q8TDW0,803,2,1,0,1,1.0,1,1,0.498,0.498,0.498,0.0,0.0,69,67,4,1,,"Telangiectasia, impaired intellectual development, microcephaly, metaphyseal dysplasia, eye abnormalities, and short stature"
+MAST1,syndromic_only,MAST1,Q9Y2H9,1570,18,1,1,0,0.0,14,1,0.185,0.185,0.185,0.0,0.0,432,384,326,17,,Mega-corpus-callosum syndrome with cerebellar hypoplasia and cortical malformations
+MTOR,syndromic_only,MTOR,P42345,2549,57,1,0,1,1.0,54,1,0.034,0.034,0.034,0.0,0.0,1113,928,1823,117,,Isolated focal cortical dysplasia type II
+NEDD4L,isolated,NEDD4L,Q96PU5,975,11,1,1,0,0.0,6,1,0.835,0.835,0.835,0.0,1.0,390,330,723,51,Periventricular nodular heterotopia 7,
+NUAK2,syndromic_only,NUAK2,Q9H093,628,2,1,1,0,0.0,0,1,0.885,0.885,0.885,0.0,1.0,97,97,12,0,,Anencephaly 2
+OXR1,syndromic_only,OXR1,Q8N573,874,2,1,1,0,0.0,0,1,0.42,0.42,0.42,0.0,0.0,118,109,40,3,,Isolated cerebellar hypoplasia/agenesis
+PDCD6IP,isolated,PDCD6IP,Q8WUM4,868,1,1,0,1,1.0,0,1,0.062,0.062,0.062,0.0,0.0,97,96,11,2,"Microcephaly 29, primary, autosomal recessive",
+SPOP,syndromic_only,SPOP,O43791,374,11,1,0,1,1.0,9,1,0.42,0.42,0.42,0.0,0.0,204,97,16,8,,Neurodevelopmental disorder with microcephaly and dysmorphic facies
+TAF2,syndromic_only,TAF2,Q6P1X5,1199,5,1,0,1,1.0,2,1,0.727,0.727,0.727,0.0,0.0,177,158,156,3,,Microcephaly-thin corpus callosum-intellectual disability syndrome
+TBXT,isolated,TBXT,O15178,435,2,1,0,1,1.0,1,1,0.628,0.628,0.628,0.0,0.0,45,42,21,0,"Neural tube defects, susceptibility to",
+TMEM218,syndromic_only,TMEM218,A2RU14,115,4,1,1,0,0.0,3,1,0.513,0.513,0.513,0.0,0.0,18,16,4,0,,Joubert syndrome 39
+TRAPPC14,isolated,TRAPPC14,Q8WVR3,580,1,1,1,0,0.0,0,1,0.353,0.353,0.353,0.0,0.0,3,3,12,0,"Microcephaly 25, primary, autosomal recessive",
+TUBB,isolated,TUBB,P07437,444,40,1,0,1,1.0,39,1,0.473,0.473,0.473,0.0,0.0,69,60,27,8,Complex cortical dysplasia with other brain malformations 6,
+TUBB2A,isolated,TUBB2A,Q13885,445,39,1,1,0,0.0,38,1,0.294,0.294,0.294,0.0,0.0,134,117,202,15,Complex cortical dysplasia with other brain malformations 5,
+TUBB2B,isolated,TUBB2B,Q9BVA1,445,79,1,1,0,0.0,78,1,0.034,0.034,0.034,0.0,0.0,96,85,71,19,Complex cortical dysplasia with other brain malformations 7,
+ADARB1,syndromic_only,ADARB1,P78563,741,6,0,0,0,,5,0,,,,,,74,67,23,1,,"Neurodevelopmental disorder with hypotonia, microcephaly, and seizures"
+ARF1,isolated,ARF1,P84077,181,12,0,0,0,,12,0,,,,,,20,17,11,2,Periventricular nodular heterotopia 8,
+ARL3,syndromic_only,ARL3,P36405,182,3,0,0,0,,3,0,,,,,,93,67,57,6,,Joubert syndrome 35
+CDC40,isolated,CDC40,O60508,579,1,0,0,0,,1,0,,,,,,48,47,5,0,"Pontocerebellar hypoplasia, type 15",
+CDK5,isolated,CDK5,Q00535,292,2,0,0,0,,1,0,,,,,,14,12,59,1,Lissencephaly 7 with cerebellar hypoplasia,
+CDK6,isolated,CDK6,Q00534,326,1,0,0,0,,1,0,,,,,,12,12,27,1,"Microcephaly 12, primary, autosomal recessive",
+CENPT,syndromic_only,CENPT,Q96BT3,561,1,0,0,0,,0,0,,,,,,103,103,37,0,,Short stature and microcephaly with genital anomalies
+CPSF3,syndromic_only,CPSF3,Q9UKF6,684,3,0,0,0,,1,0,,,,,,49,47,19,0,,"Neurodevelopmental disorder with microcephaly, hypotonia, nystagmus, and seizures"
+CRNKL1,syndromic_only,CRNKL1,Q9BZJ0,848,3,0,0,0,,3,0,,,,,,70,63,7,0,,"Microcephaly, progressive, with simplified gyral pattern and cerebellar hypoplasia"
+DMRTA2,isolated,DMRTA2,Q96SC8,542,1,0,0,0,,1,0,,,,,,85,85,5,0,"CORTICAL DYSPLASIA, COMPLEX, WITH OTHER BRAIN MALFORMATIONS 17",
+EIPR1,syndromic_only,EIPR1,Q53HC9,387,4,0,0,0,,4,0,,,,,,51,51,3,0,,"NEURODEVELOPMENTAL DISORDER WITH SPASTICITY, HYPOPLASIA OF THE CORPUS CALLOSUM, AND RECURRENT INFECTIONS"
+EXOC2,syndromic_only,EXOC2,Q96KP1,924,1,0,0,0,,1,0,,,,,,120,114,22,0,,Neurodevelopmental disorder with dysmorphic facies and cerebellar hypoplasia
+EXOSC1,isolated,EXOSC1,Q9Y3B2,195,1,0,0,0,,1,0,,,,,,23,23,1,0,"Pontocerebellar hypoplasia, type 1F",
+FUZ,isolated,FUZ,Q9BT04,418,1,0,0,0,,0,0,,,,,,59,51,30,2,"Neural tube defects, susceptibility to",
+HMGB3,syndromic_only,HMGB3,O15347,200,0,0,0,0,,0,0,,,,,,19,15,10,0,,X-linked colobomatous microphthalmia-microcephaly-intellectual disability-short stature syndrome
+IER3IP1,syndromic_only,IER3IP1,Q9Y5U9,82,1,0,0,0,,1,0,,,,,,50,41,66,2,,"Microcephaly, epilepsy, and diabetes syndrome 1"
+IGBP1,syndromic_only,IGBP1,P78318,339,1,0,0,0,,0,0,,,,,,39,37,15,1,,Corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome
+KCNA4,syndromic_only,KCNA4,P22459,653,0,0,0,0,,0,0,,,,,,73,72,8,0,,"Microcephaly, cataracts, impaired intellectual development, and dystonia with abnormal striatum"
+LMNB1,isolated,LMNB1,P20700,586,10,0,0,0,,6,0,,,,,,198,169,120,20,"Microcephaly 26, primary, autosomal dominant",
+LTC4S,syndromic_only,LTC4S,Q16873,150,0,0,0,0,,0,0,,,,,,19,17,2,0,,Hypotonia-failure to thrive-microcephaly syndrome
+MAP3K3,isolated,MAP3K3,Q99759,626,1,0,0,0,,1,0,,,,,,95,85,23,0,Cerebral cavernous malformations 5,
+MSMO1,syndromic_only,MSMO1,Q15800,293,3,0,0,0,,3,0,,,,,,45,43,44,0,,Microcephaly-congenital cataract-psoriasiform dermatitis syndrome
+NCAPH,isolated,NCAPH,Q15003,741,2,0,0,0,,1,0,,,,,,108,108,28,1,"Microcephaly 23, primary, autosomal recessive",
+PPP1R15B,syndromic_only,PPP1R15B,Q5SWA1,713,0,0,0,0,,0,0,,,,,,166,159,62,4,,"Microcephaly, short stature, and impaired glucose metabolism 2"
+PSMB1,syndromic_only,PSMB1,P20618,241,1,0,0,0,,1,0,,,,,,25,23,6,0,,"Neurodevelopmental disorder with microcephaly, hypotonia, and absent language"
+RRP7A,isolated,RRP7A,Q9Y3A4,280,1,0,0,0,,1,0,,,,,,62,60,10,0,"Microcephaly 28, primary, autosomal recessive",
+SARS1,syndromic_only,SARS1,P49591,514,3,0,0,0,,1,0,,,,,,54,52,20,0,,"Neurodevelopmental disorder with microcephaly, ataxia, and seizures"
+SLC25A19,syndromic_only,SLC25A19,Q9HC21,320,14,0,0,0,,13,0,,,,,,83,72,92,13,,Amish lethal microcephaly
+TRIM36,syndromic_only,TRIM36,Q9NQ86,728,1,0,0,0,,1,0,,,,,,98,98,19,0,,Anencephaly 1
+TSEN15,isolated,TSEN15,Q8WW01,171,2,0,0,0,,2,0,,,,,,31,30,30,0,"Pontocerebellar hypoplasia, type 2F",
+TUBB3,isolated,TUBB3,Q13509,450,57,0,0,0,,57,0,,,,,,176,160,146,29,Complex cortical dysplasia with other brain malformations 1,
+TUBG1,isolated,TUBG1,P23258,451,15,0,0,0,,14,0,,,,,,80,61,134,5,Complex cortical dysplasia with other brain malformations 4,
+TUBGCP2,syndromic_only,TUBGCP2,Q9BSJ2,902,2,0,0,0,,1,0,,,,,,153,140,82,8,,"Pachygyria, microcephaly, developmental delay, and dysmorphic facies, with or without seizures"
+VANGL1,isolated,VANGL1,Q8TAA9,524,2,0,0,0,,1,0,,,,,,171,89,88,33,"Neural tube defects, susceptibility to",
+VANGL2,isolated,VANGL2,Q9ULK5,521,0,0,0,0,,0,0,,,,,,60,59,19,1,"Neural tube defects, susceptibility to",
+VPS4A,syndromic_only,VPS4A,Q9UN37,437,7,0,0,0,,7,0,,,,,,84,71,27,1,,Cerebellar hypoplasia-intellectual disability-congenital microcephaly-dystonia-anemia-growth retardation syndrome
+YIPF5,syndromic_only,YIPF5,Q969M3,257,5,0,0,0,,5,0,,,,,,34,33,3,0,,"Microcephaly, epilepsy, and diabetes syndrome 2"
+ZNF407,syndromic_only,ZNF407,Q9C0G0,2248,2,0,0,0,,2,0,,,,,,397,373,148,19,,"Short stature, impaired intellectual development, microcephaly, hypotonia, and ocular anomalies"

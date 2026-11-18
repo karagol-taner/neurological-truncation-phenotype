@@ -1,0 +1,2923 @@
+{
+ "counts": {
+  "MANE Select": 29099,
+  "other transcript": 66,
+  "no MANE Select record": 242
+ },
+ "per_gene": {
+  "AARS1": {
+   "MANE Select": 53
+  },
+  "AARS2": {
+   "MANE Select": 44
+  },
+  "ABCA2": {
+   "MANE Select": 14
+  },
+  "ABCA7": {
+   "MANE Select": 13
+  },
+  "ABHD16A": {
+   "MANE Select": 6
+  },
+  "ACBD6": {
+   "MANE Select": 5
+  },
+  "ACSL4": {
+   "MANE Select": 9
+  },
+  "ACTA2": {
+   "MANE Select": 4
+  },
+  "ACTL6B": {
+   "MANE Select": 25
+  },
+  "ADAM10": {
+   "MANE Select": 2
+  },
+  "ADAM22": {
+   "MANE Select": 4
+  },
+  "ADAT3": {
+   "MANE Select": 2
+  },
+  "ADCY5": {
+   "MANE Select": 25
+  },
+  "ADGRG1": {
+   "MANE Select": 85
+  },
+  "ADGRV1": {
+   "MANE Select": 546
+  },
+  "AFG3L2": {
+   "MANE Select": 21
+  },
+  "AIMP1": {
+   "MANE Select": 20
+  },
+  "AIMP2": {
+   "MANE Select": 4
+  },
+  "ALDH18A1": {
+   "MANE Select": 30
+  },
+  "ALG13": {
+   "MANE Select": 1
+  },
+  "ALKBH8": {
+   "MANE Select": 7
+  },
+  "ALS2": {
+   "MANE Select": 74
+  },
+  "AMFR": {
+   "MANE Select": 5
+  },
+  "AMPD2": {
+   "MANE Select": 27
+  },
+  "ANK3": {
+   "MANE Select": 24,
+   "other transcript": 1
+  },
+  "ANKLE2": {
+   "MANE Select": 4
+  },
+  "ANO1": {
+   "MANE Select": 1
+  },
+  "ANO10": {
+   "MANE Select": 83
+  },
+  "AOPEP": {
+   "MANE Select": 9,
+   "other transcript": 2
+  },
+  "AP3B2": {
+   "MANE Select": 39
+  },
+  "AP4B1": {
+   "MANE Select": 52
+  },
+  "AP4E1": {
+   "MANE Select": 27
+  },
+  "AP4M1": {
+   "MANE Select": 47
+  },
+  "AP4S1": {
+   "MANE Select": 12
+  },
+  "AP5Z1": {
+   "MANE Select": 49
+  },
+  "APC2": {
+   "MANE Select": 24
+  },
+  "APOE": {
+   "MANE Select": 4
+  },
+  "APTX": {
+   "MANE Select": 24
+  },
+  "ARHGEF2": {
+   "MANE Select": 1
+  },
+  "ARHGEF9": {
+   "MANE Select": 32
+  },
+  "ARID1A": {
+   "MANE Select": 105
+  },
+  "ARL6IP1": {
+   "MANE Select": 6
+  },
+  "ARV1": {
+   "MANE Select": 12
+  },
+  "ARX": {
+   "MANE Select": 93
+  },
+  "ASCC3": {
+   "MANE Select": 8
+  },
+  "ASH1L": {
+   "MANE Select": 103
+  },
+  "ASPM": {
+   "MANE Select": 335
+  },
+  "ATAD3A": {
+   "MANE Select": 13
+  },
+  "ATG12": {
+   "MANE Select": 1
+  },
+  "ATG7": {
+   "MANE Select": 2
+  },
+  "ATL1": {
+   "MANE Select": 16
+  },
+  "ATM": {
+   "MANE Select": 2810
+  },
+  "ATP11A": {
+   "MANE Select": 1
+  },
+  "ATP13A2": {
+   "MANE Select": 69
+  },
+  "ATP1A2": {
+   "MANE Select": 45
+  },
+  "ATP1A3": {
+   "MANE Select": 15
+  },
+  "ATP2B1": {
+   "MANE Select": 31
+  },
+  "ATP6V0A1": {
+   "MANE Select": 2
+  },
+  "ATP6V0C": {
+   "MANE Select": 6
+  },
+  "ATP8A2": {
+   "MANE Select": 29
+  },
+  "ATP9A": {
+   "MANE Select": 9
+  },
+  "ATXN2": {
+   "MANE Select": 1
+  },
+  "ATXN3": {
+   "MANE Select": 1
+  },
+  "ATXN7": {
+   "MANE Select": 1
+  },
+  "AUTS2": {
+   "MANE Select": 80
+  },
+  "B4GALNT1": {
+   "MANE Select": 26
+  },
+  "BRAT1": {
+   "MANE Select": 80
+  },
+  "BRWD3": {
+   "MANE Select": 54
+  },
+  "BSCL2": {
+   "MANE Select": 36
+  },
+  "BUB1": {
+   "MANE Select": 3
+  },
+  "C19orf12": {
+   "MANE Select": 19
+  },
+  "CA8": {
+   "MANE Select": 4
+  },
+  "CACNA1A": {
+   "MANE Select": 304,
+   "other transcript": 9
+  },
+  "CACNA1B": {
+   "MANE Select": 42
+  },
+  "CACNA1E": {
+   "MANE Select": 6
+  },
+  "CACNA1G": {
+   "MANE Select": 1
+  },
+  "CACNA1H": {
+   "MANE Select": 1
+  },
+  "CACNA2D1": {
+   "MANE Select": 2
+  },
+  "CACNB4": {
+   "MANE Select": 1
+  },
+  "CAD": {
+   "MANE Select": 68
+  },
+  "CAMK2A": {
+   "MANE Select": 7
+  },
+  "CAMK2B": {
+   "MANE Select": 3
+  },
+  "CAMK2G": {
+   "MANE Select": 1
+  },
+  "CAMSAP1": {
+   "MANE Select": 7
+  },
+  "CAPRIN1": {
+   "MANE Select": 31
+  },
+  "CASP2": {
+   "MANE Select": 4
+  },
+  "CASR": {
+   "MANE Select": 167
+  },
+  "CC2D1A": {
+   "MANE Select": 39
+  },
+  "CCDC88C": {
+   "MANE Select": 145
+  },
+  "CCM2": {
+   "MANE Select": 82
+  },
+  "CCT3": {
+   "MANE Select": 2
+  },
+  "CDK4": {
+   "MANE Select": 3
+  },
+  "CDK5RAP2": {
+   "MANE Select": 66
+  },
+  "CDK8": {
+   "MANE Select": 1
+  },
+  "CDKL5": {
+   "MANE Select": 356,
+   "other transcript": 14
+  },
+  "CDON": {
+   "MANE Select": 2
+  },
+  "CELF2": {
+   "MANE Select": 11
+  },
+  "CENPE": {
+   "MANE Select": 3
+  },
+  "CEP104": {
+   "MANE Select": 43
+  },
+  "CEP135": {
+   "MANE Select": 53
+  },
+  "CEP152": {
+   "MANE Select": 106
+  },
+  "CEP85L": {
+   "other transcript": 1,
+   "MANE Select": 2
+  },
+  "CHAMP1": {
+   "MANE Select": 54
+  },
+  "CHD2": {
+   "MANE Select": 240
+  },
+  "CHD8": {
+   "MANE Select": 185
+  },
+  "CHKA": {
+   "MANE Select": 2
+  },
+  "CHMP1A": {
+   "MANE Select": 3
+  },
+  "CHMP2B": {
+   "MANE Select": 1
+  },
+  "CIC": {
+   "MANE Select": 73
+  },
+  "CILK1": {
+   "MANE Select": 3
+  },
+  "CIT": {
+   "MANE Select": 13
+  },
+  "CLCN2": {
+   "MANE Select": 27
+  },
+  "CLCN3": {
+   "MANE Select": 1
+  },
+  "CLCN4": {
+   "MANE Select": 28
+  },
+  "CLN3": {
+   "MANE Select": 128
+  },
+  "CLN5": {
+   "MANE Select": 123
+  },
+  "CLN6": {
+   "MANE Select": 77
+  },
+  "CLN8": {
+   "MANE Select": 55
+  },
+  "CLP1": {
+   "MANE Select": 3
+  },
+  "CLTC": {
+   "other transcript": 1,
+   "MANE Select": 91
+  },
+  "CNKSR2": {
+   "MANE Select": 45
+  },
+  "CNTN2": {
+   "MANE Select": 31
+  },
+  "CNTNAP2": {
+   "MANE Select": 82
+  },
+  "COASY": {
+   "MANE Select": 26
+  },
+  "COL3A1": {
+   "MANE Select": 140
+  },
+  "COL6A3": {
+   "MANE Select": 116
+  },
+  "COPB2": {
+   "MANE Select": 5
+  },
+  "COQ4": {
+   "MANE Select": 18
+  },
+  "COQ8A": {
+   "MANE Select": 56
+  },
+  "CPA6": {
+   "MANE Select": 3
+  },
+  "CPAP": {
+   "MANE Select": 79
+  },
+  "CPLX1": {
+   "MANE Select": 3
+  },
+  "CPT1C": {
+   "MANE Select": 11
+  },
+  "CRADD": {
+   "MANE Select": 3
+  },
+  "CRAT": {
+   "MANE Select": 1
+  },
+  "CRBN": {
+   "MANE Select": 8
+  },
+  "CSF1R": {
+   "MANE Select": 33
+  },
+  "CTNNA2": {
+   "MANE Select": 8
+  },
+  "CTSD": {
+   "MANE Select": 34
+  },
+  "CTSF": {
+   "MANE Select": 26
+  },
+  "CUL3": {
+   "MANE Select": 82
+  },
+  "CUL4B": {
+   "MANE Select": 45
+  },
+  "CUX1": {
+   "MANE Select": 43,
+   "other transcript": 4
+  },
+  "CUX2": {
+   "MANE Select": 1
+  },
+  "CYFIP2": {
+   "MANE Select": 1
+  },
+  "CYLD": {
+   "MANE Select": 73
+  },
+  "CYP2U1": {
+   "MANE Select": 35
+  },
+  "CYP7B1": {
+   "MANE Select": 54
+  },
+  "DALRD3": {
+   "MANE Select": 1
+  },
+  "DARS2": {
+   "MANE Select": 37
+  },
+  "DCTN1": {
+   "MANE Select": 1
+  },
+  "DCX": {
+   "MANE Select": 59
+  },
+  "DDHD1": {
+   "MANE Select": 25
+  },
+  "DDHD2": {
+   "MANE Select": 29
+  },
+  "DDX3X": {
+   "MANE Select": 191
+  },
+  "DEAF1": {
+   "MANE Select": 34
+  },
+  "DEGS1": {
+   "MANE Select": 8
+  },
+  "DENND5A": {
+   "MANE Select": 22
+  },
+  "DEPDC5": {
+   "MANE Select": 288
+  },
+  "DHPS": {
+   "MANE Select": 3
+  },
+  "DHX30": {
+   "MANE Select": 5
+  },
+  "DHX9": {
+   "MANE Select": 12
+  },
+  "DIP2B": {
+   "MANE Select": 3
+  },
+  "DISP1": {
+   "MANE Select": 4
+  },
+  "DLG3": {
+   "MANE Select": 32
+  },
+  "DLG4": {
+   "MANE Select": 69
+  },
+  "DLL1": {
+   "MANE Select": 55
+  },
+  "DMAP1": {
+   "MANE Select": 1
+  },
+  "DMXL2": {
+   "MANE Select": 51
+  },
+  "DNM1": {
+   "MANE Select": 14
+  },
+  "DOCK3": {
+   "MANE Select": 14
+  },
+  "DOCK7": {
+   "other transcript": 1,
+   "MANE Select": 67
+  },
+  "DOHH": {
+   "MANE Select": 3
+  },
+  "DPP6": {
+   "MANE Select": 2
+  },
+  "DSTYK": {
+   "MANE Select": 4
+  },
+  "DYNC1H1": {
+   "MANE Select": 21
+  },
+  "DYNC1I2": {
+   "MANE Select": 4
+  },
+  "EARS2": {
+   "MANE Select": 25
+  },
+  "EDC3": {
+   "MANE Select": 1
+  },
+  "EEF2": {
+   "MANE Select": 2
+  },
+  "EEFSEC": {
+   "MANE Select": 3
+  },
+  "EFHC1": {
+   "MANE Select": 1
+  },
+  "EIF2B1": {
+   "MANE Select": 24
+  },
+  "EIF2B2": {
+   "MANE Select": 19
+  },
+  "EIF2B3": {
+   "MANE Select": 4
+  },
+  "EIF2B4": {
+   "MANE Select": 13
+  },
+  "EIF2B5": {
+   "MANE Select": 45
+  },
+  "EIF3F": {
+   "MANE Select": 2
+  },
+  "EIF4A2": {
+   "MANE Select": 4
+  },
+  "ELOVL4": {
+   "MANE Select": 19
+  },
+  "ELP2": {
+   "MANE Select": 16
+  },
+  "EMX2": {
+   "MANE Select": 2
+  },
+  "ENTPD1": {
+   "MANE Select": 13
+  },
+  "EPG5": {
+   "MANE Select": 169
+  },
+  "EPRS1": {
+   "MANE Select": 17
+  },
+  "ERBB4": {
+   "MANE Select": 3
+  },
+  "ERLIN1": {
+   "MANE Select": 2
+  },
+  "ERLIN2": {
+   "MANE Select": 14
+  },
+  "ERMARD": {
+   "MANE Select": 1
+  },
+  "ESAM": {
+   "MANE Select": 5
+  },
+  "ESR1": {
+   "MANE Select": 1
+  },
+  "EXOC7": {
+   "MANE Select": 1
+  },
+  "EXOC8": {
+   "MANE Select": 1
+  },
+  "EXOSC3": {
+   "MANE Select": 29
+  },
+  "EXOSC8": {
+   "MANE Select": 2
+  },
+  "EXOSC9": {
+   "MANE Select": 19
+  },
+  "EXT2": {
+   "MANE Select": 175
+  },
+  "FA2H": {
+   "MANE Select": 35
+  },
+  "FAM177A1": {
+   "MANE Select": 4
+  },
+  "FARS2": {
+   "MANE Select": 26
+  },
+  "FBXO28": {
+   "MANE Select": 7
+  },
+  "FBXO31": {
+   "MANE Select": 1
+  },
+  "FBXO7": {
+   "MANE Select": 36
+  },
+  "FERRY3": {
+   "MANE Select": 19
+  },
+  "FGF12": {
+   "MANE Select": 1
+  },
+  "FGF13": {
+   "MANE Select": 1
+  },
+  "FGF14": {
+   "MANE Select": 11
+  },
+  "FIG4": {
+   "MANE Select": 82
+  },
+  "FLVCR1": {
+   "MANE Select": 39
+  },
+  "FMN2": {
+   "MANE Select": 20
+  },
+  "FMR1": {
+   "MANE Select": 9
+  },
+  "FRMPD4": {
+   "MANE Select": 17
+  },
+  "FRRS1L": {
+   "MANE Select": 24
+  },
+  "FSD1L": {
+   "MANE Select": 4
+  },
+  "FTH1": {
+   "MANE Select": 2,
+   "other transcript": 1
+  },
+  "FTSJ1": {
+   "MANE Select": 7
+  },
+  "FUS": {
+   "MANE Select": 25
+  },
+  "FXN": {
+   "MANE Select": 9
+  },
+  "GABRA1": {
+   "MANE Select": 10
+  },
+  "GABRA2": {
+   "MANE Select": 2
+  },
+  "GABRB3": {
+   "MANE Select": 15,
+   "other transcript": 1
+  },
+  "GABRG2": {
+   "MANE Select": 62
+  },
+  "GAD1": {
+   "MANE Select": 8
+  },
+  "GBA1": {
+   "MANE Select": 116
+  },
+  "GBA2": {
+   "MANE Select": 37
+  },
+  "GCH1": {
+   "MANE Select": 51
+  },
+  "GDAP2": {
+   "MANE Select": 8
+  },
+  "GDI1": {
+   "MANE Select": 8
+  },
+  "GEMIN5": {
+   "MANE Select": 21
+  },
+  "GIGYF2": {
+   "MANE Select": 1,
+   "other transcript": 1
+  },
+  "GJC2": {
+   "MANE Select": 55
+  },
+  "GLI2": {
+   "MANE Select": 86
+  },
+  "GLRA2": {
+   "MANE Select": 1
+  },
+  "GLS": {
+   "MANE Select": 8
+  },
+  "GLUL": {
+   "MANE Select": 1
+  },
+  "GNAL": {
+   "MANE Select": 10,
+   "other transcript": 3
+  },
+  "GNAO1": {
+   "MANE Select": 6
+  },
+  "GNB1": {
+   "MANE Select": 11
+  },
+  "GPR88": {
+   "MANE Select": 1
+  },
+  "GRIA1": {
+   "MANE Select": 2
+  },
+  "GRIA2": {
+   "MANE Select": 11
+  },
+  "GRIA4": {
+   "MANE Select": 2
+  },
+  "GRIK2": {
+   "MANE Select": 6
+  },
+  "GRIN1": {
+   "MANE Select": 20
+  },
+  "GRIN2B": {
+   "MANE Select": 99
+  },
+  "GRM1": {
+   "MANE Select": 12
+  },
+  "GRM7": {
+   "MANE Select": 5
+  },
+  "GRN": {
+   "MANE Select": 95
+  },
+  "GUCY1A1": {
+   "MANE Select": 12
+  },
+  "HACE1": {
+   "MANE Select": 25
+  },
+  "HCN1": {
+   "MANE Select": 1
+  },
+  "HCN2": {
+   "MANE Select": 1
+  },
+  "HCN4": {
+   "MANE Select": 3
+  },
+  "HECTD4": {
+   "MANE Select": 8
+  },
+  "HECW2": {
+   "MANE Select": 5
+  },
+  "HEPACAM": {
+   "MANE Select": 11
+  },
+  "HID1": {
+   "MANE Select": 7
+  },
+  "HIKESHI": {
+   "MANE Select": 2
+  },
+  "HIVEP2": {
+   "MANE Select": 77
+  },
+  "HK1": {
+   "MANE Select": 11,
+   "other transcript": 1
+  },
+  "HMBS": {
+   "MANE Select": 65
+  },
+  "HNRNPC": {
+   "MANE Select": 1
+  },
+  "HNRNPH2": {
+   "MANE Select": 4
+  },
+  "HNRNPU": {
+   "MANE Select": 121
+  },
+  "HPDL": {
+   "MANE Select": 24
+  },
+  "HTRA2": {
+   "MANE Select": 10
+  },
+  "HTT": {
+   "MANE Select": 6
+  },
+  "HUWE1": {
+   "MANE Select": 2
+  },
+  "IBA57": {
+   "MANE Select": 27
+  },
+  "IL1RAPL1": {
+   "MANE Select": 20
+  },
+  "IMPA1": {
+   "MANE Select": 2
+  },
+  "INPP4A": {
+   "MANE Select": 4
+  },
+  "INTS6": {
+   "MANE Select": 4
+  },
+  "INTS8": {
+   "MANE Select": 1
+  },
+  "IQSEC2": {
+   "MANE Select": 172,
+   "other transcript": 2
+  },
+  "IRF2BPL": {
+   "MANE Select": 100
+  },
+  "ITPA": {
+   "MANE Select": 21
+  },
+  "ITPR1": {
+   "MANE Select": 21
+  },
+  "JKAMP": {
+   "MANE Select": 2
+  },
+  "KATNB1": {
+   "MANE Select": 9
+  },
+  "KCNA1": {
+   "MANE Select": 4
+  },
+  "KCNA2": {
+   "MANE Select": 11
+  },
+  "KCNB1": {
+   "MANE Select": 27
+  },
+  "KCNC3": {
+   "MANE Select": 2
+  },
+  "KCNK18": {
+   "MANE Select": 1
+  },
+  "KCNMA1": {
+   "MANE Select": 21
+  },
+  "KCNN2": {
+   "MANE Select": 6
+  },
+  "KCNQ2": {
+   "MANE Select": 286
+  },
+  "KCNQ3": {
+   "MANE Select": 12
+  },
+  "KCNQ5": {
+   "MANE Select": 14
+  },
+  "KCNT1": {
+   "MANE Select": 2
+  },
+  "KCNT2": {
+   "MANE Select": 8
+  },
+  "KCTD7": {
+   "MANE Select": 17
+  },
+  "KDM4B": {
+   "MANE Select": 21
+  },
+  "KDM5B": {
+   "MANE Select": 85
+  },
+  "KICS2": {
+   "MANE Select": 2
+  },
+  "KIF14": {
+   "MANE Select": 31
+  },
+  "KIF1A": {
+   "MANE Select": 34
+  },
+  "KIF1C": {
+   "MANE Select": 21
+  },
+  "KIF26A": {
+   "MANE Select": 11
+  },
+  "KIF2A": {
+   "MANE Select": 1
+  },
+  "KIF5A": {
+   "MANE Select": 42
+  },
+  "KIF5C": {
+   "MANE Select": 2
+  },
+  "KLHL15": {
+   "MANE Select": 4
+  },
+  "KMT2B": {
+   "MANE Select": 118
+  },
+  "KMT5B": {
+   "MANE Select": 57
+  },
+  "KNL1": {
+   "MANE Select": 17
+  },
+  "KRIT1": {
+   "MANE Select": 306
+  },
+  "LAMA1": {
+   "MANE Select": 121
+  },
+  "LAMB1": {
+   "MANE Select": 31
+  },
+  "LGI1": {
+   "MANE Select": 45
+  },
+  "LINS1": {
+   "MANE Select": 30
+  },
+  "LMAN2L": {
+   "MANE Select": 1
+  },
+  "LMNB2": {
+   "MANE Select": 1
+  },
+  "LNPK": {
+   "MANE Select": 13
+  },
+  "LRRC7": {
+   "MANE Select": 7
+  },
+  "LRRK2": {
+   "MANE Select": 1
+  },
+  "MACF1": {
+   "MANE Select": 5
+  },
+  "MAG": {
+   "MANE Select": 7
+  },
+  "MAP1B": {
+   "MANE Select": 51
+  },
+  "MARK2": {
+   "MANE Select": 24
+  },
+  "MARS2": {
+   "MANE Select": 4
+  },
+  "MBD5": {
+   "MANE Select": 113
+  },
+  "MBOAT7": {
+   "MANE Select": 24
+  },
+  "MCPH1": {
+   "MANE Select": 81
+  },
+  "MDGA2": {
+   "MANE Select": 5
+  },
+  "MDH2": {
+   "MANE Select": 9
+  },
+  "MECP2": {
+   "MANE Select": 585
+  },
+  "MED12": {
+   "MANE Select": 36
+  },
+  "MED13": {
+   "MANE Select": 59
+  },
+  "MED23": {
+   "MANE Select": 11
+  },
+  "MEF2C": {
+   "MANE Select": 53
+  },
+  "METTL23": {
+   "MANE Select": 15
+  },
+  "MFSD2A": {
+   "MANE Select": 3
+  },
+  "MFSD8": {
+   "MANE Select": 86
+  },
+  "MID2": {
+   "MANE Select": 3
+  },
+  "MINPP1": {
+   "MANE Select": 12
+  },
+  "MLC1": {
+   "MANE Select": 71
+  },
+  "MME": {
+   "MANE Select": 69
+  },
+  "MPDZ": {
+   "MANE Select": 107
+  },
+  "MPO": {
+   "MANE Select": 12
+  },
+  "MRE11": {
+   "MANE Select": 118
+  },
+  "MTHFD1": {
+   "MANE Select": 22
+  },
+  "MTHFR": {
+   "MANE Select": 101
+  },
+  "MTHFS": {
+   "MANE Select": 5
+  },
+  "MTPAP": {
+   "MANE Select": 1
+  },
+  "MTR": {
+   "MANE Select": 60
+  },
+  "MTRFR": {
+   "MANE Select": 19
+  },
+  "MTRR": {
+   "MANE Select": 112
+  },
+  "MYT1L": {
+   "MANE Select": 75
+  },
+  "NAA15": {
+   "MANE Select": 119
+  },
+  "NAA20": {
+   "MANE Select": 1
+  },
+  "NAPB": {
+   "MANE Select": 3
+  },
+  "NARS1": {
+   "other transcript": 1,
+   "MANE Select": 10
+  },
+  "NBEA": {
+   "MANE Select": 51
+  },
+  "NCAPD2": {
+   "MANE Select": 6
+  },
+  "NCAPD3": {
+   "MANE Select": 7
+  },
+  "NCDN": {
+   "MANE Select": 2
+  },
+  "NDE1": {
+   "MANE Select": 6
+  },
+  "NECAP1": {
+   "MANE Select": 4
+  },
+  "NEDD4L": {
+   "MANE Select": 1
+  },
+  "NEFH": {
+   "MANE Select": 8
+  },
+  "NEK1": {
+   "MANE Select": 85
+  },
+  "NEXMIF": {
+   "MANE Select": 215
+  },
+  "NFASC": {
+   "other transcript": 5,
+   "MANE Select": 3
+  },
+  "NFU1": {
+   "MANE Select": 4
+  },
+  "NKX6-2": {
+   "MANE Select": 18
+  },
+  "NLGN3": {
+   "MANE Select": 4
+  },
+  "NLGN4X": {
+   "MANE Select": 6
+  },
+  "NOVA2": {
+   "MANE Select": 14
+  },
+  "NPRL2": {
+   "MANE Select": 19
+  },
+  "NPRL3": {
+   "MANE Select": 101
+  },
+  "NR4A2": {
+   "MANE Select": 24
+  },
+  "NRROS": {
+   "MANE Select": 10
+  },
+  "NRXN1": {
+   "MANE Select": 57
+  },
+  "NSRP1": {
+   "MANE Select": 5
+  },
+  "NSUN2": {
+   "MANE Select": 40
+  },
+  "NSUN6": {
+   "MANE Select": 2
+  },
+  "NT5C2": {
+   "MANE Select": 18
+  },
+  "NTNG2": {
+   "MANE Select": 2
+  },
+  "NTRK2": {
+   "MANE Select": 4
+  },
+  "NUP37": {
+   "MANE Select": 2
+  },
+  "NUS1": {
+   "MANE Select": 75
+  },
+  "ODC1": {
+   "MANE Select": 9
+  },
+  "OPHN1": {
+   "MANE Select": 47
+  },
+  "OPTN": {
+   "MANE Select": 46
+  },
+  "OTUD7A": {
+   "MANE Select": 1
+  },
+  "PACS2": {
+   "MANE Select": 1
+  },
+  "PAFAH1B1": {
+   "MANE Select": 102
+  },
+  "PAK1": {
+   "MANE Select": 1
+  },
+  "PAK3": {
+   "MANE Select": 14
+  },
+  "PARK7": {
+   "MANE Select": 5
+  },
+  "PARS2": {
+   "MANE Select": 5
+  },
+  "PCDH19": {
+   "MANE Select": 305
+  },
+  "PCLO": {
+   "MANE Select": 69
+  },
+  "PCYT2": {
+   "MANE Select": 3
+  },
+  "PDCD10": {
+   "MANE Select": 64
+  },
+  "PDCD6IP": {
+   "MANE Select": 1
+  },
+  "PDE2A": {
+   "MANE Select": 2
+  },
+  "PFN1": {
+   "MANE Select": 1
+  },
+  "PGAP1": {
+   "MANE Select": 29
+  },
+  "PGBD5": {
+   "MANE Select": 4
+  },
+  "PHC1": {
+   "MANE Select": 2
+  },
+  "PI4K2A": {
+   "no MANE Select record": 3
+  },
+  "PI4KA": {
+   "MANE Select": 32
+  },
+  "PIDD1": {
+   "MANE Select": 14
+  },
+  "PIGA": {
+   "MANE Select": 19
+  },
+  "PIGB": {
+   "MANE Select": 18
+  },
+  "PIGG": {
+   "MANE Select": 71
+  },
+  "PIGK": {
+   "MANE Select": 3
+  },
+  "PIGP": {
+   "MANE Select": 1
+  },
+  "PIGQ": {
+   "MANE Select": 37
+  },
+  "PIK3CA": {
+   "MANE Select": 7
+  },
+  "PINK1": {
+   "MANE Select": 32
+  },
+  "PIP5K1C": {
+   "MANE Select": 2
+  },
+  "PITRM1": {
+   "MANE Select": 2
+  },
+  "PLA2G6": {
+   "MANE Select": 74
+  },
+  "PLAA": {
+   "MANE Select": 6
+  },
+  "PLCB1": {
+   "MANE Select": 16
+  },
+  "PLCH1": {
+   "MANE Select": 2
+  },
+  "PLD3": {
+   "other transcript": 2
+  },
+  "PLEKHG2": {
+   "other transcript": 1,
+   "MANE Select": 2
+  },
+  "PLP1": {
+   "MANE Select": 59
+  },
+  "PLPBP": {
+   "MANE Select": 14
+  },
+  "PNKP": {
+   "MANE Select": 95
+  },
+  "PNPLA6": {
+   "MANE Select": 74,
+   "other transcript": 1
+  },
+  "PNPT1": {
+   "MANE Select": 34
+  },
+  "POGZ": {
+   "MANE Select": 176
+  },
+  "POLR1A": {
+   "MANE Select": 8
+  },
+  "POLR1C": {
+   "MANE Select": 31
+  },
+  "POLR2A": {
+   "no MANE Select record": 13
+  },
+  "POU4F1": {
+   "MANE Select": 8
+  },
+  "PPFIBP1": {
+   "MANE Select": 12
+  },
+  "PPIL1": {
+   "MANE Select": 2
+  },
+  "PPM1D": {
+   "MANE Select": 69
+  },
+  "PPP1R12A": {
+   "MANE Select": 31
+  },
+  "PPP3CA": {
+   "MANE Select": 24
+  },
+  "PPT1": {
+   "MANE Select": 84
+  },
+  "PRDM13": {
+   "MANE Select": 6
+  },
+  "PRDX3": {
+   "MANE Select": 5
+  },
+  "PRKCG": {
+   "MANE Select": 1
+  },
+  "PRKN": {
+   "MANE Select": 27
+  },
+  "PRKRA": {
+   "MANE Select": 1
+  },
+  "PRMT9": {
+   "MANE Select": 17
+  },
+  "PRNP": {
+   "MANE Select": 5
+  },
+  "PRODH": {
+   "MANE Select": 14
+  },
+  "PRPH": {
+   "MANE Select": 2
+  },
+  "PRRT2": {
+   "MANE Select": 126
+  },
+  "PRSS12": {
+   "MANE Select": 4
+  },
+  "PRUNE1": {
+   "MANE Select": 15
+  },
+  "PSAP": {
+   "MANE Select": 44
+  },
+  "PSEN1": {
+   "MANE Select": 2
+  },
+  "PSEN2": {
+   "MANE Select": 1
+  },
+  "PSMF1": {
+   "MANE Select": 2
+  },
+  "PTCH1": {
+   "MANE Select": 545,
+   "other transcript": 5
+  },
+  "PTCHD1": {
+   "MANE Select": 28
+  },
+  "PTPN23": {
+   "MANE Select": 46
+  },
+  "PTRHD1": {
+   "MANE Select": 2
+  },
+  "PUM1": {
+   "MANE Select": 23
+  },
+  "PYCR2": {
+   "MANE Select": 19
+  },
+  "RAB39B": {
+   "MANE Select": 5
+  },
+  "RALGAPA1": {
+   "MANE Select": 11
+  },
+  "RARS1": {
+   "MANE Select": 23
+  },
+  "RARS2": {
+   "MANE Select": 134
+  },
+  "RBM12": {
+   "MANE Select": 2
+  },
+  "REEP1": {
+   "MANE Select": 49,
+   "other transcript": 1
+  },
+  "REEP2": {
+   "MANE Select": 2
+  },
+  "RELN": {
+   "MANE Select": 88
+  },
+  "RFC1": {
+   "MANE Select": 4
+  },
+  "RFX7": {
+   "MANE Select": 16
+  },
+  "RHOBTB2": {
+   "MANE Select": 3
+  },
+  "RNF13": {
+   "MANE Select": 5
+  },
+  "RNF170": {
+   "MANE Select": 3
+  },
+  "RNF213": {
+   "MANE Select": 1
+  },
+  "RORA": {
+   "MANE Select": 27
+  },
+  "RORB": {
+   "MANE Select": 41
+  },
+  "RPS6KA3": {
+   "MANE Select": 86
+  },
+  "RPS6KC1": {
+   "MANE Select": 3
+  },
+  "RSRC1": {
+   "MANE Select": 7
+  },
+  "RTN2": {
+   "MANE Select": 13
+  },
+  "RUSC2": {
+   "MANE Select": 36
+  },
+  "SACS": {
+   "MANE Select": 943
+  },
+  "SAMD9L": {
+   "MANE Select": 5
+  },
+  "SASS6": {
+   "MANE Select": 5
+  },
+  "SCN1A": {
+   "MANE Select": 843
+  },
+  "SCN1B": {
+   "MANE Select": 15
+  },
+  "SCN2A": {
+   "MANE Select": 221
+  },
+  "SCN3A": {
+   "MANE Select": 8
+  },
+  "SCN8A": {
+   "MANE Select": 71
+  },
+  "SEMA6B": {
+   "MANE Select": 22
+  },
+  "SEPSECS": {
+   "MANE Select": 77
+  },
+  "SET": {
+   "MANE Select": 28
+  },
+  "SETBP1": {
+   "MANE Select": 99
+  },
+  "SETD1A": {
+   "MANE Select": 66
+  },
+  "SETD1B": {
+   "MANE Select": 76
+  },
+  "SETD2": {
+   "MANE Select": 57
+  },
+  "SETX": {
+   "MANE Select": 85
+  },
+  "SGSM3": {
+   "MANE Select": 2
+  },
+  "SHANK2": {
+   "MANE Select": 48
+  },
+  "SHANK3": {
+   "no MANE Select record": 183
+  },
+  "SHH": {
+   "MANE Select": 58
+  },
+  "SHQ1": {
+   "MANE Select": 2
+  },
+  "SIGMAR1": {
+   "MANE Select": 15
+  },
+  "SIK1": {
+   "MANE Select": 6
+  },
+  "SIX3": {
+   "MANE Select": 21
+  },
+  "SLC12A5": {
+   "MANE Select": 30
+  },
+  "SLC13A5": {
+   "MANE Select": 32
+  },
+  "SLC1A2": {
+   "MANE Select": 1
+  },
+  "SLC25A12": {
+   "MANE Select": 11
+  },
+  "SLC25A22": {
+   "MANE Select": 12
+  },
+  "SLC25A46": {
+   "MANE Select": 16
+  },
+  "SLC2A1": {
+   "MANE Select": 160
+  },
+  "SLC33A1": {
+   "MANE Select": 5
+  },
+  "SLC35A3": {
+   "MANE Select": 45
+  },
+  "SLC38A3": {
+   "MANE Select": 3
+  },
+  "SLC4A10": {
+   "MANE Select": 4
+  },
+  "SLC6A1": {
+   "MANE Select": 70
+  },
+  "SLC9A9": {
+   "MANE Select": 2
+  },
+  "SLITRK2": {
+   "MANE Select": 1
+  },
+  "SMARCA1": {
+   "MANE Select": 16
+  },
+  "SMARCA4": {
+   "MANE Select": 199
+  },
+  "SMARCB1": {
+   "MANE Select": 70
+  },
+  "SMARCC1": {
+   "MANE Select": 15
+  },
+  "SMC1A": {
+   "MANE Select": 107
+  },
+  "SMPD4": {
+   "MANE Select": 22
+  },
+  "SNAPC4": {
+   "MANE Select": 3
+  },
+  "SNF8": {
+   "MANE Select": 2
+  },
+  "SOD1": {
+   "MANE Select": 7
+  },
+  "SPAST": {
+   "MANE Select": 294
+  },
+  "SPG11": {
+   "MANE Select": 456
+  },
+  "SPG7": {
+   "MANE Select": 108
+  },
+  "SPTAN1": {
+   "MANE Select": 70
+  },
+  "SPTBN2": {
+   "MANE Select": 21
+  },
+  "SPTSSA": {
+   "MANE Select": 1
+  },
+  "SQSTM1": {
+   "MANE Select": 44
+  },
+  "SRPK3": {
+   "MANE Select": 3
+  },
+  "SRRM2": {
+   "MANE Select": 73
+  },
+  "ST3GAL3": {
+   "MANE Select": 6
+  },
+  "STAG1": {
+   "MANE Select": 35
+  },
+  "STAG2": {
+   "MANE Select": 27
+  },
+  "STEEP1": {
+   "MANE Select": 4
+  },
+  "STIL": {
+   "MANE Select": 19
+  },
+  "STUB1": {
+   "MANE Select": 24
+  },
+  "STX1B": {
+   "MANE Select": 33
+  },
+  "STXBP1": {
+   "MANE Select": 168,
+   "other transcript": 1
+  },
+  "SV2A": {
+   "MANE Select": 3
+  },
+  "SVBP": {
+   "MANE Select": 5
+  },
+  "SYN1": {
+   "MANE Select": 57
+  },
+  "SYNE1": {
+   "MANE Select": 326,
+   "other transcript": 2
+  },
+  "SYNGAP1": {
+   "MANE Select": 316
+  },
+  "SYNJ1": {
+   "MANE Select": 37,
+   "other transcript": 3
+  },
+  "SYP": {
+   "MANE Select": 6
+  },
+  "SZT2": {
+   "MANE Select": 144
+  },
+  "TAF1": {
+   "MANE Select": 1
+  },
+  "TAF4": {
+   "MANE Select": 29
+  },
+  "TAF8": {
+   "MANE Select": 4
+  },
+  "TANC2": {
+   "no MANE Select record": 43
+  },
+  "TBC1D23": {
+   "MANE Select": 13
+  },
+  "TBC1D24": {
+   "MANE Select": 61
+  },
+  "TBC1D2B": {
+   "MANE Select": 16
+  },
+  "TBK1": {
+   "MANE Select": 59
+  },
+  "TBL1XR1": {
+   "MANE Select": 31
+  },
+  "TBR1": {
+   "MANE Select": 48
+  },
+  "TBXT": {
+   "MANE Select": 1
+  },
+  "TCP1": {
+   "MANE Select": 6
+  },
+  "TDP2": {
+   "MANE Select": 11
+  },
+  "TECPR2": {
+   "MANE Select": 107
+  },
+  "TENM4": {
+   "MANE Select": 1
+  },
+  "TFG": {
+   "MANE Select": 1
+  },
+  "TGIF1": {
+   "MANE Select": 6
+  },
+  "TGM6": {
+   "MANE Select": 7
+  },
+  "THG1L": {
+   "MANE Select": 1
+  },
+  "TLK2": {
+   "MANE Select": 53
+  },
+  "TMEM222": {
+   "MANE Select": 2
+  },
+  "TMEM240": {
+   "MANE Select": 1
+  },
+  "TMEM63A": {
+   "MANE Select": 1
+  },
+  "TMEM63B": {
+   "MANE Select": 2
+  },
+  "TMEM63C": {
+   "MANE Select": 4
+  },
+  "TMTC3": {
+   "MANE Select": 15
+  },
+  "TMX2": {
+   "MANE Select": 3
+  },
+  "TNIK": {
+   "MANE Select": 1
+  },
+  "TNR": {
+   "MANE Select": 9
+  },
+  "TNRC6B": {
+   "MANE Select": 65
+  },
+  "TOE1": {
+   "MANE Select": 17
+  },
+  "TPP1": {
+   "MANE Select": 144
+  },
+  "TRAK1": {
+   "MANE Select": 4
+  },
+  "TRAPPC14": {
+   "MANE Select": 1
+  },
+  "TRAPPC4": {
+   "MANE Select": 1
+  },
+  "TRAPPC6B": {
+   "MANE Select": 9
+  },
+  "TRAPPC9": {
+   "MANE Select": 56
+  },
+  "TREM2": {
+   "MANE Select": 13
+  },
+  "TRIM71": {
+   "MANE Select": 3
+  },
+  "TRIO": {
+   "MANE Select": 136
+  },
+  "TRMT1": {
+   "MANE Select": 24
+  },
+  "TRPC3": {
+   "MANE Select": 1
+  },
+  "TSEN2": {
+   "MANE Select": 15
+  },
+  "TSEN34": {
+   "MANE Select": 2
+  },
+  "TSEN54": {
+   "MANE Select": 61
+  },
+  "TSPAN7": {
+   "MANE Select": 4
+  },
+  "TSPOAP1": {
+   "MANE Select": 7
+  },
+  "TTBK2": {
+   "MANE Select": 11
+  },
+  "TTI1": {
+   "MANE Select": 3
+  },
+  "TUBA1A": {
+   "MANE Select": 2
+  },
+  "TUBA4A": {
+   "MANE Select": 6
+  },
+  "TUBB": {
+   "MANE Select": 1
+  },
+  "TUBB2A": {
+   "MANE Select": 1
+  },
+  "TUBB2B": {
+   "MANE Select": 1
+  },
+  "TUSC3": {
+   "MANE Select": 15
+  },
+  "UBA5": {
+   "MANE Select": 21
+  },
+  "UBAP1": {
+   "MANE Select": 20,
+   "other transcript": 1
+  },
+  "UBE3C": {
+   "MANE Select": 1
+  },
+  "UBE4A": {
+   "MANE Select": 9
+  },
+  "UBR5": {
+   "MANE Select": 7
+  },
+  "UCHL1": {
+   "MANE Select": 20
+  },
+  "UFSP2": {
+   "MANE Select": 2
+  },
+  "UGDH": {
+   "MANE Select": 5
+  },
+  "USP27X": {
+   "MANE Select": 9
+  },
+  "USP9X": {
+   "MANE Select": 83
+  },
+  "VAMP1": {
+   "MANE Select": 9
+  },
+  "VAMP2": {
+   "MANE Select": 4
+  },
+  "VARS1": {
+   "MANE Select": 18
+  },
+  "VCP": {
+   "MANE Select": 1
+  },
+  "VLDLR": {
+   "MANE Select": 38
+  },
+  "VPS13C": {
+   "MANE Select": 74
+  },
+  "VPS13D": {
+   "MANE Select": 58
+  },
+  "VPS16": {
+   "MANE Select": 17
+  },
+  "VPS41": {
+   "MANE Select": 4
+  },
+  "VPS50": {
+   "MANE Select": 4
+  },
+  "VPS51": {
+   "MANE Select": 3
+  },
+  "VPS53": {
+   "MANE Select": 26
+  },
+  "VRK1": {
+   "MANE Select": 83
+  },
+  "VWA3B": {
+   "MANE Select": 7
+  },
+  "WARS1": {
+   "MANE Select": 2
+  },
+  "WARS2": {
+   "MANE Select": 5
+  },
+  "WASF1": {
+   "MANE Select": 8
+  },
+  "WASHC4": {
+   "MANE Select": 10
+  },
+  "WASHC5": {
+   "MANE Select": 22
+  },
+  "WDFY3": {
+   "MANE Select": 77
+  },
+  "WDR11": {
+   "MANE Select": 15
+  },
+  "WDR45": {
+   "MANE Select": 110
+  },
+  "WDR45B": {
+   "MANE Select": 3
+  },
+  "WDR62": {
+   "MANE Select": 87
+  },
+  "WDR81": {
+   "MANE Select": 36
+  },
+  "WWOX": {
+   "MANE Select": 48
+  },
+  "XRCC1": {
+   "MANE Select": 3
+  },
+  "YWHAG": {
+   "MANE Select": 15
+  },
+  "ZBTB11": {
+   "MANE Select": 3
+  },
+  "ZBTB18": {
+   "MANE Select": 45
+  },
+  "ZC3H14": {
+   "MANE Select": 1
+  },
+  "ZFHX3": {
+   "MANE Select": 50
+  },
+  "ZFX": {
+   "MANE Select": 5
+  },
+  "ZFYVE26": {
+   "MANE Select": 404,
+   "other transcript": 1
+  },
+  "ZIC2": {
+   "MANE Select": 38
+  },
+  "ZMYND11": {
+   "MANE Select": 57
+  },
+  "ZNF142": {
+   "MANE Select": 41
+  },
+  "ZNF292": {
+   "MANE Select": 109
+  },
+  "ZNF711": {
+   "MANE Select": 15
+  },
+  "ZSWIM6": {
+   "MANE Select": 2
+  }
+ },
+ "mane_select_refseq": {
+  "AARS1": "NM_001605",
+  "AARS2": "NM_020745",
+  "ABCA2": "NM_001606",
+  "ABCA7": "NM_019112",
+  "ABHD16A": "NM_021160",
+  "ACBD6": "NM_032360",
+  "ACSL4": "NM_001318510",
+  "ACTA2": "NM_001613",
+  "ACTL6B": "NM_016188",
+  "ADAM10": "NM_001110",
+  "ADAM22": "NM_001324418",
+  "ADARB1": "NM_001112",
+  "ADAT3": "NM_138422",
+  "ADCY5": "NM_183357",
+  "ADD3": "NM_016824",
+  "ADGRG1": "NM_201525",
+  "ADGRV1": "NM_032119",
+  "ADH1C": "NM_000669",
+  "AFG3L2": "NM_006796",
+  "AGO1": "NM_012199",
+  "AIMP1": "NM_001142416",
+  "AIMP2": "NM_006303",
+  "ALDH18A1": "NM_002860",
+  "ALG13": "NM_001099922",
+  "ALKBH8": "NM_138775",
+  "ALS2": "NM_020919",
+  "AMFR": "NM_001144",
+  "AMPD2": "NM_001368809",
+  "ANG": "NM_001097577",
+  "ANGPTL3": "NM_014495",
+  "ANK3": "NM_020987",
+  "ANKLE2": "NM_015114",
+  "ANO1": "NM_018043",
+  "ANO10": "NM_018075",
+  "ANO3": "NM_031418",
+  "ANXA11": "NM_145868",
+  "AOPEP": "NM_001193329",
+  "AP2M1": "NM_004068",
+  "AP3B2": "NM_001278512",
+  "AP4B1": "NM_001253852",
+  "AP4E1": "NM_007347",
+  "AP4M1": "NM_004722",
+  "AP4S1": "NM_001128126",
+  "AP5Z1": "NM_014855",
+  "APC2": "NM_005883",
+  "APOB": "NM_000384",
+  "APOE": "NM_000041",
+  "APOL2": "NM_030882",
+  "APP": "NM_000484",
+  "APTX": "NM_001195248",
+  "AQP4": "NM_001650",
+  "ARF1": "NM_001658",
+  "ARHGEF2": "NM_001162383",
+  "ARHGEF9": "NM_001353921",
+  "ARID1A": "NM_006015",
+  "ARL6IP1": "NM_015161",
+  "ARV1": "NM_022786",
+  "ARX": "NM_139058",
+  "ASCC3": "NM_006828",
+  "ASH1L": "NM_018489",
+  "ASPM": "NM_018136",
+  "ATAD3A": "NM_001170535",
+  "ATG12": "NM_004707",
+  "ATG5": "NM_004849",
+  "ATG7": "NM_001349232",
+  "ATL1": "NM_015915",
+  "ATM": "NM_000051",
+  "ATN1": "NM_001940",
+  "ATP11A": "NM_015205",
+  "ATP13A2": "NM_022089",
+  "ATP1A2": "NM_000702",
+  "ATP1A3": "NM_152296",
+  "ATP2B1": "NM_001366521",
+  "ATP5F1B": "NM_001686",
+  "ATP5MC3": "NM_001689",
+  "ATP6AP2": "NM_005765",
+  "ATP6V0A1": "NM_001130021",
+  "ATP6V0C": "NM_001694",
+  "ATP6V1A": "NM_001690",
+  "ATP8A2": "NM_016529",
+  "ATP9A": "NM_006045",
+  "ATXN1": "NM_001128164",
+  "ATXN10": "NM_013236",
+  "ATXN2": "NM_001372574",
+  "ATXN3": "NM_004993",
+  "ATXN7": "NM_001377405",
+  "AUTS2": "NM_015570",
+  "B4GALNT1": "NM_001478",
+  "BAIAP2": "NM_001144888",
+  "BEAN1": "NM_001178020",
+  "BRAT1": "NM_152743",
+  "BRWD3": "NM_153252",
+  "BSCL2": "NM_001122955",
+  "BUB1": "NM_004336",
+  "C19orf12": "NM_031448",
+  "C9orf72": "NM_018325",
+  "CA8": "NM_004056",
+  "CACNA1A": "NM_001127222",
+  "CACNA1B": "NM_000718",
+  "CACNA1E": "NM_001205293",
+  "CACNA1G": "NM_018896",
+  "CACNA1H": "NM_021098",
+  "CACNA1I": "NM_021096",
+  "CACNA2D1": "NM_000722",
+  "CACNB4": "NM_000726",
+  "CACNG2": "NM_006078",
+  "CAD": "NM_004341",
+  "CAMK2A": "NM_015981",
+  "CAMK2B": "NM_001220",
+  "CAMK2G": "NM_001367534",
+  "CAMSAP1": "NM_015447",
+  "CAPRIN1": "NM_005898",
+  "CASK": "NM_001367721",
+  "CASP2": "NM_032982",
+  "CASR": "NM_000388",
+  "CC2D1A": "NM_017721",
+  "CCDC88C": "NM_001080414",
+  "CCM2": "NM_031443",
+  "CCNF": "NM_001761",
+  "CCT3": "NM_005998",
+  "CDC40": "NM_015891",
+  "CDH15": "NM_004933",
+  "CDK19": "NM_015076",
+  "CDK4": "NM_000075",
+  "CDK5": "NM_004935",
+  "CDK5RAP2": "NM_018249",
+  "CDK6": "NM_001145306",
+  "CDK8": "NM_001260",
+  "CDKL5": "NM_001323289",
+  "CDON": "NM_001378964",
+  "CELF2": "NM_001326342",
+  "CENPE": "NM_001813",
+  "CEP104": "NM_014704",
+  "CEP135": "NM_025009",
+  "CEP152": "NM_001194998",
+  "CEP85L": "NM_001042475",
+  "CERS1": "NM_021267",
+  "CERT1": "NM_001379029",
+  "CFAP410": "NM_004928",
+  "CHAMP1": "NM_032436",
+  "CHCHD10": "NM_213720",
+  "CHCHD2": "NM_016139",
+  "CHD2": "NM_001271",
+  "CHD8": "NM_001170629",
+  "CHI3L1": "NM_001276",
+  "CHKA": "NM_001277",
+  "CHMP1A": "NM_002768",
+  "CHMP2B": "NM_014043",
+  "CHP1": "NM_007236",
+  "CIC": "NM_001386298",
+  "CILK1": "NM_014920",
+  "CIT": "NM_001206999",
+  "CLCN2": "NM_004366",
+  "CLCN3": "NM_001829",
+  "CLCN4": "NM_001830",
+  "CLCN6": "NM_001286",
+  "CLDN11": "NM_005602",
+  "CLN3": "NM_001042432",
+  "CLN5": "NM_006493",
+  "CLN6": "NM_017882",
+  "CLN8": "NM_018941",
+  "CLP1": "NM_006831",
+  "CLTC": "NM_004859",
+  "CNKSR2": "NM_014927",
+  "CNOT1": "NM_016284",
+  "CNTN2": "NM_005076",
+  "CNTNAP2": "NM_014141",
+  "COASY": "NM_025233",
+  "COL3A1": "NM_000090",
+  "COL6A3": "NM_004369",
+  "COPB2": "NM_004766",
+  "COQ2": "NM_001358921",
+  "COQ4": "NM_016035",
+  "COQ8A": "NM_020247",
+  "CP": "NM_000096",
+  "CPA6": "NM_020361",
+  "CPAP": "NM_018451",
+  "CPLX1": "NM_006651",
+  "CPSF3": "NM_016207",
+  "CPT1C": "NM_001199753",
+  "CRADD": "NM_003805",
+  "CRAT": "NM_000755",
+  "CRBN": "NM_016302",
+  "CSF1R": "NM_001288705",
+  "CST3": "NM_000099",
+  "CSTF2": "NM_001325",
+  "CTNNA2": "NM_001282597",
+  "CTSD": "NM_001909",
+  "CTSF": "NM_003793",
+  "CUL3": "NM_003590",
+  "CUL4B": "NM_001079872",
+  "CUX1": "NM_181552",
+  "CUX2": "NM_015267",
+  "CYFIP2": "NM_001037333",
+  "CYLD": "NM_001378743",
+  "CYP2U1": "NM_183075",
+  "CYP7B1": "NM_004820",
+  "DAB1": "NM_001365792",
+  "DALRD3": "NM_001009996",
+  "DAO": "NM_001917",
+  "DAOA": "NM_172370",
+  "DARS2": "NM_018122",
+  "DCAF17": "NM_025000",
+  "DCTN1": "NM_004082",
+  "DCX": "NM_001195553",
+  "DDHD1": "NM_001160148",
+  "DDHD2": "NM_015214",
+  "DDX3X": "NM_001356",
+  "DEAF1": "NM_021008",
+  "DEGS1": "NM_003676",
+  "DENND5A": "NM_015213",
+  "DEPDC5": "NM_001242896",
+  "DHPS": "NM_001930",
+  "DHX30": "NM_138615",
+  "DHX9": "NM_001357",
+  "DICER1": "NM_177438",
+  "DIP2B": "NM_173602",
+  "DISC1": "NM_018662",
+  "DISP1": "NM_001377229",
+  "DLG3": "NM_021120",
+  "DLG4": "NM_001321075",
+  "DLL1": "NM_005618",
+  "DMAP1": "NM_019100",
+  "DMRTA2": "NM_032110",
+  "DMXL2": "NM_001378457",
+  "DNAJC5": "NM_025219",
+  "DNM1": "NM_004408",
+  "DOCK3": "NM_004947",
+  "DOCK7": "NM_001367561",
+  "DOHH": "NM_001145165",
+  "DPP6": "NM_130797",
+  "DRD3": "NM_000796",
+  "DSTYK": "NM_015375",
+  "DYNC1H1": "NM_001376",
+  "DYNC1I2": "NM_001378",
+  "EARS2": "NM_001083614",
+  "EDC3": "NM_025083",
+  "EDNRA": "NM_001957",
+  "EEF1A2": "NM_001958",
+  "EEF2": "NM_001961",
+  "EEFSEC": "NM_021937",
+  "EFHC1": "NM_018100",
+  "EIF2AK1": "NM_014413",
+  "EIF2AK2": "NM_001135651",
+  "EIF2B1": "NM_001414",
+  "EIF2B2": "NM_014239",
+  "EIF2B3": "NM_020365",
+  "EIF2B4": "NM_001034116",
+  "EIF2B5": "NM_003907",
+  "EIF3F": "NM_003754",
+  "EIF4A2": "NM_001967",
+  "EIF4E": "NM_001968",
+  "EIF4G1": "NM_198241",
+  "EIPR1": "NM_003310",
+  "ELOVL4": "NM_022726",
+  "ELOVL5": "NM_021814",
+  "ELP2": "NM_018255",
+  "EMX2": "NM_004098",
+  "ENTPD1": "NM_001776",
+  "EPB41L1": "NM_012156",
+  "EPG5": "NM_020964",
+  "EPM2A": "NM_005670",
+  "EPRS1": "NM_004446",
+  "ERBB4": "NM_005235",
+  "ERLIN1": "NM_006459",
+  "ERLIN2": "NM_007175",
+  "ERMARD": "NM_018341",
+  "ESAM": "NM_138961",
+  "ESR1": "NM_000125",
+  "EXOC7": "NM_001013839",
+  "EXOC8": "NM_175876",
+  "EXOSC1": "NM_016046",
+  "EXOSC3": "NM_016042",
+  "EXOSC8": "NM_181503",
+  "EXOSC9": "NM_005033",
+  "EXT2": "NM_207122",
+  "FA2H": "NM_024306",
+  "FAM177A1": "NM_173607",
+  "FARS2": "NM_006567",
+  "FAT2": "NM_001447",
+  "FBP2": "NM_003837",
+  "FBXO28": "NM_015176",
+  "FBXO31": "NM_024735",
+  "FBXO7": "NM_012179",
+  "FERRY3": "NM_020374",
+  "FGF12": "NM_004113",
+  "FGF13": "NM_004114",
+  "FGF14": "NM_004115",
+  "FGF8": "NM_033163",
+  "FGFR1": "NM_023110",
+  "FIG4": "NM_014845",
+  "FLVCR1": "NM_014053",
+  "FMN2": "NM_020066",
+  "FMR1": "NM_002024",
+  "FOXH1": "NM_003923",
+  "FRMD5": "NM_032892",
+  "FRMPD4": "NM_001368397",
+  "FRRS1L": "NM_014334",
+  "FSD1L": "NM_001145313",
+  "FTH1": "NM_002032",
+  "FTL": "NM_000146",
+  "FTSJ1": "NM_012280",
+  "FUS": "NM_004960",
+  "FUZ": "NM_025129",
+  "FXN": "NM_000144",
+  "FZR1": "NM_016263",
+  "GABBR1": "NM_001470",
+  "GABBR2": "NM_005458",
+  "GABRA1": "NM_001127644",
+  "GABRA2": "NM_000807",
+  "GABRA5": "NM_000810",
+  "GABRB1": "NM_000812",
+  "GABRB2": "NM_001371727",
+  "GABRB3": "NM_000814",
+  "GABRD": "NM_000815",
+  "GABRG2": "NM_198904",
+  "GAD1": "NM_000817",
+  "GAL": "NM_015973",
+  "GBA1": "NM_000157",
+  "GBA2": "NM_020944",
+  "GCH1": "NM_000161",
+  "GDAP2": "NM_017686",
+  "GDI1": "NM_001493",
+  "GEMIN5": "NM_015465",
+  "GIGYF2": "NM_001103146",
+  "GJC2": "NM_020435",
+  "GLI2": "NM_001374353",
+  "GLRA2": "NM_002063",
+  "GLS": "NM_014905",
+  "GLUL": "NM_001033044",
+  "GNAI1": "NM_002069",
+  "GNAL": "NM_182978",
+  "GNAO1": "NM_020988",
+  "GNB1": "NM_002074",
+  "GOSR2": "NM_004287",
+  "GOT2": "NM_002080",
+  "GPR88": "NM_022049",
+  "GPRC5B": "NM_016235",
+  "GRIA1": "NM_000827",
+  "GRIA2": "NM_001083619",
+  "GRIA3": "NM_007325",
+  "GRIA4": "NM_000829",
+  "GRIK2": "NM_021956",
+  "GRIN1": "NM_007327",
+  "GRIN2B": "NM_000834",
+  "GRIN2D": "NM_000836",
+  "GRM1": "NM_001278064",
+  "GRM7": "NM_000844",
+  "GRN": "NM_002087",
+  "GUCY1A1": "NM_001130682",
+  "GUF1": "NM_021927",
+  "HACE1": "NM_020771",
+  "HCN1": "NM_021072",
+  "HCN2": "NM_001194",
+  "HCN4": "NM_005477",
+  "HCRT": "NM_001524",
+  "HECTD4": "NM_001388303",
+  "HECW2": "NM_001348768",
+  "HEPACAM": "NM_152722",
+  "HID1": "NM_030630",
+  "HIKESHI": "NM_016401",
+  "HIVEP2": "NM_006734",
+  "HK1": "NM_000188",
+  "HMBS": "NM_000190",
+  "HNMT": "NM_006895",
+  "HNRNPA1": "NM_031157",
+  "HNRNPC": "NM_004500",
+  "HNRNPH2": "NM_019597",
+  "HNRNPU": "NM_031844",
+  "HPDL": "NM_032756",
+  "HSPD1": "NM_002156",
+  "HTR2A": "NM_000621",
+  "HTRA2": "NM_013247",
+  "HTT": "NM_001388492",
+  "HUWE1": "NM_031407",
+  "IBA57": "NM_001010867",
+  "IL1RAPL1": "NM_014271",
+  "IMPA1": "NM_005536",
+  "INPP4A": "NM_001134225",
+  "INTS6": "NM_012141",
+  "INTS8": "NM_017864",
+  "IQSEC2": "NM_001111125",
+  "IRF2BPL": "NM_024496",
+  "ITPA": "NM_033453",
+  "ITPR1": "NM_001378452",
+  "JKAMP": "NM_016475",
+  "JPH3": "NM_020655",
+  "KANK1": "NM_015158",
+  "KATNB1": "NM_005886",
+  "KCNA1": "NM_000217",
+  "KCNA2": "NM_004974",
+  "KCNB1": "NM_004975",
+  "KCNC1": "NM_001112741",
+  "KCNC2": "NM_139137",
+  "KCNC3": "NM_004977",
+  "KCND3": "NM_001378969",
+  "KCNH5": "NM_139318",
+  "KCNK18": "NM_181840",
+  "KCNMA1": "NM_001161352",
+  "KCNN2": "NM_021614",
+  "KCNQ2": "NM_172107",
+  "KCNQ3": "NM_004519",
+  "KCNQ5": "NM_019842",
+  "KCNT1": "NM_020822",
+  "KCNT2": "NM_198503",
+  "KCTD7": "NM_153033",
+  "KDM4B": "NM_015015",
+  "KDM5B": "NM_006618",
+  "KDM5C": "NM_004187",
+  "KICS2": "NM_152440",
+  "KIF14": "NM_014875",
+  "KIF1A": "NM_001244008",
+  "KIF1C": "NM_006612",
+  "KIF26A": "NM_015656",
+  "KIF2A": "NM_001098511",
+  "KIF4A": "NM_012310",
+  "KIF5A": "NM_004984",
+  "KIF5C": "NM_004522",
+  "KLHL15": "NM_030624",
+  "KMT2B": "NM_014727",
+  "KMT2D": "NM_003482",
+  "KMT5B": "NM_017635",
+  "KNL1": "NM_144508",
+  "KPNA3": "NM_002267",
+  "KRIT1": "NM_194454",
+  "LAMA1": "NM_005559",
+  "LAMB1": "NM_002291",
+  "LGI1": "NM_005097",
+  "LINGO1": "NM_032808",
+  "LINS1": "NM_001040616",
+  "LMAN2L": "NM_030805",
+  "LMNB1": "NM_005573",
+  "LMNB2": "NM_032737",
+  "LNPK": "NM_030650",
+  "LRP12": "NM_013437",
+  "LRRC7": "NM_001370785",
+  "LRRK2": "NM_198578",
+  "MACF1": "NM_001394062",
+  "MAG": "NM_002361",
+  "MAL": "NM_002371",
+  "MAP1B": "NM_005909",
+  "MAP3K3": "NM_002401",
+  "MAPT": "NM_001377265",
+  "MARCHF6": "NM_005885",
+  "MARK2": "NM_001039469",
+  "MARS2": "NM_138395",
+  "MAST3": "NM_001393504",
+  "MATR3": "NM_018834",
+  "MBD5": "NM_001378120",
+  "MBOAT7": "NM_024298",
+  "MCPH1": "NM_024596",
+  "MDGA2": "NM_001113498",
+  "MDH1": "NM_005917",
+  "MDH2": "NM_005918",
+  "MECP2": "NM_001110792",
+  "MED12": "NM_005120",
+  "MED13": "NM_005121",
+  "MED23": "NM_004830",
+  "MEF2C": "NM_002397",
+  "METTL23": "NM_001080510",
+  "MFSD2A": "NM_032793",
+  "MFSD8": "NM_001371596",
+  "MID2": "NM_012216",
+  "MINPP1": "NM_004897",
+  "MLC1": "NM_015166",
+  "MME": "NM_007289",
+  "MOBP": "NM_001393704",
+  "MOG": "NM_206809",
+  "MPDZ": "NM_001378778",
+  "MPO": "NM_000250",
+  "MRE11": "NM_005591",
+  "MTHFD1": "NM_005956",
+  "MTHFR": "NM_005957",
+  "MTHFS": "NM_006441",
+  "MTPAP": "NM_018109",
+  "MTR": "NM_000254",
+  "MTRFR": "NM_152269",
+  "MTRR": "NM_002454",
+  "MTTP": "NM_001386140",
+  "MYT1L": "NM_001303052",
+  "NAA15": "NM_057175",
+  "NAA20": "NM_016100",
+  "NAPB": "NM_022080",
+  "NARS1": "NM_004539",
+  "NBEA": "NM_001385012",
+  "NCAPD2": "NM_014865",
+  "NCAPD3": "NM_015261",
+  "NCAPH": "NM_015341",
+  "NCDN": "NM_014284",
+  "NDE1": "NM_017668",
+  "NDST1": "NM_001543",
+  "NECAP1": "NM_015509",
+  "NEDD4L": "NM_001144967",
+  "NEFH": "NM_021076",
+  "NEK1": "NM_001199397",
+  "NEUROD2": "NM_006160",
+  "NEXMIF": "NM_001008537",
+  "NFASC": "NM_001005388",
+  "NFU1": "NM_001002755",
+  "NHLRC1": "NM_198586",
+  "NIPA1": "NM_144599",
+  "NKAP": "NM_024528",
+  "NKX6-2": "NM_177400",
+  "NLGN3": "NM_181303",
+  "NLGN4X": "NM_181332",
+  "NONO": "NM_007363",
+  "NOP56": "NM_006392",
+  "NOS3": "NM_000603",
+  "NOTCH2NLC": "NM_001364013",
+  "NOVA2": "NM_002516",
+  "NPRL2": "NM_006545",
+  "NPRL3": "NM_001077350",
+  "NPTX1": "NM_002522",
+  "NR4A2": "NM_006186",
+  "NRROS": "NM_198565",
+  "NRXN1": "NM_001330078",
+  "NSF": "NM_006178",
+  "NSRP1": "NM_032141",
+  "NSUN2": "NM_017755",
+  "NSUN6": "NM_182543",
+  "NT5C2": "NM_001351169",
+  "NTNG2": "NM_032536",
+  "NTRK2": "NM_006180",
+  "NUP37": "NM_024057",
+  "NUP54": "NM_017426",
+  "NUS1": "NM_138459",
+  "ODC1": "NM_002539",
+  "OGT": "NM_181672",
+  "OPHN1": "NM_002547",
+  "OPTN": "NM_001008212",
+  "OTUD7A": "NM_001382637",
+  "PACS2": "NM_001100913",
+  "PAFAH1B1": "NM_000430",
+  "PAK1": "NM_002576",
+  "PAK3": "NM_002578",
+  "PANK2": "NM_001386393",
+  "PARK7": "NM_007262",
+  "PARS2": "NM_152268",
+  "PCDH19": "NM_001184880",
+  "PCLO": "NM_033026",
+  "PCNA": "NM_182649",
+  "PCYT2": "NM_002861",
+  "PDCD10": "NM_007217",
+  "PDCD6IP": "NM_013374",
+  "PDE2A": "NM_002599",
+  "PDYN": "NM_024411",
+  "PFN1": "NM_005022",
+  "PGAP1": "NM_024989",
+  "PGBD5": "NM_001258311",
+  "PHACTR1": "NM_030948",
+  "PHC1": "NM_004426",
+  "PHF8": "NM_015107",
+  "PHIP": "NM_017934",
+  "PI4KA": "NM_058004",
+  "PIDD1": "NM_145886",
+  "PIGA": "NM_002641",
+  "PIGB": "NM_004855",
+  "PIGG": "NM_001127178",
+  "PIGK": "NM_005482",
+  "PIGP": "NM_153682",
+  "PIGQ": "NM_004204",
+  "PIK3CA": "NM_006218",
+  "PIK3R5": "NM_001142633",
+  "PINK1": "NM_032409",
+  "PIP5K1C": "NM_012398",
+  "PITRM1": "NM_014889",
+  "PLA2G6": "NM_003560",
+  "PLAA": "NM_001031689",
+  "PLAU": "NM_002658",
+  "PLCB1": "NM_015192",
+  "PLCH1": "NM_014996",
+  "PLD3": "NM_012268",
+  "PLEKHG2": "NM_022835",
+  "PLP1": "NM_000533",
+  "PLPBP": "NM_007198",
+  "PNKD": "NM_015488",
+  "PNKP": "NM_007254",
+  "PNPLA6": "NM_001166114",
+  "PNPT1": "NM_033109",
+  "POGZ": "NM_015100",
+  "POLA1": "NM_001330360",
+  "POLR1A": "NM_015425",
+  "POLR1C": "NM_203290",
+  "POLR3K": "NM_016310",
+  "POU4F1": "NM_006237",
+  "PPFIBP1": "NM_003622",
+  "PPIL1": "NM_016059",
+  "PPM1D": "NM_003620",
+  "PPP1R12A": "NM_002480",
+  "PPP2R2B": "NM_181675",
+  "PPP3CA": "NM_000944",
+  "PPT1": "NM_000310",
+  "PRDM13": "NM_021620",
+  "PRDX3": "NM_006793",
+  "PRICKLE1": "NM_153026",
+  "PRKCG": "NM_002739",
+  "PRKN": "NM_004562",
+  "PRKRA": "NM_003690",
+  "PRMT9": "NM_138364",
+  "PRNP": "NM_000311",
+  "PRODH": "NM_016335",
+  "PRPH": "NM_006262",
+  "PRRT2": "NM_145239",
+  "PRSS12": "NM_003619",
+  "PRUNE1": "NM_021222",
+  "PSAP": "NM_002778",
+  "PSEN1": "NM_000021",
+  "PSEN2": "NM_000447",
+  "PSMB1": "NM_002793",
+  "PSMF1": "NM_006814",
+  "PTCH1": "NM_000264",
+  "PTCHD1": "NM_173495",
+  "PTPA": "NM_178000",
+  "PTPMT1": "NM_175732",
+  "PTPN23": "NM_015466",
+  "PTRHD1": "NM_001013663",
+  "PUM1": "NM_001020658",
+  "PYCR2": "NM_013328",
+  "RAB11B": "NM_004218",
+  "RAB32": "NM_006834",
+  "RAB39B": "NM_171998",
+  "RAB3A": "NM_002866",
+  "RAC1": "NM_006908",
+  "RAD21": "NM_006265",
+  "RALGAPA1": "NM_001346249",
+  "RAPGEF2": "NM_001394067",
+  "RARS1": "NM_002887",
+  "RARS2": "NM_020320",
+  "RBM12": "NM_006047",
+  "RBMX": "NM_002139",
+  "REEP1": "NM_001371279",
+  "REEP2": "NM_001271803",
+  "RELN": "NM_005045",
+  "REPS1": "NM_001286611",
+  "RFC1": "NM_002913",
+  "RFX7": "NM_022841",
+  "RHOBTB2": "NM_015178",
+  "RLIM": "NM_016120",
+  "RNF13": "NM_183381",
+  "RNF170": "NM_030954",
+  "RNF213": "NM_001256071",
+  "RORA": "NM_134261",
+  "RORB": "NM_006914",
+  "RPL10": "NM_006013",
+  "RPS6KA3": "NM_004586",
+  "RPS6KC1": "NM_012424",
+  "RRP7A": "NM_015703",
+  "RSRC1": "NM_001271838",
+  "RTN2": "NM_005619",
+  "RTN4R": "NM_023004",
+  "RUSC2": "NM_014806",
+  "SACS": "NM_014363",
+  "SAMD12": "NM_207506",
+  "SAMD9L": "NM_152703",
+  "SARS1": "NM_006513",
+  "SASS6": "NM_194292",
+  "SCFD1": "NM_016106",
+  "SCN1A": "NM_001165963",
+  "SCN1B": "NM_001037",
+  "SCN2A": "NM_001040142",
+  "SCN3A": "NM_006922",
+  "SCN8A": "NM_001330260",
+  "SELENOI": "NM_033505",
+  "SEMA6B": "NM_032108",
+  "SEPSECS": "NM_016955",
+  "SET": "NM_003011",
+  "SETBP1": "NM_015559",
+  "SETD1A": "NM_014712",
+  "SETD1B": "NM_001353345",
+  "SETD2": "NM_014159",
+  "SETX": "NM_015046",
+  "SGSM3": "NM_015705",
+  "SHANK2": "NM_012309",
+  "SHH": "NM_000193",
+  "SHQ1": "NM_018130",
+  "SIGMAR1": "NM_005866",
+  "SIK1": "NM_173354",
+  "SIX3": "NM_005413",
+  "SLC12A5": "NM_020708",
+  "SLC13A3": "NM_022829",
+  "SLC13A5": "NM_177550",
+  "SLC1A1": "NM_004170",
+  "SLC1A2": "NM_004171",
+  "SLC1A3": "NM_004172",
+  "SLC25A12": "NM_003705",
+  "SLC25A22": "NM_001191061",
+  "SLC25A46": "NM_138773",
+  "SLC2A1": "NM_006516",
+  "SLC32A1": "NM_080552",
+  "SLC33A1": "NM_004733",
+  "SLC35A3": "NM_012243",
+  "SLC38A3": "NM_006841",
+  "SLC45A1": "NM_001080397",
+  "SLC4A10": "NM_001178015",
+  "SLC6A1": "NM_003042",
+  "SLC7A6OS": "NM_032178",
+  "SLC9A7": "NM_001257291",
+  "SLC9A9": "NM_173653",
+  "SLITRK2": "NM_032539",
+  "SMARCA1": "NM_001282874",
+  "SMARCA4": "NM_003072",
+  "SMARCB1": "NM_003073",
+  "SMARCC1": "NM_003074",
+  "SMC1A": "NM_006306",
+  "SMC3": "NM_005445",
+  "SMPD4": "NM_017951",
+  "SMS": "NM_004595",
+  "SNAPC4": "NM_003086",
+  "SNCA": "NM_000345",
+  "SNF8": "NM_007241",
+  "SOBP": "NM_018013",
+  "SOD1": "NM_000454",
+  "SOX3": "NM_005634",
+  "SPAST": "NM_014946",
+  "SPG11": "NM_025137",
+  "SPG7": "NM_003119",
+  "SPOUT1": "NM_016390",
+  "SPTAN1": "NM_001130438",
+  "SPTBN2": "NM_006946",
+  "SPTLC1": "NM_006415",
+  "SPTSSA": "NM_138288",
+  "SQSTM1": "NM_003900",
+  "SRPK3": "NM_014370",
+  "SRRM2": "NM_016333",
+  "ST3GAL3": "NM_006279",
+  "STAG1": "NM_005862",
+  "STAG2": "NM_001042750",
+  "STARD7": "NM_020151",
+  "STEEP1": "NM_022101",
+  "STIL": "NM_001048166",
+  "STUB1": "NM_005861",
+  "STX1B": "NM_052874",
+  "STXBP1": "NM_001032221",
+  "SV2A": "NM_014849",
+  "SVBP": "NM_199342",
+  "SYN1": "NM_006950",
+  "SYN2": "NM_133625",
+  "SYNE1": "NM_182961",
+  "SYNGAP1": "NM_006772",
+  "SYNJ1": "NM_203446",
+  "SYP": "NM_003179",
+  "SZT2": "NM_001365999",
+  "TAF1": "NM_004606",
+  "TAF13": "NM_005645",
+  "TAF15": "NM_139215",
+  "TAF4": "NM_003185",
+  "TAF8": "NM_138572",
+  "TARDBP": "NM_007375",
+  "TBC1D23": "NM_001199198",
+  "TBC1D24": "NM_001199107",
+  "TBC1D2B": "NM_144572",
+  "TBCB": "NM_001281",
+  "TBK1": "NM_013254",
+  "TBL1XR1": "NM_024665",
+  "TBP": "NM_003194",
+  "TBR1": "NM_006593",
+  "TBXT": "NM_001366285",
+  "TCP1": "NM_030752",
+  "TDP2": "NM_016614",
+  "TECPR2": "NM_014844",
+  "TECR": "NM_138501",
+  "TENM4": "NM_001098816",
+  "TFG": "NM_006070",
+  "TGIF1": "NM_003244",
+  "TGM6": "NM_198994",
+  "THAP11": "NM_020457",
+  "THG1L": "NM_017872",
+  "TIA1": "NM_022173",
+  "TIAM1": "NM_001353694",
+  "TLK2": "NM_006852",
+  "TMEM106B": "NM_001134232",
+  "TMEM163": "NM_030923",
+  "TMEM222": "NM_032125",
+  "TMEM240": "NM_001114748",
+  "TMEM63A": "NM_014698",
+  "TMEM63B": "NM_018426",
+  "TMEM63C": "NM_020431",
+  "TMTC3": "NM_181783",
+  "TMX2": "NM_015959",
+  "TNF": "NM_000594",
+  "TNIK": "NM_015028",
+  "TNR": "NM_003285",
+  "TNRC6A": "NM_014494",
+  "TNRC6B": "NM_001162501",
+  "TOE1": "NM_025077",
+  "TPP1": "NM_000391",
+  "TPR": "NM_003292",
+  "TRAK1": "NM_001042646",
+  "TRAPPC14": "NM_018275",
+  "TRAPPC4": "NM_016146",
+  "TRAPPC6B": "NM_001079537",
+  "TRAPPC9": "NM_001160372",
+  "TREM2": "NM_018965",
+  "TRIM71": "NM_001039111",
+  "TRIO": "NM_007118",
+  "TRMT1": "NM_001136035",
+  "TRPC3": "NM_001130698",
+  "TRPM7": "NM_017672",
+  "TSEN15": "NM_052965",
+  "TSEN2": "NM_025265",
+  "TSEN34": "NM_001077446",
+  "TSEN54": "NM_207346",
+  "TSPAN7": "NM_004615",
+  "TSPOAP1": "NM_004758",
+  "TTBK2": "NM_173500",
+  "TTI1": "NM_001303457",
+  "TTPA": "NM_000370",
+  "TUBA1A": "NM_006009",
+  "TUBA4A": "NM_006000",
+  "TUBB": "NM_178014",
+  "TUBB2A": "NM_001069",
+  "TUBB2B": "NM_178012",
+  "TUBB3": "NM_006086",
+  "TUBB4A": "NM_006087",
+  "TUBG1": "NM_001070",
+  "TUSC3": "NM_006765",
+  "UBA5": "NM_024818",
+  "UBAP1": "NM_016525",
+  "UBE2A": "NM_003336",
+  "UBE3C": "NM_014671",
+  "UBE4A": "NM_001204077",
+  "UBQLN2": "NM_013444",
+  "UBR5": "NM_015902",
+  "UCHL1": "NM_004181",
+  "UFC1": "NM_016406",
+  "UFM1": "NM_016617",
+  "UFSP2": "NM_018359",
+  "UGDH": "NM_003359",
+  "UGP2": "NM_006759",
+  "UNC13A": "NM_001080421",
+  "UPF3B": "NM_080632",
+  "USP25": "NM_001283041",
+  "USP27X": "NM_001145073",
+  "USP9X": "NM_001039591",
+  "VAMP1": "NM_014231",
+  "VAMP2": "NM_014232",
+  "VANGL1": "NM_138959",
+  "VANGL2": "NM_020335",
+  "VAPB": "NM_004738",
+  "VARS1": "NM_006295",
+  "VCP": "NM_007126",
+  "VLDLR": "NM_003383",
+  "VPS11": "NM_021729",
+  "VPS13C": "NM_020821",
+  "VPS13D": "NM_015378",
+  "VPS16": "NM_022575",
+  "VPS35": "NM_018206",
+  "VPS37A": "NM_152415",
+  "VPS41": "NM_014396",
+  "VPS50": "NM_017667",
+  "VPS51": "NM_013265",
+  "VPS53": "NM_001128159",
+  "VRK1": "NM_003384",
+  "VWA3B": "NM_144992",
+  "WARS1": "NM_004184",
+  "WARS2": "NM_015836",
+  "WASF1": "NM_003931",
+  "WASHC4": "NM_015275",
+  "WASHC5": "NM_014846",
+  "WDFY3": "NM_014991",
+  "WDR11": "NM_018117",
+  "WDR45": "NM_001029896",
+  "WDR45B": "NM_019613",
+  "WDR62": "NM_001083961",
+  "WDR81": "NM_001163809",
+  "WWOX": "NM_016373",
+  "XRCC1": "NM_006297",
+  "YEATS2": "NM_018023",
+  "YWHAG": "NM_012479",
+  "ZBTB11": "NM_014415",
+  "ZBTB18": "NM_205768",
+  "ZC3H14": "NM_024824",
+  "ZDHHC9": "NM_016032",
+  "ZFHX3": "NM_006885",
+  "ZFX": "NM_003410",
+  "ZFYVE26": "NM_015346",
+  "ZIC2": "NM_007129",
+  "ZMYM3": "NM_201599",
+  "ZMYND11": "NM_001370100",
+  "ZNF142": "NM_001379659",
+  "ZNF292": "NM_015021",
+  "ZNF711": "NM_001330574",
+  "ZSWIM6": "NM_020928"
+ }
+}

@@ -1,0 +1,271 @@
+{
+ "dual_phenotype_genes": {
+  "ARID1A": {
+   "n_conditions": 2,
+   "other": [
+    "Coffin-Siris syndrome"
+   ],
+   "positioned_ptv": 104
+  },
+  "ARX": {
+   "n_conditions": 5,
+   "other": [
+    "Partington syndrome"
+   ],
+   "positioned_ptv": 93
+  },
+  "ATP6AP2": {
+   "n_conditions": 3,
+   "other": [
+    "Congenital disorder of glycosylation, type IIr"
+   ],
+   "positioned_ptv": 1
+  },
+  "CASK": {
+   "n_conditions": 4,
+   "other": [
+    "Anemia, nonspherocytic hemolytic, due to G6PD deficiency",
+    "FG syndrome 4"
+   ],
+   "positioned_ptv": 117
+  },
+  "CUL3": {
+   "n_conditions": 3,
+   "other": [
+    "Pseudohypoaldosteronism type 2E",
+    "Pseudohypoaldosteronism, type 2"
+   ],
+   "positioned_ptv": 82
+  },
+  "DPP6": {
+   "n_conditions": 2,
+   "other": [
+    "Ventricular fibrillation, paroxysmal familial, 2"
+   ],
+   "positioned_ptv": 2
+  },
+  "EPG5": {
+   "n_conditions": 3,
+   "other": [
+    "Vici syndrome"
+   ],
+   "positioned_ptv": 169
+  },
+  "FSD1L": {
+   "n_conditions": 2,
+   "other": [
+    "RETINITIS PIGMENTOSA 109"
+   ],
+   "positioned_ptv": 4
+  },
+  "GABBR2": {
+   "n_conditions": 3,
+   "other": [
+    "Tobacco addiction, susceptibility to"
+   ],
+   "positioned_ptv": 0
+  },
+  "GNB1": {
+   "n_conditions": 3,
+   "other": [
+    "Acute lymphoid leukemia",
+    "Myelodysplastic syndrome"
+   ],
+   "positioned_ptv": 11
+  },
+  "HK1": {
+   "n_conditions": 6,
+   "other": [
+    "Charcot-Marie-Tooth disease type 4G",
+    "Hemolytic anemia due to hexokinase deficiency",
+    "Nonsyndromic Genetic Hyperinsulinism",
+    "Nonsyndromic Retinitis Pigmentosa",
+    "Retinitis pigmentosa 79"
+   ],
+   "positioned_ptv": 12
+  },
+  "HNMT": {
+   "n_conditions": 2,
+   "other": [
+    "Inherited susceptibility to asthma"
+   ],
+   "positioned_ptv": 0
+  },
+  "HPDL": {
+   "n_conditions": 3,
+   "other": [
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum"
+   ],
+   "positioned_ptv": 24
+  },
+  "IL1RAPL1": {
+   "n_conditions": 2,
+   "other": [
+    "NR0B1-Related Adrenal Hypoplasia Congenita"
+   ],
+   "positioned_ptv": 20
+  },
+  "KIF1A": {
+   "n_conditions": 6,
+   "other": [
+    "Hereditary sensory and autonomic neuropathy type 2",
+    "Neuropathy, hereditary sensory, type 2C"
+   ],
+   "positioned_ptv": 33
+  },
+  "KIF4A": {
+   "n_conditions": 2,
+   "other": [
+    "Taurodontism, microdontia, and dens invaginatus"
+   ],
+   "positioned_ptv": 0
+  },
+  "MED12": {
+   "n_conditions": 5,
+   "other": [
+    "Cholestasis-pigmentary retinopathy-cleft palate syndrome",
+    "FG syndrome 1"
+   ],
+   "positioned_ptv": 30
+  },
+  "NUS1": {
+   "n_conditions": 2,
+   "other": [
+    "Congenital disorder of glycosylation, type Iaa"
+   ],
+   "positioned_ptv": 75
+  },
+  "OTUD7A": {
+   "n_conditions": 2,
+   "other": [
+    "Chromosome 15q13.3 microdeletion syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "PIGA": {
+   "n_conditions": 3,
+   "other": [
+    "Paroxysmal nocturnal hemoglobinuria 1"
+   ],
+   "positioned_ptv": 19
+  },
+  "PIGG": {
+   "n_conditions": 2,
+   "other": [
+    "BLOOD GROUP, EMM SYSTEM"
+   ],
+   "positioned_ptv": 71
+  },
+  "PIP5K1C": {
+   "n_conditions": 2,
+   "other": [
+    "Lethal congenital contracture syndrome 3"
+   ],
+   "positioned_ptv": 2
+  },
+  "POLA1": {
+   "n_conditions": 2,
+   "other": [
+    "X-linked reticulate pigmentary disorder"
+   ],
+   "positioned_ptv": 0
+  },
+  "PPM1D": {
+   "n_conditions": 2,
+   "other": [
+    "Familial cancer of breast"
+   ],
+   "positioned_ptv": 69
+  },
+  "RAB39B": {
+   "n_conditions": 4,
+   "other": [
+    "Chromosome Xq28 duplication syndrome"
+   ],
+   "positioned_ptv": 5
+  },
+  "RPS6KA3": {
+   "n_conditions": 3,
+   "other": [
+    "Coffin-Lowry syndrome"
+   ],
+   "positioned_ptv": 86
+  },
+  "SETBP1": {
+   "n_conditions": 2,
+   "other": [
+    "Schinzel-Giedion syndrome"
+   ],
+   "positioned_ptv": 98
+  },
+  "SETD2": {
+   "n_conditions": 4,
+   "other": [
+    "Luscan-Lumish syndrome",
+    "Rabin-Pappas syndrome"
+   ],
+   "positioned_ptv": 57
+  },
+  "SMARCA4": {
+   "n_conditions": 5,
+   "other": [
+    "Coffin-Siris syndrome",
+    "Otosclerosis 12",
+    "Rhabdoid tumor predisposition syndrome",
+    "Rhabdoid tumor predisposition syndrome 2"
+   ],
+   "positioned_ptv": 199
+  },
+  "SMARCB1": {
+   "n_conditions": 6,
+   "other": [
+    "Coffin-Siris syndrome",
+    "Rhabdoid tumor predisposition syndrome",
+    "Rhabdoid tumor predisposition syndrome 1",
+    "Schwannomatosis"
+   ],
+   "positioned_ptv": 70
+  },
+  "SOX3": {
+   "n_conditions": 3,
+   "other": [
+    "Nonsyndromic 46,XX Testicular Disorders/Differences of Sex Development",
+    "Panhypopituitarism, X-linked"
+   ],
+   "positioned_ptv": 0
+  },
+  "TBL1XR1": {
+   "n_conditions": 2,
+   "other": [
+    "Pierpont syndrome"
+   ],
+   "positioned_ptv": 31
+  },
+  "WARS1": {
+   "n_conditions": 3,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Neuronopathy, distal hereditary motor, type 9"
+   ],
+   "positioned_ptv": 2
+  },
+  "WDR11": {
+   "n_conditions": 3,
+   "other": [
+    "Hypogonadotropic hypogonadism 14 with or without anosmia",
+    "Isolated congenital hypogonadotropic hypogonadism"
+   ],
+   "positioned_ptv": 15
+  },
+  "ZSWIM6": {
+   "n_conditions": 2,
+   "other": [
+    "Acromelic frontonasal dysostosis"
+   ],
+   "positioned_ptv": 2
+  }
+ },
+ "n_dual": 35,
+ "n_dual_ge10": 22,
+ "n_isolated": 306
+}

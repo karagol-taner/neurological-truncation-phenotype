@@ -1,0 +1,216 @@
+{
+ "ATM_names_in_neurodegeneration_unit": [
+  "Hereditary ataxia"
+ ],
+ "frame_lost_whole": {
+  "names_ge10": [
+   "ANGPTL3",
+   "ANO10",
+   "APOB",
+   "ATP13A2",
+   "CFAP410",
+   "CNOT1",
+   "COQ2",
+   "CP",
+   "DCAF17",
+   "FGFR1",
+   "FTL",
+   "KCTD7",
+   "KMT2D",
+   "MTTP",
+   "PANK2",
+   "PPP1R12A",
+   "RAD21",
+   "SACS",
+   "SMC3",
+   "TTPA"
+  ],
+  "names_ge20": [
+   "ANGPTL3",
+   "ANO10",
+   "APOB",
+   "CFAP410",
+   "COQ2",
+   "MTTP",
+   "SACS",
+   "TTPA"
+  ],
+  "routes_ge10": [
+   "ANGPTL3",
+   "APOB",
+   "CFAP410",
+   "CNOT1",
+   "COQ2",
+   "CP",
+   "DCAF17",
+   "FGFR1",
+   "FTL",
+   "KMT2D",
+   "MTTP",
+   "PANK2",
+   "RAD21",
+   "SMC3",
+   "TTPA"
+  ],
+  "routes_ge20": [
+   "ANGPTL3",
+   "APOB",
+   "CFAP410",
+   "COQ2",
+   "MTTP",
+   "TTPA"
+  ]
+ },
+ "genetic_hearing_loss_genes_in_map": 64,
+ "holoprosencephaly_sequence": {
+  "genes_in_map": 19,
+  "only_route_for": [
+   "CNOT1",
+   "FGF8",
+   "FGFR1",
+   "FOXH1",
+   "KMT2D",
+   "RAD21",
+   "SMC3"
+  ]
+ },
+ "names": {
+  "ge10": {
+   "in_area": {
+    "Amyotrophic lateral sclerosis": 30,
+    "Familial sleep-related hypermotor epilepsy": 10,
+    "Hereditary ataxia": 38,
+    "Holoprosencephaly sequence": 19,
+    "Joubert syndrome": 34,
+    "Monogenic Isolated Dystonia": 12,
+    "Monogenic Parkinson Disease": 14,
+    "Neurodegeneration with Brain Iron Accumulation Disorders": 10,
+    "Neuronal ceroid lipofuscinosis": 12,
+    "Pure hereditary spastic paraplegia": 23
+   },
+   "in_map": 57
+  },
+  "ge20": {
+   "in_area": {
+    "Amyotrophic lateral sclerosis": 30,
+    "Hereditary ataxia": 38,
+    "Joubert syndrome": 34,
+    "Pure hereditary spastic paraplegia": 23
+   },
+   "in_map": 23
+  }
+ },
+ "only_route_screen_panel": {
+  "ge10": {
+   "all": [
+    "ADAR",
+    "ANGPTL3",
+    "APOB",
+    "ATP2B4",
+    "B9D2",
+    "C2CD3",
+    "CABP4",
+    "CFAP410",
+    "CNOT1",
+    "COQ2",
+    "CP",
+    "CRH",
+    "DAO",
+    "DCAF17",
+    "FGF8",
+    "FGFR1",
+    "FOXH1",
+    "FTL",
+    "IFT172",
+    "KIF7",
+    "KMT2D",
+    "MOBP",
+    "MTTP",
+    "PANK2",
+    "POC1B",
+    "RAD21",
+    "SCFD1",
+    "SMC3",
+    "TAF15",
+    "TMEM107",
+    "TTC21B",
+    "USP8",
+    "ZNF423"
+   ],
+   "frame_pool": [
+    "ANGPTL3",
+    "APOB",
+    "CFAP410",
+    "CNOT1",
+    "COQ2",
+    "CP",
+    "DCAF17",
+    "FGFR1",
+    "FTL",
+    "KMT2D",
+    "MTTP",
+    "PANK2",
+    "RAD21",
+    "SMC3"
+   ],
+   "genes": 33,
+   "isolated": 20
+  },
+  "ge20": {
+   "all": [
+    "ADAR",
+    "ANGPTL3",
+    "APOB",
+    "ATP2B4",
+    "B9D2",
+    "C2CD3",
+    "CFAP410",
+    "COQ2",
+    "DAO",
+    "IFT172",
+    "KIF7",
+    "MOBP",
+    "MTTP",
+    "POC1B",
+    "SCFD1",
+    "TAF15",
+    "TMEM107",
+    "TTC21B",
+    "USP8",
+    "ZNF423"
+   ],
+   "frame_pool": [
+    "ANGPTL3",
+    "APOB",
+    "CFAP410",
+    "COQ2",
+    "MTTP"
+   ],
+   "genes": 20,
+   "isolated": 9
+  }
+ },
+ "re_tiered_whole": {
+  "names_ge10": [
+   "ANO10",
+   "ATN1",
+   "ATP13A2",
+   "FMR1",
+   "FXN",
+   "KCTD7",
+   "PPP1R12A",
+   "RFC1",
+   "SACS"
+  ],
+  "names_ge20": [
+   "ANO10",
+   "ATN1",
+   "FMR1",
+   "FXN",
+   "RFC1",
+   "SACS"
+  ],
+  "routes_ge10": [],
+  "routes_ge20": []
+ }
+}

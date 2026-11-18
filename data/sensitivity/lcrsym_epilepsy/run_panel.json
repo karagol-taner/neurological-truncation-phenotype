@@ -1,0 +1,32 @@
+{
+ "gene_condition_source_id": "gene_condition_source_id",
+ "grouping_names": 57,
+ "grouping_names_in_area": [
+  "Familial sleep-related hypermotor epilepsy"
+ ],
+ "grouping_scope": "routes",
+ "grouping_threshold": 10,
+ "map_rows_kept": 14270,
+ "map_rows_removed": 2,
+ "map_used": "codes/gene_condition_source_id.grouping_routes_lt10",
+ "resolution": "strict",
+ "resolution_failures": [
+  [
+   "EPM2A",
+   2
+  ],
+  [
+   "RNU2-2",
+   0
+  ],
+  [
+   "RNU5B-1",
+   0
+  ]
+ ],
+ "symbols_whose_only_route_is_a_grouping_name": [
+  "CABP4",
+  "CRH"
+ ],
+ "variant_summary": "variant_summary_outside_lcr.txt.gz"
+}

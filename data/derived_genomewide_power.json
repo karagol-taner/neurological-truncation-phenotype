@@ -1,0 +1,18 @@
+{
+ "n_genes_with_ptv": 4695,
+ "pool_ge20": 1719,
+ "qualifying": {
+  "both_ge10_total_ge40": 1131,
+  "both_ge1_total_ge10": 2315,
+  "both_ge3_total_ge10": 2277,
+  "both_ge5_total_ge20": 1708,
+  "both_ge5_total_ge30": 1368
+ },
+ "share_quantiles": {
+  "max": 1.0,
+  "median": 0.604,
+  "min": 0.217,
+  "p10": 0.458,
+  "p90": 0.725
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "gene_condition_source_id": "gene_condition_source_id",
+ "grouping_names": 57,
+ "grouping_names_in_area": [
+  "Amyotrophic lateral sclerosis",
+  "Hereditary ataxia",
+  "Monogenic Isolated Dystonia",
+  "Monogenic Parkinson Disease",
+  "Neurodegeneration with Brain Iron Accumulation Disorders",
+  "Neuronal ceroid lipofuscinosis",
+  "Pure hereditary spastic paraplegia"
+ ],
+ "grouping_scope": "routes",
+ "grouping_threshold": 10,
+ "map_rows_kept": 14233,
+ "map_rows_removed": 39,
+ "map_used": "codes/gene_condition_source_id.grouping_routes_lt10",
+ "resolution": "strict",
+ "resolution_failures": [
+  [
+   "NUTM2B-AS1",
+   0
+  ],
+  [
+   "PRNP",
+   2
+  ],
+  [
+   "RNU12",
+   0
+  ],
+  [
+   "SNORD118",
+   0
+  ]
+ ],
+ "symbols_whose_only_route_is_a_grouping_name": [
+  "ADAR",
+  "ANGPTL3",
+  "APOB",
+  "ATM",
+  "ATN1",
+  "ATP2B4",
+  "CFAP410",
+  "COQ2",
+  "CP",
+  "DAO",
+  "DCAF17",
+  "DNM2",
+  "EIF4A2",
+  "FTL",
+  "KCTD7",
+  "MOBP",
+  "MTTP",
+  "PANK2",
+  "SCFD1",
+  "TAF15",
+  "TTPA",
+  "USP8"
+ ],
+ "variant_summary": "variant_summary_outside_lcr.txt.gz"
+}

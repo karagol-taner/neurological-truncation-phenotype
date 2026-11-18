@@ -1,0 +1,328 @@
+{
+ "dual_phenotype_genes": {
+  "AMPD2": {
+   "n_conditions": 2,
+   "other": [
+    "Hereditary spastic paraplegia 63"
+   ],
+   "positioned_ptv": 27
+  },
+  "APC2": {
+   "n_conditions": 2,
+   "other": [
+    "Intellectual developmental disorder, autosomal recessive 74"
+   ],
+   "positioned_ptv": 24
+  },
+  "ATAD3A": {
+   "n_conditions": 2,
+   "other": [
+    "Harel-Yoon syndrome"
+   ],
+   "positioned_ptv": 13
+  },
+  "BUB1": {
+   "n_conditions": 2,
+   "other": [
+    "Colorectal cancer"
+   ],
+   "positioned_ptv": 3
+  },
+  "CCDC88C": {
+   "n_conditions": 2,
+   "other": [
+    "Spinocerebellar ataxia type 40"
+   ],
+   "positioned_ptv": 145
+  },
+  "CDK4": {
+   "n_conditions": 2,
+   "other": [
+    "Melanoma, cutaneous malignant, susceptibility to, 3"
+   ],
+   "positioned_ptv": 3
+  },
+  "CEP152": {
+   "n_conditions": 2,
+   "other": [
+    "Seckel syndrome 5"
+   ],
+   "positioned_ptv": 106
+  },
+  "CNTNAP2": {
+   "n_conditions": 2,
+   "other": [
+    "Autism, susceptibility to, 15"
+   ],
+   "positioned_ptv": 82
+  },
+  "COASY": {
+   "n_conditions": 3,
+   "other": [
+    "Neurodegeneration with Brain Iron Accumulation Disorders",
+    "Neurodegeneration with brain iron accumulation 6"
+   ],
+   "positioned_ptv": 26
+  },
+  "COL3A1": {
+   "n_conditions": 3,
+   "other": [
+    "Ehlers-Danlos syndrome, type 4",
+    "Heritable Thoracic Aortic Disease"
+   ],
+   "positioned_ptv": 140
+  },
+  "COPB2": {
+   "n_conditions": 2,
+   "other": [
+    "Osteoporosis, childhood- or juvenile-onset, with developmental delay"
+   ],
+   "positioned_ptv": 5
+  },
+  "CPAP": {
+   "n_conditions": 2,
+   "other": [
+    "Seckel syndrome 4"
+   ],
+   "positioned_ptv": 79
+  },
+  "DCX": {
+   "n_conditions": 2,
+   "other": [
+    "DCX-related disorder"
+   ],
+   "positioned_ptv": 59
+  },
+  "DYNC1H1": {
+   "n_conditions": 5,
+   "other": [
+    "Autosomal dominant childhood-onset proximal spinal muscular atrophy without contractures",
+    "Charcot-Marie-Tooth disease",
+    "Charcot-Marie-Tooth disease axonal type 2O",
+    "DYNC1H1-related disorder"
+   ],
+   "positioned_ptv": 21
+  },
+  "GLI2": {
+   "n_conditions": 3,
+   "other": [
+    "Postaxial polydactyly-anterior pituitary anomalies-facial dysmorphism syndrome"
+   ],
+   "positioned_ptv": 86
+  },
+  "KIF14": {
+   "n_conditions": 2,
+   "other": [
+    "Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome"
+   ],
+   "positioned_ptv": 31
+  },
+  "LMNB1": {
+   "n_conditions": 2,
+   "other": [
+    "Leukodystrophy, demyelinating, adult-onset, autosomal dominant, typical"
+   ],
+   "positioned_ptv": 0
+  },
+  "LMNB2": {
+   "n_conditions": 3,
+   "other": [
+    "Lipodystrophy, partial, acquired, susceptibility to",
+    "Progressive myoclonic epilepsy type 9"
+   ],
+   "positioned_ptv": 1
+  },
+  "MAP1B": {
+   "n_conditions": 2,
+   "other": [
+    "Hearing loss, autosomal dominant 83"
+   ],
+   "positioned_ptv": 51
+  },
+  "MINPP1": {
+   "n_conditions": 2,
+   "other": [
+    "Thyroid cancer, nonmedullary, 2"
+   ],
+   "positioned_ptv": 12
+  },
+  "MTHFD1": {
+   "n_conditions": 2,
+   "other": [
+    "Combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia"
+   ],
+   "positioned_ptv": 22
+  },
+  "MTHFR": {
+   "n_conditions": 4,
+   "other": [
+    "Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+    "Schizophrenia",
+    "Thrombophilia due to thrombin defect"
+   ],
+   "positioned_ptv": 101
+  },
+  "MTR": {
+   "n_conditions": 3,
+   "other": [
+    "Disorders of Intracellular Cobalamin Metabolism",
+    "Methylcobalamin deficiency type cblG"
+   ],
+   "positioned_ptv": 60
+  },
+  "MTRR": {
+   "n_conditions": 3,
+   "other": [
+    "Disorders of Intracellular Cobalamin Metabolism",
+    "Methylcobalamin deficiency type cblE"
+   ],
+   "positioned_ptv": 112
+  },
+  "PI4KA": {
+   "n_conditions": 4,
+   "other": [
+    "Gastrointestinal defects and immunodeficiency syndrome 2",
+    "PI4KA-related disorder",
+    "Spastic paraplegia 84, autosomal recessive"
+   ],
+   "positioned_ptv": 32
+  },
+  "PIK3CA": {
+   "n_conditions": 16,
+   "other": [
+    "CLAPO syndrome",
+    "CLOVES syndrome",
+    "Colorectal cancer",
+    "Congenital macrodactylia",
+    "Cowden syndrome 5",
+    "Epidermal nevus",
+    "Familial cancer of breast",
+    "Gastric cancer",
+    "Hemifacial myohyperplasia",
+    "Hepatocellular carcinoma",
+    "Lung cancer",
+    "Ovarian cancer",
+    "PIK3CA related overgrowth syndrome",
+    "Seborrheic keratosis"
+   ],
+   "positioned_ptv": 7
+  },
+  "PRDM13": {
+   "n_conditions": 2,
+   "other": [
+    "Cerebellar dysfunction, impaired intellectual development, and hypogonadotropic hypogonadism"
+   ],
+   "positioned_ptv": 6
+  },
+  "PTCH1": {
+   "n_conditions": 4,
+   "other": [
+    "Basal cell carcinoma, susceptibility to, 1",
+    "Basal cell nevus syndrome 1",
+    "Gorlin syndrome"
+   ],
+   "positioned_ptv": 550
+  },
+  "SHH": {
+   "n_conditions": 4,
+   "other": [
+    "Microphthalmia, isolated, with coloboma 5",
+    "Solitary median maxillary central incisor syndrome"
+   ],
+   "positioned_ptv": 58
+  },
+  "SLC25A46": {
+   "n_conditions": 2,
+   "other": [
+    "Neuropathy, hereditary motor and sensory, type 6B"
+   ],
+   "positioned_ptv": 16
+  },
+  "STAG2": {
+   "n_conditions": 3,
+   "other": [
+    "Mullegama-Klein-Martinez syndrome"
+   ],
+   "positioned_ptv": 27
+  },
+  "TBXT": {
+   "n_conditions": 2,
+   "other": [
+    "Sacral agenesis-abnormal ossification of the vertebral bodies-persistent notochordal canal syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "TUBA1A": {
+   "n_conditions": 2,
+   "other": [
+    "Tubulinopathy"
+   ],
+   "positioned_ptv": 2
+  },
+  "TUBB": {
+   "n_conditions": 3,
+   "other": [
+    "Skin creases, congenital symmetric circumferential, 1",
+    "Tubulinopathy"
+   ],
+   "positioned_ptv": 1
+  },
+  "TUBB2A": {
+   "n_conditions": 2,
+   "other": [
+    "Tubulinopathy"
+   ],
+   "positioned_ptv": 1
+  },
+  "TUBB2B": {
+   "n_conditions": 3,
+   "other": [
+    "Congenital fibrosis of extraocular muscles",
+    "Tubulinopathy"
+   ],
+   "positioned_ptv": 1
+  },
+  "TUBB3": {
+   "n_conditions": 6,
+   "other": [
+    "CONGENITAL FIBROSIS OF EXTRAOCULAR MUSCLES 3A, SYNDROMIC 1, WITH ANOSMIA AND DEVELOPMENTAL DELAY",
+    "CONGENITAL FIBROSIS OF EXTRAOCULAR MUSCLES 3A, SYNDROMIC 2, WITH JOINT CONTRACTURES, DEVELOPMENTAL DELAY, AND PERIPHERAL NEUROPATHY",
+    "Congenital fibrosis of extraocular muscles",
+    "Fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement",
+    "Tubulinopathy"
+   ],
+   "positioned_ptv": 0
+  },
+  "TUBG1": {
+   "n_conditions": 2,
+   "other": [
+    "Tubulinopathy"
+   ],
+   "positioned_ptv": 0
+  },
+  "VANGL1": {
+   "n_conditions": 2,
+   "other": [
+    "Sacral defect with anterior meningocele"
+   ],
+   "positioned_ptv": 0
+  },
+  "VRK1": {
+   "n_conditions": 2,
+   "other": [
+    "Neuronopathy, distal hereditary motor, autosomal recessive 10"
+   ],
+   "positioned_ptv": 83
+  },
+  "WDR81": {
+   "n_conditions": 2,
+   "other": [
+    "Cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 2"
+   ],
+   "positioned_ptv": 36
+  }
+ },
+ "n_dual": 41,
+ "n_dual_ge10": 26,
+ "n_isolated": 116
+}

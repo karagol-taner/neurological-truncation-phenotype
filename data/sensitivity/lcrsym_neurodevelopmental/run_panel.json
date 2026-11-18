@@ -1,0 +1,39 @@
+{
+ "gene_condition_source_id": "gene_condition_source_id",
+ "grouping_names": 57,
+ "grouping_names_in_area": [],
+ "grouping_scope": "routes",
+ "grouping_threshold": 10,
+ "map_rows_kept": 14272,
+ "map_rows_removed": 0,
+ "map_used": "codes/gene_condition_source_id.grouping_routes_lt10",
+ "resolution": "strict",
+ "resolution_failures": [
+  [
+   "CHASERR",
+   0
+  ],
+  [
+   "CUX1",
+   2
+  ],
+  [
+   "MEG3",
+   0
+  ],
+  [
+   "PIDD1",
+   2
+  ],
+  [
+   "RNU4-2",
+   0
+  ],
+  [
+   "RNU5B-1",
+   0
+  ]
+ ],
+ "symbols_whose_only_route_is_a_grouping_name": [],
+ "variant_summary": "variant_summary_outside_lcr.txt.gz"
+}

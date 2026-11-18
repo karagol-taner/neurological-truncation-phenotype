@@ -1,0 +1,9 @@
+{
+ "to_transcript_used": false,
+ "outside_low_complexity_file": null,
+ "outside_gnomad_lcr_flag": true,
+ "records_kept": 160275,
+ "records_dropped": 6330,
+ "dropped_off_transcript": 0,
+ "dropped_in_low_complexity": 6330
+}

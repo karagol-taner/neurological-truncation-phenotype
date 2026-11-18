@@ -1,0 +1,7 @@
+{
+ "file": "scripts/LCR-hs38.bed.gz",
+ "repository": "https://github.com/lh3/varcmp",
+ "commit": "bb5b616526c5c3ecb46abfd9877e1bd6d50d1802",
+ "md5": "f2710d9f84d6742d2bc6de939fd1b6df",
+ "intervals": 1749661
+}

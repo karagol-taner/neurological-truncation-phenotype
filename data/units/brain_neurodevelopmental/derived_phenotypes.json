@@ -1,0 +1,498 @@
+{
+ "dual_phenotype_genes": {
+  "ACTL6B": {
+   "n_conditions": 2,
+   "other": [
+    "Developmental and epileptic encephalopathy, 76"
+   ],
+   "positioned_ptv": 25
+  },
+  "ADCY5": {
+   "n_conditions": 4,
+   "other": [
+    "ADCY5-Related Movement Disorder",
+    "Dyskinesia with orofacial involvement, autosomal dominant",
+    "Dyskinesia with orofacial involvement, autosomal recessive"
+   ],
+   "positioned_ptv": 25
+  },
+  "APC2": {
+   "n_conditions": 2,
+   "other": [
+    "Cortical dysplasia, complex, with other brain malformations 10"
+   ],
+   "positioned_ptv": 24
+  },
+  "ARID1A": {
+   "n_conditions": 2,
+   "other": [
+    "Coffin-Siris syndrome"
+   ],
+   "positioned_ptv": 105
+  },
+  "ARX": {
+   "n_conditions": 5,
+   "other": [
+    "Corpus callosum agenesis-abnormal genitalia syndrome",
+    "Developmental and epileptic encephalopathy, 1",
+    "Partington syndrome",
+    "X-linked lissencephaly with abnormal genitalia"
+   ],
+   "positioned_ptv": 93
+  },
+  "ATP6AP2": {
+   "n_conditions": 3,
+   "other": [
+    "Congenital disorder of glycosylation, type IIr",
+    "X-linked parkinsonism-spasticity syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "ATP6V0A1": {
+   "n_conditions": 2,
+   "other": [
+    "Developmental and epileptic encephalopathy 104"
+   ],
+   "positioned_ptv": 2
+  },
+  "BRAT1": {
+   "n_conditions": 2,
+   "other": [
+    "Neonatal-onset encephalopathy with rigidity and seizures"
+   ],
+   "positioned_ptv": 80
+  },
+  "CAPRIN1": {
+   "n_conditions": 2,
+   "other": [
+    "Neurodegeneration, childhood-onset, with cerebellar ataxia and cognitive decline"
+   ],
+   "positioned_ptv": 31
+  },
+  "CASK": {
+   "n_conditions": 4,
+   "other": [
+    "Anemia, nonspherocytic hemolytic, due to G6PD deficiency",
+    "CASK Disorders",
+    "FG syndrome 4"
+   ],
+   "positioned_ptv": 117
+  },
+  "CEP104": {
+   "n_conditions": 3,
+   "other": [
+    "Joubert syndrome",
+    "Joubert syndrome 25"
+   ],
+   "positioned_ptv": 43
+  },
+  "CNTNAP2": {
+   "n_conditions": 2,
+   "other": [
+    "Cortical dysplasia-focal epilepsy syndrome"
+   ],
+   "positioned_ptv": 82
+  },
+  "CUL3": {
+   "n_conditions": 3,
+   "other": [
+    "Pseudohypoaldosteronism type 2E",
+    "Pseudohypoaldosteronism, type 2"
+   ],
+   "positioned_ptv": 82
+  },
+  "DLG4": {
+   "n_conditions": 2,
+   "other": [
+    "DLG4-Related Synaptopathy"
+   ],
+   "positioned_ptv": 69
+  },
+  "DLL1": {
+   "n_conditions": 2,
+   "other": [
+    "Holoprosencephaly sequence"
+   ],
+   "positioned_ptv": 55
+  },
+  "DPP6": {
+   "n_conditions": 2,
+   "other": [
+    "Ventricular fibrillation, paroxysmal familial, 2"
+   ],
+   "positioned_ptv": 2
+  },
+  "EEF1A2": {
+   "n_conditions": 2,
+   "other": [
+    "Developmental and epileptic encephalopathy, 33"
+   ],
+   "positioned_ptv": 0
+  },
+  "EIF4A2": {
+   "n_conditions": 2,
+   "other": [
+    "Monogenic Isolated Dystonia"
+   ],
+   "positioned_ptv": 4
+  },
+  "EPG5": {
+   "n_conditions": 3,
+   "other": [
+    "EPG5-related disorder",
+    "Vici syndrome"
+   ],
+   "positioned_ptv": 169
+  },
+  "FGF13": {
+   "n_conditions": 2,
+   "other": [
+    "Developmental and epileptic encephalopathy, 90"
+   ],
+   "positioned_ptv": 1
+  },
+  "FLVCR1": {
+   "n_conditions": 2,
+   "other": [
+    "Posterior column ataxia-retinitis pigmentosa syndrome"
+   ],
+   "positioned_ptv": 39
+  },
+  "FSD1L": {
+   "n_conditions": 2,
+   "other": [
+    "RETINITIS PIGMENTOSA 109"
+   ],
+   "positioned_ptv": 4
+  },
+  "GABBR2": {
+   "n_conditions": 3,
+   "other": [
+    "Developmental and epileptic encephalopathy, 59",
+    "Tobacco addiction, susceptibility to"
+   ],
+   "positioned_ptv": 0
+  },
+  "GLS": {
+   "n_conditions": 3,
+   "other": [
+    "Developmental and epileptic encephalopathy, 71"
+   ],
+   "positioned_ptv": 8
+  },
+  "GNAO1": {
+   "n_conditions": 3,
+   "other": [
+    "Developmental and epileptic encephalopathy, 17",
+    "GNAO1-related disorder"
+   ],
+   "positioned_ptv": 6
+  },
+  "GNB1": {
+   "n_conditions": 3,
+   "other": [
+    "Acute lymphoid leukemia",
+    "Myelodysplastic syndrome"
+   ],
+   "positioned_ptv": 11
+  },
+  "GRIN1": {
+   "n_conditions": 4,
+   "other": [
+    "Developmental and epileptic encephalopathy 101"
+   ],
+   "positioned_ptv": 20
+  },
+  "GRIN2B": {
+   "n_conditions": 2,
+   "other": [
+    "Developmental and epileptic encephalopathy, 27"
+   ],
+   "positioned_ptv": 99
+  },
+  "HECW2": {
+   "n_conditions": 2,
+   "other": [
+    "DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY 123"
+   ],
+   "positioned_ptv": 5
+  },
+  "HK1": {
+   "n_conditions": 6,
+   "other": [
+    "Charcot-Marie-Tooth disease type 4G",
+    "Hemolytic anemia due to hexokinase deficiency",
+    "Nonsyndromic Genetic Hyperinsulinism",
+    "Nonsyndromic Retinitis Pigmentosa",
+    "Retinitis pigmentosa 79"
+   ],
+   "positioned_ptv": 12
+  },
+  "HNMT": {
+   "n_conditions": 2,
+   "other": [
+    "Inherited susceptibility to asthma"
+   ],
+   "positioned_ptv": 0
+  },
+  "HPDL": {
+   "n_conditions": 3,
+   "other": [
+    "Nuclear Gene-Encoded Leigh Syndrome Spectrum",
+    "Spastic paraplegia 83, autosomal recessive"
+   ],
+   "positioned_ptv": 24
+  },
+  "IL1RAPL1": {
+   "n_conditions": 2,
+   "other": [
+    "NR0B1-Related Adrenal Hypoplasia Congenita"
+   ],
+   "positioned_ptv": 20
+  },
+  "IRF2BPL": {
+   "n_conditions": 2,
+   "other": [
+    "IRF2BPL-related disorder"
+   ],
+   "positioned_ptv": 100
+  },
+  "KCNN2": {
+   "n_conditions": 2,
+   "other": [
+    "Dystonia 34, myoclonic"
+   ],
+   "positioned_ptv": 6
+  },
+  "KIF1A": {
+   "n_conditions": 6,
+   "other": [
+    "Hereditary sensory and autonomic neuropathy type 2",
+    "Neuropathy, hereditary sensory, type 2C",
+    "Pure hereditary spastic paraplegia",
+    "Spastic paraplegia 30A, autosomal dominant",
+    "Spastic paraplegia 30B, autosomal recessive"
+   ],
+   "positioned_ptv": 34
+  },
+  "KIF4A": {
+   "n_conditions": 2,
+   "other": [
+    "Taurodontism, microdontia, and dens invaginatus"
+   ],
+   "positioned_ptv": 0
+  },
+  "KMT2B": {
+   "n_conditions": 4,
+   "other": [
+    "Dystonia 28, childhood-onset",
+    "KMT2B-related disorder",
+    "Monogenic Isolated Dystonia"
+   ],
+   "positioned_ptv": 118
+  },
+  "MECP2": {
+   "n_conditions": 6,
+   "other": [
+    "MECP2 Disorders",
+    "Rett syndrome",
+    "Severe neonatal-onset encephalopathy with microcephaly"
+   ],
+   "positioned_ptv": 585
+  },
+  "MED12": {
+   "n_conditions": 5,
+   "other": [
+    "Cholestasis-pigmentary retinopathy-cleft palate syndrome",
+    "FG syndrome 1",
+    "MED12-Related Disorders"
+   ],
+   "positioned_ptv": 36
+  },
+  "MEF2C": {
+   "n_conditions": 2,
+   "other": [
+    "MEF2C-related disorder"
+   ],
+   "positioned_ptv": 53
+  },
+  "NARS1": {
+   "n_conditions": 3,
+   "other": [
+    "NARS1-Related Neurologic Disorders"
+   ],
+   "positioned_ptv": 11
+  },
+  "NUS1": {
+   "n_conditions": 2,
+   "other": [
+    "Congenital disorder of glycosylation, type Iaa"
+   ],
+   "positioned_ptv": 75
+  },
+  "OTUD7A": {
+   "n_conditions": 2,
+   "other": [
+    "Chromosome 15q13.3 microdeletion syndrome"
+   ],
+   "positioned_ptv": 1
+  },
+  "PIGA": {
+   "n_conditions": 3,
+   "other": [
+    "Multiple congenital anomalies-hypotonia-seizures syndrome 2",
+    "Paroxysmal nocturnal hemoglobinuria 1"
+   ],
+   "positioned_ptv": 19
+  },
+  "PIGG": {
+   "n_conditions": 2,
+   "other": [
+    "BLOOD GROUP, EMM SYSTEM"
+   ],
+   "positioned_ptv": 71
+  },
+  "PIP5K1C": {
+   "n_conditions": 2,
+   "other": [
+    "Lethal congenital contracture syndrome 3"
+   ],
+   "positioned_ptv": 2
+  },
+  "POLA1": {
+   "n_conditions": 2,
+   "other": [
+    "X-linked reticulate pigmentary disorder"
+   ],
+   "positioned_ptv": 0
+  },
+  "PPM1D": {
+   "n_conditions": 2,
+   "other": [
+    "Familial cancer of breast"
+   ],
+   "positioned_ptv": 69
+  },
+  "RAB39B": {
+   "n_conditions": 4,
+   "other": [
+    "Chromosome Xq28 duplication syndrome",
+    "Monogenic Parkinson Disease"
+   ],
+   "positioned_ptv": 5
+  },
+  "RPS6KA3": {
+   "n_conditions": 3,
+   "other": [
+    "Coffin-Lowry syndrome"
+   ],
+   "positioned_ptv": 86
+  },
+  "SETBP1": {
+   "n_conditions": 2,
+   "other": [
+    "Schinzel-Giedion syndrome"
+   ],
+   "positioned_ptv": 99
+  },
+  "SETD2": {
+   "n_conditions": 4,
+   "other": [
+    "Luscan-Lumish syndrome",
+    "Rabin-Pappas syndrome"
+   ],
+   "positioned_ptv": 57
+  },
+  "SHQ1": {
+   "n_conditions": 2,
+   "other": [
+    "Dystonia 35, childhood-onset"
+   ],
+   "positioned_ptv": 2
+  },
+  "SMARCA4": {
+   "n_conditions": 5,
+   "other": [
+    "Coffin-Siris syndrome",
+    "Otosclerosis 12",
+    "Rhabdoid tumor predisposition syndrome",
+    "Rhabdoid tumor predisposition syndrome 2"
+   ],
+   "positioned_ptv": 199
+  },
+  "SMARCB1": {
+   "n_conditions": 6,
+   "other": [
+    "Coffin-Siris syndrome",
+    "Rhabdoid tumor predisposition syndrome",
+    "Rhabdoid tumor predisposition syndrome 1",
+    "SMARCB1-related schwannomatosis",
+    "Schwannomatosis"
+   ],
+   "positioned_ptv": 70
+  },
+  "SOX3": {
+   "n_conditions": 3,
+   "other": [
+    "Nonsyndromic 46,XX Testicular Disorders/Differences of Sex Development",
+    "Panhypopituitarism, X-linked"
+   ],
+   "positioned_ptv": 0
+  },
+  "ST3GAL3": {
+   "n_conditions": 2,
+   "other": [
+    "Developmental and epileptic encephalopathy, 15"
+   ],
+   "positioned_ptv": 6
+  },
+  "TAF1": {
+   "n_conditions": 2,
+   "other": [
+    "X-linked dystonia-parkinsonism"
+   ],
+   "positioned_ptv": 1
+  },
+  "TBL1XR1": {
+   "n_conditions": 2,
+   "other": [
+    "Pierpont syndrome"
+   ],
+   "positioned_ptv": 31
+  },
+  "WARS1": {
+   "n_conditions": 3,
+   "other": [
+    "Charcot-Marie-Tooth disease",
+    "Neuronopathy, distal hereditary motor, type 9"
+   ],
+   "positioned_ptv": 2
+  },
+  "WARS2": {
+   "n_conditions": 3,
+   "other": [
+    "Parkinsonism-dystonia 3, childhood-onset",
+    "WARS2 Deficiency"
+   ],
+   "positioned_ptv": 5
+  },
+  "WDR11": {
+   "n_conditions": 3,
+   "other": [
+    "Hypogonadotropic hypogonadism 14 with or without anosmia",
+    "Isolated congenital hypogonadotropic hypogonadism"
+   ],
+   "positioned_ptv": 15
+  },
+  "ZSWIM6": {
+   "n_conditions": 2,
+   "other": [
+    "Acromelic frontonasal dysostosis"
+   ],
+   "positioned_ptv": 2
+  }
+ },
+ "n_dual": 64,
+ "n_dual_ge10": 39,
+ "n_isolated": 306
+}

@@ -1,0 +1,96 @@
+{
+ "genes": {
+  "ARID1A": {
+   "frameshift": 47,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 1573,
+   "n_pool_at_or_below_share": 147,
+   "nonsense": 58,
+   "share": 0.448,
+   "total": 105
+  },
+  "ATM": {
+   "frameshift": 1988,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 241,
+   "n_pool_at_or_below_share": 1479,
+   "nonsense": 822,
+   "share": 0.707,
+   "total": 2810
+  },
+  "CIC": {
+   "frameshift": 56,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 77,
+   "n_pool_at_or_below_share": 1643,
+   "nonsense": 17,
+   "share": 0.767,
+   "total": 73
+  },
+  "IQSEC2": {
+   "frameshift": 109,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 701,
+   "n_pool_at_or_below_share": 1019,
+   "nonsense": 65,
+   "share": 0.626,
+   "total": 174
+  },
+  "IRF2BPL": {
+   "frameshift": 70,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 279,
+   "n_pool_at_or_below_share": 1448,
+   "nonsense": 30,
+   "share": 0.7,
+   "total": 100
+  },
+  "KMT2B": {
+   "frameshift": 88,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 110,
+   "n_pool_at_or_below_share": 1610,
+   "nonsense": 30,
+   "share": 0.746,
+   "total": 118
+  },
+  "PPM1D": {
+   "frameshift": 55,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 39,
+   "n_pool_at_or_below_share": 1681,
+   "nonsense": 14,
+   "share": 0.797,
+   "total": 69
+  },
+  "SETD1B": {
+   "frameshift": 55,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 182,
+   "n_pool_at_or_below_share": 1538,
+   "nonsense": 21,
+   "share": 0.724,
+   "total": 76
+  },
+  "SRRM2": {
+   "frameshift": 38,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 1343,
+   "n_pool_at_or_below_share": 377,
+   "nonsense": 35,
+   "share": 0.521,
+   "total": 73
+  },
+  "ZFHX3": {
+   "frameshift": 21,
+   "in_pool_ge20": true,
+   "n_pool_at_or_above_share": 1618,
+   "n_pool_at_or_below_share": 102,
+   "nonsense": 29,
+   "share": 0.42,
+   "total": 50
+  }
+ },
+ "n_genes_with_ptv": 4695,
+ "pool_ge20": 1719
+}

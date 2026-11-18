@@ -1,0 +1,277 @@
+gene,tier,clinvar_symbols,uniprot,protein_length,plp_total,plp_ptv,plp_nonsense,plp_frameshift,plp_fs_fraction,plp_missense,plp_ptv_positioned,plp_ptv_rel_min,plp_ptv_rel_median,plp_ptv_rel_max,plp_ptv_frac_last_10pct,plp_ptv_frac_last_25pct,vus_total,vus_missense,benign_total,conflicting_total,isolated,syndromic
+SCN1A,isolated,SCN1A,P35498,2009,2225,843,306,537,0.637,1083,843,0.001,0.478,0.962,0.075,0.214,1747,1379,982,392,"Developmental and epileptic encephalopathy 6B; Generalized epilepsy with febrile seizures plus, type 2",SCN1A Seizure Disorders; Severe myoclonic epilepsy in infancy
+ADGRV1,isolated,ADGRV1,Q8WXG9,6306,724,546,214,332,0.608,29,546,0.003,0.506,0.998,0.101,0.247,2259,2103,3611,892,"Febrile seizures, familial, 4",
+CDKL5,isolated,CDKL5,O76039,960,641,370,108,262,0.708,145,370,0.014,0.46,1.054,0.076,0.232,446,340,553,40,"Developmental and epileptic encephalopathy, 2",
+CACNA1A,isolated,CACNA1A,O00555,2506,604,313,118,195,0.623,174,313,0.006,0.407,0.964,0.003,0.128,1929,1681,1676,414,"DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY 42B; Developmental and epileptic encephalopathy, 42",
+PCDH19,isolated,PCDH19,Q8TAB3,1148,465,305,101,204,0.669,128,305,0.003,0.346,0.943,0.013,0.075,670,642,395,81,"Developmental and epileptic encephalopathy, 9",
+DEPDC5,isolated,DEPDC5,O75140,1603,413,288,122,166,0.576,7,288,0.004,0.405,0.979,0.094,0.243,1241,1110,1041,80,"Developmental and epileptic encephalopathy 111; Epilepsy, familial focal, with variable foci 1",Familial sleep-related hypermotor epilepsy
+KCNQ2,isolated,KCNQ2,O43526,872,782,286,72,214,0.748,399,286,0.003,0.456,0.999,0.066,0.224,696,598,801,134,"Developmental and epileptic encephalopathy, 7; Seizures, benign familial neonatal, 1",
+CHD2,isolated,CHD2,O14647,1828,393,240,100,140,0.583,79,240,0.002,0.492,0.93,0.046,0.2,966,861,1133,124,Developmental and epileptic encephalopathy 94,
+SCN2A,isolated,SCN2A,Q99250,2005,723,221,91,130,0.588,430,221,0.001,0.451,0.954,0.023,0.163,1326,1203,901,155,"Developmental and epileptic encephalopathy, 11; Seizures, benign familial infantile, 3",
+EXT2,isolated,EXT2,Q93063,718,250,175,71,104,0.594,15,175,0.026,0.357,0.904,0.006,0.097,432,381,323,55,Seizures-scoliosis-macrocephaly syndrome,
+STXBP1,isolated,STXBP1,P61764,594,426,169,61,108,0.639,144,169,0.015,0.556,0.97,0.095,0.302,330,283,501,60,"Developmental and epileptic encephalopathy, 4",
+CASR,isolated,CASR,P41180,1078,360,167,57,110,0.659,162,167,0.006,0.477,0.931,0.012,0.084,1606,1507,1044,220,"Epilepsy, idiopathic generalized, susceptibility to, 8",
+SLC2A1,isolated,SLC2A1,P11166,492,364,160,44,116,0.725,138,160,0.012,0.502,0.959,0.056,0.206,461,376,359,99,"Epilepsy, idiopathic generalized, susceptibility to, 12",
+PURA,syndromic_only,PURA,Q00577,322,229,153,41,112,0.732,67,153,0.003,0.382,0.963,0.033,0.124,196,138,202,25,,PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome
+SZT2,isolated,SZT2,Q5T011,3432,197,144,70,74,0.514,15,144,0.007,0.537,0.971,0.076,0.264,1690,1571,1630,95,"Developmental and epileptic encephalopathy, 18",
+PRRT2,isolated,PRRT2,Q7Z6L0,340,167,126,33,93,0.738,21,126,0.029,0.538,0.988,0.103,0.23,333,304,207,56,"Seizures, benign familial infantile, 2",
+HNRNPU,isolated,HNRNPU,Q00839,825,163,121,35,86,0.711,15,121,0.007,0.37,0.999,0.083,0.157,384,338,616,57,"Developmental and epileptic encephalopathy, 54",
+SMC1A,isolated,SMC1A,Q14683,1233,228,107,41,66,0.617,87,107,0.015,0.56,0.961,0.009,0.262,400,292,468,58,"Developmental and epileptic encephalopathy, 85, with or without midline brain defects",
+NPRL3,isolated,NPRL3,Q12980,569,152,101,39,62,0.614,1,101,0.011,0.453,0.888,0.0,0.139,454,382,431,35,"Epilepsy, familial focal, with variable foci 3",Familial sleep-related hypermotor epilepsy
+IRF2BPL,syndromic_only,IRF2BPL,Q9H1B7,796,117,100,30,70,0.7,15,100,0.08,0.264,0.976,0.04,0.17,374,337,224,18,,"Neurodevelopmental disorder with regression, abnormal movements, loss of speech, and seizures"
+GRIN2B,isolated,GRIN2B,Q13224,1484,292,99,43,56,0.566,162,99,0.006,0.498,0.986,0.02,0.121,624,572,820,139,"Developmental and epileptic encephalopathy, 27",
+PIGN,syndromic_only,PIGN,O95427,931,193,97,48,49,0.505,15,97,0.004,0.544,0.951,0.041,0.237,460,404,711,34,,Multiple congenital anomalies-hypotonia-seizures syndrome 1
+PNKP,syndromic_only,PNKP,Q96T60,521,156,95,24,71,0.747,11,95,0.008,0.772,0.992,0.137,0.516,487,412,566,82,,"Microcephaly, seizures, and developmental delay"
+ARX,isolated,ARX,Q96QS3,562,147,93,25,68,0.731,29,93,0.018,0.596,0.95,0.118,0.301,389,332,408,76,"Developmental and epileptic encephalopathy, 1","Intellectual disability, X-linked, with or without seizures, ARX-related"
+RELN,isolated,RELN,P78509,3460,122,88,43,45,0.511,10,88,0.003,0.478,0.992,0.091,0.205,1913,1746,1861,334,Familial temporal lobe epilepsy 7,Autosomal dominant epilepsy with auditory features
+CNTNAP2,syndromic_only,CNTNAP2,Q9UHC6,1331,124,82,41,41,0.5,1,82,0.003,0.453,0.929,0.049,0.159,933,804,808,112,,Cortical dysplasia-focal epilepsy syndrome
+CUL3,syndromic_only,CUL3,Q13618,768,135,82,24,58,0.707,20,82,0.052,0.413,0.958,0.012,0.159,316,199,233,25,,Neurodevelopmental disorder with or without autism or seizures
+BRAT1,syndromic_only,BRAT1,Q6PJG6,821,119,80,34,46,0.575,10,80,0.009,0.52,0.932,0.025,0.163,524,483,639,80,,Neonatal-onset encephalopathy with rigidity and seizures; Neurodevelopmental disorder with cerebellar atrophy and with or without seizures
+SETD1B,syndromic_only,SETD1B,Q9UPS6,1966,116,76,21,55,0.724,27,76,0.004,0.553,0.983,0.105,0.303,485,455,311,27,,Intellectual developmental disorder with seizures and language delay
+NUS1,syndromic_only,NUS1,Q96E22,293,95,75,30,45,0.6,4,75,0.003,0.362,0.98,0.027,0.173,246,228,175,12,,"Intellectual developmental disorder, autosomal dominant 55, with seizures"
+SCN8A,isolated,SCN8A,Q9UQD0,1980,394,71,28,43,0.606,294,71,0.01,0.445,0.919,0.014,0.155,1169,1057,900,153,"Developmental and epileptic encephalopathy, 13; Seizures, benign familial infantile, 5",SCN8A-Related Epilepsy and/or Neurodevelopmental Disorders
+SLC6A1,isolated,SLC6A1,P30531,599,195,70,34,36,0.514,93,70,0.015,0.467,0.953,0.029,0.214,349,309,466,61,Epilepsy with myoclonic atonic seizures,
+SPTAN1,isolated,SPTAN1,Q13813,2472,144,70,37,33,0.471,43,70,0.008,0.407,0.975,0.071,0.229,1372,1190,1600,221,"Developmental and epileptic encephalopathy, 5",Developmental delay with or without epilepsy
+CAD,isolated,CAD,P27708,2225,101,68,28,40,0.588,4,68,0.02,0.44,0.957,0.044,0.235,766,695,1480,33,"Developmental and epileptic encephalopathy, 50",
+DOCK7,isolated,DOCK7,Q96N67,2140,103,68,23,45,0.662,2,68,0.03,0.525,0.976,0.074,0.25,797,742,976,17,"Developmental and epileptic encephalopathy, 23",
+SETD1A,isolated,SETD1A,O15047,1707,84,66,24,42,0.636,12,66,0.002,0.391,0.92,0.03,0.167,569,528,262,33,"Epilepsy, early-onset, with or without developmental delay",
+GABRG2,isolated,GABRG2,P18507,475,140,62,29,33,0.532,49,62,0.067,0.526,0.96,0.065,0.29,354,268,248,58,"Developmental and epileptic encephalopathy, 74; Febrile seizures, familial, 8",
+TBC1D24,isolated,TBC1D24,Q9ULP9,559,109,61,29,32,0.525,33,61,0.034,0.413,0.986,0.049,0.23,552,430,336,83,"Developmental and epileptic encephalopathy, 16; Familial infantile myoclonic epilepsy",Rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome
+AFG2A,syndromic_only,AFG2A,Q8NB90,893,101,60,32,28,0.467,22,60,0.004,0.576,0.9,0.017,0.133,399,373,390,34,,Microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome
+ALDH7A1,syndromic_only,ALDH7A1,P49419,539,190,58,28,30,0.517,68,58,0.004,0.521,0.989,0.103,0.224,350,261,552,79,,Pyridoxine-dependent epilepsy
+SYN1,isolated,SYN1,P17600,705,71,57,15,42,0.737,4,57,0.001,0.596,0.959,0.053,0.211,315,275,251,31,"Epilepsy, X-linked 1, with variable learning disabilities and behavior disorders",
+CLN8,syndromic_only,CLN8,Q9UBY8,286,92,55,29,26,0.473,29,55,0.003,0.364,0.92,0.018,0.109,246,231,237,33,,Neuronal ceroid lipofuscinosis 8 northern epilepsy variant
+DLL1,syndromic_only,DLL1,O00548,723,72,55,21,34,0.618,4,55,0.018,0.39,0.931,0.018,0.145,356,325,286,40,,Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures
+AARS1,isolated,AARS1,P49588,968,87,53,24,29,0.547,18,53,0.004,0.54,0.906,0.019,0.094,852,771,673,89,"Developmental and epileptic encephalopathy, 29",
+ARFGEF1,syndromic_only,ARFGEF1,Q9Y6D6,1849,79,52,24,28,0.538,7,52,0.029,0.581,0.959,0.077,0.25,389,352,78,4,,"Developmental delay, impaired speech, and behavioral abnormalities, with or without seizures"
+DMXL2,isolated,DMXL2,Q8TDJ6,3036,70,51,33,18,0.353,3,51,0.036,0.52,0.938,0.039,0.196,893,858,1013,41,"Developmental and epileptic encephalopathy, 81",
+NBEA,syndromic_only,NBEA,Q8NFP9,2946,92,51,31,20,0.392,12,51,0.013,0.442,0.973,0.098,0.235,691,645,329,25,,Neurodevelopmental disorder with or without early-onset generalized epilepsy
+ZFHX3,isolated,ZFHX3,Q15911,3703,56,50,29,21,0.42,4,50,0.029,0.435,0.97,0.04,0.06,687,637,297,17,"Epilepsy, idiopathic generalized 20",
+CACNA2D2,syndromic_only,CACNA2D2,Q9NY47,1150,79,49,16,33,0.673,4,49,0.024,0.384,0.97,0.061,0.245,477,423,729,18,,Cerebellar atrophy with seizures and variable developmental delay
+DIAPH1,syndromic_only,DIAPH1,O60610,1272,72,48,18,30,0.625,3,48,0.009,0.553,0.954,0.188,0.354,995,856,782,70,,Progressive microcephaly-seizures-cortical blindness-developmental delay syndrome
+WWOX,isolated,WWOX,Q9NZC7,414,110,48,29,19,0.396,14,48,0.027,0.447,0.944,0.042,0.188,471,415,535,47,"Developmental and epileptic encephalopathy, 28",
+PTPN23,syndromic_only,PTPN23,Q9H3S7,1636,57,46,14,32,0.696,4,46,0.037,0.598,0.962,0.022,0.152,753,687,773,40,,Neurodevelopmental disorder and structural brain anomalies with or without seizures and spasticity
+QARS1,syndromic_only,QARS1,P47897,775,73,46,19,27,0.587,6,46,0.006,0.57,0.908,0.022,0.13,451,408,512,30,,Diffuse cerebral and cerebellar atrophy - intractable seizures - progressive microcephaly syndrome
+ASAH1,syndromic_only,ASAH1,Q13510,395,130,45,20,25,0.556,44,45,0.023,0.327,0.906,0.022,0.2,352,296,516,36,,Spinal muscular atrophy-progressive myoclonic epilepsy syndrome
+ATP1A2,isolated,ATP1A2,P50993,1020,145,45,17,28,0.622,78,45,0.013,0.514,0.989,0.133,0.2,704,585,670,93,Developmental and epileptic encephalopathy 98,
+LGI1,isolated,LGI1,O95970,557,76,45,20,25,0.556,19,45,0.004,0.476,0.987,0.089,0.244,283,260,187,33,"Developmental and epileptic encephalopathy 121; Epilepsy, familial temporal lobe, 1",Autosomal dominant epilepsy with auditory features
+SLC35A3,syndromic_only,SLC35A3,Q9Y2D2,325,57,45,17,28,0.622,1,45,0.018,0.609,0.923,0.067,0.244,93,79,207,3,,Autism spectrum disorder - epilepsy - arthrogryposis syndrome
+TANC2,syndromic_only,TANC2,Q9HCD6,1990,62,43,21,22,0.512,3,43,0.016,0.504,0.961,0.023,0.256,539,498,163,12,,"Intellectual developmental disorder with autistic features and language delay, with or without seizures"
+CACNA1B,syndromic_only,CACNA1B,Q00975,2339,57,42,17,25,0.595,0,42,0.007,0.474,0.899,0.0,0.214,706,648,1184,45,,Neurodevelopmental disorder with seizures and nonepileptic hyperkinetic movements
+RORB,isolated,RORB,Q92753,470,63,41,23,18,0.439,12,41,0.021,0.402,0.868,0.0,0.171,243,215,166,34,"Epilepsy, idiopathic generalized, susceptibility to, 15",
+SYNJ1,isolated,SYNJ1,O43426,1573,57,40,18,22,0.55,3,40,0.002,0.387,0.819,0.0,0.05,748,518,749,27,"Developmental and epileptic encephalopathy, 53",
+AP3B2,isolated,AP3B2,Q13367,1082,53,39,18,21,0.538,1,39,0.006,0.398,0.96,0.103,0.231,366,330,511,21,"Developmental and epileptic encephalopathy, 48",
+PHF21A,syndromic_only,PHF21A,Q96BD5,680,48,38,15,23,0.605,1,38,0.009,0.553,0.994,0.105,0.263,180,160,163,16,,Intellectual developmental disorder with behavioral abnormalities and craniofacial dysmorphism with or without seizures
+PIGQ,isolated,PIGQ,Q9BRB3,760,48,37,19,18,0.486,3,37,0.03,0.251,0.693,0.0,0.0,351,297,386,33,"Developmental and epileptic encephalopathy, 77",
+DEAF1,syndromic_only,DEAF1,O75398,565,103,34,15,19,0.559,49,34,0.023,0.481,0.961,0.059,0.206,504,423,383,55,,Intellectual disability-epilepsy-extrapyramidal syndrome
+STX1B,isolated,STX1B,P61266,288,76,33,14,19,0.576,12,33,0.045,0.458,0.99,0.121,0.303,173,144,200,12,"Generalized epilepsy with febrile seizures plus, type 9",Familial sleep-related hypermotor epilepsy
+ARHGEF9,isolated,ARHGEF9,O43307,516,54,32,20,12,0.375,10,32,0.004,0.597,0.921,0.062,0.219,237,207,219,30,"Developmental and epileptic encephalopathy, 8",
+NHLRC1,isolated,NHLRC1,Q6VVB1,395,49,32,10,22,0.688,16,32,0.033,0.516,0.947,0.094,0.188,213,189,106,17,Myoclonic epilepsy of Lafora 2,
+SLC13A5,isolated,SLC13A5,Q86YT5,568,64,32,10,22,0.688,11,32,0.011,0.6,0.882,0.0,0.188,300,276,428,28,"Developmental and epileptic encephalopathy, 25",
+CNNM2,syndromic_only,CNNM2,Q9H8M5,875,58,31,9,22,0.71,24,31,0.005,0.241,0.909,0.032,0.065,369,284,2425,25,,"Hypomagnesemia, seizures, and intellectual disability 1"
+CNTN2,isolated,CNTN2,Q02246,1040,42,31,18,13,0.419,0,31,0.008,0.426,0.922,0.032,0.161,363,338,455,20,"Epilepsy, familial adult myoclonic, 5",
+EPM2A,isolated,EPM2A,,,59,31,13,18,0.581,17,31,,,,,,231,216,191,24,Myoclonic epilepsy of Lafora 1,
+SLC12A5,isolated,SLC12A5,Q9H2X9,1139,47,30,13,17,0.567,6,30,0.007,0.523,0.893,0.0,0.1,390,357,607,23,"Developmental and epileptic encephalopathy, 34; Epilepsy, idiopathic generalized, susceptibility to, 14",
+CACNA1C,syndromic_only,CACNA1C,Q13936,2221,111,29,13,16,0.552,67,29,0.005,0.507,0.901,0.034,0.241,1501,1260,1946,289,,"Neurodevelopmental disorder with hypotonia, language delay, and skeletal defects with or without seizures"
+CLCN2,isolated,CLCN2,P51788,898,46,27,11,16,0.593,8,27,0.023,0.425,0.894,0.0,0.185,403,366,244,34,"Epilepsy, idiopathic generalized, susceptibility to, 11",
+KCNB1,isolated,KCNB1,Q14721,858,123,27,16,11,0.407,94,27,0.076,0.431,0.828,0.0,0.037,331,289,378,68,"Developmental and epileptic encephalopathy, 26",
+RORA,syndromic_only,RORA,P35398,523,48,27,17,10,0.37,10,27,0.119,0.514,0.956,0.037,0.222,180,138,81,12,,Intellectual developmental disorder with or without epilepsy or cerebellar ataxia
+ACTL6B,isolated,ACTL6B,O94805,426,58,25,16,9,0.36,24,25,0.012,0.568,0.993,0.16,0.28,110,96,45,5,"Developmental and epileptic encephalopathy, 76",
+DHDDS,syndromic_only,DHDDS,Q86SQ9,333,47,25,12,13,0.52,17,25,0.036,0.52,0.928,0.04,0.12,297,229,278,22,,Developmental delay and seizures with or without movement abnormalities
+HACE1,syndromic_only,HACE1,Q8IYU2,909,40,25,15,10,0.4,4,25,0.056,0.45,0.904,0.04,0.16,135,118,176,5,,Spastic paraplegia-severe developmental delay-epilepsy syndrome
+FRRS1L,isolated,FRRS1L,Q9P0K9,293,39,24,10,14,0.583,4,24,0.072,0.553,0.922,0.042,0.125,224,175,174,6,"Developmental and epileptic encephalopathy, 37",
+PPP3CA,isolated,PPP3CA,Q08209,521,50,24,4,20,0.833,21,24,0.023,0.841,0.904,0.042,0.917,248,208,303,9,Developmental and epileptic encephalopathy 91,
+DENND5A,isolated,DENND5A,Q6IQ26,1287,33,22,10,12,0.545,1,22,0.033,0.33,0.988,0.091,0.182,303,291,427,10,"Developmental and epileptic encephalopathy, 49",
+PIGT,syndromic_only,PIGT,Q969N2,578,31,22,5,17,0.773,7,22,0.003,0.483,1.0,0.045,0.182,193,180,158,20,,Multiple congenital anomalies-hypotonia-seizures syndrome 3
+SEMA6B,isolated,SEMA6B,Q9H3T3,888,29,22,8,14,0.636,4,22,0.552,0.747,0.807,0.0,0.364,224,205,111,4,"Epilepsy, progressive myoclonic, 11",
+ITPA,isolated,ITPA,Q9BY32,194,39,21,11,10,0.476,2,21,0.026,0.464,0.835,0.0,0.143,116,99,171,8,"Developmental and epileptic encephalopathy, 35",
+KCNMA1,isolated,KCNMA1,Q12791,1236,53,21,5,16,0.762,21,21,0.009,0.518,0.871,0.0,0.19,744,553,713,91,"Epilepsy, idiopathic generalized, susceptibility to, 16; Generalized epilepsy-paroxysmal dyskinesia syndrome","Cerebellar atrophy, developmental delay, and seizures"
+UBA5,isolated,UBA5,Q9GZZ9,404,40,21,7,14,0.667,14,21,0.032,0.584,0.802,0.0,0.048,115,107,127,9,"Developmental and epileptic encephalopathy, 44",
+GRIN1,isolated,GRIN1,Q05586,938,138,20,7,13,0.65,106,20,0.043,0.478,0.858,0.0,0.15,422,354,681,71,Developmental and epileptic encephalopathy 101,"Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal dominant; Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal recessive"
+RTN4IP1,syndromic_only,RTN4IP1,Q8WWV3,396,40,20,10,10,0.5,8,20,0.045,0.508,0.896,0.0,0.25,158,144,149,14,,"Optic atrophy 10 with or without ataxia, intellectual disability, and seizures"
+NPRL2,isolated,NPRL2,Q8WTW4,380,29,19,9,10,0.526,3,19,0.034,0.495,0.834,0.0,0.316,106,100,34,10,"Epilepsy, familial focal, with variable foci 2",Familial sleep-related hypermotor epilepsy
+PIGA,syndromic_only,PIGA,P37287,484,51,19,3,16,0.842,27,19,0.039,0.298,0.961,0.105,0.368,187,169,152,35,,Multiple congenital anomalies-hypotonia-seizures syndrome 2; Neurodevelopmental disorder with epilepsy and hemochromatosis
+PIGB,isolated,PIGB,Q92521,554,31,18,12,6,0.333,5,18,0.013,0.486,0.706,0.0,0.0,173,148,196,11,"Developmental and epileptic encephalopathy, 80",
+VARS1,syndromic_only,VARS1,P26640,1264,40,18,13,5,0.278,16,18,0.048,0.489,0.962,0.167,0.278,253,243,92,11,,"Neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy"
+KCTD7,isolated,KCTD7,Q96MP8,289,38,17,8,9,0.529,14,17,0.152,0.45,0.844,0.0,0.118,218,151,190,25,Progressive myoclonic epilepsy type 3,
+GABRB3,isolated,GABRB3,P28472,473,106,16,10,6,0.375,77,16,0.004,0.353,0.744,0.0,0.0,325,271,344,33,"Developmental and epileptic encephalopathy, 43; Epilepsy, childhood absence, susceptibility to, 5",
+PLCB1,isolated,PLCB1,Q9NQ66,1216,29,16,7,9,0.562,2,16,0.151,0.442,0.92,0.062,0.125,487,403,677,53,"Developmental and epileptic encephalopathy, 12",
+TBC1D2B,syndromic_only,TBC1D2B,Q9UPU7,963,16,16,11,5,0.312,0,16,0.009,0.513,0.823,0.0,0.188,147,144,40,1,,Neurodevelopmental disorder with seizures and gingival overgrowth
+ADPRS,syndromic_only,ADPRS,Q9NX46,363,23,15,8,7,0.467,7,15,0.135,0.383,0.92,0.067,0.067,72,67,25,4,,"Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures"
+ATP1A3,isolated,ATP1A3,P13637,1013,177,15,6,9,0.6,139,15,0.078,0.782,0.976,0.333,0.533,544,440,644,79,Developmental and epileptic encephalopathy 99,
+PNPO,syndromic_only,PNPO,Q9NVS9,261,43,15,7,8,0.533,16,15,0.08,0.444,0.839,0.0,0.067,157,120,185,12,,Pyridoxal phosphate-responsive seizures
+SCN1B,isolated,SCN1B,Q07699,218,37,15,6,9,0.6,9,15,0.041,0.275,0.794,0.0,0.067,375,212,241,65,"Developmental and epileptic encephalopathy, 52; Generalized epilepsy with febrile seizures plus, type 1",
+STRADA,syndromic_only,STRADA,Q7RTN6,431,24,15,6,9,0.6,2,15,0.023,0.408,0.803,0.0,0.067,198,174,210,6,,"Polyhydramnios, megalencephaly, and symptomatic epilepsy"
+YWHAG,isolated,YWHAG,P61981,247,33,15,7,8,0.533,14,15,0.121,0.607,0.883,0.0,0.2,93,78,112,4,"Developmental and epileptic encephalopathy, 56",
+ABCA2,syndromic_only,ABCA2,Q9BZC7,2435,17,14,6,8,0.571,0,14,0.09,0.563,0.878,0.0,0.143,468,454,344,11,,Intellectual developmental disorder with poor growth and with or without seizures or ataxia
+DNM1,isolated,DNM1,Q05193,864,72,14,7,7,0.5,50,14,0.038,0.462,0.94,0.143,0.286,416,332,552,48,"Developmental and epileptic encephalopathy, 31A; Developmental and epileptic encephalopathy, 31B",
+GOSR2,isolated,GOSR2,O14653,212,28,14,7,7,0.5,5,14,0.028,0.335,0.505,0.0,0.0,155,136,150,20,Progressive myoclonic epilepsy type 6,"Muscular dystrophy, congenital, with or without seizures"
+PLPBP,isolated,PLPBP,O94903,275,24,14,6,8,0.571,5,14,0.007,0.305,0.782,0.0,0.071,111,102,144,13,"Epilepsy, early-onset, vitamin B6-dependent",
+LNPK,syndromic_only,LNPK,Q9C0E8,428,18,13,5,8,0.615,0,13,0.016,0.339,0.703,0.0,0.0,18,12,33,2,,Neurodevelopmental disorder with epilepsy and hypoplasia of the corpus callosum
+OTUD6B,syndromic_only,OTUD6B,Q8N6M0,293,20,13,6,7,0.538,4,13,0.024,0.433,0.884,0.0,0.077,64,55,18,5,,"Intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies"
+ARV1,isolated,ARV1,Q9H2C2,271,18,12,1,11,0.917,2,12,0.125,0.476,0.731,0.0,0.0,44,41,16,2,"Developmental and epileptic encephalopathy, 38",
+EMC10,syndromic_only,EMC10,Q5UCC4,262,17,12,6,6,0.5,0,12,0.088,0.366,0.706,0.0,0.0,51,47,24,1,,Neurodevelopmental disorder with dysmorphic facies and variable seizures
+KCNQ3,isolated,KCNQ3,O43525,872,56,12,3,9,0.75,37,12,0.031,0.413,0.659,0.0,0.0,747,575,626,85,"Seizures, benign familial neonatal, 2",
+PPFIBP1,syndromic_only,PPFIBP1,Q86W92,1011,18,12,5,7,0.583,0,12,0.056,0.468,0.875,0.0,0.25,142,131,25,1,,"Neurodevelopmental disorder with seizures, microcephaly, and brain abnormalities"
+SLC25A22,isolated,SLC25A22,Q9H936,323,23,12,8,4,0.333,4,12,0.006,0.437,0.842,0.0,0.167,256,185,288,43,"Developmental and epileptic encephalopathy, 3",
+CELF2,isolated,CELF2,O95319,508,19,11,3,8,0.727,7,11,0.026,0.839,1.026,0.364,0.545,89,68,25,0,Developmental and epileptic encephalopathy 97,
+KCNA2,isolated,KCNA2,P16389,499,65,11,5,6,0.545,49,11,0.038,0.395,0.846,0.0,0.182,317,273,209,20,"Developmental and epileptic encephalopathy, 32",
+NARS1,syndromic_only,NARS1,O43776,548,22,11,7,4,0.364,9,11,0.126,0.23,0.974,0.091,0.182,181,161,28,5,,"Neurodevelopmental disorder with microcephaly, impaired language, epilepsy, and gait abnormalities"
+SLC25A12,isolated,SLC25A12,O75746,678,23,11,5,6,0.545,4,11,0.009,0.342,0.86,0.0,0.091,231,210,285,9,"Developmental and epileptic encephalopathy, 39",
+GABRA1,isolated,GABRA1,P14867,456,82,10,4,6,0.6,65,10,0.147,0.691,0.879,0.0,0.2,356,263,290,79,"Developmental and epileptic encephalopathy, 19; Epilepsy, idiopathic generalized, susceptibility to, 13",
+NRROS,isolated,NRROS,Q86YC3,692,12,10,5,5,0.5,2,10,0.092,0.793,0.955,0.1,0.5,99,98,26,2,"Seizures, early-onset, with neurodegeneration and brain calcifications",
+MDH2,isolated,MDH2,P40926,338,21,9,2,7,0.778,4,9,0.204,0.559,0.814,0.0,0.111,389,371,305,15,"Developmental and epileptic encephalopathy, 51",
+TRAPPC6B,syndromic_only,TRAPPC6B,Q86SZ2,158,13,9,4,5,0.556,0,9,0.063,0.259,0.601,0.0,0.0,31,28,30,0,,"Neurodevelopmental disorder with microcephaly, epilepsy, and brain atrophy"
+CERS1,isolated,CERS1,P27544,350,10,8,3,5,0.625,1,8,0.094,0.649,0.977,0.125,0.25,158,142,185,6,Progressive myoclonic epilepsy type 8,
+GAD1,isolated,GAD1,Q99259,594,18,8,7,1,0.125,4,8,0.049,0.456,0.894,0.0,0.125,132,94,142,14,Developmental and epileptic encephalopathy 89,
+GLS,isolated,GLS,O94925,669,21,8,4,4,0.5,9,8,0.121,0.347,0.821,0.0,0.125,115,108,65,1,"Developmental and epileptic encephalopathy, 71",
+HECTD4,syndromic_only,HECTD4,Q9Y4D8,3996,14,8,4,4,0.5,2,8,0.17,0.531,0.833,0.0,0.25,474,455,87,0,,"Neurodevelopmental disorder with seizures, spasticity, and complete or partial agenesis of the corpus callosum"
+KCNT2,isolated,KCNT2,Q6UVM3,1135,17,8,4,4,0.5,8,8,0.042,0.497,0.754,0.0,0.125,269,229,96,7,"Developmental and epileptic encephalopathy, 57",
+SCN3A,isolated,SCN3A,Q9NY46,2000,41,8,3,5,0.625,28,8,0.004,0.444,0.753,0.0,0.125,1256,1118,821,79,"Developmental and epileptic encephalopathy, 62; Epilepsy, familial focal, with variable foci 4",
+WASF1,syndromic_only,WASF1,Q92558,559,13,8,4,4,0.5,3,8,0.157,0.88,0.93,0.25,0.75,109,96,36,4,,Neurodevelopmental disorder with absent language and variable seizures
+FBXO28,isolated,FBXO28,Q9NVF7,368,11,7,3,4,0.571,3,7,0.883,0.948,0.978,0.857,1.0,60,54,17,3,Developmental and epileptic encephalopathy 100,
+HID1,isolated,HID1,Q8IV36,788,10,7,1,6,0.857,2,7,0.036,0.838,0.982,0.286,0.714,125,121,14,1,Developmental and epileptic encephalopathy 105 with hypopituitarism,
+WDR4,syndromic_only,WDR4,P57081,412,16,7,2,5,0.714,4,7,0.405,0.648,0.939,0.143,0.429,141,131,179,8,,"Microcephaly, growth deficiency, seizures, and brain malformations"
+ATP6V0C,isolated,ATP6V0C,P27449,155,22,6,1,5,0.833,15,6,0.155,0.639,0.813,0.0,0.333,36,29,8,2,"Epilepsy, early-onset, 3, with or without developmental delay",
+CACNA1E,isolated,CACNA1E,Q15878,2313,39,6,5,1,0.167,32,6,0.13,0.247,0.96,0.167,0.167,867,723,1578,127,"Developmental and epileptic encephalopathy, 69",
+GNAO1,isolated,GNAO1,P09471,354,103,6,1,5,0.833,86,6,0.127,0.638,0.949,0.167,0.167,184,142,299,31,"Developmental and epileptic encephalopathy, 17",
+GRIK2,syndromic_only,GRIK2,Q13002,908,16,6,6,0,0.0,6,6,0.047,0.297,0.576,0.0,0.0,235,215,86,8,,Neurodevelopmental disorder with impaired language and ataxia and with or without seizures
+SIK1,isolated,SIK1,P57059,783,8,6,4,2,0.333,2,6,0.443,0.585,0.784,0.0,0.333,499,440,546,59,"Developmental and epileptic encephalopathy, 30",
+ST3GAL3,isolated,ST3GAL3,Q11203,375,22,6,5,1,0.167,5,6,0.075,0.587,0.72,0.0,0.0,161,136,211,22,"Developmental and epileptic encephalopathy, 15",
+TCP1,syndromic_only,TCP1,P17987,556,8,6,2,4,0.667,1,6,0.153,0.48,0.903,0.167,0.333,76,72,4,0,,Intellectual developmental disorder with polymicrogyria and seizures
+DPM2,syndromic_only,DPM2,O94777,84,9,5,3,2,0.4,3,5,0.119,0.44,0.583,0.0,0.0,60,28,65,1,,Congenital muscular dystrophy with intellectual disability and severe epilepsy
+ESAM,syndromic_only,ESAM,Q96AP7,390,8,5,3,2,0.4,0,5,0.031,0.246,0.813,0.0,0.2,61,59,14,0,,"Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity"
+GRM7,syndromic_only,GRM7,Q14831,915,11,5,5,0,0.0,6,5,0.125,0.577,0.72,0.0,0.0,161,152,147,3,,"Neurodevelopmental disorder with seizures, hypotonia, and brain imaging abnormalities"
+HECW2,isolated,HECW2,Q9P2P5,1572,44,5,4,1,0.2,37,5,0.156,0.572,0.964,0.2,0.4,377,340,232,26,DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY 123,"Neurodevelopmental disorder with hypotonia, seizures, and absent language"
+MDGA2,isolated,MDGA2,Q7Z553,956,7,5,2,3,0.6,0,5,0.098,0.41,0.962,0.4,0.4,41,32,7,0,DEVELOPMENTAL AND EPILEPTIC ENCEPHALOPATHY 122,
+MIPEP,syndromic_only,MIPEP,Q99797,713,16,5,5,0,0.0,5,5,0.586,0.844,0.914,0.2,0.6,160,146,161,24,,Lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome
+MTHFS,syndromic_only,MTHFS,P49914,203,7,5,3,2,0.4,2,5,0.034,0.365,0.798,0.0,0.2,28,25,20,2,,"Neurodevelopmental disorder with microcephaly, epilepsy, and hypomyelination"
+NSRP1,syndromic_only,NSRP1,Q9H0G5,558,7,5,3,2,0.4,1,5,0.014,0.701,0.815,0.0,0.4,70,67,12,0,,"Neurodevelopmental disorder with spasticity, seizures, and brain abnormalities"
+PARS2,isolated,PARS2,Q7L3T8,475,8,5,4,1,0.2,2,5,0.269,0.465,0.623,0.0,0.0,133,125,81,7,"Developmental and epileptic encephalopathy, 75",
+RNF13,isolated,RNF13,O43567,381,8,5,4,1,0.2,2,5,0.79,0.806,0.816,0.0,1.0,150,125,135,17,"Developmental and epileptic encephalopathy, 73",
+UGDH,isolated,UGDH,O60701,494,26,5,3,2,0.4,21,5,0.132,0.356,0.858,0.0,0.2,58,54,16,2,"Developmental and epileptic encephalopathy, 84",
+WARS2,syndromic_only,WARS2,Q9UGM6,360,19,5,3,2,0.4,11,5,0.1,0.342,0.578,0.0,0.0,94,81,65,13,,"Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures"
+ADAM22,isolated,ADAM22,Q9P0K1,906,8,4,1,3,0.75,2,4,0.73,0.882,1.053,0.25,0.75,130,123,81,4,"Developmental and epileptic encephalopathy, 61",
+EIF4A2,syndromic_only,EIF4A2,Q14240,407,21,4,0,4,1.0,15,4,0.108,0.194,0.445,0.0,0.0,85,53,14,2,,"Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures"
+FSD1L,syndromic_only,FSD1L,Q9BXM9,530,5,4,2,2,0.5,1,4,0.145,0.889,0.898,0.0,0.5,50,50,4,0,,"NEURODEVELOPMENTAL DISORDER WITH SEIZURES, SPASTIC TETRAPARESIS, AND VISION IMPAIRMENT"
+NECAP1,isolated,NECAP1,Q8NC96,275,5,4,2,2,0.5,0,4,0.047,0.175,0.316,0.0,0.0,112,103,106,2,"Developmental and epileptic encephalopathy, 21",
+NTRK2,isolated,NTRK2,Q16620,822,14,4,2,2,0.5,6,4,0.071,0.394,0.54,0.0,0.0,450,396,425,29,"Developmental and epileptic encephalopathy, 58",
+PGBD5,syndromic_only,PGBD5,Q8N414,524,4,4,2,2,0.5,0,4,0.032,0.137,0.918,0.25,0.25,0,0,6,0,,"Neurodevelopmental disorder with seizures, hypotonia, and variable spasticity"
+TRAK1,isolated,TRAK1,Q9UPV9,953,8,4,0,4,1.0,0,4,0.019,0.494,0.616,0.0,0.0,220,206,163,7,"Developmental and epileptic encephalopathy, 68",
+VPS50,syndromic_only,VPS50,Q96JG6,964,8,4,3,1,0.25,1,4,0.005,0.596,0.602,0.0,0.0,91,88,16,0,,"Neurodevelopmental disorder with microcephaly, seizures, and neonatal cholestasis"
+CILK1,isolated,CILK1,Q9UPZ9,632,7,3,2,1,0.333,3,3,0.144,0.541,0.878,0.0,0.333,146,130,130,12,"Epilepsy, juvenile myoclonic, susceptibility to, 10",
+CPA6,isolated,CPA6,Q8N4T0,437,4,3,2,1,0.333,0,3,0.176,0.293,0.416,0.0,0.0,179,140,51,20,"Familial temporal lobe epilepsy 5; Febrile seizures, familial, 11",
+CPLX1,isolated,CPLX1,O14810,134,3,3,2,1,0.333,0,3,0.172,0.784,0.806,0.0,0.667,42,38,39,1,"Developmental and epileptic encephalopathy, 63",
+DHPS,syndromic_only,DHPS,P49366,369,5,3,1,2,0.667,0,3,0.198,0.526,0.642,0.0,0.0,55,53,34,3,,Neurodevelopmental disorder with seizures and speech and walking impairment
+HCN4,isolated,HCN4,Q9Y3Q4,1203,21,3,0,3,1.0,16,3,0.452,0.536,0.698,0.0,0.0,1268,1125,928,98,"Epilepsy, idiopathic generalized, susceptibility to, 18",
+KCNC1,isolated,KCNC1,P48547,511,18,3,1,2,0.667,14,3,0.016,0.07,0.894,0.0,0.333,274,255,248,21,Progressive myoclonic epilepsy type 7,
+NAPB,isolated,NAPB,Q9H115,298,3,3,3,0,0.0,0,3,0.195,0.372,0.537,0.0,0.0,35,34,5,1,Developmental and epileptic encephalopathy-107,
+PI4K2A,syndromic_only,PI4K2A,Q9BTU6,479,3,3,3,0,0.0,0,3,0.046,0.645,0.664,0.0,0.0,46,46,1,0,,"Neurodevelopmental disorder with hyperkinetic movements, seizures, and structural brain abnormalities"
+PIGK,syndromic_only,PIGK,Q92643,395,11,3,2,1,0.333,6,3,0.076,0.084,0.137,0.0,0.0,55,51,15,2,,"Neurodevelopmental disorder with hypotonia and cerebellar atrophy, with or without seizures"
+RHOBTB2,isolated,RHOBTB2,Q9BYZ6,727,17,3,1,2,0.667,14,3,0.182,0.381,0.512,0.0,0.0,327,276,518,59,"Developmental and epileptic encephalopathy, 64",
+SLC38A3,isolated,SLC38A3,Q99624,504,7,3,3,0,0.0,1,3,0.125,0.694,0.802,0.0,0.333,57,56,10,0,Developmental and epileptic encephalopathy 102,
+SV2A,isolated,SV2A,Q7L0J3,742,3,3,3,0,0.0,0,3,0.389,0.516,0.683,0.0,0.0,80,77,25,0,Developmental and epileptic encephalopathy 113,
+WDR45B,syndromic_only,WDR45B,Q5MNZ6,344,3,3,3,0,0.0,0,3,0.099,0.654,0.776,0.0,0.333,30,30,21,2,,Neurodevelopmental disorder with spastic quadriplegia and brain abnormalities with or without seizures
+ATP6V0A1,isolated,ATP6V0A1,Q93050,837,13,2,0,2,1.0,8,2,0.178,0.379,0.379,0.0,0.0,141,132,16,2,Developmental and epileptic encephalopathy 104,Neurodevelopmental disorder with epilepsy and brain atrophy
+CACNA1D,syndromic_only,CACNA1D,Q01668,2161,23,2,1,1,0.5,18,2,0.449,0.612,0.612,0.0,0.0,1357,1199,1277,70,,Aldosterone-producing adenoma with seizures and neurological abnormalities
+CACNA2D1,isolated,CACNA2D1,P54289,1103,4,2,0,2,1.0,1,2,0.008,0.249,0.249,0.0,0.0,413,356,696,36,Developmental and epileptic encephalopathy 110,
+CHKA,syndromic_only,CHKA,P35790,457,5,2,1,1,0.5,3,2,0.013,0.753,0.753,0.0,0.5,50,49,9,0,,"Neurodevelopmental disorder with microcephaly, movement abnormalities, and seizures"
+GABRA2,isolated,GABRA2,P47869,451,20,2,0,2,1.0,18,2,0.632,0.732,0.732,0.0,0.0,162,116,181,14,"Developmental and epileptic encephalopathy, 78",
+GRIA4,syndromic_only,GRIA4,P48058,902,11,2,2,0,0.0,9,2,0.198,0.817,0.817,0.0,0.5,243,212,81,6,,Neurodevelopmental disorder with or without seizures and gait abnormalities
+GTF3C3,syndromic_only,GTF3C3,Q9Y5Q9,886,11,2,2,0,0.0,8,2,0.643,0.809,0.809,0.0,0.5,76,75,16,0,,"Neurodevelopmental disorder with dysmorphic facies, brain anomalies, and seizures"
+JKAMP,syndromic_only,JKAMP,Q9P055,311,4,2,2,0,0.0,0,2,0.061,0.151,0.151,0.0,0.0,30,26,1,0,,Neurodevelopmental disorder with seizures and impaired intellectual and language development
+KCNT1,isolated,KCNT1,Q5JUK3,1230,78,2,1,1,0.5,74,2,0.198,0.58,0.58,0.0,0.0,1015,817,1364,183,"Developmental and epileptic encephalopathy, 14",Autosomal dominant nocturnal frontal lobe epilepsy 5; Familial sleep-related hypermotor epilepsy
+NCDN,syndromic_only,NCDN,Q9UBB6,729,7,2,0,2,1.0,5,2,0.1,0.454,0.454,0.0,0.0,96,93,29,4,,Neurodevelopmental disorder with infantile epileptic spasms
+PDE2A,syndromic_only,PDE2A,O00408,941,9,2,1,1,0.5,3,2,0.21,0.419,0.419,0.0,0.0,150,131,202,3,,Intellectual developmental disorder with paroxysmal dyskinesia or seizures
+SHQ1,syndromic_only,SHQ1,Q6PI26,577,4,2,2,0,0.0,1,2,0.113,0.267,0.267,0.0,0.0,108,100,21,4,,Neurodevelopmental disorder with dystonia and seizures
+SNF8,isolated,SNF8,Q96H20,258,6,2,1,1,0.5,3,2,0.647,0.872,0.872,0.0,0.5,30,30,1,1,Developmental and epileptic encephalopathy 115,
+TMEM63B,isolated,TMEM63B,Q5T3F8,832,11,2,1,1,0.5,7,2,0.154,0.185,0.185,0.0,0.0,103,91,22,2,Developmental and epileptic encephalopathy 118,
+UFSP2,isolated,UFSP2,Q9NUQ7,469,9,2,0,2,1.0,7,2,0.079,0.443,0.443,0.0,0.0,80,76,31,1,Developmental and epileptic encephalopathy 106,
+ALG13,isolated,ALG13,Q9NP73,1137,11,1,0,1,1.0,10,1,0.121,0.121,0.121,0.0,0.0,498,432,681,64,"Developmental and epileptic encephalopathy, 36",
+ATG12,syndromic_only,ATG12,O94817,140,4,1,1,0,0.0,2,1,0.564,0.564,0.564,0.0,0.0,23,23,1,1,,NEURODEVELOPMENTAL DISORDER WITH SEIZURES AND CEREBELLAR HYPOPLASIA
+ATP1A1,syndromic_only,ATP1A1,P05023,1023,28,1,0,1,1.0,25,1,0.916,0.916,0.916,1.0,1.0,396,331,542,14,,"Hypomagnesemia, seizures, and intellectual disability 2"
+CACNA1H,isolated,CACNA1H,O95180,2353,8,1,1,0,0.0,6,1,0.487,0.487,0.487,0.0,0.0,1591,1359,2125,544,"Epilepsy, childhood absence, susceptibility to, 6",
+CACNB4,isolated,CACNB4,O00305,520,3,1,0,1,1.0,2,1,0.392,0.392,0.392,0.0,0.0,198,109,125,18,"Epilepsy, idiopathic generalized, susceptibility to, 9",
+CHRNA2,syndromic_only,CHRNA2,Q15822,529,5,1,0,1,1.0,4,1,0.817,0.817,0.817,0.0,1.0,462,354,329,84,,Autosomal dominant nocturnal frontal lobe epilepsy 4; Familial sleep-related hypermotor epilepsy
+CHRNA4,syndromic_only,CHRNA4,P43681,627,9,1,0,1,1.0,8,1,0.593,0.593,0.593,0.0,0.0,474,414,556,130,,Autosomal dominant nocturnal frontal lobe epilepsy 1; Familial sleep-related hypermotor epilepsy
+CLCN3,syndromic_only,CLCN3,P51790,818,16,1,0,1,1.0,15,1,0.137,0.137,0.137,0.0,0.0,189,157,30,1,,Neurodevelopmental disorder with seizures and brain abnormalities
+CUX2,isolated,CUX2,O14529,1486,4,1,0,1,1.0,3,1,0.126,0.126,0.126,0.0,0.0,339,313,213,17,"Developmental and epileptic encephalopathy, 67",
+CYFIP2,isolated,CYFIP2,Q96F07,1278,23,1,0,1,1.0,20,1,0.686,0.686,0.686,0.0,0.0,428,361,654,38,"Developmental and epileptic encephalopathy, 65",
+DALRD3,isolated,DALRD3,Q5D0E6,543,1,1,1,0,0.0,0,1,0.551,0.551,0.551,0.0,0.0,84,79,19,1,"Developmental and epileptic encephalopathy, 86",
+DHX16,syndromic_only,DHX16,O60231,1041,7,1,1,0,0.0,6,1,0.016,0.016,0.016,0.0,0.0,206,186,33,3,,Neuromuscular disease and ocular or auditory anomalies with or without seizures
+EFHC1,isolated,EFHC1,Q5JVL4,640,1,1,0,1,1.0,0,1,0.684,0.684,0.684,0.0,0.0,281,236,160,26,"Epilepsy, juvenile absence, susceptibility to, 1; Myoclonic epilepsy, juvenile, susceptibility to, 1",
+EXOC7,syndromic_only,EXOC7,Q9UPT5,735,5,1,1,0,0.0,2,1,0.475,0.475,0.475,0.0,0.0,100,88,27,0,,Neurodevelopmental disorder with seizures and brain atrophy
+EXOC8,syndromic_only,EXOC8,Q8IYI6,725,2,1,0,1,1.0,0,1,0.219,0.219,0.219,0.0,0.0,82,80,23,0,,"Neurodevelopmental disorder with microcephaly, seizures, and brain atrophy"
+FGF12,isolated,FGF12,P61328,243,5,1,0,1,1.0,3,1,0.626,0.626,0.626,0.0,0.0,99,60,164,7,"Developmental and epileptic encephalopathy, 47",
+FGF13,isolated,FGF13,Q92913,245,6,1,1,0,0.0,5,1,0.033,0.033,0.033,0.0,0.0,57,39,11,2,"Developmental and epileptic encephalopathy, 90",
+GLUL,isolated,GLUL,P15104,373,13,1,0,1,1.0,10,1,0.373,0.373,0.373,0.0,0.0,158,78,101,6,Developmental and epileptic encephalopathy 116,
+HCN1,isolated,HCN1,O60741,890,43,1,0,1,1.0,41,1,0.798,0.798,0.798,0.0,1.0,611,504,469,53,"Developmental and epileptic encephalopathy, 24; Generalized epilepsy with febrile seizures plus, type 10",
+HCN2,isolated,HCN2,Q9UL51,889,10,1,0,1,1.0,9,1,0.727,0.727,0.727,0.0,0.0,300,277,163,13,"Epilepsy, idiopathic generalized, susceptibility to, 17",
+LMNB2,isolated,LMNB2,Q03252,620,4,1,0,1,1.0,3,1,0.311,0.311,0.311,0.0,0.0,318,297,349,27,Progressive myoclonic epilepsy type 9,
+MED11,syndromic_only,MED11,Q9P086,117,2,1,1,0,0.0,0,1,0.932,0.932,0.932,1.0,1.0,19,19,0,0,,"Neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and brain abnormalities"
+MICAL1,syndromic_only,MICAL1,Q8TDZ2,1067,4,1,0,1,1.0,2,1,0.998,0.998,0.998,1.0,1.0,726,593,525,30,,Autosomal dominant epilepsy with auditory features
+OTUD7A,syndromic_only,OTUD7A,Q8TE49,926,15,1,0,1,1.0,1,1,0.413,0.413,0.413,0.0,0.0,170,150,64,3,,Neurodevelopmental disorder with hypotonia and seizures
+PACS2,isolated,PACS2,Q86VP3,889,3,1,0,1,1.0,2,1,0.42,0.42,0.42,0.0,0.0,441,379,812,66,"Developmental and epileptic encephalopathy, 66",
+PAK1,syndromic_only,PAK1,Q13153,545,24,1,0,1,1.0,23,1,0.128,0.128,0.128,0.0,0.0,113,89,29,2,,"Intellectual developmental disorder with macrocephaly, seizures, and speech delay"
+PIGP,isolated,PIGP,P57054,158,2,1,0,1,1.0,1,1,0.816,0.816,0.816,0.0,1.0,83,52,78,3,"Developmental and epileptic encephalopathy, 55",
+SEC31A,syndromic_only,SEC31A,O94979,1220,1,1,0,1,1.0,0,1,0.76,0.76,0.76,0.0,1.0,114,113,35,0,,"Neurodevelopmental disorder with spastic quadriplegia, optic atrophy, seizures, and structural brain anomalies"
+SLC1A2,isolated,SLC1A2,P43004,574,10,1,0,1,1.0,9,1,0.434,0.434,0.434,0.0,0.0,225,203,297,20,"Developmental and epileptic encephalopathy, 41",
+SNIP1,syndromic_only,SNIP1,Q8TAD8,396,1,1,1,0,0.0,0,1,0.376,0.376,0.376,0.0,0.0,177,161,86,8,,"Psychomotor retardation, epilepsy, and craniofacial dysmorphism"
+SRPX2,syndromic_only,SRPX2,O60687,465,2,1,1,0,0.0,1,1,0.849,0.849,0.849,0.0,1.0,109,98,75,18,,"Rolandic epilepsy, intellectual disability, and speech dyspraxia, X-linked"
+TRAPPC4,syndromic_only,TRAPPC4,Q9Y296,219,4,1,0,1,1.0,1,1,0.037,0.037,0.037,0.0,0.0,44,40,33,0,,"Neurodevelopmental disorder with epilepsy, spasticity, and brain atrophy"
+ADARB1,syndromic_only,ADARB1,P78563,741,6,0,0,0,,5,0,,,,,,74,67,23,1,,"Neurodevelopmental disorder with hypotonia, microcephaly, and seizures"
+AGO1,syndromic_only,AGO1,Q9UL18,857,16,0,0,0,,14,0,,,,,,151,123,44,4,,"Neurodevelopmental disorder with language delay and behavioral abnormalities, with or without seizures"
+ALG14,syndromic_only,ALG14,Q96F25,216,1,0,0,0,,1,0,,,,,,89,80,71,10,,"Intellectual developmental disorder with epilepsy, behavioral abnormalities, and coarse facies; Myopathy, epilepsy, and progressive cerebral atrophy"
+AP2M1,syndromic_only,AP2M1,Q96CW1,435,2,0,0,0,,2,0,,,,,,115,90,202,3,,Intellectual developmental disorder 60 with seizures
+ATN1,syndromic_only,ATN1,P54259,1190,15,0,0,0,,8,0,,,,,,263,231,126,17,,"Congenital hypotonia, epilepsy, developmental delay, and digital anomalies"
+ATP6V1A,isolated,ATP6V1A,P38606,617,27,0,0,0,,27,0,,,,,,232,203,192,5,Developmental and epileptic encephalopathy 93,
+BAIAP2,isolated,BAIAP2,Q9UQB8,552,6,0,0,0,,6,0,,,,,,76,61,18,0,Developmental and epileptic encephalopathy 120,
+CACNA1I,syndromic_only,CACNA1I,Q9P0X4,2223,6,0,0,0,,5,0,,,,,,556,525,125,7,,Neurodevelopmental disorder with speech impairment and with or without seizures
+CDK19,isolated,CDK19,Q9BWU1,502,9,0,0,0,,9,0,,,,,,84,71,20,1,"Developmental and epileptic encephalopathy, 87",
+CHRNB2,syndromic_only,CHRNB2,P17787,502,7,0,0,0,,6,0,,,,,,399,331,282,30,,Autosomal dominant nocturnal frontal lobe epilepsy 3; Familial sleep-related hypermotor epilepsy
+CPSF3,syndromic_only,CPSF3,Q9UKF6,684,3,0,0,0,,1,0,,,,,,49,47,19,0,,"Neurodevelopmental disorder with microcephaly, hypotonia, nystagmus, and seizures"
+EEF1A2,isolated,EEF1A2,Q05639,463,46,0,0,0,,45,0,,,,,,207,175,393,30,"Developmental and epileptic encephalopathy, 33",
+FZR1,isolated,FZR1,Q9UM11,496,4,0,0,0,,4,0,,,,,,59,52,18,2,Developmental and epileptic encephalopathy 109,
+GABBR2,isolated,GABBR2,O75899,941,17,0,0,0,,16,0,,,,,,450,379,689,42,"Developmental and epileptic encephalopathy, 59",
+GABRA3,syndromic_only,GABRA3,P34903,492,6,0,0,0,,4,0,,,,,,63,55,19,0,,"Epilepsy, X-linked 2, with or without impaired intellectual development and dysmorphic features"
+GABRA5,isolated,GABRA5,P31644,462,5,0,0,0,,5,0,,,,,,85,74,61,2,"Developmental and epileptic encephalopathy, 79",
+GABRB1,isolated,GABRB1,P18505,474,5,0,0,0,,5,0,,,,,,225,198,221,5,"Developmental and epileptic encephalopathy, 45",
+GABRB2,isolated,GABRB2,P47870,512,61,0,0,0,,61,0,,,,,,229,198,327,26,Developmental and epileptic encephalopathy 92,
+GABRD,isolated,GABRD,O14764,452,3,0,0,0,,3,0,,,,,,237,201,216,17,"Epilepsy, idiopathic generalized, susceptibility to, 10",
+GAL,isolated,GAL,P22466,123,1,0,0,0,,1,0,,,,,,46,36,23,0,Familial temporal lobe epilepsy 8,
+GOT2,isolated,GOT2,P00505,430,4,0,0,0,,4,0,,,,,,78,76,71,2,"Developmental and epileptic encephalopathy, 82",
+GRIN2D,isolated,GRIN2D,O15399,1336,14,0,0,0,,14,0,,,,,,824,735,578,50,"Developmental and epileptic encephalopathy, 46",
+GUF1,isolated,GUF1,Q8N442,669,1,0,0,0,,1,0,,,,,,310,244,173,12,"Developmental and epileptic encephalopathy, 40",
+IER3IP1,syndromic_only,IER3IP1,Q9Y5U9,82,1,0,0,0,,1,0,,,,,,50,41,66,2,,"Microcephaly, epilepsy, and diabetes syndrome 1"
+KCNC2,isolated,KCNC2,Q96PR1,638,18,0,0,0,,18,0,,,,,,135,117,19,4,Developmental and epileptic encephalopathy 103,
+KCNH5,isolated,KCNH5,Q8NCM2,988,11,0,0,0,,10,0,,,,,,448,399,395,26,Developmental and epileptic encephalopathy 112,
+KCNK4,syndromic_only,KCNK4,Q9NYG8,393,6,0,0,0,,6,0,,,,,,230,193,222,30,,"Facial dysmorphism, hypertrichosis, epilepsy, intellectual/developmental delay, and gingival overgrowth syndrome"
+KLHL20,syndromic_only,KLHL20,Q9Y2M5,609,7,0,0,0,,7,0,,,,,,72,68,7,1,,"Neurodevelopmental disorder with early-onset seizures, facial dysmorphism, and behavioral abnormalities"
+MARCHF6,isolated,MARCHF6,O60337,910,2,0,0,0,,0,0,,,,,,86,82,10,0,"Epilepsy, familial adult myoclonic, 3",
+MAST3,isolated,MAST3,O60307,1309,9,0,0,0,,9,0,,,,,,236,212,86,1,Developmental and epileptic encephalopathy 108,
+MDH1,isolated,MDH1,P40925,334,1,0,0,0,,1,0,,,,,,34,31,12,0,"Developmental and epileptic encephalopathy, 88",
+NACC1,syndromic_only,NACC1,Q96RE7,527,6,0,0,0,,6,0,,,,,,218,194,283,21,,"Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination"
+NEUROD2,isolated,NEUROD2,Q15784,382,9,0,0,0,,9,0,,,,,,102,87,17,3,"Developmental and epileptic encephalopathy, 72",
+NSF,isolated,NSF,P46459,744,7,0,0,0,,6,0,,,,,,46,43,21,2,Developmental and epileptic encephalopathy 96,
+PHACTR1,isolated,PHACTR1,Q9C0D0,580,9,0,0,0,,9,0,,,,,,115,86,85,1,"Developmental and epileptic encephalopathy, 70",
+PIGF,syndromic_only,PIGF,Q07326,219,0,0,0,0,,0,0,,,,,,36,36,9,0,,"Onychodystrophy, osteodystrophy, impaired intellectual development, and seizures syndrome"
+PRICKLE1,isolated,PRICKLE1,Q96MT3,831,3,0,0,0,,2,0,,,,,,376,344,248,13,"Epilepsy, progressive myoclonic, 1B",
+RAPGEF2,isolated,RAPGEF2,Q9Y4G8,1499,0,0,0,0,,0,0,,,,,,132,123,50,0,"Epilepsy, familial adult myoclonic, 7",
+RNU2-2,isolated,RNU2-2,,,23,0,0,0,,0,0,,,,,,75,0,7,3,Developmental and epileptic encephalopathy 119,
+RNU5B-1,syndromic_only,RNU5B-1,,,2,0,0,0,,0,0,,,,,,7,0,1,1,,RNU5B-1 related neurodevelopmental disorder with seizures and joint laxity
+SAMD12,isolated,SAMD12,Q8N8I0,201,1,0,0,0,,0,0,,,,,,29,28,6,0,"Epilepsy, familial adult myoclonic, 1",
+SARS1,syndromic_only,SARS1,P49591,514,3,0,0,0,,1,0,,,,,,54,52,20,0,,"Neurodevelopmental disorder with microcephaly, ataxia, and seizures"
+SLC31A1,syndromic_only,SLC31A1,O15431,190,2,0,0,0,,2,0,,,,,,19,19,4,0,,Neurodegeneration and seizures due to copper transport defect
+SLC32A1,isolated,SLC32A1,Q9H598,525,6,0,0,0,,6,0,,,,,,94,89,6,1,"Developmental and epileptic encephalopathy 114; Generalized epilepsy with febrile seizures plus, type 12",
+SLC7A6OS,isolated,SLC7A6OS,Q96CW6,309,0,0,0,0,,0,0,,,,,,51,50,9,1,"Epilepsy, progressive myoclonic, 12",
+SPOUT1,syndromic_only,SPOUT1,Q5T280,376,6,0,0,0,,6,0,,,,,,17,12,16,2,,"Neurodevelopmental disorder with poor growth, seizures, and brain abnormalities"
+STARD7,isolated,STARD7,Q9NQZ5,370,2,0,0,0,,0,0,,,,,,57,54,10,0,"Epilepsy, familial adult myoclonic, 2",
+TIAM1,syndromic_only,TIAM1,Q13009,1591,5,0,0,0,,5,0,,,,,,261,254,84,6,,Neurodevelopmental disorder with language delay and seizures
+TNRC6A,isolated,TNRC6A,Q8NDV7,1962,0,0,0,0,,0,0,,,,,,274,267,49,4,"Epilepsy, familial adult myoclonic, 6",
+TRPM3,syndromic_only,TRPM3,Q9HCF6,1732,11,0,0,0,,10,0,,,,,,396,374,116,10,,"Neurodevelopmental disorder with hypotonia, dysmorphic facies, and skeletal anomalies, with or without seizures"
+TUBGCP2,syndromic_only,TUBGCP2,Q9BSJ2,902,2,0,0,0,,1,0,,,,,,153,140,82,8,,"Pachygyria, microcephaly, developmental delay, and dysmorphic facies, with or without seizures"
+UGP2,isolated,UGP2,Q16851,508,1,0,0,0,,1,0,,,,,,51,45,21,0,"Developmental and epileptic encephalopathy, 83",
+UNC13A,syndromic_only,UNC13A,Q9UPW8,1703,10,0,0,0,,8,0,,,,,,286,254,170,6,,"Intellectual developmental disorder with seizures and dysmorphic facies; Neurodevelopmental disorder with hypotonia, epilepsy, and absent speech; Neurodevelopmental disorder with speech delay, movement abnormalities, and seizures"
+USP25,isolated,USP25,Q9UHP3,1055,0,0,0,0,,0,0,,,,,,120,120,12,2,"Epilepsy, idiopathic generalized, susceptibility to, 19",
+YEATS2,isolated,YEATS2,Q9ULM3,1422,0,0,0,0,,0,0,,,,,,195,190,51,3,"Epilepsy, familial adult myoclonic, 4",
+YIPF5,syndromic_only,YIPF5,Q969M3,257,5,0,0,0,,5,0,,,,,,34,33,3,0,,"Microcephaly, epilepsy, and diabetes syndrome 2"
