@@ -1,6 +1,6 @@
 # Nonsense-mediated decay escape in neurological genes and reported phenotype of truncating variants
 
-**Taner Karagöl**<sup>1,\*,‡</sup> **& Alper Karagöl**<sup>2,\*,‡</sup>
+**Taner Karagöl**<sup>1,\*,‡</sup> **& Alper Karagöl**<sup>2,\*</sup>
 
 <sup>1</sup> McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States
 
@@ -12,7 +12,7 @@
 
 ## Abstract
 
-Truncating variants are read under a loss-of-function model in which position matters only through escape from nonsense-mediated decay. In single genes, stop position can select which disease follows, and the reading frame can decide pathogenicity. We tested both across the 1,376 genes that ClinVar links to a neurological condition, with panel rules fixed before any result. Phenotypes were taken from each pathogenic truncating variant's submissions, and gnomAD v4 predicted loss-of-function variants of the same gene formed the population control. Every test was repeated without population variants on another transcript, without variants in low-complexity sequence, and without both. In the 110 genes with both a neurological and another reported phenotype, position has no detectable effect on which is reported. No gene separates in any sub-unit or under any escape-window definition or restriction, and every one of the 440 whole-panel gene-window comparisons returns q = 1.000. The reading frame separates pathogenic from population truncations in nine of 667 genes, six of them through population frameshifts in low-complexity sequence; ARID1A, ATM and CIC alone separate under every restriction. The frameshift-to-stop distance separates in five of 436 genes, four with shorter pathogenic tails, and under both restrictions in SYNGAP1 alone. Escape-window membership separates pathogenic from population truncations in eight genes, six under every restriction. In four of these six, the population carries window truncations where few or no pathogenic ones fall. Position therefore bears on whether a late truncation is tolerated and has no detectable effect on which phenotype is reported.
+Truncating variants are read under a loss-of-function model in which position matters only through escape from nonsense-mediated decay. In single genes, stop position can select which disease follows, and the reading frame can decide pathogenicity. We tested both across the 1,376 genes that ClinVar links to a neurological condition, with panel rules fixed before any result. We took phenotypes from each pathogenic truncating variant's submissions, and gnomAD v4 predicted loss-of-function variants of the same gene formed the population control. Every test was repeated without population variants on another transcript, without variants in low-complexity sequence, and without both. In the 110 genes with both a neurological and another reported phenotype, position has no detectable effect on which is reported. No gene separates in any sub-unit or under any escape-window definition or restriction, and all 440 whole-panel gene-window comparisons return q = 1.000. The reading frame separates pathogenic from population truncations in nine of 667 genes, six of them through population frameshifts in low-complexity sequence; ARID1A, ATM and CIC alone separate under every restriction. The frameshift-to-stop distance separates in five of 436 genes, four with shorter pathogenic tails, in SYNGAP1 alone under both restrictions and in none under gnomAD's low-complexity flag. Escape-window membership separates pathogenic from population truncations in eight genes, six under every restriction. In four of these six, the population has window truncations where few or no pathogenic ones fall. Position therefore bears on whether a late truncation is tolerated and has no detectable effect on which phenotype is reported.
 
 ## Keywords
 
@@ -123,7 +123,7 @@ Karagöl T., Karagöl A. *Nonsense-mediated decay escape in neurological genes a
 
 Taner Karagöl, karagolt@mit.edu, ORCID 0009-0005-1011-7661
 
-Alper Karagöl, alper.karagol@gmail.com, ORCID 0009-0001-7864-0732
+Alper Karagöl, akaragol@mit.edu, ORCID 0009-0001-7864-0732
 
 ## License
 
