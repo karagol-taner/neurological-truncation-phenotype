@@ -71,4 +71,5 @@ ARGS=()
 for d in "$W"/run/*/; do n=$(basename "$d"); ARGS+=("$n=$W/run/$n"); done
 python3 "$C/collate.py" "$W/out/results_summary.json" "${ARGS[@]}"
 python3 "$C/assemble_data.py" "$W" "$W/data"
+python3 "$C/effect_sizes.py" "$W/data"
 stamp "all done"

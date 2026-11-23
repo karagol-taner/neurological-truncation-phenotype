@@ -1,0 +1,342 @@
+{
+ "confidence": 0.95,
+ "frame_composition": {
+  "ARID1A": {
+   "ci": [
+    -0.47666861810941225,
+    -0.221191442382958
+   ],
+   "difference": -0.36007326007326007,
+   "pathogenic_frameshift": 47,
+   "pathogenic_n": 105,
+   "population_frameshift": 63,
+   "population_n": 78
+  },
+  "ATM": {
+   "ci": [
+    0.03878265830796515,
+    0.12573957573643643
+   ],
+   "difference": 0.08157402903300137,
+   "pathogenic_frameshift": 1988,
+   "pathogenic_n": 2810,
+   "population_frameshift": 348,
+   "population_n": 556
+  },
+  "CIC": {
+   "ci": [
+    -0.27574135286352885,
+    -0.0613052038754877
+   ],
+   "difference": -0.16201057059648372,
+   "pathogenic_frameshift": 56,
+   "pathogenic_n": 73,
+   "population_frameshift": 118,
+   "population_n": 127
+  },
+  "IQSEC2": {
+   "ci": [
+    -0.374751442943288,
+    -0.14392579295012833
+   ],
+   "difference": -0.2826541274817137,
+   "pathogenic_frameshift": 109,
+   "pathogenic_n": 174,
+   "population_frameshift": 40,
+   "population_n": 44
+  },
+  "IRF2BPL": {
+   "ci": [
+    -0.3104388700002361,
+    -0.10906240559975275
+   ],
+   "difference": -0.20789473684210535,
+   "pathogenic_frameshift": 70,
+   "pathogenic_n": 100,
+   "population_frameshift": 138,
+   "population_n": 152
+  },
+  "KMT2B": {
+   "ci": [
+    -0.26869344851079857,
+    -0.08972382024819178
+   ],
+   "difference": -0.17731421121251634,
+   "pathogenic_frameshift": 88,
+   "pathogenic_n": 118,
+   "population_frameshift": 144,
+   "population_n": 156
+  },
+  "SETD1B": {
+   "ci": [
+    -0.3202198446856132,
+    -0.09329517434714633
+   ],
+   "difference": -0.20488721804511278,
+   "pathogenic_frameshift": 55,
+   "pathogenic_n": 76,
+   "population_frameshift": 91,
+   "population_n": 98
+  },
+  "SRRM2": {
+   "ci": [
+    -0.3574877466203601,
+    -0.08644585762062737
+   ],
+   "difference": -0.22535369413878292,
+   "pathogenic_frameshift": 38,
+   "pathogenic_n": 73,
+   "population_frameshift": 91,
+   "population_n": 122
+  },
+  "ZFHX3": {
+   "ci": [
+    -0.45020134406697904,
+    -0.15690475688373934
+   ],
+   "difference": -0.31076923076923074,
+   "pathogenic_frameshift": 21,
+   "pathogenic_n": 50,
+   "population_frameshift": 133,
+   "population_n": 182
+  }
+ },
+ "frame_recurrent": {
+  "ARID1A": {
+   "ci": [
+    -0.5825832416098585,
+    -0.2853611646461547
+   ],
+   "difference": -0.4754578754578755,
+   "pathogenic_frameshift": 47,
+   "pathogenic_n": 105,
+   "population_frameshift": 24,
+   "population_n": 26
+  },
+  "ATM": {
+   "ci": [
+    0.06115450664253938,
+    0.1996041210749433
+   ],
+   "difference": 0.12904193705952127,
+   "pathogenic_frameshift": 1988,
+   "pathogenic_n": 2810,
+   "population_frameshift": 118,
+   "population_n": 204
+  },
+  "CIC": {
+   "ci": [
+    -0.34167266043904276,
+    -0.12496494054075445
+   ],
+   "difference": -0.23287671232876717,
+   "pathogenic_frameshift": 56,
+   "pathogenic_n": 73,
+   "population_frameshift": 51,
+   "population_n": 51
+  },
+  "IQSEC2": {
+   "ci": [
+    -0.4474439100399952,
+    -0.17695633495721394
+   ],
+   "difference": -0.37356321839080464,
+   "pathogenic_frameshift": 109,
+   "pathogenic_n": 174,
+   "population_frameshift": 17,
+   "population_n": 17
+  },
+  "IRF2BPL": {
+   "ci": [
+    -0.3740213167269886,
+    -0.1479323620621521
+   ],
+   "difference": -0.2761904761904762,
+   "pathogenic_frameshift": 70,
+   "pathogenic_n": 100,
+   "population_frameshift": 41,
+   "population_n": 42
+  },
+  "KMT2B": {
+   "ci": [
+    -0.2788986624963421,
+    -0.07621764934432597
+   ],
+   "difference": -0.1847928436911488,
+   "pathogenic_frameshift": 88,
+   "pathogenic_n": 118,
+   "population_frameshift": 67,
+   "population_n": 72
+  },
+  "SETD1B": {
+   "ci": [
+    -0.3857536539892257,
+    -0.14756939336479738
+   ],
+   "difference": -0.2763157894736842,
+   "pathogenic_frameshift": 55,
+   "pathogenic_n": 76,
+   "population_frameshift": 37,
+   "population_n": 37
+  },
+  "SRRM2": {
+   "ci": [
+    -0.4873631610040875,
+    -0.17901405457560474
+   ],
+   "difference": -0.3544520547945206,
+   "pathogenic_frameshift": 38,
+   "pathogenic_n": 73,
+   "population_frameshift": 35,
+   "population_n": 40
+  },
+  "ZFHX3": {
+   "ci": [
+    -0.5322679952331996,
+    -0.17877990104821473
+   ],
+   "difference": -0.37545454545454543,
+   "pathogenic_frameshift": 21,
+   "pathogenic_n": 50,
+   "population_frameshift": 35,
+   "population_n": 44
+  }
+ },
+ "tail_mwu": {
+  "DDX3X": {
+   "ci": [
+    -39.0,
+    -27.0
+   ],
+   "n_pathogenic": 122,
+   "n_population": 21,
+   "shift": -34.0
+  },
+  "POU4F1": {
+   "ci": [
+    127.0,
+    232.0
+   ],
+   "n_pathogenic": 8,
+   "n_population": 31,
+   "shift": 189.0
+  },
+  "PTCH1": {
+   "ci": [
+    -22.0,
+    -6.0
+   ],
+   "n_pathogenic": 373,
+   "n_population": 35,
+   "shift": -14.0
+  },
+  "SYNGAP1": {
+   "ci": [
+    -33.0,
+    -19.0
+   ],
+   "n_pathogenic": 223,
+   "n_population": 56,
+   "shift": -27.0
+  },
+  "ZFHX3": {
+   "ci": [
+    -35.0,
+    -10.0
+   ],
+   "n_pathogenic": 21,
+   "n_population": 128,
+   "shift": -22.0
+  }
+ },
+ "window_nmd_50nt_rule": {
+  "ATL1": {
+   "ci": [
+    -0.6374961340504036,
+    -0.265790639318876
+   ],
+   "difference": -0.5223880597014925,
+   "pathogenic_in": 0,
+   "pathogenic_n": 13,
+   "population_in": 35,
+   "population_n": 67
+  },
+  "ATP13A2": {
+   "ci": [
+    -0.2214206562444146,
+    -0.06040064448227801
+   ],
+   "difference": -0.15584415584415584,
+   "pathogenic_in": 0,
+   "pathogenic_n": 43,
+   "population_in": 24,
+   "population_n": 154
+  },
+  "CYP7B1": {
+   "ci": [
+    0.06391523294945547,
+    0.29972405893747167
+   ],
+   "difference": 0.16279069767441862,
+   "pathogenic_in": 7,
+   "pathogenic_n": 43,
+   "population_in": 0,
+   "population_n": 65
+  },
+  "KCNQ2": {
+   "ci": [
+    0.15269036500598304,
+    0.46406292320174136
+   ],
+   "difference": 0.3174250832408435,
+   "pathogenic_in": 21,
+   "pathogenic_n": 51,
+   "population_in": 5,
+   "population_n": 53
+  },
+  "REEP1": {
+   "ci": [
+    -0.40193961420768026,
+    -0.10168599176933432
+   ],
+   "difference": -0.25,
+   "pathogenic_in": 0,
+   "pathogenic_n": 34,
+   "population_in": 10,
+   "population_n": 40
+  },
+  "SETBP1": {
+   "ci": [
+    -0.8510588533441893,
+    -0.5038241522515026
+   ],
+   "difference": -0.7278368794326241,
+   "pathogenic_in": 3,
+   "pathogenic_n": 47,
+   "population_in": 19,
+   "population_n": 24
+  },
+  "SPG11": {
+   "ci": [
+    -0.07872129865886004,
+    -0.02131570465009872
+   ],
+   "difference": -0.049898730566253026,
+   "pathogenic_in": 8,
+   "pathogenic_n": 369,
+   "population_in": 34,
+   "population_n": 475
+  },
+  "ZFHX3": {
+   "ci": [
+    -0.6881792196042196,
+    -0.36783711606811165
+   ],
+   "difference": -0.6208791208791209,
+   "pathogenic_in": 0,
+   "pathogenic_n": 12,
+   "population_in": 113,
+   "population_n": 182
+  }
+ }
+}
